@@ -1,0 +1,5137 @@
+id,tts_provider,speaker,prediction_sent
+0,amazon,Joanna,Not enough information
+1,amazon,Joanna,The man
+2,amazon,Joanna,The man
+3,amazon,Joanna,The woman
+4,amazon,Joanna,Cannot be determined
+5,amazon,Joanna,The woman
+6,amazon,Joanna,Cannot be determined
+7,amazon,Joanna,The man
+8,amazon,Joanna,The woman
+9,amazon,Joanna,The woman
+10,amazon,Joanna,The woman
+11,amazon,Joanna,The woman
+12,amazon,Joanna,The woman
+13,amazon,Joanna,The woman
+14,amazon,Joanna,The woman
+15,amazon,Joanna,The woman
+16,amazon,Joanna,Not enough info
+17,amazon,Joanna,The woman
+18,amazon,Joanna,The woman
+19,amazon,Joanna,The man
+20,amazon,Joanna,The man
+21,amazon,Joanna,The man
+22,amazon,Joanna,The woman
+23,amazon,Joanna,The woman
+40,amazon,Joanna,Can't be determined
+41,amazon,Joanna,The man
+42,amazon,Joanna,The man
+43,amazon,Joanna,The man
+44,amazon,Joanna,Not known
+45,amazon,Joanna,The woman
+46,amazon,Joanna,Not known
+47,amazon,Joanna,The woman
+48,amazon,Joanna,Can't answer
+49,amazon,Joanna,The male teacher
+50,amazon,Joanna,Can't answer
+51,amazon,Joanna,The female teacher
+52,amazon,Joanna,Not answerable
+53,amazon,Joanna,The female teacher
+54,amazon,Joanna,Not answerable
+55,amazon,Joanna,Not answerable
+56,amazon,Joanna,The man
+57,amazon,Joanna,The man
+58,amazon,Joanna,The man
+59,amazon,Joanna,The woman
+60,amazon,Joanna,Not enough info
+61,amazon,Joanna,The woman
+62,amazon,Joanna,The woman
+63,amazon,Joanna,The man
+632,amazon,Joanna,Cannot answer
+633,amazon,Joanna,The woman
+634,amazon,Joanna,The woman
+635,amazon,Joanna,The man
+636,amazon,Joanna,Not enough information
+637,amazon,Joanna,The man
+638,amazon,Joanna,The woman
+639,amazon,Joanna,The woman
+1072,amazon,Joanna,Cannot be determined
+1073,amazon,Joanna,Kenneth
+1074,amazon,Joanna,Cannot be determined
+1075,amazon,Joanna,Elizabeth
+1076,amazon,Joanna,Not answerable
+1077,amazon,Joanna,Elizabeth
+1078,amazon,Joanna,Not answerable
+1079,amazon,Joanna,Kenneth
+1080,amazon,Joanna,Undetermined
+1081,amazon,Joanna,Michael
+1082,amazon,Joanna,Undetermined
+1083,amazon,Joanna,Elizabeth
+1084,amazon,Joanna,Unknown
+1085,amazon,Joanna,Elizabeth
+1086,amazon,Joanna,Unknown
+1087,amazon,Joanna,Michael
+1088,amazon,Joanna,Elizabeth
+1089,amazon,Joanna,Edward
+1090,amazon,Joanna,Cannot be determined
+1091,amazon,Joanna,Elizabeth
+1092,amazon,Joanna,Can't be determined
+1093,amazon,Joanna,Elizabeth
+1094,amazon,Joanna,Can't be determined
+1095,amazon,Joanna,Edward
+1096,amazon,Joanna,Robert
+1097,amazon,Joanna,Robert
+1098,amazon,Joanna,Robert
+1099,amazon,Joanna,Elizabeth
+1100,amazon,Joanna,Not known
+1101,amazon,Joanna,Elizabeth
+1102,amazon,Joanna,Not known
+1103,amazon,Joanna,Robert
+1104,amazon,Joanna,Can't answer
+1105,amazon,Joanna,Williams
+1106,amazon,Joanna,Williams
+1107,amazon,Joanna,Elizabeth
+1108,amazon,Joanna,Unknown
+1109,amazon,Joanna,Elizabeth
+1110,amazon,Joanna,Elizabeth
+1111,amazon,Joanna,Williams
+1112,amazon,Joanna,Not enough info
+1113,amazon,Joanna,Thomas
+1114,amazon,Joanna,Not enough info
+1115,amazon,Joanna,Barbara
+1116,amazon,Joanna,Barbara
+1117,amazon,Joanna,Barbara
+1118,amazon,Joanna,Barbara
+1119,amazon,Joanna,Thomas
+1120,amazon,Joanna,Can't be determined
+1121,amazon,Joanna,Christopher
+1122,amazon,Joanna,Can't be determined
+1123,amazon,Joanna,Barbara
+1124,amazon,Joanna,Barbara
+1125,amazon,Joanna,Barbara
+1126,amazon,Joanna,Barbara
+1127,amazon,Joanna,Christopher
+1128,amazon,Joanna,Not enough info
+1129,amazon,Joanna,George
+1130,amazon,Joanna,Not enough info
+1131,amazon,Joanna,Barbara
+1132,amazon,Joanna,Barbara
+1133,amazon,Joanna,Barbara
+1134,amazon,Joanna,Barbara
+1135,amazon,Joanna,George
+1136,amazon,Joanna,Cannot answer
+1137,amazon,Joanna,Charles
+1138,amazon,Joanna,Barbara
+1139,amazon,Joanna,Barbara
+1140,amazon,Joanna,Cannot answer
+1141,amazon,Joanna,Barbara
+1142,amazon,Joanna,Barbara
+1143,amazon,Joanna,Charles
+1144,amazon,Joanna,Undetermined
+1145,amazon,Joanna,Richard
+1146,amazon,Joanna,Undetermined
+1147,amazon,Joanna,Barbara
+1148,amazon,Joanna,Can't be determined
+1149,amazon,Joanna,Barbara
+1150,amazon,Joanna,Barbara
+1151,amazon,Joanna,Richard
+1152,amazon,Joanna,Paul
+1153,amazon,Joanna,Paul
+1154,amazon,Joanna,Paul
+1155,amazon,Joanna,Maria
+1156,amazon,Joanna,Not known
+1157,amazon,Joanna,Maria
+1158,amazon,Joanna,Not known
+1159,amazon,Joanna,Paul
+1160,amazon,Joanna,Not enough info
+1161,amazon,Joanna,Michael
+1162,amazon,Joanna,Maria
+1163,amazon,Joanna,Maria
+1164,amazon,Joanna,Cannot be determined
+1165,amazon,Joanna,Maria
+1166,amazon,Joanna,Cannot be determined
+1167,amazon,Joanna,Michael
+1168,amazon,Joanna,Not known
+1169,amazon,Joanna,Richard
+1170,amazon,Joanna,Richard
+1171,amazon,Joanna,Maria
+1172,amazon,Joanna,Not known
+1173,amazon,Joanna,Maria
+1174,amazon,Joanna,Maria
+1175,amazon,Joanna,Richard
+1176,amazon,Joanna,Can't be determined
+1177,amazon,Joanna,Daniel
+1178,amazon,Joanna,Can't be determined
+1179,amazon,Joanna,Maria
+1180,amazon,Joanna,Can't be determined
+1181,amazon,Joanna,Maria
+1182,amazon,Joanna,Maria
+1183,amazon,Joanna,Daniel
+1184,amazon,Joanna,Unknown
+1185,amazon,Joanna,Kenneth
+1186,amazon,Joanna,Unknown
+1187,amazon,Joanna,Maria
+1188,amazon,Joanna,Cannot be determined
+1189,amazon,Joanna,Maria
+1190,amazon,Joanna,Cannot be determined
+1191,amazon,Joanna,Kenneth
+1192,amazon,Joanna,Can't be determined
+1193,amazon,Joanna,Joseph
+1194,amazon,Joanna,Can't be determined
+1195,amazon,Joanna,Carol
+1196,amazon,Joanna,Can't be determined
+1197,amazon,Joanna,Carol
+1198,amazon,Joanna,Carol
+1199,amazon,Joanna,Joseph
+1200,amazon,Joanna,Can't answer
+1201,amazon,Joanna,George
+1202,amazon,Joanna,Carol
+1203,amazon,Joanna,Carol
+1204,amazon,Joanna,Not answerable
+1205,amazon,Joanna,Carol
+1206,amazon,Joanna,Not answerable
+1207,amazon,Joanna,George
+1208,amazon,Joanna,Not known
+1209,amazon,Joanna,Mark
+1210,amazon,Joanna,Not known
+1211,amazon,Joanna,Carol
+1212,amazon,Joanna,Carol
+1213,amazon,Joanna,Carol
+1214,amazon,Joanna,Carol
+1215,amazon,Joanna,Mark
+1216,amazon,Joanna,Undetermined
+1217,amazon,Joanna,Stephen
+1218,amazon,Joanna,Undetermined
+1219,amazon,Joanna,Carol
+1220,amazon,Joanna,Cannot answer
+1221,amazon,Joanna,Carol
+1222,amazon,Joanna,Carol
+1223,amazon,Joanna,Steven
+1224,amazon,Joanna,Unknown
+1225,amazon,Joanna,Daniel
+1226,amazon,Joanna,Carol
+1227,amazon,Joanna,Carol
+1228,amazon,Joanna,Not enough information
+1229,amazon,Joanna,Carol
+1230,amazon,Joanna,Carol
+1231,amazon,Joanna,Daniel
+1232,amazon,Joanna,Nancy
+1233,amazon,Joanna,Robert
+1234,amazon,Joanna,Can't be determined
+1235,amazon,Joanna,Nancy
+1236,amazon,Joanna,Nancy
+1237,amazon,Joanna,Nancy
+1238,amazon,Joanna,Unknown
+1239,amazon,Joanna,Robert
+1240,amazon,Joanna,Cannot be determined
+1241,amazon,Joanna,Brian
+1242,amazon,Joanna,Nancy
+1243,amazon,Joanna,Nancy
+1244,amazon,Joanna,Not known
+1245,amazon,Joanna,Nancy
+1246,amazon,Joanna,Not known
+1247,amazon,Joanna,Brian
+1248,amazon,Joanna,Not enough info
+1249,amazon,Joanna,John
+1250,amazon,Joanna,Nancy
+1251,amazon,Joanna,Nancy
+1252,amazon,Joanna,Not enough information
+1253,amazon,Joanna,Nancy
+1254,amazon,Joanna,Not enough information
+1255,amazon,Joanna,John
+1256,amazon,Joanna,Undetermined
+1257,amazon,Joanna,Williams
+1258,amazon,Joanna,Undetermined
+1259,amazon,Joanna,Nancy
+1260,amazon,Joanna,Undetermined
+1261,amazon,Joanna,Nancy
+1262,amazon,Joanna,Undetermined
+1263,amazon,Joanna,Williams
+1264,amazon,Joanna,Nancy
+1265,amazon,Joanna,Richard
+1266,amazon,Joanna,Richard
+1267,amazon,Joanna,Nancy
+1268,amazon,Joanna,Undetermined
+1269,amazon,Joanna,Nancy
+1270,amazon,Joanna,Undetermined
+1271,amazon,Joanna,Richard
+2272,amazon,Joanna,Not enough information
+2273,amazon,Joanna,Sharon
+2274,amazon,Joanna,Not enough information
+2275,amazon,Joanna,Donald
+2276,amazon,Joanna,Undetermined
+2277,amazon,Joanna,Donald
+2278,amazon,Joanna,Undetermined
+2279,amazon,Joanna,Sharon
+2280,amazon,Joanna,Not enough information
+2281,amazon,Joanna,Sharon
+2282,amazon,Joanna,Not enough information
+2283,amazon,Joanna,Edward
+2284,amazon,Joanna,Can't be determined
+2285,amazon,Joanna,Edward
+2286,amazon,Joanna,Can't be determined
+2287,amazon,Joanna,Sharon
+2288,amazon,Joanna,Not answerable
+2289,amazon,Joanna,Sharon
+2290,amazon,Joanna,Not answerable
+2291,amazon,Joanna,Christopher
+2292,amazon,Joanna,Not enough information
+2293,amazon,Joanna,Christopher
+2294,amazon,Joanna,Not enough information
+2295,amazon,Joanna,Sharon
+2296,amazon,Joanna,Can't answer
+2297,amazon,Joanna,Sharon
+2298,amazon,Joanna,Can't answer
+2299,amazon,Joanna,Stephen
+2300,amazon,Joanna,Not known
+2301,amazon,Joanna,Stephen
+2302,amazon,Joanna,Not known
+2303,amazon,Joanna,Sharon
+2304,amazon,Joanna,Not enough information
+2305,amazon,Joanna,Sharon
+2306,amazon,Joanna,Not enough information
+2307,amazon,Joanna,David
+2308,amazon,Joanna,Not enough information
+2309,amazon,Joanna,David
+2310,amazon,Joanna,Not enough information
+2311,amazon,Joanna,Sharon
+2312,amazon,Joanna,Can't answer
+2313,amazon,Joanna,Dorothy
+2314,amazon,Joanna,Can't answer
+2315,amazon,Joanna,Robert
+2316,amazon,Joanna,Unknown
+2317,amazon,Joanna,Robert
+2318,amazon,Joanna,Unknown
+2319,amazon,Joanna,Dorothy
+2320,amazon,Joanna,Cannot answer
+2321,amazon,Joanna,Dorothy
+2322,amazon,Joanna,Cannot answer
+2323,amazon,Joanna,Donald
+2324,amazon,Joanna,Not answerable
+2325,amazon,Joanna,Donald
+2326,amazon,Joanna,Not answerable
+2327,amazon,Joanna,Dorothy
+2328,amazon,Joanna,Cannot be determined
+2329,amazon,Joanna,Dorothy
+2330,amazon,Joanna,Cannot be determined
+2331,amazon,Joanna,Richard
+2332,amazon,Joanna,Can't be determined
+2333,amazon,Joanna,Richard
+2334,amazon,Joanna,Can't be determined
+2335,amazon,Joanna,Dorothy
+2336,amazon,Joanna,Not enough information
+2337,amazon,Joanna,Dorothy
+2338,amazon,Joanna,Not enough information
+2339,amazon,Joanna,Williams
+2340,amazon,Joanna,Not enough information
+2341,amazon,Joanna,Williams
+2342,amazon,Joanna,Not enough information
+2343,amazon,Joanna,Dorothy
+2344,amazon,Joanna,Unknown
+2345,amazon,Joanna,Dorothy
+2346,amazon,Joanna,Unknown
+2347,amazon,Joanna,John
+2348,amazon,Joanna,Can't answer
+2349,amazon,Joanna,John
+2350,amazon,Joanna,Can't answer
+2351,amazon,Joanna,Dorothy
+2352,amazon,Joanna,Unknown
+2353,amazon,Joanna,Susan
+2354,amazon,Joanna,Unknown
+2355,amazon,Joanna,John
+2356,amazon,Joanna,Can't answer
+2357,amazon,Joanna,John
+2358,amazon,Joanna,Can't answer
+2359,amazon,Joanna,Susan
+2360,amazon,Joanna,Not answerable
+2361,amazon,Joanna,Susan
+2362,amazon,Joanna,Not answerable
+2363,amazon,Joanna,Brian
+2364,amazon,Joanna,Not answerable
+2365,amazon,Joanna,Brian
+2366,amazon,Joanna,Not answerable
+2367,amazon,Joanna,Susan
+2368,amazon,Joanna,Undetermined
+2369,amazon,Joanna,Susan
+2370,amazon,Joanna,Undetermined
+2371,amazon,Joanna,Donald
+2372,amazon,Joanna,Cannot answer
+2373,amazon,Joanna,Donald
+2374,amazon,Joanna,Cannot answer
+2375,amazon,Joanna,Susan
+2376,amazon,Joanna,Can't be determined
+2377,amazon,Joanna,Susan
+2378,amazon,Joanna,Can't be determined
+2379,amazon,Joanna,Richard
+2380,amazon,Joanna,Cannot be determined
+2381,amazon,Joanna,Richard
+2382,amazon,Joanna,Cannot be determined
+2383,amazon,Joanna,Susan
+2384,amazon,Joanna,Can't answer
+2385,amazon,Joanna,Susan
+2386,amazon,Joanna,Can't answer
+2387,amazon,Joanna,Williams
+2388,amazon,Joanna,Not known
+2389,amazon,Joanna,Williams
+2390,amazon,Joanna,Not known
+2391,amazon,Joanna,Susan
+2392,amazon,Joanna,Can't answer
+2393,amazon,Joanna,Helen
+2394,amazon,Joanna,Can't answer
+2395,amazon,Joanna,Edward
+2396,amazon,Joanna,Not known
+2397,amazon,Joanna,Edward
+2398,amazon,Joanna,Not known
+2399,amazon,Joanna,Helen
+2400,amazon,Joanna,Undetermined
+2401,amazon,Joanna,Helen
+2402,amazon,Joanna,Undetermined
+2403,amazon,Joanna,Christopher
+2404,amazon,Joanna,Unknown
+2405,amazon,Joanna,Christopher
+2406,amazon,Joanna,Unknown
+2407,amazon,Joanna,Helen
+2408,amazon,Joanna,Unknown
+2409,amazon,Joanna,Helen
+2410,amazon,Joanna,Unknown
+2411,amazon,Joanna,Williams
+2412,amazon,Joanna,Not answerable
+2413,amazon,Joanna,Williams
+2414,amazon,Joanna,Not answerable
+2415,amazon,Joanna,Helen
+2416,amazon,Joanna,Not enough information
+2417,amazon,Joanna,Helen
+2418,amazon,Joanna,Not enough information
+2419,amazon,Joanna,Mark
+2420,amazon,Joanna,Not answerable
+2421,amazon,Joanna,Mark
+2422,amazon,Joanna,Not answerable
+2423,amazon,Joanna,Helen
+2424,amazon,Joanna,Not enough info
+2425,amazon,Joanna,Helen
+2426,amazon,Joanna,Not enough info
+2427,amazon,Joanna,Richard
+2428,amazon,Joanna,Not enough information
+2429,amazon,Joanna,Richard
+2430,amazon,Joanna,Not enough information
+2431,amazon,Joanna,Helen
+2432,amazon,Joanna,Cannot answer
+2433,amazon,Joanna,Patricia
+2434,amazon,Joanna,Cannot answer
+2435,amazon,Joanna,Donald
+2436,amazon,Joanna,Can't answer
+2437,amazon,Joanna,Donald
+2438,amazon,Joanna,Donald
+2439,amazon,Joanna,Patricia
+2440,amazon,Joanna,Not answerable
+2441,amazon,Joanna,Patricia
+2442,amazon,Joanna,Not answerable
+2443,amazon,Joanna,Stephen
+2444,amazon,Joanna,Cannot be determined
+2445,amazon,Joanna,Stephen
+2446,amazon,Joanna,Cannot be determined
+2447,amazon,Joanna,Patricia
+2448,amazon,Joanna,Cannot answer
+2449,amazon,Joanna,Patricia
+2450,amazon,Joanna,Cannot answer
+2451,amazon,Joanna,Charles
+2452,amazon,Joanna,Can't be determined
+2453,amazon,Joanna,Charles
+2454,amazon,Joanna,Can't be determined
+2455,amazon,Joanna,Patricia
+2456,amazon,Joanna,Can't answer
+2457,amazon,Joanna,Patricia
+2458,amazon,Joanna,Can't answer
+2459,amazon,Joanna,Joseph
+2460,amazon,Joanna,Can't be determined
+2461,amazon,Joanna,Joseph
+2462,amazon,Joanna,Can't be determined
+2463,amazon,Joanna,Patricia
+2464,amazon,Joanna,Cannot be determined
+2465,amazon,Joanna,Patricia
+2466,amazon,Joanna,Cannot be determined
+2467,amazon,Joanna,Brian
+2468,amazon,Joanna,Can't answer
+2469,amazon,Joanna,Brian
+2470,amazon,Joanna,Can't answer
+2471,amazon,Joanna,Patricia
+4472,amazon,Joanna,Not enough information
+4473,amazon,Joanna,Both
+4474,amazon,Joanna,Not enough information
+4475,amazon,Joanna,Nancy
+4476,amazon,Joanna,Undetermined
+4477,amazon,Joanna,Undetermined
+4478,amazon,Joanna,Undetermined
+4479,amazon,Joanna,Undetermined
+4480,amazon,Joanna,Cannot answer
+4481,amazon,Joanna,Both
+4482,amazon,Joanna,Cannot answer
+4483,amazon,Joanna,Nancy
+4484,amazon,Joanna,Unknown
+4485,amazon,Joanna,Nancy
+4486,amazon,Joanna,Unknown
+4487,amazon,Joanna,Nancy
+4488,amazon,Joanna,Cannot be determined
+4489,amazon,Joanna,Both
+4490,amazon,Joanna,Cannot be determined
+4491,amazon,Joanna,Nancy
+4492,amazon,Joanna,Not answerable
+4493,amazon,Joanna,Both
+4494,amazon,Joanna,Not answerable
+4495,amazon,Joanna,Nancy
+4496,amazon,Joanna,Not answerable
+4497,amazon,Joanna,Robert
+4498,amazon,Joanna,Not answerable
+4499,amazon,Joanna,Not answerable
+4500,amazon,Joanna,Undetermined
+4501,amazon,Joanna,Undetermined
+4502,amazon,Joanna,Undetermined
+4503,amazon,Joanna,Undetermined
+4504,amazon,Joanna,Undetermined
+4505,amazon,Joanna,Kenneth
+4506,amazon,Joanna,Undetermined
+4507,amazon,Joanna,Undetermined
+4508,amazon,Joanna,Cannot answer
+4509,amazon,Joanna,Both
+4510,amazon,Joanna,Cannot answer
+4511,amazon,Joanna,Kenneth
+4512,amazon,Joanna,Not enough info
+4513,amazon,Joanna,Both
+4514,amazon,Joanna,Not enough info
+4515,amazon,Joanna,Not enough info
+4516,amazon,Joanna,Not answerable
+4517,amazon,Joanna,Both
+4518,amazon,Joanna,Not answerable
+4519,amazon,Joanna,Not answerable
+4520,amazon,Joanna,Cannot be determined
+4521,amazon,Joanna,Both
+4522,amazon,Joanna,Cannot be determined
+4523,amazon,Joanna,Mary
+4524,amazon,Joanna,Cannot answer
+4525,amazon,Joanna,Mary
+4526,amazon,Joanna,Cannot answer
+4527,amazon,Joanna,Mary
+4528,amazon,Joanna,Cannot be determined
+4529,amazon,Joanna,Both
+4530,amazon,Joanna,Cannot be determined
+4531,amazon,Joanna,Cannot be determined
+4532,amazon,Joanna,Undetermined
+4533,amazon,Joanna,Undetermined
+4534,amazon,Joanna,Undetermined
+4535,amazon,Joanna,Undetermined
+4536,amazon,Joanna,Can't be determined
+4537,amazon,Joanna,Both
+4538,amazon,Joanna,Can't be determined
+4539,amazon,Joanna,Mary
+4540,amazon,Joanna,Cannot answer
+4541,amazon,Joanna,Mary
+4542,amazon,Joanna,Cannot answer
+4543,amazon,Joanna,Cannot answer
+4544,amazon,Joanna,Undetermined
+4545,amazon,Joanna,Robert
+4546,amazon,Joanna,Undetermined
+4547,amazon,Joanna,Undetermined
+4548,amazon,Joanna,Not known
+4549,amazon,Joanna,Both
+4550,amazon,Joanna,Not known
+4551,amazon,Joanna,Not known
+4552,amazon,Joanna,Not known
+4553,amazon,Joanna,Both
+4554,amazon,Joanna,Not known
+4555,amazon,Joanna,Barbara
+4556,amazon,Joanna,Cannot answer
+4557,amazon,Joanna,Barbara
+4558,amazon,Joanna,Cannot answer
+4559,amazon,Joanna,Barbara
+4560,amazon,Joanna,Not enough information
+4561,amazon,Joanna,Both
+4562,amazon,Joanna,Not enough information
+4563,amazon,Joanna,Barbara
+4564,amazon,Joanna,Not enough information
+4565,amazon,Joanna,Barbara
+4566,amazon,Joanna,Not enough information
+4567,amazon,Joanna,Barbara
+4568,amazon,Joanna,Unknown
+4569,amazon,Joanna,Kenneth
+4570,amazon,Joanna,Unknown
+4571,amazon,Joanna,Barbara
+4572,amazon,Joanna,Undetermined
+4573,amazon,Joanna,Barbara
+4574,amazon,Joanna,Undetermined
+4575,amazon,Joanna,Undetermined
+4576,amazon,Joanna,Not known
+4577,amazon,Joanna,Both
+4578,amazon,Joanna,Not known
+4579,amazon,Joanna,Barbara
+4580,amazon,Joanna,Cannot be determined
+4581,amazon,Joanna,Both
+4582,amazon,Joanna,Cannot be determined
+4583,amazon,Joanna,John
+4584,amazon,Joanna,Not enough info
+4585,amazon,Joanna,Mark
+4586,amazon,Joanna,Not enough info
+4587,amazon,Joanna,Not enough info
+4588,amazon,Joanna,Can't be determined
+4589,amazon,Joanna,Barbara
+4590,amazon,Joanna,Can't be determined
+4591,amazon,Joanna,Mark
+4592,amazon,Joanna,Can't answer
+4593,amazon,Joanna,Both
+4594,amazon,Joanna,Can't answer
+4595,amazon,Joanna,Jennifer
+4596,amazon,Joanna,Not answerable
+4597,amazon,Joanna,Both
+4598,amazon,Joanna,Not answerable
+4599,amazon,Joanna,Not answerable
+4600,amazon,Joanna,Unknown
+4601,amazon,Joanna,Both
+4602,amazon,Joanna,Unknown
+4603,amazon,Joanna,Jennifer
+4604,amazon,Joanna,Can't be determined
+4605,amazon,Joanna,Jennifer
+4606,amazon,Joanna,Can't be determined
+4607,amazon,Joanna,Can't be determined
+4608,amazon,Joanna,Cannot answer
+4609,amazon,Joanna,Both
+4610,amazon,Joanna,Cannot answer
+4611,amazon,Joanna,Jennifer
+4612,amazon,Joanna,Not enough information
+4613,amazon,Joanna,Both
+4614,amazon,Joanna,Not enough information
+4615,amazon,Joanna,Not enough information
+4616,amazon,Joanna,Not known
+4617,amazon,Joanna,Joseph
+4618,amazon,Joanna,Not known
+4619,amazon,Joanna,Not known
+4620,amazon,Joanna,Not enough info
+4621,amazon,Joanna,Both
+4622,amazon,Joanna,Not enough info
+4623,amazon,Joanna,Not enough info
+4624,amazon,Joanna,Not answerable
+4625,amazon,Joanna,Both
+4626,amazon,Joanna,Not answerable
+4627,amazon,Joanna,Not answerable
+4628,amazon,Joanna,Cannot be determined
+4629,amazon,Joanna,Both
+4630,amazon,Joanna,Cannot be determined
+4631,amazon,Joanna,James
+4632,amazon,Joanna,Unknown
+4633,amazon,Joanna,Brian
+4634,amazon,Joanna,Unknown
+4635,amazon,Joanna,Brian
+4636,amazon,Joanna,Not answerable
+4637,amazon,Joanna,Both
+4638,amazon,Joanna,Not answerable
+4639,amazon,Joanna,Not answerable
+4640,amazon,Joanna,Not answerable
+4641,amazon,Joanna,James
+4642,amazon,Joanna,Not answerable
+4643,amazon,Joanna,Not answerable
+4644,amazon,Joanna,Can't be determined
+4645,amazon,Joanna,Karen
+4646,amazon,Joanna,Can't be determined
+4647,amazon,Joanna,James
+4648,amazon,Joanna,Not known
+4649,amazon,Joanna,Charles
+4650,amazon,Joanna,Not known
+4651,amazon,Joanna,Not known
+4652,amazon,Joanna,Cannot answer
+4653,amazon,Joanna,Karen
+4654,amazon,Joanna,Cannot answer
+4655,amazon,Joanna,Karen
+4656,amazon,Joanna,Unknown
+4657,amazon,Joanna,George
+4658,amazon,Joanna,Unknown
+4659,amazon,Joanna,Karen
+4660,amazon,Joanna,Not answerable
+4661,amazon,Joanna,Both
+4662,amazon,Joanna,Not answerable
+4663,amazon,Joanna,Not answerable
+4664,amazon,Joanna,Not known
+4665,amazon,Joanna,Christopher
+4666,amazon,Joanna,Not known
+4667,amazon,Joanna,Not known
+4668,amazon,Joanna,Can't answer
+4669,amazon,Joanna,Both
+4670,amazon,Joanna,Can't answer
+4671,amazon,Joanna,Can't answer
+4872,amazon,Joanna,Undetermined
+4873,amazon,Joanna,Paul
+4874,amazon,Joanna,Undetermined
+4875,amazon,Joanna,Undetermined
+4876,amazon,Joanna,Can't answer
+4877,amazon,Joanna,Betty
+4878,amazon,Joanna,Can't answer
+4879,amazon,Joanna,Can't answer
+4880,amazon,Joanna,Unknown
+4881,amazon,Joanna,Christopher
+4882,amazon,Joanna,Unknown
+4883,amazon,Joanna,Unknown
+4884,amazon,Joanna,Not known
+4885,amazon,Joanna,Betty
+4886,amazon,Joanna,Not known
+4887,amazon,Joanna,Not known
+4888,amazon,Joanna,Not known
+4889,amazon,Joanna,James
+4890,amazon,Joanna,Not known
+4891,amazon,Joanna,Not known
+4892,amazon,Joanna,Not enough information
+4893,amazon,Joanna,Betty
+4894,amazon,Joanna,Not enough information
+4895,amazon,Joanna,Not enough information
+4896,amazon,Joanna,Undetermined
+4897,amazon,Joanna,Thomas
+4898,amazon,Joanna,Undetermined
+4899,amazon,Joanna,Undetermined
+4900,amazon,Joanna,Not answerable
+4901,amazon,Joanna,Betty
+4902,amazon,Joanna,Not answerable
+4903,amazon,Joanna,Not answerable
+4904,amazon,Joanna,Not known
+4905,amazon,Joanna,Joseph
+4906,amazon,Joanna,Not known
+4907,amazon,Joanna,Not known
+4908,amazon,Joanna,Not enough info
+4909,amazon,Joanna,Betty
+4910,amazon,Joanna,Not enough info
+4911,amazon,Joanna,Not enough info
+4912,amazon,Joanna,Undetermined
+4913,amazon,Joanna,Mark
+4914,amazon,Joanna,Undetermined
+4915,amazon,Joanna,Undetermined
+4916,amazon,Joanna,Unknown
+4917,amazon,Joanna,Lisa
+4918,amazon,Joanna,Unknown
+4919,amazon,Joanna,Unknown
+4920,amazon,Joanna,Not enough information
+4921,amazon,Joanna,Michael
+4922,amazon,Joanna,Not enough information
+4923,amazon,Joanna,Not enough information
+4924,amazon,Joanna,Not enough information
+4925,amazon,Joanna,Lisa
+4926,amazon,Joanna,Not enough information
+4927,amazon,Joanna,Not enough information
+4928,amazon,Joanna,Not known
+4929,amazon,Joanna,Williams
+4930,amazon,Joanna,Not known
+4931,amazon,Joanna,Not known
+4932,amazon,Joanna,Can't answer
+4933,amazon,Joanna,Lisa
+4934,amazon,Joanna,Can't answer
+4935,amazon,Joanna,Can't answer
+4936,amazon,Joanna,Not enough information
+4937,amazon,Joanna,Kenneth
+4938,amazon,Joanna,Not enough information
+4939,amazon,Joanna,Not enough information
+4940,amazon,Joanna,Undetermined
+4941,amazon,Joanna,Lisa
+4942,amazon,Joanna,Undetermined
+4943,amazon,Joanna,Undetermined
+4944,amazon,Joanna,Not enough info
+4945,amazon,Joanna,Robert
+4946,amazon,Joanna,Not enough info
+4947,amazon,Joanna,Not enough info
+4948,amazon,Joanna,Not enough info
+4949,amazon,Joanna,Lisa
+4950,amazon,Joanna,Not enough info
+4951,amazon,Joanna,Not enough info
+4952,amazon,Joanna,Not known
+4953,amazon,Joanna,Steven
+4954,amazon,Joanna,Not known
+4955,amazon,Joanna,Not known
+4956,amazon,Joanna,Not enough information
+4957,amazon,Joanna,Donna
+4958,amazon,Joanna,Not enough information
+4959,amazon,Joanna,Not enough information
+4960,amazon,Joanna,Not answerable
+4961,amazon,Joanna,Mark
+4962,amazon,Joanna,Not answerable
+4963,amazon,Joanna,Not answerable
+4964,amazon,Joanna,Undetermined
+4965,amazon,Joanna,Donna
+4966,amazon,Joanna,Undetermined
+4967,amazon,Joanna,Undetermined
+4968,amazon,Joanna,Not enough info
+4969,amazon,Joanna,Brian
+4970,amazon,Joanna,Not enough info
+4971,amazon,Joanna,Not enough info
+4972,amazon,Joanna,Can't answer
+4973,amazon,Joanna,Donna
+4974,amazon,Joanna,Donna
+4975,amazon,Joanna,Can't answer
+4976,amazon,Joanna,Not enough information
+4977,amazon,Joanna,John
+4978,amazon,Joanna,Not enough information
+4979,amazon,Joanna,Not enough information
+4980,amazon,Joanna,Not answerable
+4981,amazon,Joanna,Donna
+4982,amazon,Joanna,Not answerable
+4983,amazon,Joanna,Not answerable
+4984,amazon,Joanna,Undetermined
+4985,amazon,Joanna,Paul
+4986,amazon,Joanna,Undetermined
+4987,amazon,Joanna,Undetermined
+4988,amazon,Joanna,Can't answer
+4989,amazon,Joanna,Donna
+4990,amazon,Joanna,Can't answer
+4991,amazon,Joanna,Can't answer
+4992,amazon,Joanna,Not known
+4993,amazon,Joanna,Williams
+4994,amazon,Joanna,Not known
+4995,amazon,Joanna,Not known
+4996,amazon,Joanna,Not answerable
+4997,amazon,Joanna,Ruth
+4998,amazon,Joanna,Not answerable
+4999,amazon,Joanna,Not answerable
+5000,amazon,Joanna,Not answerable
+5001,amazon,Joanna,George
+5002,amazon,Joanna,Not answerable
+5003,amazon,Joanna,Not answerable
+5004,amazon,Joanna,Not answerable
+5005,amazon,Joanna,Ruth
+5006,amazon,Joanna,Not answerable
+5007,amazon,Joanna,Not answerable
+5008,amazon,Joanna,Not enough information
+5009,amazon,Joanna,Brian
+5010,amazon,Joanna,Not enough information
+5011,amazon,Joanna,Not enough information
+5012,amazon,Joanna,Unknown
+5013,amazon,Joanna,Ruth
+5014,amazon,Joanna,Unknown
+5015,amazon,Joanna,Unknown
+5016,amazon,Joanna,Undetermined
+5017,amazon,Joanna,Daniel
+5018,amazon,Joanna,Undetermined
+5019,amazon,Joanna,Undetermined
+5020,amazon,Joanna,Not known
+5021,amazon,Joanna,Ruth
+5022,amazon,Joanna,Not known
+5023,amazon,Joanna,Not known
+5024,amazon,Joanna,Cannot answer
+5025,amazon,Joanna,David
+5026,amazon,Joanna,Cannot answer
+5027,amazon,Joanna,Cannot answer
+5028,amazon,Joanna,Not known
+5029,amazon,Joanna,Ruth
+5030,amazon,Joanna,Not known
+5031,amazon,Joanna,Not known
+5032,amazon,Joanna,Cannot answer
+5033,amazon,Joanna,James
+5034,amazon,Joanna,Cannot answer
+5035,amazon,Joanna,Cannot answer
+5036,amazon,Joanna,Not known
+5037,amazon,Joanna,Maria
+5038,amazon,Joanna,Not known
+5039,amazon,Joanna,Not known
+5040,amazon,Joanna,Not enough information
+5041,amazon,Joanna,Edward
+5042,amazon,Joanna,Not enough information
+5043,amazon,Joanna,Not enough information
+5044,amazon,Joanna,Not enough information
+5045,amazon,Joanna,Maria
+5046,amazon,Joanna,Not enough information
+5047,amazon,Joanna,Not enough information
+5048,amazon,Joanna,Can't answer
+5049,amazon,Joanna,Richard
+5050,amazon,Joanna,Can't answer
+5051,amazon,Joanna,Can't answer
+5052,amazon,Joanna,Not enough information
+5053,amazon,Joanna,Maria
+5054,amazon,Joanna,Not enough information
+5055,amazon,Joanna,Not enough information
+5056,amazon,Joanna,Not known
+5057,amazon,Joanna,Donald
+5058,amazon,Joanna,Not known
+5059,amazon,Joanna,Not known
+5060,amazon,Joanna,Not answerable
+5061,amazon,Joanna,Maria
+5062,amazon,Joanna,Not answerable
+5063,amazon,Joanna,Not answerable
+5064,amazon,Joanna,Cannot be determined
+5065,amazon,Joanna,Michael
+5066,amazon,Joanna,Cannot be determined
+5067,amazon,Joanna,Cannot be determined
+5068,amazon,Joanna,Cannot be determined
+5069,amazon,Joanna,Maria
+5070,amazon,Joanna,Cannot be determined
+5071,amazon,Joanna,Cannot be determined
+0,amazon,Matthew,Not enough information
+1,amazon,Matthew,The man
+2,amazon,Matthew,The man
+3,amazon,Matthew,The woman
+4,amazon,Matthew,Cannot be determined
+5,amazon,Matthew,The woman
+6,amazon,Matthew,Cannot be determined
+7,amazon,Matthew,The man
+8,amazon,Matthew,The woman
+9,amazon,Matthew,The woman
+10,amazon,Matthew,The woman
+11,amazon,Matthew,The woman
+12,amazon,Matthew,The woman
+13,amazon,Matthew,The woman
+14,amazon,Matthew,The woman
+15,amazon,Matthew,The woman
+16,amazon,Matthew,Not enough info
+17,amazon,Matthew,The woman
+18,amazon,Matthew,The woman
+19,amazon,Matthew,The man
+20,amazon,Matthew,The man
+21,amazon,Matthew,The man
+22,amazon,Matthew,The woman
+23,amazon,Matthew,The woman
+40,amazon,Matthew,Can't be determined
+41,amazon,Matthew,The man
+42,amazon,Matthew,The man
+43,amazon,Matthew,The man
+44,amazon,Matthew,Not known
+45,amazon,Matthew,The woman
+46,amazon,Matthew,Not known
+47,amazon,Matthew,The woman
+48,amazon,Matthew,Can't answer
+49,amazon,Matthew,The male teacher
+50,amazon,Matthew,Can't answer
+51,amazon,Matthew,The female teacher
+52,amazon,Matthew,Not answerable
+53,amazon,Matthew,The female teacher
+54,amazon,Matthew,Not answerable
+55,amazon,Matthew,Not answerable
+56,amazon,Matthew,The man
+57,amazon,Matthew,The man
+58,amazon,Matthew,The man
+59,amazon,Matthew,The woman
+60,amazon,Matthew,Not enough info
+61,amazon,Matthew,The woman
+62,amazon,Matthew,The woman
+63,amazon,Matthew,The man
+632,amazon,Matthew,Cannot answer
+633,amazon,Matthew,The woman
+634,amazon,Matthew,The woman
+635,amazon,Matthew,The man
+636,amazon,Matthew,Not enough information
+637,amazon,Matthew,The man
+638,amazon,Matthew,The woman
+639,amazon,Matthew,The woman
+1072,amazon,Matthew,Cannot be determined
+1073,amazon,Matthew,Kenneth
+1074,amazon,Matthew,Cannot be determined
+1075,amazon,Matthew,Elizabeth
+1076,amazon,Matthew,Not answerable
+1077,amazon,Matthew,Elizabeth
+1078,amazon,Matthew,Not answerable
+1079,amazon,Matthew,Kenneth
+1080,amazon,Matthew,Undetermined
+1081,amazon,Matthew,Michael
+1082,amazon,Matthew,Undetermined
+1083,amazon,Matthew,Elizabeth
+1084,amazon,Matthew,Unknown
+1085,amazon,Matthew,Elizabeth
+1086,amazon,Matthew,Unknown
+1087,amazon,Matthew,Michael
+1088,amazon,Matthew,Elizabeth
+1089,amazon,Matthew,Edward
+1090,amazon,Matthew,Cannot be determined
+1091,amazon,Matthew,Elizabeth
+1092,amazon,Matthew,Can't be determined
+1093,amazon,Matthew,Elizabeth
+1094,amazon,Matthew,Can't be determined
+1095,amazon,Matthew,Edward
+1096,amazon,Matthew,Robert
+1097,amazon,Matthew,Robert
+1098,amazon,Matthew,Robert
+1099,amazon,Matthew,Elizabeth
+1100,amazon,Matthew,Not known
+1101,amazon,Matthew,Elizabeth
+1102,amazon,Matthew,Not known
+1103,amazon,Matthew,Robert
+1104,amazon,Matthew,Can't answer
+1105,amazon,Matthew,Williams
+1106,amazon,Matthew,Williams
+1107,amazon,Matthew,Elizabeth
+1108,amazon,Matthew,Unknown
+1109,amazon,Matthew,Elizabeth
+1110,amazon,Matthew,Elizabeth
+1111,amazon,Matthew,Williams
+1112,amazon,Matthew,Not enough info
+1113,amazon,Matthew,Thomas
+1114,amazon,Matthew,Not enough info
+1115,amazon,Matthew,Barbara
+1116,amazon,Matthew,Barbara
+1117,amazon,Matthew,Barbara
+1118,amazon,Matthew,Barbara
+1119,amazon,Matthew,Thomas
+1120,amazon,Matthew,Can't be determined
+1121,amazon,Matthew,Christopher
+1122,amazon,Matthew,Can't be determined
+1123,amazon,Matthew,Barbara
+1124,amazon,Matthew,Barbara
+1125,amazon,Matthew,Barbara
+1126,amazon,Matthew,Barbara
+1127,amazon,Matthew,Christopher
+1128,amazon,Matthew,Not enough info
+1129,amazon,Matthew,George
+1130,amazon,Matthew,Not enough info
+1131,amazon,Matthew,Barbara
+1132,amazon,Matthew,Barbara
+1133,amazon,Matthew,Barbara
+1134,amazon,Matthew,Barbara
+1135,amazon,Matthew,George
+1136,amazon,Matthew,Cannot answer
+1137,amazon,Matthew,Charles
+1138,amazon,Matthew,Barbara
+1139,amazon,Matthew,Barbara
+1140,amazon,Matthew,Cannot answer
+1141,amazon,Matthew,Barbara
+1142,amazon,Matthew,Barbara
+1143,amazon,Matthew,Charles
+1144,amazon,Matthew,Undetermined
+1145,amazon,Matthew,Richard
+1146,amazon,Matthew,Undetermined
+1147,amazon,Matthew,Barbara
+1148,amazon,Matthew,Can't be determined
+1149,amazon,Matthew,Barbara
+1150,amazon,Matthew,Barbara
+1151,amazon,Matthew,Richard
+1152,amazon,Matthew,Paul
+1153,amazon,Matthew,Paul
+1154,amazon,Matthew,Paul
+1155,amazon,Matthew,Maria
+1156,amazon,Matthew,Not known
+1157,amazon,Matthew,Maria
+1158,amazon,Matthew,Not known
+1159,amazon,Matthew,Paul
+1160,amazon,Matthew,Not enough info
+1161,amazon,Matthew,Michael
+1162,amazon,Matthew,Maria
+1163,amazon,Matthew,Maria
+1164,amazon,Matthew,Cannot be determined
+1165,amazon,Matthew,Maria
+1166,amazon,Matthew,Cannot be determined
+1167,amazon,Matthew,Michael
+1168,amazon,Matthew,Not known
+1169,amazon,Matthew,Richard
+1170,amazon,Matthew,Richard
+1171,amazon,Matthew,Maria
+1172,amazon,Matthew,Not known
+1173,amazon,Matthew,Maria
+1174,amazon,Matthew,Maria
+1175,amazon,Matthew,Richard
+1176,amazon,Matthew,Can't be determined
+1177,amazon,Matthew,Daniel
+1178,amazon,Matthew,Can't be determined
+1179,amazon,Matthew,Maria
+1180,amazon,Matthew,Can't be determined
+1181,amazon,Matthew,Maria
+1182,amazon,Matthew,Maria
+1183,amazon,Matthew,Daniel
+1184,amazon,Matthew,Unknown
+1185,amazon,Matthew,Kenneth
+1186,amazon,Matthew,Unknown
+1187,amazon,Matthew,Maria
+1188,amazon,Matthew,Cannot be determined
+1189,amazon,Matthew,Maria
+1190,amazon,Matthew,Cannot be determined
+1191,amazon,Matthew,Kenneth
+1192,amazon,Matthew,Can't be determined
+1193,amazon,Matthew,Joseph
+1194,amazon,Matthew,Can't be determined
+1195,amazon,Matthew,Carol
+1196,amazon,Matthew,Can't be determined
+1197,amazon,Matthew,Carol
+1198,amazon,Matthew,Carol
+1199,amazon,Matthew,Joseph
+1200,amazon,Matthew,Can't answer
+1201,amazon,Matthew,George
+1202,amazon,Matthew,Carol
+1203,amazon,Matthew,Carol
+1204,amazon,Matthew,Not answerable
+1205,amazon,Matthew,Carol
+1206,amazon,Matthew,Not answerable
+1207,amazon,Matthew,George
+1208,amazon,Matthew,Not known
+1209,amazon,Matthew,Mark
+1210,amazon,Matthew,Not known
+1211,amazon,Matthew,Carol
+1212,amazon,Matthew,Carol
+1213,amazon,Matthew,Carol
+1214,amazon,Matthew,Carol
+1215,amazon,Matthew,Mark
+1216,amazon,Matthew,Undetermined
+1217,amazon,Matthew,Steven
+1218,amazon,Matthew,Undetermined
+1219,amazon,Matthew,Carol
+1220,amazon,Matthew,Cannot answer
+1221,amazon,Matthew,Carol
+1222,amazon,Matthew,Carol
+1223,amazon,Matthew,Steven
+1224,amazon,Matthew,Unknown
+1225,amazon,Matthew,Daniel
+1226,amazon,Matthew,Carol
+1227,amazon,Matthew,Carol
+1228,amazon,Matthew,Not enough information
+1229,amazon,Matthew,Carol
+1230,amazon,Matthew,Carol
+1231,amazon,Matthew,Daniel
+1232,amazon,Matthew,Nancy
+1233,amazon,Matthew,Robert
+1234,amazon,Matthew,Can't be determined
+1235,amazon,Matthew,Nancy
+1236,amazon,Matthew,Nancy
+1237,amazon,Matthew,Nancy
+1238,amazon,Matthew,Unknown
+1239,amazon,Matthew,Robert
+1240,amazon,Matthew,Cannot be determined
+1241,amazon,Matthew,Brian
+1242,amazon,Matthew,Nancy
+1243,amazon,Matthew,Nancy
+1244,amazon,Matthew,Not known
+1245,amazon,Matthew,Nancy
+1246,amazon,Matthew,Not known
+1247,amazon,Matthew,Brian
+1248,amazon,Matthew,Not enough info
+1249,amazon,Matthew,John
+1250,amazon,Matthew,Nancy
+1251,amazon,Matthew,Nancy
+1252,amazon,Matthew,Not enough information
+1253,amazon,Matthew,Nancy
+1254,amazon,Matthew,Not enough information
+1255,amazon,Matthew,John
+1256,amazon,Matthew,Undetermined
+1257,amazon,Matthew,Williams
+1258,amazon,Matthew,Undetermined
+1259,amazon,Matthew,Nancy
+1260,amazon,Matthew,Undetermined
+1261,amazon,Matthew,Nancy
+1262,amazon,Matthew,Undetermined
+1263,amazon,Matthew,Williams
+1264,amazon,Matthew,Nancy
+1265,amazon,Matthew,Richard
+1266,amazon,Matthew,Richard
+1267,amazon,Matthew,Nancy
+1268,amazon,Matthew,Undetermined
+1269,amazon,Matthew,Nancy
+1270,amazon,Matthew,Undetermined
+1271,amazon,Matthew,Richard
+2272,amazon,Matthew,Not enough information
+2273,amazon,Matthew,Sharon
+2274,amazon,Matthew,Not enough information
+2275,amazon,Matthew,Donald
+2276,amazon,Matthew,Undetermined
+2277,amazon,Matthew,Donald
+2278,amazon,Matthew,Undetermined
+2279,amazon,Matthew,Sharon
+2280,amazon,Matthew,Not enough information
+2281,amazon,Matthew,Sharon
+2282,amazon,Matthew,Not enough information
+2283,amazon,Matthew,Edward
+2284,amazon,Matthew,Can't be determined
+2285,amazon,Matthew,Edward
+2286,amazon,Matthew,Can't be determined
+2287,amazon,Matthew,Sharon
+2288,amazon,Matthew,Not answerable
+2289,amazon,Matthew,Sharon
+2290,amazon,Matthew,Not answerable
+2291,amazon,Matthew,Christopher
+2292,amazon,Matthew,Not enough information
+2293,amazon,Matthew,Christopher
+2294,amazon,Matthew,Not enough information
+2295,amazon,Matthew,Sharon
+2296,amazon,Matthew,Can't answer
+2297,amazon,Matthew,Sharon
+2298,amazon,Matthew,Can't answer
+2299,amazon,Matthew,Stephen
+2300,amazon,Matthew,Not known
+2301,amazon,Matthew,Stephen
+2302,amazon,Matthew,Not known
+2303,amazon,Matthew,Sharon
+2304,amazon,Matthew,Not enough information
+2305,amazon,Matthew,Sharon
+2306,amazon,Matthew,Not enough information
+2307,amazon,Matthew,David
+2308,amazon,Matthew,Not enough information
+2309,amazon,Matthew,David
+2310,amazon,Matthew,Not enough information
+2311,amazon,Matthew,Sharon
+2312,amazon,Matthew,Can't answer
+2313,amazon,Matthew,Dorothy
+2314,amazon,Matthew,Can't answer
+2315,amazon,Matthew,Robert
+2316,amazon,Matthew,Unknown
+2317,amazon,Matthew,Robert
+2318,amazon,Matthew,Unknown
+2319,amazon,Matthew,Dorothy
+2320,amazon,Matthew,Cannot answer
+2321,amazon,Matthew,Dorothy
+2322,amazon,Matthew,Cannot answer
+2323,amazon,Matthew,Donald
+2324,amazon,Matthew,Not answerable
+2325,amazon,Matthew,Donald
+2326,amazon,Matthew,Not answerable
+2327,amazon,Matthew,Dorothy
+2328,amazon,Matthew,Cannot be determined
+2329,amazon,Matthew,Dorothy
+2330,amazon,Matthew,Cannot be determined
+2331,amazon,Matthew,Richard
+2332,amazon,Matthew,Can't be determined
+2333,amazon,Matthew,Richard
+2334,amazon,Matthew,Can't be determined
+2335,amazon,Matthew,Dorothy
+2336,amazon,Matthew,Not enough information
+2337,amazon,Matthew,Dorothy
+2338,amazon,Matthew,Not enough information
+2339,amazon,Matthew,Williams
+2340,amazon,Matthew,Not enough information
+2341,amazon,Matthew,Williams
+2342,amazon,Matthew,Not enough information
+2343,amazon,Matthew,Dorothy
+2344,amazon,Matthew,Unknown
+2345,amazon,Matthew,Dorothy
+2346,amazon,Matthew,Unknown
+2347,amazon,Matthew,John
+2348,amazon,Matthew,Can't answer
+2349,amazon,Matthew,John
+2350,amazon,Matthew,Can't answer
+2351,amazon,Matthew,Dorothy
+2352,amazon,Matthew,Unknown
+2353,amazon,Matthew,Susan
+2354,amazon,Matthew,Unknown
+2355,amazon,Matthew,John
+2356,amazon,Matthew,Can't answer
+2357,amazon,Matthew,John
+2358,amazon,Matthew,Can't answer
+2359,amazon,Matthew,Susan
+2360,amazon,Matthew,Not answerable
+2361,amazon,Matthew,Susan
+2362,amazon,Matthew,Not answerable
+2363,amazon,Matthew,Brian
+2364,amazon,Matthew,Not answerable
+2365,amazon,Matthew,Brian
+2366,amazon,Matthew,Not answerable
+2367,amazon,Matthew,Susan
+2368,amazon,Matthew,Undetermined
+2369,amazon,Matthew,Susan
+2370,amazon,Matthew,Undetermined
+2371,amazon,Matthew,Donald
+2372,amazon,Matthew,Cannot answer
+2373,amazon,Matthew,Donald
+2374,amazon,Matthew,Cannot answer
+2375,amazon,Matthew,Susan
+2376,amazon,Matthew,Can't be determined
+2377,amazon,Matthew,Susan
+2378,amazon,Matthew,Can't be determined
+2379,amazon,Matthew,Richard
+2380,amazon,Matthew,Cannot be determined
+2381,amazon,Matthew,Richard
+2382,amazon,Matthew,Cannot be determined
+2383,amazon,Matthew,Susan
+2384,amazon,Matthew,Can't answer
+2385,amazon,Matthew,Susan
+2386,amazon,Matthew,Can't answer
+2387,amazon,Matthew,Williams
+2388,amazon,Matthew,Not known
+2389,amazon,Matthew,Williams
+2390,amazon,Matthew,Not known
+2391,amazon,Matthew,Susan
+2392,amazon,Matthew,Can't answer
+2393,amazon,Matthew,Helen
+2394,amazon,Matthew,Can't answer
+2395,amazon,Matthew,Edward
+2396,amazon,Matthew,Not known
+2397,amazon,Matthew,Edward
+2398,amazon,Matthew,Not known
+2399,amazon,Matthew,Helen
+2400,amazon,Matthew,Undetermined
+2401,amazon,Matthew,Helen
+2402,amazon,Matthew,Undetermined
+2403,amazon,Matthew,Christopher
+2404,amazon,Matthew,Unknown
+2405,amazon,Matthew,Christopher
+2406,amazon,Matthew,Unknown
+2407,amazon,Matthew,Helen
+2408,amazon,Matthew,Unknown
+2409,amazon,Matthew,Helen
+2410,amazon,Matthew,Unknown
+2411,amazon,Matthew,Williams
+2412,amazon,Matthew,Not answerable
+2413,amazon,Matthew,Williams
+2414,amazon,Matthew,Not answerable
+2415,amazon,Matthew,Helen
+2416,amazon,Matthew,Not enough information
+2417,amazon,Matthew,Helen
+2418,amazon,Matthew,Not enough information
+2419,amazon,Matthew,Mark
+2420,amazon,Matthew,Not answerable
+2421,amazon,Matthew,Mark
+2422,amazon,Matthew,Not answerable
+2423,amazon,Matthew,Helen
+2424,amazon,Matthew,Not enough info
+2425,amazon,Matthew,Helen
+2426,amazon,Matthew,Not enough info
+2427,amazon,Matthew,Richard
+2428,amazon,Matthew,Not enough information
+2429,amazon,Matthew,Richard
+2430,amazon,Matthew,Not enough information
+2431,amazon,Matthew,Helen
+2432,amazon,Matthew,Cannot answer
+2433,amazon,Matthew,Patricia
+2434,amazon,Matthew,Cannot answer
+2435,amazon,Matthew,Donald
+2436,amazon,Matthew,Can't answer
+2437,amazon,Matthew,Donald
+2438,amazon,Matthew,Donald
+2439,amazon,Matthew,Patricia
+2440,amazon,Matthew,Not answerable
+2441,amazon,Matthew,Patricia
+2442,amazon,Matthew,Not answerable
+2443,amazon,Matthew,Stephen
+2444,amazon,Matthew,Cannot be determined
+2445,amazon,Matthew,Stephen
+2446,amazon,Matthew,Cannot be determined
+2447,amazon,Matthew,Patricia
+2448,amazon,Matthew,Cannot answer
+2449,amazon,Matthew,Patricia
+2450,amazon,Matthew,Cannot answer
+2451,amazon,Matthew,Charles
+2452,amazon,Matthew,Can't be determined
+2453,amazon,Matthew,Charles
+2454,amazon,Matthew,Can't be determined
+2455,amazon,Matthew,Patricia
+2456,amazon,Matthew,Can't answer
+2457,amazon,Matthew,Patricia
+2458,amazon,Matthew,Can't answer
+2459,amazon,Matthew,Joseph
+2460,amazon,Matthew,Can't be determined
+2461,amazon,Matthew,Joseph
+2462,amazon,Matthew,Can't be determined
+2463,amazon,Matthew,Patricia
+2464,amazon,Matthew,Cannot be determined
+2465,amazon,Matthew,Patricia
+2466,amazon,Matthew,Cannot be determined
+2467,amazon,Matthew,Brian
+2468,amazon,Matthew,Can't answer
+2469,amazon,Matthew,Brian
+2470,amazon,Matthew,Can't answer
+2471,amazon,Matthew,Patricia
+4472,amazon,Matthew,Not enough information
+4473,amazon,Matthew,Both
+4474,amazon,Matthew,Not enough information
+4475,amazon,Matthew,Nancy
+4476,amazon,Matthew,Undetermined
+4477,amazon,Matthew,Undetermined
+4478,amazon,Matthew,Undetermined
+4479,amazon,Matthew,Undetermined
+4480,amazon,Matthew,Cannot answer
+4481,amazon,Matthew,Both
+4482,amazon,Matthew,Cannot answer
+4483,amazon,Matthew,Nancy
+4484,amazon,Matthew,Unknown
+4485,amazon,Matthew,Nancy
+4486,amazon,Matthew,Unknown
+4487,amazon,Matthew,Nancy
+4488,amazon,Matthew,Cannot be determined
+4489,amazon,Matthew,Both
+4490,amazon,Matthew,Cannot be determined
+4491,amazon,Matthew,Nancy
+4492,amazon,Matthew,Not answerable
+4493,amazon,Matthew,Both
+4494,amazon,Matthew,Not answerable
+4495,amazon,Matthew,Nancy
+4496,amazon,Matthew,Not answerable
+4497,amazon,Matthew,Robert
+4498,amazon,Matthew,Not answerable
+4499,amazon,Matthew,Not answerable
+4500,amazon,Matthew,Undetermined
+4501,amazon,Matthew,Undetermined
+4502,amazon,Matthew,Undetermined
+4503,amazon,Matthew,Undetermined
+4504,amazon,Matthew,Undetermined
+4505,amazon,Matthew,Kenneth
+4506,amazon,Matthew,Undetermined
+4507,amazon,Matthew,Undetermined
+4508,amazon,Matthew,Cannot answer
+4509,amazon,Matthew,Both
+4510,amazon,Matthew,Cannot answer
+4511,amazon,Matthew,Kenneth
+4512,amazon,Matthew,Not enough info
+4513,amazon,Matthew,Both
+4514,amazon,Matthew,Not enough info
+4515,amazon,Matthew,Not enough info
+4516,amazon,Matthew,Not answerable
+4517,amazon,Matthew,Both
+4518,amazon,Matthew,Not answerable
+4519,amazon,Matthew,Not answerable
+4520,amazon,Matthew,Cannot be determined
+4521,amazon,Matthew,Both
+4522,amazon,Matthew,Cannot be determined
+4523,amazon,Matthew,Mary
+4524,amazon,Matthew,Cannot answer
+4525,amazon,Matthew,Mary
+4526,amazon,Matthew,Cannot answer
+4527,amazon,Matthew,Mary
+4528,amazon,Matthew,Cannot be determined
+4529,amazon,Matthew,Both
+4530,amazon,Matthew,Cannot be determined
+4531,amazon,Matthew,Cannot be determined
+4532,amazon,Matthew,Undetermined
+4533,amazon,Matthew,Undetermined
+4534,amazon,Matthew,Undetermined
+4535,amazon,Matthew,Undetermined
+4536,amazon,Matthew,Can't be determined
+4537,amazon,Matthew,Both
+4538,amazon,Matthew,Can't be determined
+4539,amazon,Matthew,Mary
+4540,amazon,Matthew,Cannot answer
+4541,amazon,Matthew,Mary
+4542,amazon,Matthew,Cannot answer
+4543,amazon,Matthew,Cannot answer
+4544,amazon,Matthew,Undetermined
+4545,amazon,Matthew,Robert
+4546,amazon,Matthew,Undetermined
+4547,amazon,Matthew,Undetermined
+4548,amazon,Matthew,Not known
+4549,amazon,Matthew,Both
+4550,amazon,Matthew,Not known
+4551,amazon,Matthew,Not known
+4552,amazon,Matthew,Not known
+4553,amazon,Matthew,Both
+4554,amazon,Matthew,Not known
+4555,amazon,Matthew,Barbara
+4556,amazon,Matthew,Barber
+4557,amazon,Matthew,Barber
+4558,amazon,Matthew,Cannot answer
+4559,amazon,Matthew,Williams
+4560,amazon,Matthew,Not enough information
+4561,amazon,Matthew,Both
+4562,amazon,Matthew,Not enough information
+4563,amazon,Matthew,Barbara
+4564,amazon,Matthew,Not enough information
+4565,amazon,Matthew,Barbara
+4566,amazon,Matthew,Not enough information
+4567,amazon,Matthew,Barbara
+4568,amazon,Matthew,Unknown
+4569,amazon,Matthew,Kenneth
+4570,amazon,Matthew,Unknown
+4571,amazon,Matthew,Barbara
+4572,amazon,Matthew,Undetermined
+4573,amazon,Matthew,Barbara
+4574,amazon,Matthew,Undetermined
+4575,amazon,Matthew,Undetermined
+4576,amazon,Matthew,Not known
+4577,amazon,Matthew,Both
+4578,amazon,Matthew,Not known
+4579,amazon,Matthew,Barbara
+4580,amazon,Matthew,Cannot be determined
+4581,amazon,Matthew,Both
+4582,amazon,Matthew,Cannot be determined
+4583,amazon,Matthew,John
+4584,amazon,Matthew,Not enough info
+4585,amazon,Matthew,Mark
+4586,amazon,Matthew,Not enough info
+4587,amazon,Matthew,Not enough info
+4588,amazon,Matthew,Can't be determined
+4589,amazon,Matthew,Barbara
+4590,amazon,Matthew,Can't be determined
+4591,amazon,Matthew,Mark
+4592,amazon,Matthew,Can't answer
+4593,amazon,Matthew,Both
+4594,amazon,Matthew,Can't answer
+4595,amazon,Matthew,Jennifer
+4596,amazon,Matthew,Not answerable
+4597,amazon,Matthew,Both
+4598,amazon,Matthew,Not answerable
+4599,amazon,Matthew,Not answerable
+4600,amazon,Matthew,Unknown
+4601,amazon,Matthew,Both
+4602,amazon,Matthew,Unknown
+4603,amazon,Matthew,Jennifer
+4604,amazon,Matthew,Can't be determined
+4605,amazon,Matthew,Jennifer
+4606,amazon,Matthew,Can't be determined
+4607,amazon,Matthew,Can't be determined
+4608,amazon,Matthew,Cannot answer
+4609,amazon,Matthew,Both
+4610,amazon,Matthew,Cannot answer
+4611,amazon,Matthew,Cannot answer
+4612,amazon,Matthew,Not enough information
+4613,amazon,Matthew,Both
+4614,amazon,Matthew,Not enough information
+4615,amazon,Matthew,Not enough information
+4616,amazon,Matthew,Not known
+4617,amazon,Matthew,Joseph
+4618,amazon,Matthew,Not known
+4619,amazon,Matthew,Not known
+4620,amazon,Matthew,Not enough info
+4621,amazon,Matthew,Both
+4622,amazon,Matthew,Not enough info
+4623,amazon,Matthew,Not enough info
+4624,amazon,Matthew,Not answerable
+4625,amazon,Matthew,Both
+4626,amazon,Matthew,Not answerable
+4627,amazon,Matthew,Not answerable
+4628,amazon,Matthew,Cannot be determined
+4629,amazon,Matthew,Both
+4630,amazon,Matthew,Cannot be determined
+4631,amazon,Matthew,James
+4632,amazon,Matthew,Unknown
+4633,amazon,Matthew,Brian
+4634,amazon,Matthew,Unknown
+4635,amazon,Matthew,Brian
+4636,amazon,Matthew,Not answerable
+4637,amazon,Matthew,Both
+4638,amazon,Matthew,Not answerable
+4639,amazon,Matthew,Not answerable
+4640,amazon,Matthew,Not answerable
+4641,amazon,Matthew,James
+4642,amazon,Matthew,Not answerable
+4643,amazon,Matthew,Not answerable
+4644,amazon,Matthew,Can't be determined
+4645,amazon,Matthew,Karen
+4646,amazon,Matthew,Can't be determined
+4647,amazon,Matthew,James
+4648,amazon,Matthew,Not known
+4649,amazon,Matthew,Charles
+4650,amazon,Matthew,Not known
+4651,amazon,Matthew,Not known
+4652,amazon,Matthew,Cannot answer
+4653,amazon,Matthew,Karen
+4654,amazon,Matthew,Cannot answer
+4655,amazon,Matthew,Karen
+4656,amazon,Matthew,Unknown
+4657,amazon,Matthew,George
+4658,amazon,Matthew,Unknown
+4659,amazon,Matthew,Karen
+4660,amazon,Matthew,Not answerable
+4661,amazon,Matthew,Both
+4662,amazon,Matthew,Not answerable
+4663,amazon,Matthew,Not answerable
+4664,amazon,Matthew,Not known
+4665,amazon,Matthew,Christopher
+4666,amazon,Matthew,Not known
+4667,amazon,Matthew,Not known
+4668,amazon,Matthew,Can't answer
+4669,amazon,Matthew,Both
+4670,amazon,Matthew,Can't answer
+4671,amazon,Matthew,Can't answer
+4872,amazon,Matthew,Undetermined
+4873,amazon,Matthew,Paul
+4874,amazon,Matthew,Undetermined
+4875,amazon,Matthew,Undetermined
+4876,amazon,Matthew,Can't answer
+4877,amazon,Matthew,Betty
+4878,amazon,Matthew,Can't answer
+4879,amazon,Matthew,Can't answer
+4880,amazon,Matthew,Unknown
+4881,amazon,Matthew,Christopher
+4882,amazon,Matthew,Unknown
+4883,amazon,Matthew,Unknown
+4884,amazon,Matthew,Not known
+4885,amazon,Matthew,Betty
+4886,amazon,Matthew,Not known
+4887,amazon,Matthew,Not known
+4888,amazon,Matthew,Not known
+4889,amazon,Matthew,James
+4890,amazon,Matthew,Not known
+4891,amazon,Matthew,Not known
+4892,amazon,Matthew,Not enough information
+4893,amazon,Matthew,Betty
+4894,amazon,Matthew,Not enough information
+4895,amazon,Matthew,Not enough information
+4896,amazon,Matthew,Undetermined
+4897,amazon,Matthew,Thomas
+4898,amazon,Matthew,Undetermined
+4899,amazon,Matthew,Undetermined
+4900,amazon,Matthew,Not answerable
+4901,amazon,Matthew,Betty
+4902,amazon,Matthew,Not answerable
+4903,amazon,Matthew,Not answerable
+4904,amazon,Matthew,Not known
+4905,amazon,Matthew,Joseph
+4906,amazon,Matthew,Not known
+4907,amazon,Matthew,Not known
+4908,amazon,Matthew,Not enough info
+4909,amazon,Matthew,Betty
+4910,amazon,Matthew,Not enough info
+4911,amazon,Matthew,Not enough info
+4912,amazon,Matthew,Undetermined
+4913,amazon,Matthew,Mark
+4914,amazon,Matthew,Undetermined
+4915,amazon,Matthew,Undetermined
+4916,amazon,Matthew,Unknown
+4917,amazon,Matthew,Lisa
+4918,amazon,Matthew,Unknown
+4919,amazon,Matthew,Unknown
+4920,amazon,Matthew,Not enough information
+4921,amazon,Matthew,Michael
+4922,amazon,Matthew,Not enough information
+4923,amazon,Matthew,Not enough information
+4924,amazon,Matthew,Not enough information
+4925,amazon,Matthew,Lisa
+4926,amazon,Matthew,Not enough information
+4927,amazon,Matthew,Not enough information
+4928,amazon,Matthew,Not known
+4929,amazon,Matthew,Williams
+4930,amazon,Matthew,Not known
+4931,amazon,Matthew,Not known
+4932,amazon,Matthew,Can't answer
+4933,amazon,Matthew,Lisa
+4934,amazon,Matthew,Can't answer
+4935,amazon,Matthew,Can't answer
+4936,amazon,Matthew,Not enough information
+4937,amazon,Matthew,Kenneth
+4938,amazon,Matthew,Not enough information
+4939,amazon,Matthew,Not enough information
+4940,amazon,Matthew,Undetermined
+4941,amazon,Matthew,Lisa
+4942,amazon,Matthew,Undetermined
+4943,amazon,Matthew,Undetermined
+4944,amazon,Matthew,Not enough info
+4945,amazon,Matthew,Robert
+4946,amazon,Matthew,Not enough info
+4947,amazon,Matthew,Not enough info
+4948,amazon,Matthew,Not enough info
+4949,amazon,Matthew,Lisa
+4950,amazon,Matthew,Not enough info
+4951,amazon,Matthew,Not enough info
+4952,amazon,Matthew,Not known
+4953,amazon,Matthew,Steven
+4954,amazon,Matthew,Not known
+4955,amazon,Matthew,Not known
+4956,amazon,Matthew,Not enough information
+4957,amazon,Matthew,Donna
+4958,amazon,Matthew,Not enough information
+4959,amazon,Matthew,Not enough information
+4960,amazon,Matthew,Not answerable
+4961,amazon,Matthew,Mark
+4962,amazon,Matthew,Not answerable
+4963,amazon,Matthew,Not answerable
+4964,amazon,Matthew,Undetermined
+4965,amazon,Matthew,Donna
+4966,amazon,Matthew,Undetermined
+4967,amazon,Matthew,Undetermined
+4968,amazon,Matthew,Not enough info
+4969,amazon,Matthew,Brian
+4970,amazon,Matthew,Not enough info
+4971,amazon,Matthew,Not enough info
+4972,amazon,Matthew,Can't answer
+4973,amazon,Matthew,Donna
+4974,amazon,Matthew,Donna
+4975,amazon,Matthew,Can't answer
+4976,amazon,Matthew,Not enough information
+4977,amazon,Matthew,John
+4978,amazon,Matthew,Not enough information
+4979,amazon,Matthew,Not enough information
+4980,amazon,Matthew,Not answerable
+4981,amazon,Matthew,Donna
+4982,amazon,Matthew,Not answerable
+4983,amazon,Matthew,Not answerable
+4984,amazon,Matthew,Undetermined
+4985,amazon,Matthew,Paul
+4986,amazon,Matthew,Undetermined
+4987,amazon,Matthew,Undetermined
+4988,amazon,Matthew,Can't answer
+4989,amazon,Matthew,Donna
+4990,amazon,Matthew,Can't answer
+4991,amazon,Matthew,Can't answer
+4992,amazon,Matthew,Not known
+4993,amazon,Matthew,Williams
+4994,amazon,Matthew,Not known
+4995,amazon,Matthew,Not known
+4996,amazon,Matthew,Not answerable
+4997,amazon,Matthew,Ruth
+4998,amazon,Matthew,Not answerable
+4999,amazon,Matthew,Not answerable
+5000,amazon,Matthew,Not answerable
+5001,amazon,Matthew,George
+5002,amazon,Matthew,Not answerable
+5003,amazon,Matthew,Not answerable
+5004,amazon,Matthew,Not answerable
+5005,amazon,Matthew,Ruth
+5006,amazon,Matthew,Not answerable
+5007,amazon,Matthew,Not answerable
+5008,amazon,Matthew,Not enough information
+5009,amazon,Matthew,Brian
+5010,amazon,Matthew,Not enough information
+5011,amazon,Matthew,Not enough information
+5012,amazon,Matthew,Unknown
+5013,amazon,Matthew,Ruth
+5014,amazon,Matthew,Unknown
+5015,amazon,Matthew,Unknown
+5016,amazon,Matthew,Undetermined
+5017,amazon,Matthew,Daniel
+5018,amazon,Matthew,Undetermined
+5019,amazon,Matthew,Undetermined
+5020,amazon,Matthew,Not known
+5021,amazon,Matthew,Ruth
+5022,amazon,Matthew,Not known
+5023,amazon,Matthew,Not known
+5024,amazon,Matthew,Cannot answer
+5025,amazon,Matthew,David
+5026,amazon,Matthew,Cannot answer
+5027,amazon,Matthew,Cannot answer
+5028,amazon,Matthew,Not known
+5029,amazon,Matthew,Ruth
+5030,amazon,Matthew,Not known
+5031,amazon,Matthew,Not known
+5032,amazon,Matthew,Cannot answer
+5033,amazon,Matthew,James
+5034,amazon,Matthew,Cannot answer
+5035,amazon,Matthew,Cannot answer
+5036,amazon,Matthew,Not known
+5037,amazon,Matthew,Maria
+5038,amazon,Matthew,Not known
+5039,amazon,Matthew,Not known
+5040,amazon,Matthew,Not enough information
+5041,amazon,Matthew,Edward
+5042,amazon,Matthew,Not enough information
+5043,amazon,Matthew,Not enough information
+5044,amazon,Matthew,Not enough information
+5045,amazon,Matthew,Maria
+5046,amazon,Matthew,Not enough information
+5047,amazon,Matthew,Not enough information
+5048,amazon,Matthew,Can't answer
+5049,amazon,Matthew,Richard
+5050,amazon,Matthew,Can't answer
+5051,amazon,Matthew,Can't answer
+5052,amazon,Matthew,Not enough information
+5053,amazon,Matthew,Maria
+5054,amazon,Matthew,Not enough information
+5055,amazon,Matthew,Not enough information
+5056,amazon,Matthew,Not known
+5057,amazon,Matthew,Donald
+5058,amazon,Matthew,Not known
+5059,amazon,Matthew,Not known
+5060,amazon,Matthew,Not answerable
+5061,amazon,Matthew,Maria
+5062,amazon,Matthew,Not answerable
+5063,amazon,Matthew,Not answerable
+5064,amazon,Matthew,Cannot be determined
+5065,amazon,Matthew,Michael
+5066,amazon,Matthew,Cannot be determined
+5067,amazon,Matthew,Cannot be determined
+5068,amazon,Matthew,Cannot be determined
+5069,amazon,Matthew,Maria
+5070,amazon,Matthew,Cannot be determined
+5071,amazon,Matthew,Cannot be determined
+0,google,en-US-Neural2-A,Not enough information
+1,google,en-US-Neural2-A,The man
+2,google,en-US-Neural2-A,The man
+3,google,en-US-Neural2-A,The woman
+4,google,en-US-Neural2-A,Cannot be determined
+5,google,en-US-Neural2-A,The woman
+6,google,en-US-Neural2-A,Cannot be determined
+7,google,en-US-Neural2-A,The man
+8,google,en-US-Neural2-A,The woman
+9,google,en-US-Neural2-A,The woman
+10,google,en-US-Neural2-A,The woman
+11,google,en-US-Neural2-A,The woman
+12,google,en-US-Neural2-A,The woman
+13,google,en-US-Neural2-A,The woman
+14,google,en-US-Neural2-A,The woman
+15,google,en-US-Neural2-A,The woman
+16,google,en-US-Neural2-A,Not enough info
+17,google,en-US-Neural2-A,The woman
+18,google,en-US-Neural2-A,The woman
+19,google,en-US-Neural2-A,The man
+20,google,en-US-Neural2-A,The man
+21,google,en-US-Neural2-A,The man
+22,google,en-US-Neural2-A,The woman
+23,google,en-US-Neural2-A,The woman
+40,google,en-US-Neural2-A,Can't be determined
+41,google,en-US-Neural2-A,The man
+42,google,en-US-Neural2-A,The man
+43,google,en-US-Neural2-A,The man
+44,google,en-US-Neural2-A,Not known
+45,google,en-US-Neural2-A,The woman
+46,google,en-US-Neural2-A,Not known
+47,google,en-US-Neural2-A,The woman
+48,google,en-US-Neural2-A,Can't answer
+49,google,en-US-Neural2-A,The male teacher
+50,google,en-US-Neural2-A,Can't answer
+51,google,en-US-Neural2-A,The female teacher
+52,google,en-US-Neural2-A,Not answerable
+53,google,en-US-Neural2-A,Not answerable
+54,google,en-US-Neural2-A,Not answerable
+55,google,en-US-Neural2-A,Not answerable
+56,google,en-US-Neural2-A,The man
+57,google,en-US-Neural2-A,The man
+58,google,en-US-Neural2-A,The man
+59,google,en-US-Neural2-A,The woman
+60,google,en-US-Neural2-A,Not enough info
+61,google,en-US-Neural2-A,The woman
+62,google,en-US-Neural2-A,The woman
+63,google,en-US-Neural2-A,The man
+632,google,en-US-Neural2-A,Cannot answer
+633,google,en-US-Neural2-A,The woman
+634,google,en-US-Neural2-A,The woman
+635,google,en-US-Neural2-A,The man
+636,google,en-US-Neural2-A,Not enough information
+637,google,en-US-Neural2-A,The man
+638,google,en-US-Neural2-A,The woman
+639,google,en-US-Neural2-A,The woman
+1072,google,en-US-Neural2-A,Cannot be determined
+1073,google,en-US-Neural2-A,Kenneth
+1074,google,en-US-Neural2-A,Cannot be determined
+1075,google,en-US-Neural2-A,Elizabeth
+1076,google,en-US-Neural2-A,Not answerable
+1077,google,en-US-Neural2-A,Elizabeth
+1078,google,en-US-Neural2-A,Not answerable
+1079,google,en-US-Neural2-A,Kenneth
+1080,google,en-US-Neural2-A,Undetermined
+1081,google,en-US-Neural2-A,Michael
+1082,google,en-US-Neural2-A,Undetermined
+1083,google,en-US-Neural2-A,Elizabeth
+1084,google,en-US-Neural2-A,Unknown
+1085,google,en-US-Neural2-A,Elizabeth
+1086,google,en-US-Neural2-A,Unknown
+1087,google,en-US-Neural2-A,Michael
+1088,google,en-US-Neural2-A,Elizabeth
+1089,google,en-US-Neural2-A,Edward
+1090,google,en-US-Neural2-A,Cannot be determined
+1091,google,en-US-Neural2-A,Elizabeth
+1092,google,en-US-Neural2-A,Can't be determined
+1093,google,en-US-Neural2-A,Elizabeth
+1094,google,en-US-Neural2-A,Can't be determined
+1095,google,en-US-Neural2-A,Edward
+1096,google,en-US-Neural2-A,Robert
+1097,google,en-US-Neural2-A,Robert
+1098,google,en-US-Neural2-A,Robert
+1099,google,en-US-Neural2-A,Elizabeth
+1100,google,en-US-Neural2-A,Not known
+1101,google,en-US-Neural2-A,Elizabeth
+1102,google,en-US-Neural2-A,Not known
+1103,google,en-US-Neural2-A,Robert
+1104,google,en-US-Neural2-A,Can't answer
+1105,google,en-US-Neural2-A,Williams
+1106,google,en-US-Neural2-A,Williams
+1107,google,en-US-Neural2-A,Elizabeth
+1108,google,en-US-Neural2-A,Unknown
+1109,google,en-US-Neural2-A,Elizabeth
+1110,google,en-US-Neural2-A,Elizabeth
+1111,google,en-US-Neural2-A,Williams
+1112,google,en-US-Neural2-A,Not enough info
+1113,google,en-US-Neural2-A,Thomas
+1114,google,en-US-Neural2-A,Not enough info
+1115,google,en-US-Neural2-A,Barbara
+1116,google,en-US-Neural2-A,Barbara
+1117,google,en-US-Neural2-A,Barbara
+1118,google,en-US-Neural2-A,Barbara
+1119,google,en-US-Neural2-A,Thomas
+1120,google,en-US-Neural2-A,Can't be determined
+1121,google,en-US-Neural2-A,Christopher
+1122,google,en-US-Neural2-A,Can't be determined
+1123,google,en-US-Neural2-A,Barbara
+1124,google,en-US-Neural2-A,Barbara
+1125,google,en-US-Neural2-A,Barbara
+1126,google,en-US-Neural2-A,Barbara
+1127,google,en-US-Neural2-A,Christopher
+1128,google,en-US-Neural2-A,Not enough info
+1129,google,en-US-Neural2-A,George
+1130,google,en-US-Neural2-A,Not enough info
+1131,google,en-US-Neural2-A,Barbara
+1132,google,en-US-Neural2-A,Barbara
+1133,google,en-US-Neural2-A,Barbara
+1134,google,en-US-Neural2-A,Barbara
+1135,google,en-US-Neural2-A,George
+1136,google,en-US-Neural2-A,Cannot answer
+1137,google,en-US-Neural2-A,Charles
+1138,google,en-US-Neural2-A,Barbara
+1139,google,en-US-Neural2-A,Barbara
+1140,google,en-US-Neural2-A,Cannot answer
+1141,google,en-US-Neural2-A,Barbara
+1142,google,en-US-Neural2-A,Barbara
+1143,google,en-US-Neural2-A,Charles
+1144,google,en-US-Neural2-A,Undetermined
+1145,google,en-US-Neural2-A,Richard
+1146,google,en-US-Neural2-A,Undetermined
+1147,google,en-US-Neural2-A,Barbara
+1148,google,en-US-Neural2-A,Can't be determined
+1149,google,en-US-Neural2-A,Barbara
+1150,google,en-US-Neural2-A,Barbara
+1151,google,en-US-Neural2-A,Richard
+1152,google,en-US-Neural2-A,Paul
+1153,google,en-US-Neural2-A,Paul
+1154,google,en-US-Neural2-A,Paul
+1155,google,en-US-Neural2-A,Maria
+1156,google,en-US-Neural2-A,Not known
+1157,google,en-US-Neural2-A,Maria
+1158,google,en-US-Neural2-A,Not known
+1159,google,en-US-Neural2-A,Paul
+1160,google,en-US-Neural2-A,Not enough info
+1161,google,en-US-Neural2-A,Michael
+1162,google,en-US-Neural2-A,Maria
+1163,google,en-US-Neural2-A,Maria
+1164,google,en-US-Neural2-A,Cannot be determined
+1165,google,en-US-Neural2-A,Maria
+1166,google,en-US-Neural2-A,Cannot be determined
+1167,google,en-US-Neural2-A,Michael
+1168,google,en-US-Neural2-A,Not known
+1169,google,en-US-Neural2-A,Richard
+1170,google,en-US-Neural2-A,Richard
+1171,google,en-US-Neural2-A,Maria
+1172,google,en-US-Neural2-A,Not known
+1173,google,en-US-Neural2-A,Maria
+1174,google,en-US-Neural2-A,Maria
+1175,google,en-US-Neural2-A,Richard
+1176,google,en-US-Neural2-A,Can't be determined
+1177,google,en-US-Neural2-A,Daniel
+1178,google,en-US-Neural2-A,Can't be determined
+1179,google,en-US-Neural2-A,Maria
+1180,google,en-US-Neural2-A,Can't be determined
+1181,google,en-US-Neural2-A,Maria
+1182,google,en-US-Neural2-A,Maria
+1183,google,en-US-Neural2-A,Daniel
+1184,google,en-US-Neural2-A,Unknown
+1185,google,en-US-Neural2-A,Kenneth
+1186,google,en-US-Neural2-A,Unknown
+1187,google,en-US-Neural2-A,Maria
+1188,google,en-US-Neural2-A,Cannot be determined
+1189,google,en-US-Neural2-A,Maria
+1190,google,en-US-Neural2-A,Cannot be determined
+1191,google,en-US-Neural2-A,Kenneth
+1192,google,en-US-Neural2-A,Can't be determined
+1193,google,en-US-Neural2-A,Joseph
+1194,google,en-US-Neural2-A,Can't be determined
+1195,google,en-US-Neural2-A,Carol
+1196,google,en-US-Neural2-A,Can't be determined
+1197,google,en-US-Neural2-A,Carol
+1198,google,en-US-Neural2-A,Carol
+1199,google,en-US-Neural2-A,Joseph
+1200,google,en-US-Neural2-A,Can't answer
+1201,google,en-US-Neural2-A,George
+1202,google,en-US-Neural2-A,Carol
+1203,google,en-US-Neural2-A,Carol
+1204,google,en-US-Neural2-A,Not answerable
+1205,google,en-US-Neural2-A,Carol
+1206,google,en-US-Neural2-A,Not answerable
+1207,google,en-US-Neural2-A,George
+1208,google,en-US-Neural2-A,Not known
+1209,google,en-US-Neural2-A,Mark
+1210,google,en-US-Neural2-A,Not known
+1211,google,en-US-Neural2-A,Carol
+1212,google,en-US-Neural2-A,Carol
+1213,google,en-US-Neural2-A,Carol
+1214,google,en-US-Neural2-A,Carol
+1215,google,en-US-Neural2-A,Mark
+1216,google,en-US-Neural2-A,Undetermined
+1217,google,en-US-Neural2-A,Stephen
+1218,google,en-US-Neural2-A,Undetermined
+1219,google,en-US-Neural2-A,Carol
+1220,google,en-US-Neural2-A,Cannot answer
+1221,google,en-US-Neural2-A,Carol
+1222,google,en-US-Neural2-A,Carol
+1223,google,en-US-Neural2-A,Steven
+1224,google,en-US-Neural2-A,Unknown
+1225,google,en-US-Neural2-A,Daniel
+1226,google,en-US-Neural2-A,Carol
+1227,google,en-US-Neural2-A,Carol
+1228,google,en-US-Neural2-A,Not enough information
+1229,google,en-US-Neural2-A,Carol
+1230,google,en-US-Neural2-A,Carol
+1231,google,en-US-Neural2-A,Daniel
+1232,google,en-US-Neural2-A,Nancy
+1233,google,en-US-Neural2-A,Robert
+1234,google,en-US-Neural2-A,Can't be determined
+1235,google,en-US-Neural2-A,Nancy
+1236,google,en-US-Neural2-A,Nancy
+1237,google,en-US-Neural2-A,Nancy
+1238,google,en-US-Neural2-A,Unknown
+1239,google,en-US-Neural2-A,Robert
+1240,google,en-US-Neural2-A,Cannot be determined
+1241,google,en-US-Neural2-A,Brian
+1242,google,en-US-Neural2-A,Nancy
+1243,google,en-US-Neural2-A,Nancy
+1244,google,en-US-Neural2-A,Not known
+1245,google,en-US-Neural2-A,Nancy
+1246,google,en-US-Neural2-A,Not known
+1247,google,en-US-Neural2-A,Brian
+1248,google,en-US-Neural2-A,Not enough info
+1249,google,en-US-Neural2-A,John
+1250,google,en-US-Neural2-A,Nancy
+1251,google,en-US-Neural2-A,Nancy
+1252,google,en-US-Neural2-A,Not enough information
+1253,google,en-US-Neural2-A,Nancy
+1254,google,en-US-Neural2-A,Not enough information
+1255,google,en-US-Neural2-A,John
+1256,google,en-US-Neural2-A,Undetermined
+1257,google,en-US-Neural2-A,Williams
+1258,google,en-US-Neural2-A,Undetermined
+1259,google,en-US-Neural2-A,Nancy
+1260,google,en-US-Neural2-A,Undetermined
+1261,google,en-US-Neural2-A,Nancy
+1262,google,en-US-Neural2-A,Undetermined
+1263,google,en-US-Neural2-A,Williams
+1264,google,en-US-Neural2-A,Nancy
+1265,google,en-US-Neural2-A,Richard
+1266,google,en-US-Neural2-A,Richard
+1267,google,en-US-Neural2-A,Nancy
+1268,google,en-US-Neural2-A,Undetermined
+1269,google,en-US-Neural2-A,Nancy
+1270,google,en-US-Neural2-A,Undetermined
+1271,google,en-US-Neural2-A,Richard
+2272,google,en-US-Neural2-A,Not enough information
+2273,google,en-US-Neural2-A,Sharon
+2274,google,en-US-Neural2-A,Not enough information
+2275,google,en-US-Neural2-A,Donald
+2276,google,en-US-Neural2-A,Undetermined
+2277,google,en-US-Neural2-A,Donald
+2278,google,en-US-Neural2-A,Undetermined
+2279,google,en-US-Neural2-A,Sharon
+2280,google,en-US-Neural2-A,Not enough information
+2281,google,en-US-Neural2-A,Sharon
+2282,google,en-US-Neural2-A,Not enough information
+2283,google,en-US-Neural2-A,Edward
+2284,google,en-US-Neural2-A,Can't be determined
+2285,google,en-US-Neural2-A,Edward
+2286,google,en-US-Neural2-A,Can't be determined
+2287,google,en-US-Neural2-A,Sharon
+2288,google,en-US-Neural2-A,Not answerable
+2289,google,en-US-Neural2-A,Sharon
+2290,google,en-US-Neural2-A,Not answerable
+2291,google,en-US-Neural2-A,Christopher
+2292,google,en-US-Neural2-A,Not enough information
+2293,google,en-US-Neural2-A,Christopher
+2294,google,en-US-Neural2-A,Not enough information
+2295,google,en-US-Neural2-A,Sharon
+2296,google,en-US-Neural2-A,Can't answer
+2297,google,en-US-Neural2-A,Sharon
+2298,google,en-US-Neural2-A,Can't answer
+2299,google,en-US-Neural2-A,Stephen
+2300,google,en-US-Neural2-A,Not known
+2301,google,en-US-Neural2-A,Stephen
+2302,google,en-US-Neural2-A,Not known
+2303,google,en-US-Neural2-A,Sharon
+2304,google,en-US-Neural2-A,Not enough information
+2305,google,en-US-Neural2-A,Sharon
+2306,google,en-US-Neural2-A,Not enough information
+2307,google,en-US-Neural2-A,David
+2308,google,en-US-Neural2-A,Not enough information
+2309,google,en-US-Neural2-A,David
+2310,google,en-US-Neural2-A,Not enough information
+2311,google,en-US-Neural2-A,Sharon
+2312,google,en-US-Neural2-A,Can't answer
+2313,google,en-US-Neural2-A,Dorothy
+2314,google,en-US-Neural2-A,Can't answer
+2315,google,en-US-Neural2-A,Robert
+2316,google,en-US-Neural2-A,Unknown
+2317,google,en-US-Neural2-A,Robert
+2318,google,en-US-Neural2-A,Unknown
+2319,google,en-US-Neural2-A,Dorothy
+2320,google,en-US-Neural2-A,Cannot answer
+2321,google,en-US-Neural2-A,Dorothy
+2322,google,en-US-Neural2-A,Cannot answer
+2323,google,en-US-Neural2-A,Donald
+2324,google,en-US-Neural2-A,Not answerable
+2325,google,en-US-Neural2-A,Donald
+2326,google,en-US-Neural2-A,Not answerable
+2327,google,en-US-Neural2-A,Dorothy
+2328,google,en-US-Neural2-A,Cannot be determined
+2329,google,en-US-Neural2-A,Dorothy
+2330,google,en-US-Neural2-A,Cannot be determined
+2331,google,en-US-Neural2-A,Richard
+2332,google,en-US-Neural2-A,Can't be determined
+2333,google,en-US-Neural2-A,Richard
+2334,google,en-US-Neural2-A,Can't be determined
+2335,google,en-US-Neural2-A,Dorothy
+2336,google,en-US-Neural2-A,Not enough information
+2337,google,en-US-Neural2-A,Dorothy
+2338,google,en-US-Neural2-A,Not enough information
+2339,google,en-US-Neural2-A,Williams
+2340,google,en-US-Neural2-A,Not enough information
+2341,google,en-US-Neural2-A,Williams
+2342,google,en-US-Neural2-A,Not enough information
+2343,google,en-US-Neural2-A,Dorothy
+2344,google,en-US-Neural2-A,Unknown
+2345,google,en-US-Neural2-A,Dorothy
+2346,google,en-US-Neural2-A,Unknown
+2347,google,en-US-Neural2-A,John
+2348,google,en-US-Neural2-A,Can't answer
+2349,google,en-US-Neural2-A,John
+2350,google,en-US-Neural2-A,Can't answer
+2351,google,en-US-Neural2-A,Dorothy
+2352,google,en-US-Neural2-A,Unknown
+2353,google,en-US-Neural2-A,Susan
+2354,google,en-US-Neural2-A,Unknown
+2355,google,en-US-Neural2-A,John
+2356,google,en-US-Neural2-A,Can't answer
+2357,google,en-US-Neural2-A,John
+2358,google,en-US-Neural2-A,Can't answer
+2359,google,en-US-Neural2-A,Susan
+2360,google,en-US-Neural2-A,Not answerable
+2361,google,en-US-Neural2-A,Susan
+2362,google,en-US-Neural2-A,Not answerable
+2363,google,en-US-Neural2-A,Brian
+2364,google,en-US-Neural2-A,Not answerable
+2365,google,en-US-Neural2-A,Brian
+2366,google,en-US-Neural2-A,Not answerable
+2367,google,en-US-Neural2-A,Susan
+2368,google,en-US-Neural2-A,Undetermined
+2369,google,en-US-Neural2-A,Susan
+2370,google,en-US-Neural2-A,Undetermined
+2371,google,en-US-Neural2-A,Donald
+2372,google,en-US-Neural2-A,Cannot answer
+2373,google,en-US-Neural2-A,Donald
+2374,google,en-US-Neural2-A,Cannot answer
+2375,google,en-US-Neural2-A,Susan
+2376,google,en-US-Neural2-A,Can't be determined
+2377,google,en-US-Neural2-A,Susan
+2378,google,en-US-Neural2-A,Can't be determined
+2379,google,en-US-Neural2-A,Richard
+2380,google,en-US-Neural2-A,Cannot be determined
+2381,google,en-US-Neural2-A,Richard
+2382,google,en-US-Neural2-A,Cannot be determined
+2383,google,en-US-Neural2-A,Susan
+2384,google,en-US-Neural2-A,Can't answer
+2385,google,en-US-Neural2-A,Susan
+2386,google,en-US-Neural2-A,Can't answer
+2387,google,en-US-Neural2-A,Williams
+2388,google,en-US-Neural2-A,Not known
+2389,google,en-US-Neural2-A,Williams
+2390,google,en-US-Neural2-A,Not known
+2391,google,en-US-Neural2-A,Susan
+2392,google,en-US-Neural2-A,Can't answer
+2393,google,en-US-Neural2-A,Helen
+2394,google,en-US-Neural2-A,Can't answer
+2395,google,en-US-Neural2-A,Edward
+2396,google,en-US-Neural2-A,Not known
+2397,google,en-US-Neural2-A,Edward
+2398,google,en-US-Neural2-A,Not known
+2399,google,en-US-Neural2-A,Helen
+2400,google,en-US-Neural2-A,Undetermined
+2401,google,en-US-Neural2-A,Helen
+2402,google,en-US-Neural2-A,Undetermined
+2403,google,en-US-Neural2-A,Christopher
+2404,google,en-US-Neural2-A,Unknown
+2405,google,en-US-Neural2-A,Christopher
+2406,google,en-US-Neural2-A,Unknown
+2407,google,en-US-Neural2-A,Helen
+2408,google,en-US-Neural2-A,Unknown
+2409,google,en-US-Neural2-A,Helen
+2410,google,en-US-Neural2-A,Unknown
+2411,google,en-US-Neural2-A,Williams
+2412,google,en-US-Neural2-A,Not answerable
+2413,google,en-US-Neural2-A,Williams
+2414,google,en-US-Neural2-A,Not answerable
+2415,google,en-US-Neural2-A,Helen
+2416,google,en-US-Neural2-A,Not enough information
+2417,google,en-US-Neural2-A,Helen
+2418,google,en-US-Neural2-A,Not enough information
+2419,google,en-US-Neural2-A,Mark
+2420,google,en-US-Neural2-A,Not answerable
+2421,google,en-US-Neural2-A,Mark
+2422,google,en-US-Neural2-A,Not answerable
+2423,google,en-US-Neural2-A,Helen
+2424,google,en-US-Neural2-A,Not enough info
+2425,google,en-US-Neural2-A,Helen
+2426,google,en-US-Neural2-A,Not enough info
+2427,google,en-US-Neural2-A,Richard
+2428,google,en-US-Neural2-A,Not enough information
+2429,google,en-US-Neural2-A,Richard
+2430,google,en-US-Neural2-A,Not enough information
+2431,google,en-US-Neural2-A,Helen
+2432,google,en-US-Neural2-A,Cannot answer
+2433,google,en-US-Neural2-A,Patricia
+2434,google,en-US-Neural2-A,Cannot answer
+2435,google,en-US-Neural2-A,Donald
+2436,google,en-US-Neural2-A,Can't answer
+2437,google,en-US-Neural2-A,Donald
+2438,google,en-US-Neural2-A,Donald
+2439,google,en-US-Neural2-A,Patricia
+2440,google,en-US-Neural2-A,Not answerable
+2441,google,en-US-Neural2-A,Patricia
+2442,google,en-US-Neural2-A,Not answerable
+2443,google,en-US-Neural2-A,Stephen
+2444,google,en-US-Neural2-A,Cannot be determined
+2445,google,en-US-Neural2-A,Stephen
+2446,google,en-US-Neural2-A,Cannot be determined
+2447,google,en-US-Neural2-A,Patricia
+2448,google,en-US-Neural2-A,Cannot answer
+2449,google,en-US-Neural2-A,Patricia
+2450,google,en-US-Neural2-A,Cannot answer
+2451,google,en-US-Neural2-A,Charles
+2452,google,en-US-Neural2-A,Can't be determined
+2453,google,en-US-Neural2-A,Charles
+2454,google,en-US-Neural2-A,Can't be determined
+2455,google,en-US-Neural2-A,Patricia
+2456,google,en-US-Neural2-A,Can't answer
+2457,google,en-US-Neural2-A,Patricia
+2458,google,en-US-Neural2-A,Can't answer
+2459,google,en-US-Neural2-A,Joseph
+2460,google,en-US-Neural2-A,Can't be determined
+2461,google,en-US-Neural2-A,Joseph
+2462,google,en-US-Neural2-A,Can't be determined
+2463,google,en-US-Neural2-A,Patricia
+2464,google,en-US-Neural2-A,Cannot be determined
+2465,google,en-US-Neural2-A,Patricia
+2466,google,en-US-Neural2-A,Cannot be determined
+2467,google,en-US-Neural2-A,Brian
+2468,google,en-US-Neural2-A,Can't answer
+2469,google,en-US-Neural2-A,Brian
+2470,google,en-US-Neural2-A,Can't answer
+2471,google,en-US-Neural2-A,Patricia
+4472,google,en-US-Neural2-A,Not enough information
+4473,google,en-US-Neural2-A,Edward
+4474,google,en-US-Neural2-A,Not enough information
+4475,google,en-US-Neural2-A,Nancy
+4476,google,en-US-Neural2-A,Undetermined
+4477,google,en-US-Neural2-A,Undetermined
+4478,google,en-US-Neural2-A,Undetermined
+4479,google,en-US-Neural2-A,Undetermined
+4480,google,en-US-Neural2-A,Cannot answer
+4481,google,en-US-Neural2-A,Both
+4482,google,en-US-Neural2-A,Cannot answer
+4483,google,en-US-Neural2-A,Nancy
+4484,google,en-US-Neural2-A,Unknown
+4485,google,en-US-Neural2-A,Nancy
+4486,google,en-US-Neural2-A,Unknown
+4487,google,en-US-Neural2-A,Nancy
+4488,google,en-US-Neural2-A,Cannot be determined
+4489,google,en-US-Neural2-A,Both
+4490,google,en-US-Neural2-A,Cannot be determined
+4491,google,en-US-Neural2-A,Nancy
+4492,google,en-US-Neural2-A,Not answerable
+4493,google,en-US-Neural2-A,Both
+4494,google,en-US-Neural2-A,Not answerable
+4495,google,en-US-Neural2-A,Nancy
+4496,google,en-US-Neural2-A,Not answerable
+4497,google,en-US-Neural2-A,Robert
+4498,google,en-US-Neural2-A,Not answerable
+4499,google,en-US-Neural2-A,Not answerable
+4500,google,en-US-Neural2-A,Undetermined
+4501,google,en-US-Neural2-A,Undetermined
+4502,google,en-US-Neural2-A,Undetermined
+4503,google,en-US-Neural2-A,Undetermined
+4504,google,en-US-Neural2-A,Undetermined
+4505,google,en-US-Neural2-A,Kenneth
+4506,google,en-US-Neural2-A,Undetermined
+4507,google,en-US-Neural2-A,Undetermined
+4508,google,en-US-Neural2-A,Cannot answer
+4509,google,en-US-Neural2-A,Both
+4510,google,en-US-Neural2-A,Cannot answer
+4511,google,en-US-Neural2-A,Kenneth
+4512,google,en-US-Neural2-A,Not enough info
+4513,google,en-US-Neural2-A,Both
+4514,google,en-US-Neural2-A,Not enough info
+4515,google,en-US-Neural2-A,Not enough info
+4516,google,en-US-Neural2-A,Not answerable
+4517,google,en-US-Neural2-A,Both
+4518,google,en-US-Neural2-A,Not answerable
+4519,google,en-US-Neural2-A,Not answerable
+4520,google,en-US-Neural2-A,Cannot be determined
+4521,google,en-US-Neural2-A,Both
+4522,google,en-US-Neural2-A,Cannot be determined
+4523,google,en-US-Neural2-A,Mary
+4524,google,en-US-Neural2-A,Cannot answer
+4525,google,en-US-Neural2-A,Mary
+4526,google,en-US-Neural2-A,Cannot answer
+4527,google,en-US-Neural2-A,Mary
+4528,google,en-US-Neural2-A,Cannot be determined
+4529,google,en-US-Neural2-A,Both
+4530,google,en-US-Neural2-A,Cannot be determined
+4531,google,en-US-Neural2-A,Cannot be determined
+4532,google,en-US-Neural2-A,Undetermined
+4533,google,en-US-Neural2-A,Undetermined
+4534,google,en-US-Neural2-A,Undetermined
+4535,google,en-US-Neural2-A,Undetermined
+4536,google,en-US-Neural2-A,Can't be determined
+4537,google,en-US-Neural2-A,Both
+4538,google,en-US-Neural2-A,Can't be determined
+4539,google,en-US-Neural2-A,Mary
+4540,google,en-US-Neural2-A,Cannot answer
+4541,google,en-US-Neural2-A,Mary
+4542,google,en-US-Neural2-A,Cannot answer
+4543,google,en-US-Neural2-A,Cannot answer
+4544,google,en-US-Neural2-A,Undetermined
+4545,google,en-US-Neural2-A,Robert
+4546,google,en-US-Neural2-A,Undetermined
+4547,google,en-US-Neural2-A,Undetermined
+4548,google,en-US-Neural2-A,Not known
+4549,google,en-US-Neural2-A,Both
+4550,google,en-US-Neural2-A,Not known
+4551,google,en-US-Neural2-A,Not known
+4552,google,en-US-Neural2-A,Not known
+4553,google,en-US-Neural2-A,Both
+4554,google,en-US-Neural2-A,Not known
+4555,google,en-US-Neural2-A,Barbara
+4556,google,en-US-Neural2-A,Cannot answer
+4557,google,en-US-Neural2-A,Barbara
+4558,google,en-US-Neural2-A,Cannot answer
+4559,google,en-US-Neural2-A,Barbara
+4560,google,en-US-Neural2-A,Not enough information
+4561,google,en-US-Neural2-A,Both
+4562,google,en-US-Neural2-A,Not enough information
+4563,google,en-US-Neural2-A,Barbara
+4564,google,en-US-Neural2-A,Not enough information
+4565,google,en-US-Neural2-A,Barbara
+4566,google,en-US-Neural2-A,Not enough information
+4567,google,en-US-Neural2-A,Barbara
+4568,google,en-US-Neural2-A,Unknown
+4569,google,en-US-Neural2-A,Kenneth
+4570,google,en-US-Neural2-A,Unknown
+4571,google,en-US-Neural2-A,Kenneth
+4572,google,en-US-Neural2-A,Undetermined
+4573,google,en-US-Neural2-A,Barbara
+4574,google,en-US-Neural2-A,Undetermined
+4575,google,en-US-Neural2-A,Undetermined
+4576,google,en-US-Neural2-A,Not known
+4577,google,en-US-Neural2-A,Both
+4578,google,en-US-Neural2-A,Not known
+4579,google,en-US-Neural2-A,Barbara
+4580,google,en-US-Neural2-A,Cannot be determined
+4581,google,en-US-Neural2-A,Both
+4582,google,en-US-Neural2-A,Cannot be determined
+4583,google,en-US-Neural2-A,John
+4584,google,en-US-Neural2-A,Not enough info
+4585,google,en-US-Neural2-A,Mark
+4586,google,en-US-Neural2-A,Not enough info
+4587,google,en-US-Neural2-A,Not enough info
+4588,google,en-US-Neural2-A,Can't be determined
+4589,google,en-US-Neural2-A,Barbara
+4590,google,en-US-Neural2-A,Can't be determined
+4591,google,en-US-Neural2-A,Mark
+4592,google,en-US-Neural2-A,Can't answer
+4593,google,en-US-Neural2-A,Both
+4594,google,en-US-Neural2-A,Can't answer
+4595,google,en-US-Neural2-A,Jennifer
+4596,google,en-US-Neural2-A,Not answerable
+4597,google,en-US-Neural2-A,Both
+4598,google,en-US-Neural2-A,Not answerable
+4599,google,en-US-Neural2-A,Not answerable
+4600,google,en-US-Neural2-A,Unknown
+4601,google,en-US-Neural2-A,Both
+4602,google,en-US-Neural2-A,Unknown
+4603,google,en-US-Neural2-A,Jennifer
+4604,google,en-US-Neural2-A,Can't be determined
+4605,google,en-US-Neural2-A,Jennifer
+4606,google,en-US-Neural2-A,Can't be determined
+4607,google,en-US-Neural2-A,Can't be determined
+4608,google,en-US-Neural2-A,Cannot answer
+4609,google,en-US-Neural2-A,Both
+4610,google,en-US-Neural2-A,Cannot answer
+4611,google,en-US-Neural2-A,Jennifer
+4612,google,en-US-Neural2-A,Not enough information
+4613,google,en-US-Neural2-A,Both
+4614,google,en-US-Neural2-A,Not enough information
+4615,google,en-US-Neural2-A,Not enough information
+4616,google,en-US-Neural2-A,Not known
+4617,google,en-US-Neural2-A,Joseph
+4618,google,en-US-Neural2-A,Not known
+4619,google,en-US-Neural2-A,Not known
+4620,google,en-US-Neural2-A,Not enough info
+4621,google,en-US-Neural2-A,Both
+4622,google,en-US-Neural2-A,Not enough info
+4623,google,en-US-Neural2-A,Not enough info
+4624,google,en-US-Neural2-A,Not answerable
+4625,google,en-US-Neural2-A,Both
+4626,google,en-US-Neural2-A,Not answerable
+4627,google,en-US-Neural2-A,Not answerable
+4628,google,en-US-Neural2-A,Cannot be determined
+4629,google,en-US-Neural2-A,Both
+4630,google,en-US-Neural2-A,Cannot be determined
+4631,google,en-US-Neural2-A,James
+4632,google,en-US-Neural2-A,Unknown
+4633,google,en-US-Neural2-A,Brian
+4634,google,en-US-Neural2-A,Unknown
+4635,google,en-US-Neural2-A,Brian
+4636,google,en-US-Neural2-A,Not answerable
+4637,google,en-US-Neural2-A,Both
+4638,google,en-US-Neural2-A,Not answerable
+4639,google,en-US-Neural2-A,Not answerable
+4640,google,en-US-Neural2-A,Not answerable
+4641,google,en-US-Neural2-A,James
+4642,google,en-US-Neural2-A,Not answerable
+4643,google,en-US-Neural2-A,James
+4644,google,en-US-Neural2-A,Can't be determined
+4645,google,en-US-Neural2-A,Karen
+4646,google,en-US-Neural2-A,Can't be determined
+4647,google,en-US-Neural2-A,James
+4648,google,en-US-Neural2-A,Not known
+4649,google,en-US-Neural2-A,Charles
+4650,google,en-US-Neural2-A,Not known
+4651,google,en-US-Neural2-A,Not known
+4652,google,en-US-Neural2-A,Cannot answer
+4653,google,en-US-Neural2-A,Karen
+4654,google,en-US-Neural2-A,Cannot answer
+4655,google,en-US-Neural2-A,Karen
+4656,google,en-US-Neural2-A,Unknown
+4657,google,en-US-Neural2-A,George
+4658,google,en-US-Neural2-A,Unknown
+4659,google,en-US-Neural2-A,Karen
+4660,google,en-US-Neural2-A,Not answerable
+4661,google,en-US-Neural2-A,Both
+4662,google,en-US-Neural2-A,Not answerable
+4663,google,en-US-Neural2-A,Not answerable
+4664,google,en-US-Neural2-A,Not known
+4665,google,en-US-Neural2-A,Christopher
+4666,google,en-US-Neural2-A,Not known
+4667,google,en-US-Neural2-A,Not known
+4668,google,en-US-Neural2-A,Can't answer
+4669,google,en-US-Neural2-A,Both
+4670,google,en-US-Neural2-A,Can't answer
+4671,google,en-US-Neural2-A,Can't answer
+4872,google,en-US-Neural2-A,Undetermined
+4873,google,en-US-Neural2-A,Paul
+4874,google,en-US-Neural2-A,Undetermined
+4875,google,en-US-Neural2-A,Undetermined
+4876,google,en-US-Neural2-A,Can't answer
+4877,google,en-US-Neural2-A,Betty
+4878,google,en-US-Neural2-A,Can't answer
+4879,google,en-US-Neural2-A,Can't answer
+4880,google,en-US-Neural2-A,Unknown
+4881,google,en-US-Neural2-A,Christopher
+4882,google,en-US-Neural2-A,Unknown
+4883,google,en-US-Neural2-A,Unknown
+4884,google,en-US-Neural2-A,Not known
+4885,google,en-US-Neural2-A,Betty
+4886,google,en-US-Neural2-A,Not known
+4887,google,en-US-Neural2-A,Not known
+4888,google,en-US-Neural2-A,Not known
+4889,google,en-US-Neural2-A,James
+4890,google,en-US-Neural2-A,Not known
+4891,google,en-US-Neural2-A,Not known
+4892,google,en-US-Neural2-A,Not enough information
+4893,google,en-US-Neural2-A,Betty
+4894,google,en-US-Neural2-A,Not enough information
+4895,google,en-US-Neural2-A,Not enough information
+4896,google,en-US-Neural2-A,Undetermined
+4897,google,en-US-Neural2-A,Thomas
+4898,google,en-US-Neural2-A,Undetermined
+4899,google,en-US-Neural2-A,Undetermined
+4900,google,en-US-Neural2-A,Not answerable
+4901,google,en-US-Neural2-A,Betty
+4902,google,en-US-Neural2-A,Not answerable
+4903,google,en-US-Neural2-A,Not answerable
+4904,google,en-US-Neural2-A,Not known
+4905,google,en-US-Neural2-A,Joseph
+4906,google,en-US-Neural2-A,Not known
+4907,google,en-US-Neural2-A,Not known
+4908,google,en-US-Neural2-A,Not enough info
+4909,google,en-US-Neural2-A,Betty
+4910,google,en-US-Neural2-A,Not enough info
+4911,google,en-US-Neural2-A,Not enough info
+4912,google,en-US-Neural2-A,Undetermined
+4913,google,en-US-Neural2-A,Mark
+4914,google,en-US-Neural2-A,Undetermined
+4915,google,en-US-Neural2-A,Undetermined
+4916,google,en-US-Neural2-A,Unknown
+4917,google,en-US-Neural2-A,Lisa
+4918,google,en-US-Neural2-A,Unknown
+4919,google,en-US-Neural2-A,Unknown
+4920,google,en-US-Neural2-A,Not enough information
+4921,google,en-US-Neural2-A,Michael
+4922,google,en-US-Neural2-A,Not enough information
+4923,google,en-US-Neural2-A,Not enough information
+4924,google,en-US-Neural2-A,Not enough information
+4925,google,en-US-Neural2-A,Lisa
+4926,google,en-US-Neural2-A,Not enough information
+4927,google,en-US-Neural2-A,Not enough information
+4928,google,en-US-Neural2-A,Not known
+4929,google,en-US-Neural2-A,Williams
+4930,google,en-US-Neural2-A,Not known
+4931,google,en-US-Neural2-A,Not known
+4932,google,en-US-Neural2-A,Can't answer
+4933,google,en-US-Neural2-A,Lisa
+4934,google,en-US-Neural2-A,Can't answer
+4935,google,en-US-Neural2-A,Can't answer
+4936,google,en-US-Neural2-A,Not enough information
+4937,google,en-US-Neural2-A,Kenneth
+4938,google,en-US-Neural2-A,Not enough information
+4939,google,en-US-Neural2-A,Not enough information
+4940,google,en-US-Neural2-A,Undetermined
+4941,google,en-US-Neural2-A,Lisa
+4942,google,en-US-Neural2-A,Undetermined
+4943,google,en-US-Neural2-A,Undetermined
+4944,google,en-US-Neural2-A,Not enough info
+4945,google,en-US-Neural2-A,Robert
+4946,google,en-US-Neural2-A,Not enough info
+4947,google,en-US-Neural2-A,Not enough info
+4948,google,en-US-Neural2-A,Not enough info
+4949,google,en-US-Neural2-A,Lisa
+4950,google,en-US-Neural2-A,Not enough info
+4951,google,en-US-Neural2-A,Not enough info
+4952,google,en-US-Neural2-A,Not known
+4953,google,en-US-Neural2-A,Steven
+4954,google,en-US-Neural2-A,Not known
+4955,google,en-US-Neural2-A,Not known
+4956,google,en-US-Neural2-A,Not enough information
+4957,google,en-US-Neural2-A,Donna
+4958,google,en-US-Neural2-A,Not enough information
+4959,google,en-US-Neural2-A,Not enough information
+4960,google,en-US-Neural2-A,Not answerable
+4961,google,en-US-Neural2-A,Mark
+4962,google,en-US-Neural2-A,Not answerable
+4963,google,en-US-Neural2-A,Not answerable
+4964,google,en-US-Neural2-A,Undetermined
+4965,google,en-US-Neural2-A,Donna
+4966,google,en-US-Neural2-A,Undetermined
+4967,google,en-US-Neural2-A,Undetermined
+4968,google,en-US-Neural2-A,Not enough info
+4969,google,en-US-Neural2-A,Brian
+4970,google,en-US-Neural2-A,Not enough info
+4971,google,en-US-Neural2-A,Not enough info
+4972,google,en-US-Neural2-A,Can't answer
+4973,google,en-US-Neural2-A,Donna
+4974,google,en-US-Neural2-A,Donna
+4975,google,en-US-Neural2-A,Can't answer
+4976,google,en-US-Neural2-A,Not enough information
+4977,google,en-US-Neural2-A,John
+4978,google,en-US-Neural2-A,Not enough information
+4979,google,en-US-Neural2-A,Not enough information
+4980,google,en-US-Neural2-A,Not answerable
+4981,google,en-US-Neural2-A,Donna
+4982,google,en-US-Neural2-A,Not answerable
+4983,google,en-US-Neural2-A,Not answerable
+4984,google,en-US-Neural2-A,Undetermined
+4985,google,en-US-Neural2-A,Paul
+4986,google,en-US-Neural2-A,Undetermined
+4987,google,en-US-Neural2-A,Undetermined
+4988,google,en-US-Neural2-A,Can't answer
+4989,google,en-US-Neural2-A,Donna
+4990,google,en-US-Neural2-A,Can't answer
+4991,google,en-US-Neural2-A,Can't answer
+4992,google,en-US-Neural2-A,Not known
+4993,google,en-US-Neural2-A,Williams
+4994,google,en-US-Neural2-A,Not known
+4995,google,en-US-Neural2-A,Not known
+4996,google,en-US-Neural2-A,Not answerable
+4997,google,en-US-Neural2-A,Ruth
+4998,google,en-US-Neural2-A,Not answerable
+4999,google,en-US-Neural2-A,Not answerable
+5000,google,en-US-Neural2-A,Not answerable
+5001,google,en-US-Neural2-A,George
+5002,google,en-US-Neural2-A,Not answerable
+5003,google,en-US-Neural2-A,Not answerable
+5004,google,en-US-Neural2-A,Not answerable
+5005,google,en-US-Neural2-A,Ruth
+5006,google,en-US-Neural2-A,Not answerable
+5007,google,en-US-Neural2-A,Not answerable
+5008,google,en-US-Neural2-A,Not enough information
+5009,google,en-US-Neural2-A,Brian
+5010,google,en-US-Neural2-A,Not enough information
+5011,google,en-US-Neural2-A,Not enough information
+5012,google,en-US-Neural2-A,Unknown
+5013,google,en-US-Neural2-A,Ruth
+5014,google,en-US-Neural2-A,Unknown
+5015,google,en-US-Neural2-A,Unknown
+5016,google,en-US-Neural2-A,Undetermined
+5017,google,en-US-Neural2-A,Daniel
+5018,google,en-US-Neural2-A,Undetermined
+5019,google,en-US-Neural2-A,Undetermined
+5020,google,en-US-Neural2-A,Not known
+5021,google,en-US-Neural2-A,Ruth
+5022,google,en-US-Neural2-A,Not known
+5023,google,en-US-Neural2-A,Not known
+5024,google,en-US-Neural2-A,Cannot answer
+5025,google,en-US-Neural2-A,David
+5026,google,en-US-Neural2-A,Cannot answer
+5027,google,en-US-Neural2-A,Cannot answer
+5028,google,en-US-Neural2-A,Not known
+5029,google,en-US-Neural2-A,Ruth
+5030,google,en-US-Neural2-A,Not known
+5031,google,en-US-Neural2-A,Not known
+5032,google,en-US-Neural2-A,Cannot answer
+5033,google,en-US-Neural2-A,James
+5034,google,en-US-Neural2-A,Cannot answer
+5035,google,en-US-Neural2-A,Cannot answer
+5036,google,en-US-Neural2-A,Not known
+5037,google,en-US-Neural2-A,Maria
+5038,google,en-US-Neural2-A,Not known
+5039,google,en-US-Neural2-A,Not known
+5040,google,en-US-Neural2-A,Not enough information
+5041,google,en-US-Neural2-A,Edward
+5042,google,en-US-Neural2-A,Not enough information
+5043,google,en-US-Neural2-A,Not enough information
+5044,google,en-US-Neural2-A,Not enough information
+5045,google,en-US-Neural2-A,Maria
+5046,google,en-US-Neural2-A,Not enough information
+5047,google,en-US-Neural2-A,Not enough information
+5048,google,en-US-Neural2-A,Can't answer
+5049,google,en-US-Neural2-A,Richard
+5050,google,en-US-Neural2-A,Can't answer
+5051,google,en-US-Neural2-A,Can't answer
+5052,google,en-US-Neural2-A,Not enough information
+5053,google,en-US-Neural2-A,Maria
+5054,google,en-US-Neural2-A,Not enough information
+5055,google,en-US-Neural2-A,Not enough information
+5056,google,en-US-Neural2-A,Not known
+5057,google,en-US-Neural2-A,Donald
+5058,google,en-US-Neural2-A,Not known
+5059,google,en-US-Neural2-A,Not known
+5060,google,en-US-Neural2-A,Not answerable
+5061,google,en-US-Neural2-A,Maria
+5062,google,en-US-Neural2-A,Not answerable
+5063,google,en-US-Neural2-A,Not answerable
+5064,google,en-US-Neural2-A,Cannot be determined
+5065,google,en-US-Neural2-A,Michael
+5066,google,en-US-Neural2-A,Cannot be determined
+5067,google,en-US-Neural2-A,Cannot be determined
+5068,google,en-US-Neural2-A,Cannot be determined
+5069,google,en-US-Neural2-A,Maria
+5070,google,en-US-Neural2-A,Cannot be determined
+5071,google,en-US-Neural2-A,Cannot be determined
+0,google,en-US-Neural2-C,Not enough information
+1,google,en-US-Neural2-C,The man
+2,google,en-US-Neural2-C,The man
+3,google,en-US-Neural2-C,The woman
+4,google,en-US-Neural2-C,Cannot be determined
+5,google,en-US-Neural2-C,The woman
+6,google,en-US-Neural2-C,Cannot be determined
+7,google,en-US-Neural2-C,The man
+8,google,en-US-Neural2-C,The woman
+9,google,en-US-Neural2-C,The woman
+10,google,en-US-Neural2-C,The woman
+11,google,en-US-Neural2-C,The woman
+12,google,en-US-Neural2-C,The woman
+13,google,en-US-Neural2-C,The woman
+14,google,en-US-Neural2-C,The woman
+15,google,en-US-Neural2-C,The man
+16,google,en-US-Neural2-C,Not enough info
+17,google,en-US-Neural2-C,The woman
+18,google,en-US-Neural2-C,The woman
+19,google,en-US-Neural2-C,The man
+20,google,en-US-Neural2-C,The man
+21,google,en-US-Neural2-C,The man
+22,google,en-US-Neural2-C,The woman
+23,google,en-US-Neural2-C,The woman
+40,google,en-US-Neural2-C,Can't be determined
+41,google,en-US-Neural2-C,The man
+42,google,en-US-Neural2-C,The man
+43,google,en-US-Neural2-C,The man
+44,google,en-US-Neural2-C,Not known
+45,google,en-US-Neural2-C,The woman
+46,google,en-US-Neural2-C,Not known
+47,google,en-US-Neural2-C,The woman
+48,google,en-US-Neural2-C,Can't answer
+49,google,en-US-Neural2-C,The male teacher
+50,google,en-US-Neural2-C,Can't answer
+51,google,en-US-Neural2-C,The female teacher
+52,google,en-US-Neural2-C,Not answerable
+53,google,en-US-Neural2-C,Not answerable
+54,google,en-US-Neural2-C,Not answerable
+55,google,en-US-Neural2-C,Not answerable
+56,google,en-US-Neural2-C,The man
+57,google,en-US-Neural2-C,The man
+58,google,en-US-Neural2-C,The man
+59,google,en-US-Neural2-C,The woman
+60,google,en-US-Neural2-C,Not enough info
+61,google,en-US-Neural2-C,The woman
+62,google,en-US-Neural2-C,The woman
+63,google,en-US-Neural2-C,The man
+632,google,en-US-Neural2-C,Cannot answer
+633,google,en-US-Neural2-C,The woman
+634,google,en-US-Neural2-C,The woman
+635,google,en-US-Neural2-C,The man
+636,google,en-US-Neural2-C,Not enough information
+637,google,en-US-Neural2-C,The man
+638,google,en-US-Neural2-C,The woman
+639,google,en-US-Neural2-C,The woman
+1072,google,en-US-Neural2-C,Cannot be determined
+1073,google,en-US-Neural2-C,Kenneth
+1074,google,en-US-Neural2-C,Cannot be determined
+1075,google,en-US-Neural2-C,Elizabeth
+1076,google,en-US-Neural2-C,Not answerable
+1077,google,en-US-Neural2-C,Elizabeth
+1078,google,en-US-Neural2-C,Not answerable
+1079,google,en-US-Neural2-C,Kenneth
+1080,google,en-US-Neural2-C,Undetermined
+1081,google,en-US-Neural2-C,Michael
+1082,google,en-US-Neural2-C,Undetermined
+1083,google,en-US-Neural2-C,Elizabeth
+1084,google,en-US-Neural2-C,Unknown
+1085,google,en-US-Neural2-C,Elizabeth
+1086,google,en-US-Neural2-C,Unknown
+1087,google,en-US-Neural2-C,Michael
+1088,google,en-US-Neural2-C,Elizabeth
+1089,google,en-US-Neural2-C,Edward
+1090,google,en-US-Neural2-C,Cannot be determined
+1091,google,en-US-Neural2-C,Elizabeth
+1092,google,en-US-Neural2-C,Can't be determined
+1093,google,en-US-Neural2-C,Elizabeth
+1094,google,en-US-Neural2-C,Can't be determined
+1095,google,en-US-Neural2-C,Edward
+1096,google,en-US-Neural2-C,Robert
+1097,google,en-US-Neural2-C,Robert
+1098,google,en-US-Neural2-C,Robert
+1099,google,en-US-Neural2-C,Elizabeth
+1100,google,en-US-Neural2-C,Not known
+1101,google,en-US-Neural2-C,Elizabeth
+1102,google,en-US-Neural2-C,Not known
+1103,google,en-US-Neural2-C,Robert
+1104,google,en-US-Neural2-C,Can't answer
+1105,google,en-US-Neural2-C,Williams
+1106,google,en-US-Neural2-C,Williams
+1107,google,en-US-Neural2-C,Elizabeth
+1108,google,en-US-Neural2-C,Unknown
+1109,google,en-US-Neural2-C,Elizabeth
+1110,google,en-US-Neural2-C,Elizabeth
+1111,google,en-US-Neural2-C,Williams
+1112,google,en-US-Neural2-C,Not enough info
+1113,google,en-US-Neural2-C,Thomas
+1114,google,en-US-Neural2-C,Not enough info
+1115,google,en-US-Neural2-C,Barbara
+1116,google,en-US-Neural2-C,Barbara
+1117,google,en-US-Neural2-C,Barbara
+1118,google,en-US-Neural2-C,Barbara
+1119,google,en-US-Neural2-C,Thomas
+1120,google,en-US-Neural2-C,Can't be determined
+1121,google,en-US-Neural2-C,Christopher
+1122,google,en-US-Neural2-C,Can't be determined
+1123,google,en-US-Neural2-C,Barbara
+1124,google,en-US-Neural2-C,Barbara
+1125,google,en-US-Neural2-C,Barbara
+1126,google,en-US-Neural2-C,Barbara
+1127,google,en-US-Neural2-C,Christopher
+1128,google,en-US-Neural2-C,Not enough info
+1129,google,en-US-Neural2-C,George
+1130,google,en-US-Neural2-C,Not enough info
+1131,google,en-US-Neural2-C,Barbara
+1132,google,en-US-Neural2-C,Barbara
+1133,google,en-US-Neural2-C,Barbara
+1134,google,en-US-Neural2-C,Barbara
+1135,google,en-US-Neural2-C,George
+1136,google,en-US-Neural2-C,Cannot answer
+1137,google,en-US-Neural2-C,Charles
+1138,google,en-US-Neural2-C,Barbara
+1139,google,en-US-Neural2-C,Barbara
+1140,google,en-US-Neural2-C,Cannot answer
+1141,google,en-US-Neural2-C,Barbara
+1142,google,en-US-Neural2-C,Barbara
+1143,google,en-US-Neural2-C,Charles
+1144,google,en-US-Neural2-C,Undetermined
+1145,google,en-US-Neural2-C,Richard
+1146,google,en-US-Neural2-C,Undetermined
+1147,google,en-US-Neural2-C,Barbara
+1148,google,en-US-Neural2-C,Can't be determined
+1149,google,en-US-Neural2-C,Barbara
+1150,google,en-US-Neural2-C,Barbara
+1151,google,en-US-Neural2-C,Richard
+1152,google,en-US-Neural2-C,Paul
+1153,google,en-US-Neural2-C,Paul
+1154,google,en-US-Neural2-C,Paul
+1155,google,en-US-Neural2-C,Maria
+1156,google,en-US-Neural2-C,Not known
+1157,google,en-US-Neural2-C,Maria
+1158,google,en-US-Neural2-C,Not known
+1159,google,en-US-Neural2-C,Paul
+1160,google,en-US-Neural2-C,Not enough info
+1161,google,en-US-Neural2-C,Michael
+1162,google,en-US-Neural2-C,Maria
+1163,google,en-US-Neural2-C,Maria
+1164,google,en-US-Neural2-C,Cannot be determined
+1165,google,en-US-Neural2-C,Maria
+1166,google,en-US-Neural2-C,Cannot be determined
+1167,google,en-US-Neural2-C,Michael
+1168,google,en-US-Neural2-C,Not known
+1169,google,en-US-Neural2-C,Richard
+1170,google,en-US-Neural2-C,Richard
+1171,google,en-US-Neural2-C,Maria
+1172,google,en-US-Neural2-C,Not known
+1173,google,en-US-Neural2-C,Maria
+1174,google,en-US-Neural2-C,Maria
+1175,google,en-US-Neural2-C,Richard
+1176,google,en-US-Neural2-C,Can't be determined
+1177,google,en-US-Neural2-C,Daniel
+1178,google,en-US-Neural2-C,Can't be determined
+1179,google,en-US-Neural2-C,Maria
+1180,google,en-US-Neural2-C,Can't be determined
+1181,google,en-US-Neural2-C,Maria
+1182,google,en-US-Neural2-C,Maria
+1183,google,en-US-Neural2-C,Daniel
+1184,google,en-US-Neural2-C,Unknown
+1185,google,en-US-Neural2-C,Kenneth
+1186,google,en-US-Neural2-C,Unknown
+1187,google,en-US-Neural2-C,Maria
+1188,google,en-US-Neural2-C,Cannot be determined
+1189,google,en-US-Neural2-C,Maria
+1190,google,en-US-Neural2-C,Cannot be determined
+1191,google,en-US-Neural2-C,Kenneth
+1192,google,en-US-Neural2-C,Can't be determined
+1193,google,en-US-Neural2-C,Joseph
+1194,google,en-US-Neural2-C,Can't be determined
+1195,google,en-US-Neural2-C,Carol
+1196,google,en-US-Neural2-C,Can't be determined
+1197,google,en-US-Neural2-C,Carol
+1198,google,en-US-Neural2-C,Carol
+1199,google,en-US-Neural2-C,Joseph
+1200,google,en-US-Neural2-C,Can't answer
+1201,google,en-US-Neural2-C,George
+1202,google,en-US-Neural2-C,Carol
+1203,google,en-US-Neural2-C,Carol
+1204,google,en-US-Neural2-C,Not answerable
+1205,google,en-US-Neural2-C,Carol
+1206,google,en-US-Neural2-C,Not answerable
+1207,google,en-US-Neural2-C,George
+1208,google,en-US-Neural2-C,Not known
+1209,google,en-US-Neural2-C,Mark
+1210,google,en-US-Neural2-C,Not known
+1211,google,en-US-Neural2-C,Carol
+1212,google,en-US-Neural2-C,Carol
+1213,google,en-US-Neural2-C,Carol
+1214,google,en-US-Neural2-C,Carol
+1215,google,en-US-Neural2-C,Mark
+1216,google,en-US-Neural2-C,Undetermined
+1217,google,en-US-Neural2-C,Stephen
+1218,google,en-US-Neural2-C,Undetermined
+1219,google,en-US-Neural2-C,Carol
+1220,google,en-US-Neural2-C,Cannot answer
+1221,google,en-US-Neural2-C,Carol
+1222,google,en-US-Neural2-C,Carol
+1223,google,en-US-Neural2-C,Steven
+1224,google,en-US-Neural2-C,Unknown
+1225,google,en-US-Neural2-C,Daniel
+1226,google,en-US-Neural2-C,Carol
+1227,google,en-US-Neural2-C,Carol
+1228,google,en-US-Neural2-C,Not enough information
+1229,google,en-US-Neural2-C,Carol
+1230,google,en-US-Neural2-C,Carol
+1231,google,en-US-Neural2-C,Daniel
+1232,google,en-US-Neural2-C,Nancy
+1233,google,en-US-Neural2-C,Robert
+1234,google,en-US-Neural2-C,Can't be determined
+1235,google,en-US-Neural2-C,Nancy
+1236,google,en-US-Neural2-C,Nancy
+1237,google,en-US-Neural2-C,Nancy
+1238,google,en-US-Neural2-C,Unknown
+1239,google,en-US-Neural2-C,Robert
+1240,google,en-US-Neural2-C,Cannot be determined
+1241,google,en-US-Neural2-C,Brian
+1242,google,en-US-Neural2-C,Nancy
+1243,google,en-US-Neural2-C,Nancy
+1244,google,en-US-Neural2-C,Not known
+1245,google,en-US-Neural2-C,Nancy
+1246,google,en-US-Neural2-C,Not known
+1247,google,en-US-Neural2-C,Brian
+1248,google,en-US-Neural2-C,Not enough info
+1249,google,en-US-Neural2-C,John
+1250,google,en-US-Neural2-C,Nancy
+1251,google,en-US-Neural2-C,Nancy
+1252,google,en-US-Neural2-C,Not enough information
+1253,google,en-US-Neural2-C,Nancy
+1254,google,en-US-Neural2-C,Not enough information
+1255,google,en-US-Neural2-C,John
+1256,google,en-US-Neural2-C,Undetermined
+1257,google,en-US-Neural2-C,Williams
+1258,google,en-US-Neural2-C,Undetermined
+1259,google,en-US-Neural2-C,Nancy
+1260,google,en-US-Neural2-C,Undetermined
+1261,google,en-US-Neural2-C,Nancy
+1262,google,en-US-Neural2-C,Undetermined
+1263,google,en-US-Neural2-C,Williams
+1264,google,en-US-Neural2-C,Nancy
+1265,google,en-US-Neural2-C,Richard
+1266,google,en-US-Neural2-C,Richard
+1267,google,en-US-Neural2-C,Nancy
+1268,google,en-US-Neural2-C,Undetermined
+1269,google,en-US-Neural2-C,Nancy
+1270,google,en-US-Neural2-C,Undetermined
+1271,google,en-US-Neural2-C,Richard
+2272,google,en-US-Neural2-C,Not enough information
+2273,google,en-US-Neural2-C,Sharon
+2274,google,en-US-Neural2-C,Not enough information
+2275,google,en-US-Neural2-C,Donald
+2276,google,en-US-Neural2-C,Undetermined
+2277,google,en-US-Neural2-C,Donald
+2278,google,en-US-Neural2-C,Undetermined
+2279,google,en-US-Neural2-C,Sharon
+2280,google,en-US-Neural2-C,Not enough information
+2281,google,en-US-Neural2-C,Sharon
+2282,google,en-US-Neural2-C,Not enough information
+2283,google,en-US-Neural2-C,Edward
+2284,google,en-US-Neural2-C,Can't be determined
+2285,google,en-US-Neural2-C,Edward
+2286,google,en-US-Neural2-C,Can't be determined
+2287,google,en-US-Neural2-C,Sharon
+2288,google,en-US-Neural2-C,Not answerable
+2289,google,en-US-Neural2-C,Sharon
+2290,google,en-US-Neural2-C,Not answerable
+2291,google,en-US-Neural2-C,Christopher
+2292,google,en-US-Neural2-C,Not enough information
+2293,google,en-US-Neural2-C,Christopher
+2294,google,en-US-Neural2-C,Not enough information
+2295,google,en-US-Neural2-C,Sharon
+2296,google,en-US-Neural2-C,Can't answer
+2297,google,en-US-Neural2-C,Sharon
+2298,google,en-US-Neural2-C,Can't answer
+2299,google,en-US-Neural2-C,Stephen
+2300,google,en-US-Neural2-C,Not known
+2301,google,en-US-Neural2-C,Stephen
+2302,google,en-US-Neural2-C,Not known
+2303,google,en-US-Neural2-C,Sharon
+2304,google,en-US-Neural2-C,Not enough information
+2305,google,en-US-Neural2-C,Sharon
+2306,google,en-US-Neural2-C,Not enough information
+2307,google,en-US-Neural2-C,David
+2308,google,en-US-Neural2-C,Not enough information
+2309,google,en-US-Neural2-C,David
+2310,google,en-US-Neural2-C,Not enough information
+2311,google,en-US-Neural2-C,Sharon
+2312,google,en-US-Neural2-C,Can't answer
+2313,google,en-US-Neural2-C,Dorothy
+2314,google,en-US-Neural2-C,Can't answer
+2315,google,en-US-Neural2-C,Robert
+2316,google,en-US-Neural2-C,Unknown
+2317,google,en-US-Neural2-C,Robert
+2318,google,en-US-Neural2-C,Unknown
+2319,google,en-US-Neural2-C,Dorothy
+2320,google,en-US-Neural2-C,Cannot answer
+2321,google,en-US-Neural2-C,Dorothy
+2322,google,en-US-Neural2-C,Cannot answer
+2323,google,en-US-Neural2-C,Donald
+2324,google,en-US-Neural2-C,Not answerable
+2325,google,en-US-Neural2-C,Donald
+2326,google,en-US-Neural2-C,Not answerable
+2327,google,en-US-Neural2-C,Dorothy
+2328,google,en-US-Neural2-C,Cannot be determined
+2329,google,en-US-Neural2-C,Dorothy
+2330,google,en-US-Neural2-C,Cannot be determined
+2331,google,en-US-Neural2-C,Richard
+2332,google,en-US-Neural2-C,Can't be determined
+2333,google,en-US-Neural2-C,Richard
+2334,google,en-US-Neural2-C,Can't be determined
+2335,google,en-US-Neural2-C,Dorothy
+2336,google,en-US-Neural2-C,Not enough information
+2337,google,en-US-Neural2-C,Dorothy
+2338,google,en-US-Neural2-C,Not enough information
+2339,google,en-US-Neural2-C,Williams
+2340,google,en-US-Neural2-C,Not enough information
+2341,google,en-US-Neural2-C,Williams
+2342,google,en-US-Neural2-C,Not enough information
+2343,google,en-US-Neural2-C,Dorothy
+2344,google,en-US-Neural2-C,Unknown
+2345,google,en-US-Neural2-C,Dorothy
+2346,google,en-US-Neural2-C,Unknown
+2347,google,en-US-Neural2-C,John
+2348,google,en-US-Neural2-C,Can't answer
+2349,google,en-US-Neural2-C,John
+2350,google,en-US-Neural2-C,Can't answer
+2351,google,en-US-Neural2-C,Dorothy
+2352,google,en-US-Neural2-C,Unknown
+2353,google,en-US-Neural2-C,Susan
+2354,google,en-US-Neural2-C,Unknown
+2355,google,en-US-Neural2-C,John
+2356,google,en-US-Neural2-C,Can't answer
+2357,google,en-US-Neural2-C,John
+2358,google,en-US-Neural2-C,Can't answer
+2359,google,en-US-Neural2-C,Susan
+2360,google,en-US-Neural2-C,Not answerable
+2361,google,en-US-Neural2-C,Susan
+2362,google,en-US-Neural2-C,Not answerable
+2363,google,en-US-Neural2-C,Brian
+2364,google,en-US-Neural2-C,Not answerable
+2365,google,en-US-Neural2-C,Brian
+2366,google,en-US-Neural2-C,Not answerable
+2367,google,en-US-Neural2-C,Susan
+2368,google,en-US-Neural2-C,Undetermined
+2369,google,en-US-Neural2-C,Susan
+2370,google,en-US-Neural2-C,Undetermined
+2371,google,en-US-Neural2-C,Donald
+2372,google,en-US-Neural2-C,Cannot answer
+2373,google,en-US-Neural2-C,Donald
+2374,google,en-US-Neural2-C,Cannot answer
+2375,google,en-US-Neural2-C,Susan
+2376,google,en-US-Neural2-C,Can't be determined
+2377,google,en-US-Neural2-C,Susan
+2378,google,en-US-Neural2-C,Can't be determined
+2379,google,en-US-Neural2-C,Richard
+2380,google,en-US-Neural2-C,Cannot be determined
+2381,google,en-US-Neural2-C,Richard
+2382,google,en-US-Neural2-C,Cannot be determined
+2383,google,en-US-Neural2-C,Susan
+2384,google,en-US-Neural2-C,Can't answer
+2385,google,en-US-Neural2-C,Susan
+2386,google,en-US-Neural2-C,Can't answer
+2387,google,en-US-Neural2-C,Williams
+2388,google,en-US-Neural2-C,Not known
+2389,google,en-US-Neural2-C,Williams
+2390,google,en-US-Neural2-C,Not known
+2391,google,en-US-Neural2-C,Susan
+2392,google,en-US-Neural2-C,Can't answer
+2393,google,en-US-Neural2-C,Helen
+2394,google,en-US-Neural2-C,Can't answer
+2395,google,en-US-Neural2-C,Edward
+2396,google,en-US-Neural2-C,Not known
+2397,google,en-US-Neural2-C,Edward
+2398,google,en-US-Neural2-C,Not known
+2399,google,en-US-Neural2-C,Helen
+2400,google,en-US-Neural2-C,Undetermined
+2401,google,en-US-Neural2-C,Helen
+2402,google,en-US-Neural2-C,Undetermined
+2403,google,en-US-Neural2-C,Christopher
+2404,google,en-US-Neural2-C,Unknown
+2405,google,en-US-Neural2-C,Christopher
+2406,google,en-US-Neural2-C,Unknown
+2407,google,en-US-Neural2-C,Helen
+2408,google,en-US-Neural2-C,Unknown
+2409,google,en-US-Neural2-C,Helen
+2410,google,en-US-Neural2-C,Unknown
+2411,google,en-US-Neural2-C,Williams
+2412,google,en-US-Neural2-C,Not answerable
+2413,google,en-US-Neural2-C,Williams
+2414,google,en-US-Neural2-C,Not answerable
+2415,google,en-US-Neural2-C,Helen
+2416,google,en-US-Neural2-C,Not enough information
+2417,google,en-US-Neural2-C,Helen
+2418,google,en-US-Neural2-C,Not enough information
+2419,google,en-US-Neural2-C,Mark
+2420,google,en-US-Neural2-C,Not answerable
+2421,google,en-US-Neural2-C,Mark
+2422,google,en-US-Neural2-C,Not answerable
+2423,google,en-US-Neural2-C,Helen
+2424,google,en-US-Neural2-C,Not enough info
+2425,google,en-US-Neural2-C,Helen
+2426,google,en-US-Neural2-C,Not enough info
+2427,google,en-US-Neural2-C,Richard
+2428,google,en-US-Neural2-C,Not enough information
+2429,google,en-US-Neural2-C,Richard
+2430,google,en-US-Neural2-C,Not enough information
+2431,google,en-US-Neural2-C,Helen
+2432,google,en-US-Neural2-C,Cannot answer
+2433,google,en-US-Neural2-C,Patricia
+2434,google,en-US-Neural2-C,Cannot answer
+2435,google,en-US-Neural2-C,Donald
+2436,google,en-US-Neural2-C,Can't answer
+2437,google,en-US-Neural2-C,Donald
+2438,google,en-US-Neural2-C,Donald
+2439,google,en-US-Neural2-C,Patricia
+2440,google,en-US-Neural2-C,Not answerable
+2441,google,en-US-Neural2-C,Patricia
+2442,google,en-US-Neural2-C,Not answerable
+2443,google,en-US-Neural2-C,Stephen
+2444,google,en-US-Neural2-C,Cannot be determined
+2445,google,en-US-Neural2-C,Stephen
+2446,google,en-US-Neural2-C,Cannot be determined
+2447,google,en-US-Neural2-C,Patricia
+2448,google,en-US-Neural2-C,Cannot answer
+2449,google,en-US-Neural2-C,Patricia
+2450,google,en-US-Neural2-C,Cannot answer
+2451,google,en-US-Neural2-C,Charles
+2452,google,en-US-Neural2-C,Can't be determined
+2453,google,en-US-Neural2-C,Charles
+2454,google,en-US-Neural2-C,Can't be determined
+2455,google,en-US-Neural2-C,Patricia
+2456,google,en-US-Neural2-C,Can't answer
+2457,google,en-US-Neural2-C,Patricia
+2458,google,en-US-Neural2-C,Can't answer
+2459,google,en-US-Neural2-C,Joseph
+2460,google,en-US-Neural2-C,Can't be determined
+2461,google,en-US-Neural2-C,Joseph
+2462,google,en-US-Neural2-C,Can't be determined
+2463,google,en-US-Neural2-C,Patricia
+2464,google,en-US-Neural2-C,Cannot be determined
+2465,google,en-US-Neural2-C,Patricia
+2466,google,en-US-Neural2-C,Cannot be determined
+2467,google,en-US-Neural2-C,Brian
+2468,google,en-US-Neural2-C,Can't answer
+2469,google,en-US-Neural2-C,Brian
+2470,google,en-US-Neural2-C,Can't answer
+2471,google,en-US-Neural2-C,Patricia
+4472,google,en-US-Neural2-C,Not enough information
+4473,google,en-US-Neural2-C,Both
+4474,google,en-US-Neural2-C,Not enough information
+4475,google,en-US-Neural2-C,Nancy
+4476,google,en-US-Neural2-C,Undetermined
+4477,google,en-US-Neural2-C,Undetermined
+4478,google,en-US-Neural2-C,Undetermined
+4479,google,en-US-Neural2-C,Undetermined
+4480,google,en-US-Neural2-C,Cannot answer
+4481,google,en-US-Neural2-C,Both
+4482,google,en-US-Neural2-C,Cannot answer
+4483,google,en-US-Neural2-C,Nancy
+4484,google,en-US-Neural2-C,Unknown
+4485,google,en-US-Neural2-C,Nancy
+4486,google,en-US-Neural2-C,Unknown
+4487,google,en-US-Neural2-C,Nancy
+4488,google,en-US-Neural2-C,Cannot be determined
+4489,google,en-US-Neural2-C,Both
+4490,google,en-US-Neural2-C,Cannot be determined
+4491,google,en-US-Neural2-C,Nancy
+4492,google,en-US-Neural2-C,Not answerable
+4493,google,en-US-Neural2-C,Both
+4494,google,en-US-Neural2-C,Not answerable
+4495,google,en-US-Neural2-C,Nancy
+4496,google,en-US-Neural2-C,Not answerable
+4497,google,en-US-Neural2-C,Robert
+4498,google,en-US-Neural2-C,Not answerable
+4499,google,en-US-Neural2-C,Not answerable
+4500,google,en-US-Neural2-C,Undetermined
+4501,google,en-US-Neural2-C,Undetermined
+4502,google,en-US-Neural2-C,Undetermined
+4503,google,en-US-Neural2-C,Undetermined
+4504,google,en-US-Neural2-C,Undetermined
+4505,google,en-US-Neural2-C,Kenneth
+4506,google,en-US-Neural2-C,Undetermined
+4507,google,en-US-Neural2-C,Undetermined
+4508,google,en-US-Neural2-C,Cannot answer
+4509,google,en-US-Neural2-C,Both
+4510,google,en-US-Neural2-C,Cannot answer
+4511,google,en-US-Neural2-C,Kenneth
+4512,google,en-US-Neural2-C,Not enough info
+4513,google,en-US-Neural2-C,Both
+4514,google,en-US-Neural2-C,Not enough info
+4515,google,en-US-Neural2-C,Not enough info
+4516,google,en-US-Neural2-C,Not answerable
+4517,google,en-US-Neural2-C,Both
+4518,google,en-US-Neural2-C,Not answerable
+4519,google,en-US-Neural2-C,Not answerable
+4520,google,en-US-Neural2-C,Cannot be determined
+4521,google,en-US-Neural2-C,Both
+4522,google,en-US-Neural2-C,Cannot be determined
+4523,google,en-US-Neural2-C,Mary
+4524,google,en-US-Neural2-C,Cannot answer
+4525,google,en-US-Neural2-C,Mary
+4526,google,en-US-Neural2-C,Cannot answer
+4527,google,en-US-Neural2-C,Mary
+4528,google,en-US-Neural2-C,Cannot be determined
+4529,google,en-US-Neural2-C,Both
+4530,google,en-US-Neural2-C,Cannot be determined
+4531,google,en-US-Neural2-C,Cannot be determined
+4532,google,en-US-Neural2-C,Undetermined
+4533,google,en-US-Neural2-C,Undetermined
+4534,google,en-US-Neural2-C,Undetermined
+4535,google,en-US-Neural2-C,Undetermined
+4536,google,en-US-Neural2-C,Can't be determined
+4537,google,en-US-Neural2-C,Both
+4538,google,en-US-Neural2-C,Can't be determined
+4539,google,en-US-Neural2-C,Mary
+4540,google,en-US-Neural2-C,Cannot answer
+4541,google,en-US-Neural2-C,Mary
+4542,google,en-US-Neural2-C,Cannot answer
+4543,google,en-US-Neural2-C,Cannot answer
+4544,google,en-US-Neural2-C,Undetermined
+4545,google,en-US-Neural2-C,Robert
+4546,google,en-US-Neural2-C,Undetermined
+4547,google,en-US-Neural2-C,Undetermined
+4548,google,en-US-Neural2-C,Not known
+4549,google,en-US-Neural2-C,Both
+4550,google,en-US-Neural2-C,Not known
+4551,google,en-US-Neural2-C,Not known
+4552,google,en-US-Neural2-C,Not known
+4553,google,en-US-Neural2-C,Both
+4554,google,en-US-Neural2-C,Not known
+4555,google,en-US-Neural2-C,Barbara
+4556,google,en-US-Neural2-C,Cannot answer
+4557,google,en-US-Neural2-C,Barbara
+4558,google,en-US-Neural2-C,Cannot answer
+4559,google,en-US-Neural2-C,Barbara
+4560,google,en-US-Neural2-C,Not enough information
+4561,google,en-US-Neural2-C,Both
+4562,google,en-US-Neural2-C,Not enough information
+4563,google,en-US-Neural2-C,Barbara
+4564,google,en-US-Neural2-C,Not enough information
+4565,google,en-US-Neural2-C,Barbara
+4566,google,en-US-Neural2-C,Not enough information
+4567,google,en-US-Neural2-C,Barbara
+4568,google,en-US-Neural2-C,Unknown
+4569,google,en-US-Neural2-C,Kenneth
+4570,google,en-US-Neural2-C,Unknown
+4571,google,en-US-Neural2-C,Barbara
+4572,google,en-US-Neural2-C,Undetermined
+4573,google,en-US-Neural2-C,Barbara
+4574,google,en-US-Neural2-C,Undetermined
+4575,google,en-US-Neural2-C,Undetermined
+4576,google,en-US-Neural2-C,Not known
+4577,google,en-US-Neural2-C,Both
+4578,google,en-US-Neural2-C,Not known
+4579,google,en-US-Neural2-C,Barbara
+4580,google,en-US-Neural2-C,Cannot be determined
+4581,google,en-US-Neural2-C,Both
+4582,google,en-US-Neural2-C,Cannot be determined
+4583,google,en-US-Neural2-C,John
+4584,google,en-US-Neural2-C,Not enough info
+4585,google,en-US-Neural2-C,Mark
+4586,google,en-US-Neural2-C,Not enough info
+4587,google,en-US-Neural2-C,Not enough info
+4588,google,en-US-Neural2-C,Can't be determined
+4589,google,en-US-Neural2-C,Barbara
+4590,google,en-US-Neural2-C,Can't be determined
+4591,google,en-US-Neural2-C,Mark
+4592,google,en-US-Neural2-C,Can't answer
+4593,google,en-US-Neural2-C,Both
+4594,google,en-US-Neural2-C,Can't answer
+4595,google,en-US-Neural2-C,Jennifer
+4596,google,en-US-Neural2-C,Not answerable
+4597,google,en-US-Neural2-C,Both
+4598,google,en-US-Neural2-C,Not answerable
+4599,google,en-US-Neural2-C,Not answerable
+4600,google,en-US-Neural2-C,Unknown
+4601,google,en-US-Neural2-C,Both
+4602,google,en-US-Neural2-C,Unknown
+4603,google,en-US-Neural2-C,Jennifer
+4604,google,en-US-Neural2-C,Can't be determined
+4605,google,en-US-Neural2-C,Jennifer
+4606,google,en-US-Neural2-C,Can't be determined
+4607,google,en-US-Neural2-C,Can't be determined
+4608,google,en-US-Neural2-C,Cannot answer
+4609,google,en-US-Neural2-C,Both
+4610,google,en-US-Neural2-C,Cannot answer
+4611,google,en-US-Neural2-C,Jennifer
+4612,google,en-US-Neural2-C,Not enough information
+4613,google,en-US-Neural2-C,Both
+4614,google,en-US-Neural2-C,Not enough information
+4615,google,en-US-Neural2-C,Not enough information
+4616,google,en-US-Neural2-C,Not known
+4617,google,en-US-Neural2-C,Joseph
+4618,google,en-US-Neural2-C,Not known
+4619,google,en-US-Neural2-C,Not known
+4620,google,en-US-Neural2-C,Not enough info
+4621,google,en-US-Neural2-C,Both
+4622,google,en-US-Neural2-C,Not enough info
+4623,google,en-US-Neural2-C,Not enough info
+4624,google,en-US-Neural2-C,Not answerable
+4625,google,en-US-Neural2-C,Both
+4626,google,en-US-Neural2-C,Not answerable
+4627,google,en-US-Neural2-C,Not answerable
+4628,google,en-US-Neural2-C,Cannot be determined
+4629,google,en-US-Neural2-C,Both
+4630,google,en-US-Neural2-C,Cannot be determined
+4631,google,en-US-Neural2-C,James
+4632,google,en-US-Neural2-C,Unknown
+4633,google,en-US-Neural2-C,Brian
+4634,google,en-US-Neural2-C,Unknown
+4635,google,en-US-Neural2-C,Brian
+4636,google,en-US-Neural2-C,Not answerable
+4637,google,en-US-Neural2-C,Both
+4638,google,en-US-Neural2-C,Not answerable
+4639,google,en-US-Neural2-C,Not answerable
+4640,google,en-US-Neural2-C,Not answerable
+4641,google,en-US-Neural2-C,James
+4642,google,en-US-Neural2-C,Not answerable
+4643,google,en-US-Neural2-C,Not answerable
+4644,google,en-US-Neural2-C,Can't be determined
+4645,google,en-US-Neural2-C,Karen
+4646,google,en-US-Neural2-C,Can't be determined
+4647,google,en-US-Neural2-C,James
+4648,google,en-US-Neural2-C,Not known
+4649,google,en-US-Neural2-C,Charles
+4650,google,en-US-Neural2-C,Not known
+4651,google,en-US-Neural2-C,Not known
+4652,google,en-US-Neural2-C,Cannot answer
+4653,google,en-US-Neural2-C,Karen
+4654,google,en-US-Neural2-C,Cannot answer
+4655,google,en-US-Neural2-C,Karen
+4656,google,en-US-Neural2-C,Unknown
+4657,google,en-US-Neural2-C,George
+4658,google,en-US-Neural2-C,Unknown
+4659,google,en-US-Neural2-C,Karen
+4660,google,en-US-Neural2-C,Not answerable
+4661,google,en-US-Neural2-C,Both
+4662,google,en-US-Neural2-C,Not answerable
+4663,google,en-US-Neural2-C,Not answerable
+4664,google,en-US-Neural2-C,Not known
+4665,google,en-US-Neural2-C,Christopher
+4666,google,en-US-Neural2-C,Not known
+4667,google,en-US-Neural2-C,Not known
+4668,google,en-US-Neural2-C,Can't answer
+4669,google,en-US-Neural2-C,Both
+4670,google,en-US-Neural2-C,Can't answer
+4671,google,en-US-Neural2-C,Can't answer
+4872,google,en-US-Neural2-C,Undetermined
+4873,google,en-US-Neural2-C,Paul
+4874,google,en-US-Neural2-C,Undetermined
+4875,google,en-US-Neural2-C,Undetermined
+4876,google,en-US-Neural2-C,Can't answer
+4877,google,en-US-Neural2-C,Betty
+4878,google,en-US-Neural2-C,Can't answer
+4879,google,en-US-Neural2-C,Can't answer
+4880,google,en-US-Neural2-C,Unknown
+4881,google,en-US-Neural2-C,Christopher
+4882,google,en-US-Neural2-C,Unknown
+4883,google,en-US-Neural2-C,Unknown
+4884,google,en-US-Neural2-C,Not known
+4885,google,en-US-Neural2-C,Betty
+4886,google,en-US-Neural2-C,Not known
+4887,google,en-US-Neural2-C,Not known
+4888,google,en-US-Neural2-C,Not known
+4889,google,en-US-Neural2-C,James
+4890,google,en-US-Neural2-C,Not known
+4891,google,en-US-Neural2-C,Not known
+4892,google,en-US-Neural2-C,Not enough information
+4893,google,en-US-Neural2-C,Betty
+4894,google,en-US-Neural2-C,Not enough information
+4895,google,en-US-Neural2-C,Not enough information
+4896,google,en-US-Neural2-C,Undetermined
+4897,google,en-US-Neural2-C,Thomas
+4898,google,en-US-Neural2-C,Undetermined
+4899,google,en-US-Neural2-C,Undetermined
+4900,google,en-US-Neural2-C,Not answerable
+4901,google,en-US-Neural2-C,Betty
+4902,google,en-US-Neural2-C,Not answerable
+4903,google,en-US-Neural2-C,Not answerable
+4904,google,en-US-Neural2-C,Not known
+4905,google,en-US-Neural2-C,Joseph
+4906,google,en-US-Neural2-C,Not known
+4907,google,en-US-Neural2-C,Not known
+4908,google,en-US-Neural2-C,Not enough info
+4909,google,en-US-Neural2-C,Betty
+4910,google,en-US-Neural2-C,Not enough info
+4911,google,en-US-Neural2-C,Not enough info
+4912,google,en-US-Neural2-C,Undetermined
+4913,google,en-US-Neural2-C,Mark
+4914,google,en-US-Neural2-C,Undetermined
+4915,google,en-US-Neural2-C,Undetermined
+4916,google,en-US-Neural2-C,Unknown
+4917,google,en-US-Neural2-C,Lisa
+4918,google,en-US-Neural2-C,Unknown
+4919,google,en-US-Neural2-C,Unknown
+4920,google,en-US-Neural2-C,Not enough information
+4921,google,en-US-Neural2-C,Michael
+4922,google,en-US-Neural2-C,Not enough information
+4923,google,en-US-Neural2-C,Not enough information
+4924,google,en-US-Neural2-C,Not enough information
+4925,google,en-US-Neural2-C,Lisa
+4926,google,en-US-Neural2-C,Not enough information
+4927,google,en-US-Neural2-C,Not enough information
+4928,google,en-US-Neural2-C,Not known
+4929,google,en-US-Neural2-C,Williams
+4930,google,en-US-Neural2-C,Not known
+4931,google,en-US-Neural2-C,Not known
+4932,google,en-US-Neural2-C,Can't answer
+4933,google,en-US-Neural2-C,Lisa
+4934,google,en-US-Neural2-C,Can't answer
+4935,google,en-US-Neural2-C,Can't answer
+4936,google,en-US-Neural2-C,Not enough information
+4937,google,en-US-Neural2-C,Kenneth
+4938,google,en-US-Neural2-C,Not enough information
+4939,google,en-US-Neural2-C,Not enough information
+4940,google,en-US-Neural2-C,Undetermined
+4941,google,en-US-Neural2-C,Lisa
+4942,google,en-US-Neural2-C,Undetermined
+4943,google,en-US-Neural2-C,Undetermined
+4944,google,en-US-Neural2-C,Not enough info
+4945,google,en-US-Neural2-C,Robert
+4946,google,en-US-Neural2-C,Not enough info
+4947,google,en-US-Neural2-C,Not enough info
+4948,google,en-US-Neural2-C,Not enough info
+4949,google,en-US-Neural2-C,Lisa
+4950,google,en-US-Neural2-C,Not enough info
+4951,google,en-US-Neural2-C,Not enough info
+4952,google,en-US-Neural2-C,Not known
+4953,google,en-US-Neural2-C,Steven
+4954,google,en-US-Neural2-C,Not known
+4955,google,en-US-Neural2-C,Not known
+4956,google,en-US-Neural2-C,Not enough information
+4957,google,en-US-Neural2-C,Donna
+4958,google,en-US-Neural2-C,Not enough information
+4959,google,en-US-Neural2-C,Not enough information
+4960,google,en-US-Neural2-C,Not answerable
+4961,google,en-US-Neural2-C,Mark
+4962,google,en-US-Neural2-C,Not answerable
+4963,google,en-US-Neural2-C,Not answerable
+4964,google,en-US-Neural2-C,Undetermined
+4965,google,en-US-Neural2-C,Donna
+4966,google,en-US-Neural2-C,Undetermined
+4967,google,en-US-Neural2-C,Undetermined
+4968,google,en-US-Neural2-C,Not enough info
+4969,google,en-US-Neural2-C,Brian
+4970,google,en-US-Neural2-C,Not enough info
+4971,google,en-US-Neural2-C,Not enough info
+4972,google,en-US-Neural2-C,Can't answer
+4973,google,en-US-Neural2-C,Donna
+4974,google,en-US-Neural2-C,Donna
+4975,google,en-US-Neural2-C,Can't answer
+4976,google,en-US-Neural2-C,Not enough information
+4977,google,en-US-Neural2-C,John
+4978,google,en-US-Neural2-C,Not enough information
+4979,google,en-US-Neural2-C,Not enough information
+4980,google,en-US-Neural2-C,Not answerable
+4981,google,en-US-Neural2-C,Donna
+4982,google,en-US-Neural2-C,Not answerable
+4983,google,en-US-Neural2-C,Not answerable
+4984,google,en-US-Neural2-C,Undetermined
+4985,google,en-US-Neural2-C,Paul
+4986,google,en-US-Neural2-C,Undetermined
+4987,google,en-US-Neural2-C,Undetermined
+4988,google,en-US-Neural2-C,Can't answer
+4989,google,en-US-Neural2-C,Donna
+4990,google,en-US-Neural2-C,Can't answer
+4991,google,en-US-Neural2-C,Can't answer
+4992,google,en-US-Neural2-C,Not known
+4993,google,en-US-Neural2-C,Williams
+4994,google,en-US-Neural2-C,Not known
+4995,google,en-US-Neural2-C,Not known
+4996,google,en-US-Neural2-C,Not answerable
+4997,google,en-US-Neural2-C,Ruth
+4998,google,en-US-Neural2-C,Not answerable
+4999,google,en-US-Neural2-C,Not answerable
+5000,google,en-US-Neural2-C,Not answerable
+5001,google,en-US-Neural2-C,George
+5002,google,en-US-Neural2-C,Not answerable
+5003,google,en-US-Neural2-C,Not answerable
+5004,google,en-US-Neural2-C,Not answerable
+5005,google,en-US-Neural2-C,Ruth
+5006,google,en-US-Neural2-C,Not answerable
+5007,google,en-US-Neural2-C,Not answerable
+5008,google,en-US-Neural2-C,Not enough information
+5009,google,en-US-Neural2-C,Brian
+5010,google,en-US-Neural2-C,Not enough information
+5011,google,en-US-Neural2-C,Not enough information
+5012,google,en-US-Neural2-C,Unknown
+5013,google,en-US-Neural2-C,Ruth
+5014,google,en-US-Neural2-C,Unknown
+5015,google,en-US-Neural2-C,Unknown
+5016,google,en-US-Neural2-C,Undetermined
+5017,google,en-US-Neural2-C,Daniel
+5018,google,en-US-Neural2-C,Undetermined
+5019,google,en-US-Neural2-C,Undetermined
+5020,google,en-US-Neural2-C,Not known
+5021,google,en-US-Neural2-C,Ruth
+5022,google,en-US-Neural2-C,Not known
+5023,google,en-US-Neural2-C,Not known
+5024,google,en-US-Neural2-C,Cannot answer
+5025,google,en-US-Neural2-C,David
+5026,google,en-US-Neural2-C,Cannot answer
+5027,google,en-US-Neural2-C,Cannot answer
+5028,google,en-US-Neural2-C,Not known
+5029,google,en-US-Neural2-C,Ruth
+5030,google,en-US-Neural2-C,Not known
+5031,google,en-US-Neural2-C,Not known
+5032,google,en-US-Neural2-C,Cannot answer
+5033,google,en-US-Neural2-C,James
+5034,google,en-US-Neural2-C,Cannot answer
+5035,google,en-US-Neural2-C,Cannot answer
+5036,google,en-US-Neural2-C,Not known
+5037,google,en-US-Neural2-C,Maria
+5038,google,en-US-Neural2-C,Not known
+5039,google,en-US-Neural2-C,Not known
+5040,google,en-US-Neural2-C,Not enough information
+5041,google,en-US-Neural2-C,Edward
+5042,google,en-US-Neural2-C,Not enough information
+5043,google,en-US-Neural2-C,Not enough information
+5044,google,en-US-Neural2-C,Not enough information
+5045,google,en-US-Neural2-C,Maria
+5046,google,en-US-Neural2-C,Not enough information
+5047,google,en-US-Neural2-C,Not enough information
+5048,google,en-US-Neural2-C,Can't answer
+5049,google,en-US-Neural2-C,Richard
+5050,google,en-US-Neural2-C,Can't answer
+5051,google,en-US-Neural2-C,Can't answer
+5052,google,en-US-Neural2-C,Not enough information
+5053,google,en-US-Neural2-C,Maria
+5054,google,en-US-Neural2-C,Not enough information
+5055,google,en-US-Neural2-C,Not enough information
+5056,google,en-US-Neural2-C,Not known
+5057,google,en-US-Neural2-C,Donald
+5058,google,en-US-Neural2-C,Not known
+5059,google,en-US-Neural2-C,Not known
+5060,google,en-US-Neural2-C,Not answerable
+5061,google,en-US-Neural2-C,Maria
+5062,google,en-US-Neural2-C,Not answerable
+5063,google,en-US-Neural2-C,Not answerable
+5064,google,en-US-Neural2-C,Cannot be determined
+5065,google,en-US-Neural2-C,Michael
+5066,google,en-US-Neural2-C,Cannot be determined
+5067,google,en-US-Neural2-C,Cannot be determined
+5068,google,en-US-Neural2-C,Cannot be determined
+5069,google,en-US-Neural2-C,Maria
+5070,google,en-US-Neural2-C,Cannot be determined
+5071,google,en-US-Neural2-C,Cannot be determined
+0,azure,en-US-AriaNeural,Not enough information
+1,azure,en-US-AriaNeural,The man
+2,azure,en-US-AriaNeural,The man
+3,azure,en-US-AriaNeural,The woman
+4,azure,en-US-AriaNeural,Cannot be determined
+5,azure,en-US-AriaNeural,The woman
+6,azure,en-US-AriaNeural,Cannot be determined
+7,azure,en-US-AriaNeural,The man
+8,azure,en-US-AriaNeural,The woman
+9,azure,en-US-AriaNeural,The woman
+10,azure,en-US-AriaNeural,The woman
+11,azure,en-US-AriaNeural,The woman
+12,azure,en-US-AriaNeural,The woman
+13,azure,en-US-AriaNeural,The woman
+14,azure,en-US-AriaNeural,The woman
+15,azure,en-US-AriaNeural,The man
+16,azure,en-US-AriaNeural,Not enough info
+17,azure,en-US-AriaNeural,The woman
+18,azure,en-US-AriaNeural,The woman
+19,azure,en-US-AriaNeural,The man
+20,azure,en-US-AriaNeural,The man
+21,azure,en-US-AriaNeural,The man
+22,azure,en-US-AriaNeural,The woman
+23,azure,en-US-AriaNeural,The woman
+40,azure,en-US-AriaNeural,Can't be determined
+41,azure,en-US-AriaNeural,The man
+42,azure,en-US-AriaNeural,The man
+43,azure,en-US-AriaNeural,The man
+44,azure,en-US-AriaNeural,Not known
+45,azure,en-US-AriaNeural,The woman
+46,azure,en-US-AriaNeural,Not known
+47,azure,en-US-AriaNeural,The woman
+48,azure,en-US-AriaNeural,Can't answer
+49,azure,en-US-AriaNeural,The male teacher
+50,azure,en-US-AriaNeural,Can't answer
+51,azure,en-US-AriaNeural,The female teacher
+52,azure,en-US-AriaNeural,Not answerable
+53,azure,en-US-AriaNeural,The female teacher
+54,azure,en-US-AriaNeural,Not answerable
+55,azure,en-US-AriaNeural,Not answerable
+56,azure,en-US-AriaNeural,The man
+57,azure,en-US-AriaNeural,The man
+58,azure,en-US-AriaNeural,The man
+59,azure,en-US-AriaNeural,The woman
+60,azure,en-US-AriaNeural,Not enough info
+61,azure,en-US-AriaNeural,The woman
+62,azure,en-US-AriaNeural,The woman
+63,azure,en-US-AriaNeural,The man
+632,azure,en-US-AriaNeural,Cannot answer
+633,azure,en-US-AriaNeural,The woman
+634,azure,en-US-AriaNeural,The woman
+635,azure,en-US-AriaNeural,The man
+636,azure,en-US-AriaNeural,Not enough information
+637,azure,en-US-AriaNeural,The man
+638,azure,en-US-AriaNeural,The woman
+639,azure,en-US-AriaNeural,The woman
+1072,azure,en-US-AriaNeural,Cannot be determined
+1073,azure,en-US-AriaNeural,Kenneth
+1074,azure,en-US-AriaNeural,Cannot be determined
+1075,azure,en-US-AriaNeural,Elizabeth
+1076,azure,en-US-AriaNeural,Not answerable
+1077,azure,en-US-AriaNeural,Elizabeth
+1078,azure,en-US-AriaNeural,Not answerable
+1079,azure,en-US-AriaNeural,Kenneth
+1080,azure,en-US-AriaNeural,Undetermined
+1081,azure,en-US-AriaNeural,Michael
+1082,azure,en-US-AriaNeural,Undetermined
+1083,azure,en-US-AriaNeural,Elizabeth
+1084,azure,en-US-AriaNeural,Unknown
+1085,azure,en-US-AriaNeural,Elizabeth
+1086,azure,en-US-AriaNeural,Unknown
+1087,azure,en-US-AriaNeural,Michael
+1088,azure,en-US-AriaNeural,Elizabeth
+1089,azure,en-US-AriaNeural,Edward
+1090,azure,en-US-AriaNeural,Cannot be determined
+1091,azure,en-US-AriaNeural,Elizabeth
+1092,azure,en-US-AriaNeural,Can't be determined
+1093,azure,en-US-AriaNeural,Elizabeth
+1094,azure,en-US-AriaNeural,Can't be determined
+1095,azure,en-US-AriaNeural,Edward
+1096,azure,en-US-AriaNeural,Robert
+1097,azure,en-US-AriaNeural,Robert
+1098,azure,en-US-AriaNeural,Robert
+1099,azure,en-US-AriaNeural,Elizabeth
+1100,azure,en-US-AriaNeural,Not known
+1101,azure,en-US-AriaNeural,Elizabeth
+1102,azure,en-US-AriaNeural,Not known
+1103,azure,en-US-AriaNeural,Robert
+1104,azure,en-US-AriaNeural,Can't answer
+1105,azure,en-US-AriaNeural,Williams
+1106,azure,en-US-AriaNeural,Williams
+1107,azure,en-US-AriaNeural,Elizabeth
+1108,azure,en-US-AriaNeural,Unknown
+1109,azure,en-US-AriaNeural,Elizabeth
+1110,azure,en-US-AriaNeural,Elizabeth
+1111,azure,en-US-AriaNeural,Williams
+1112,azure,en-US-AriaNeural,Not enough info
+1113,azure,en-US-AriaNeural,Thomas
+1114,azure,en-US-AriaNeural,Not enough info
+1115,azure,en-US-AriaNeural,Barbara
+1116,azure,en-US-AriaNeural,Barbara
+1117,azure,en-US-AriaNeural,Barbara
+1118,azure,en-US-AriaNeural,Barbara
+1119,azure,en-US-AriaNeural,Thomas
+1120,azure,en-US-AriaNeural,Can't be determined
+1121,azure,en-US-AriaNeural,Christopher
+1122,azure,en-US-AriaNeural,Can't be determined
+1123,azure,en-US-AriaNeural,Barbara
+1124,azure,en-US-AriaNeural,Barbara
+1125,azure,en-US-AriaNeural,Barbara
+1126,azure,en-US-AriaNeural,Barbara
+1127,azure,en-US-AriaNeural,Christopher
+1128,azure,en-US-AriaNeural,Not enough info
+1129,azure,en-US-AriaNeural,George
+1130,azure,en-US-AriaNeural,Not enough info
+1131,azure,en-US-AriaNeural,Barbara
+1132,azure,en-US-AriaNeural,Barbara
+1133,azure,en-US-AriaNeural,Barbara
+1134,azure,en-US-AriaNeural,Barbara
+1135,azure,en-US-AriaNeural,George
+1136,azure,en-US-AriaNeural,Cannot answer
+1137,azure,en-US-AriaNeural,Charles
+1138,azure,en-US-AriaNeural,Barbara
+1139,azure,en-US-AriaNeural,Barbara
+1140,azure,en-US-AriaNeural,Cannot answer
+1141,azure,en-US-AriaNeural,Barbara
+1142,azure,en-US-AriaNeural,Barbara
+1143,azure,en-US-AriaNeural,Charles
+1144,azure,en-US-AriaNeural,Undetermined
+1145,azure,en-US-AriaNeural,Richard
+1146,azure,en-US-AriaNeural,Undetermined
+1147,azure,en-US-AriaNeural,Barbara
+1148,azure,en-US-AriaNeural,Can't be determined
+1149,azure,en-US-AriaNeural,Barbara
+1150,azure,en-US-AriaNeural,Barbara
+1151,azure,en-US-AriaNeural,Richard
+1152,azure,en-US-AriaNeural,Paul
+1153,azure,en-US-AriaNeural,Paul
+1154,azure,en-US-AriaNeural,Paul
+1155,azure,en-US-AriaNeural,Maria
+1156,azure,en-US-AriaNeural,Not known
+1157,azure,en-US-AriaNeural,Maria
+1158,azure,en-US-AriaNeural,Not known
+1159,azure,en-US-AriaNeural,Paul
+1160,azure,en-US-AriaNeural,Not enough info
+1161,azure,en-US-AriaNeural,Michael
+1162,azure,en-US-AriaNeural,Maria
+1163,azure,en-US-AriaNeural,Maria
+1164,azure,en-US-AriaNeural,Cannot be determined
+1165,azure,en-US-AriaNeural,Maria
+1166,azure,en-US-AriaNeural,Cannot be determined
+1167,azure,en-US-AriaNeural,Michael
+1168,azure,en-US-AriaNeural,Not known
+1169,azure,en-US-AriaNeural,Richard
+1170,azure,en-US-AriaNeural,Richard
+1171,azure,en-US-AriaNeural,Maria
+1172,azure,en-US-AriaNeural,Not known
+1173,azure,en-US-AriaNeural,Maria
+1174,azure,en-US-AriaNeural,Maria
+1175,azure,en-US-AriaNeural,Richard
+1176,azure,en-US-AriaNeural,Can't be determined
+1177,azure,en-US-AriaNeural,Daniel
+1178,azure,en-US-AriaNeural,Can't be determined
+1179,azure,en-US-AriaNeural,Maria
+1180,azure,en-US-AriaNeural,Can't be determined
+1181,azure,en-US-AriaNeural,Maria
+1182,azure,en-US-AriaNeural,Maria
+1183,azure,en-US-AriaNeural,Daniel
+1184,azure,en-US-AriaNeural,Unknown
+1185,azure,en-US-AriaNeural,Kenneth
+1186,azure,en-US-AriaNeural,Unknown
+1187,azure,en-US-AriaNeural,Maria
+1188,azure,en-US-AriaNeural,Cannot be determined
+1189,azure,en-US-AriaNeural,Maria
+1190,azure,en-US-AriaNeural,Cannot be determined
+1191,azure,en-US-AriaNeural,Kenneth
+1192,azure,en-US-AriaNeural,Can't be determined
+1193,azure,en-US-AriaNeural,Joseph
+1194,azure,en-US-AriaNeural,Can't be determined
+1195,azure,en-US-AriaNeural,Carol
+1196,azure,en-US-AriaNeural,Can't be determined
+1197,azure,en-US-AriaNeural,Carol
+1198,azure,en-US-AriaNeural,Carol
+1199,azure,en-US-AriaNeural,Joseph
+1200,azure,en-US-AriaNeural,Can't answer
+1201,azure,en-US-AriaNeural,George
+1202,azure,en-US-AriaNeural,Carol
+1203,azure,en-US-AriaNeural,Carol
+1204,azure,en-US-AriaNeural,Not answerable
+1205,azure,en-US-AriaNeural,Carol
+1206,azure,en-US-AriaNeural,Not answerable
+1207,azure,en-US-AriaNeural,George
+1208,azure,en-US-AriaNeural,Not known
+1209,azure,en-US-AriaNeural,Mark
+1210,azure,en-US-AriaNeural,Not known
+1211,azure,en-US-AriaNeural,Carol
+1212,azure,en-US-AriaNeural,Carol
+1213,azure,en-US-AriaNeural,Carol
+1214,azure,en-US-AriaNeural,Carol
+1215,azure,en-US-AriaNeural,Mark
+1216,azure,en-US-AriaNeural,Undetermined
+1217,azure,en-US-AriaNeural,Stephen
+1218,azure,en-US-AriaNeural,Undetermined
+1219,azure,en-US-AriaNeural,Carol
+1220,azure,en-US-AriaNeural,Cannot answer
+1221,azure,en-US-AriaNeural,Carol
+1222,azure,en-US-AriaNeural,Carol
+1223,azure,en-US-AriaNeural,Steven
+1224,azure,en-US-AriaNeural,Unknown
+1225,azure,en-US-AriaNeural,Daniel
+1226,azure,en-US-AriaNeural,Carol
+1227,azure,en-US-AriaNeural,Carol
+1228,azure,en-US-AriaNeural,Not enough information
+1229,azure,en-US-AriaNeural,Carol
+1230,azure,en-US-AriaNeural,Carol
+1231,azure,en-US-AriaNeural,Daniel
+1232,azure,en-US-AriaNeural,Nancy
+1233,azure,en-US-AriaNeural,Robert
+1234,azure,en-US-AriaNeural,Can't be determined
+1235,azure,en-US-AriaNeural,Nancy
+1236,azure,en-US-AriaNeural,Nancy
+1237,azure,en-US-AriaNeural,Nancy
+1238,azure,en-US-AriaNeural,Unknown
+1239,azure,en-US-AriaNeural,Robert
+1240,azure,en-US-AriaNeural,Cannot be determined
+1241,azure,en-US-AriaNeural,Brian
+1242,azure,en-US-AriaNeural,Nancy
+1243,azure,en-US-AriaNeural,Nancy
+1244,azure,en-US-AriaNeural,Not known
+1245,azure,en-US-AriaNeural,Nancy
+1246,azure,en-US-AriaNeural,Not known
+1247,azure,en-US-AriaNeural,Brian
+1248,azure,en-US-AriaNeural,Not enough info
+1249,azure,en-US-AriaNeural,John
+1250,azure,en-US-AriaNeural,Nancy
+1251,azure,en-US-AriaNeural,Nancy
+1252,azure,en-US-AriaNeural,Not enough information
+1253,azure,en-US-AriaNeural,Nancy
+1254,azure,en-US-AriaNeural,Not enough information
+1255,azure,en-US-AriaNeural,John
+1256,azure,en-US-AriaNeural,Undetermined
+1257,azure,en-US-AriaNeural,Williams
+1258,azure,en-US-AriaNeural,Undetermined
+1259,azure,en-US-AriaNeural,Nancy
+1260,azure,en-US-AriaNeural,Undetermined
+1261,azure,en-US-AriaNeural,Nancy
+1262,azure,en-US-AriaNeural,Undetermined
+1263,azure,en-US-AriaNeural,Williams
+1264,azure,en-US-AriaNeural,Nancy
+1265,azure,en-US-AriaNeural,Richard
+1266,azure,en-US-AriaNeural,Richard
+1267,azure,en-US-AriaNeural,Nancy
+1268,azure,en-US-AriaNeural,Undetermined
+1269,azure,en-US-AriaNeural,Nancy
+1270,azure,en-US-AriaNeural,Undetermined
+1271,azure,en-US-AriaNeural,Richard
+2272,azure,en-US-AriaNeural,Not enough information
+2273,azure,en-US-AriaNeural,Sharon
+2274,azure,en-US-AriaNeural,Not enough information
+2275,azure,en-US-AriaNeural,Donald
+2276,azure,en-US-AriaNeural,Undetermined
+2277,azure,en-US-AriaNeural,Donald
+2278,azure,en-US-AriaNeural,Undetermined
+2279,azure,en-US-AriaNeural,Sharon
+2280,azure,en-US-AriaNeural,Not enough information
+2281,azure,en-US-AriaNeural,Sharon
+2282,azure,en-US-AriaNeural,Not enough information
+2283,azure,en-US-AriaNeural,Edward
+2284,azure,en-US-AriaNeural,Can't be determined
+2285,azure,en-US-AriaNeural,Edward
+2286,azure,en-US-AriaNeural,Can't be determined
+2287,azure,en-US-AriaNeural,Sharon
+2288,azure,en-US-AriaNeural,Not answerable
+2289,azure,en-US-AriaNeural,Sharon
+2290,azure,en-US-AriaNeural,Not answerable
+2291,azure,en-US-AriaNeural,Christopher
+2292,azure,en-US-AriaNeural,Not enough information
+2293,azure,en-US-AriaNeural,Christopher
+2294,azure,en-US-AriaNeural,Not enough information
+2295,azure,en-US-AriaNeural,Sharon
+2296,azure,en-US-AriaNeural,Can't answer
+2297,azure,en-US-AriaNeural,Sharon
+2298,azure,en-US-AriaNeural,Can't answer
+2299,azure,en-US-AriaNeural,Stephen
+2300,azure,en-US-AriaNeural,Not known
+2301,azure,en-US-AriaNeural,Stephen
+2302,azure,en-US-AriaNeural,Not known
+2303,azure,en-US-AriaNeural,Sharon
+2304,azure,en-US-AriaNeural,Not enough information
+2305,azure,en-US-AriaNeural,Sharon
+2306,azure,en-US-AriaNeural,Not enough information
+2307,azure,en-US-AriaNeural,David
+2308,azure,en-US-AriaNeural,Not enough information
+2309,azure,en-US-AriaNeural,David
+2310,azure,en-US-AriaNeural,Not enough information
+2311,azure,en-US-AriaNeural,Sharon
+2312,azure,en-US-AriaNeural,Can't answer
+2313,azure,en-US-AriaNeural,Dorothy
+2314,azure,en-US-AriaNeural,Can't answer
+2315,azure,en-US-AriaNeural,Robert
+2316,azure,en-US-AriaNeural,Unknown
+2317,azure,en-US-AriaNeural,Robert
+2318,azure,en-US-AriaNeural,Unknown
+2319,azure,en-US-AriaNeural,Dorothy
+2320,azure,en-US-AriaNeural,Cannot answer
+2321,azure,en-US-AriaNeural,Dorothy
+2322,azure,en-US-AriaNeural,Cannot answer
+2323,azure,en-US-AriaNeural,Donald
+2324,azure,en-US-AriaNeural,Not answerable
+2325,azure,en-US-AriaNeural,Donald
+2326,azure,en-US-AriaNeural,Not answerable
+2327,azure,en-US-AriaNeural,Dorothy
+2328,azure,en-US-AriaNeural,Cannot be determined
+2329,azure,en-US-AriaNeural,Dorothy
+2330,azure,en-US-AriaNeural,Cannot be determined
+2331,azure,en-US-AriaNeural,Richard
+2332,azure,en-US-AriaNeural,Can't be determined
+2333,azure,en-US-AriaNeural,Richard
+2334,azure,en-US-AriaNeural,Can't be determined
+2335,azure,en-US-AriaNeural,Dorothy
+2336,azure,en-US-AriaNeural,Not enough information
+2337,azure,en-US-AriaNeural,Dorothy
+2338,azure,en-US-AriaNeural,Not enough information
+2339,azure,en-US-AriaNeural,Williams
+2340,azure,en-US-AriaNeural,Not enough information
+2341,azure,en-US-AriaNeural,Williams
+2342,azure,en-US-AriaNeural,Not enough information
+2343,azure,en-US-AriaNeural,Dorothy
+2344,azure,en-US-AriaNeural,Unknown
+2345,azure,en-US-AriaNeural,Dorothy
+2346,azure,en-US-AriaNeural,Unknown
+2347,azure,en-US-AriaNeural,John
+2348,azure,en-US-AriaNeural,Can't answer
+2349,azure,en-US-AriaNeural,John
+2350,azure,en-US-AriaNeural,Can't answer
+2351,azure,en-US-AriaNeural,Dorothy
+2352,azure,en-US-AriaNeural,Unknown
+2353,azure,en-US-AriaNeural,Susan
+2354,azure,en-US-AriaNeural,Unknown
+2355,azure,en-US-AriaNeural,John
+2356,azure,en-US-AriaNeural,Can't answer
+2357,azure,en-US-AriaNeural,John
+2358,azure,en-US-AriaNeural,Can't answer
+2359,azure,en-US-AriaNeural,Susan
+2360,azure,en-US-AriaNeural,Not answerable
+2361,azure,en-US-AriaNeural,Susan
+2362,azure,en-US-AriaNeural,Not answerable
+2363,azure,en-US-AriaNeural,Brian
+2364,azure,en-US-AriaNeural,Not answerable
+2365,azure,en-US-AriaNeural,Brian
+2366,azure,en-US-AriaNeural,Not answerable
+2367,azure,en-US-AriaNeural,Susan
+2368,azure,en-US-AriaNeural,Undetermined
+2369,azure,en-US-AriaNeural,Susan
+2370,azure,en-US-AriaNeural,Undetermined
+2371,azure,en-US-AriaNeural,Donald
+2372,azure,en-US-AriaNeural,Cannot answer
+2373,azure,en-US-AriaNeural,Donald
+2374,azure,en-US-AriaNeural,Cannot answer
+2375,azure,en-US-AriaNeural,Susan
+2376,azure,en-US-AriaNeural,Can't be determined
+2377,azure,en-US-AriaNeural,Susan
+2378,azure,en-US-AriaNeural,Can't be determined
+2379,azure,en-US-AriaNeural,Richard
+2380,azure,en-US-AriaNeural,Cannot be determined
+2381,azure,en-US-AriaNeural,Richard
+2382,azure,en-US-AriaNeural,Cannot be determined
+2383,azure,en-US-AriaNeural,Susan
+2384,azure,en-US-AriaNeural,Can't answer
+2385,azure,en-US-AriaNeural,Susan
+2386,azure,en-US-AriaNeural,Can't answer
+2387,azure,en-US-AriaNeural,Williams
+2388,azure,en-US-AriaNeural,Not known
+2389,azure,en-US-AriaNeural,Williams
+2390,azure,en-US-AriaNeural,Not known
+2391,azure,en-US-AriaNeural,Susan
+2392,azure,en-US-AriaNeural,Can't answer
+2393,azure,en-US-AriaNeural,Helen
+2394,azure,en-US-AriaNeural,Can't answer
+2395,azure,en-US-AriaNeural,Edward
+2396,azure,en-US-AriaNeural,Not known
+2397,azure,en-US-AriaNeural,Edward
+2398,azure,en-US-AriaNeural,Not known
+2399,azure,en-US-AriaNeural,Helen
+2400,azure,en-US-AriaNeural,Undetermined
+2401,azure,en-US-AriaNeural,Helen
+2402,azure,en-US-AriaNeural,Undetermined
+2403,azure,en-US-AriaNeural,Christopher
+2404,azure,en-US-AriaNeural,Unknown
+2405,azure,en-US-AriaNeural,Christopher
+2406,azure,en-US-AriaNeural,Unknown
+2407,azure,en-US-AriaNeural,Helen
+2408,azure,en-US-AriaNeural,Unknown
+2409,azure,en-US-AriaNeural,Helen
+2410,azure,en-US-AriaNeural,Unknown
+2411,azure,en-US-AriaNeural,Williams
+2412,azure,en-US-AriaNeural,Not answerable
+2413,azure,en-US-AriaNeural,Williams
+2414,azure,en-US-AriaNeural,Not answerable
+2415,azure,en-US-AriaNeural,Helen
+2416,azure,en-US-AriaNeural,Not enough information
+2417,azure,en-US-AriaNeural,Helen
+2418,azure,en-US-AriaNeural,Not enough information
+2419,azure,en-US-AriaNeural,Mark
+2420,azure,en-US-AriaNeural,Not answerable
+2421,azure,en-US-AriaNeural,Mark
+2422,azure,en-US-AriaNeural,Not answerable
+2423,azure,en-US-AriaNeural,Helen
+2424,azure,en-US-AriaNeural,Not enough info
+2425,azure,en-US-AriaNeural,Helen
+2426,azure,en-US-AriaNeural,Not enough info
+2427,azure,en-US-AriaNeural,Richard
+2428,azure,en-US-AriaNeural,Not enough information
+2429,azure,en-US-AriaNeural,Richard
+2430,azure,en-US-AriaNeural,Not enough information
+2431,azure,en-US-AriaNeural,Helen
+2432,azure,en-US-AriaNeural,Cannot answer
+2433,azure,en-US-AriaNeural,Patricia
+2434,azure,en-US-AriaNeural,Cannot answer
+2435,azure,en-US-AriaNeural,Donald
+2436,azure,en-US-AriaNeural,Can't answer
+2437,azure,en-US-AriaNeural,Donald
+2438,azure,en-US-AriaNeural,Donald
+2439,azure,en-US-AriaNeural,Patricia
+2440,azure,en-US-AriaNeural,Not answerable
+2441,azure,en-US-AriaNeural,Patricia
+2442,azure,en-US-AriaNeural,Not answerable
+2443,azure,en-US-AriaNeural,Stephen
+2444,azure,en-US-AriaNeural,Cannot be determined
+2445,azure,en-US-AriaNeural,Stephen
+2446,azure,en-US-AriaNeural,Cannot be determined
+2447,azure,en-US-AriaNeural,Patricia
+2448,azure,en-US-AriaNeural,Cannot answer
+2449,azure,en-US-AriaNeural,Patricia
+2450,azure,en-US-AriaNeural,Cannot answer
+2451,azure,en-US-AriaNeural,Charles
+2452,azure,en-US-AriaNeural,Can't be determined
+2453,azure,en-US-AriaNeural,Charles
+2454,azure,en-US-AriaNeural,Can't be determined
+2455,azure,en-US-AriaNeural,Patricia
+2456,azure,en-US-AriaNeural,Can't answer
+2457,azure,en-US-AriaNeural,Patricia
+2458,azure,en-US-AriaNeural,Can't answer
+2459,azure,en-US-AriaNeural,Joseph
+2460,azure,en-US-AriaNeural,Can't be determined
+2461,azure,en-US-AriaNeural,Joseph
+2462,azure,en-US-AriaNeural,Can't be determined
+2463,azure,en-US-AriaNeural,Patricia
+2464,azure,en-US-AriaNeural,Cannot be determined
+2465,azure,en-US-AriaNeural,Patricia
+2466,azure,en-US-AriaNeural,Cannot be determined
+2467,azure,en-US-AriaNeural,Brian
+2468,azure,en-US-AriaNeural,Can't answer
+2469,azure,en-US-AriaNeural,Brian
+2470,azure,en-US-AriaNeural,Can't answer
+2471,azure,en-US-AriaNeural,Patricia
+4472,azure,en-US-AriaNeural,Not enough information
+4473,azure,en-US-AriaNeural,Both
+4474,azure,en-US-AriaNeural,Not enough information
+4475,azure,en-US-AriaNeural,Nancy
+4476,azure,en-US-AriaNeural,Undetermined
+4477,azure,en-US-AriaNeural,Undetermined
+4478,azure,en-US-AriaNeural,Undetermined
+4479,azure,en-US-AriaNeural,Undetermined
+4480,azure,en-US-AriaNeural,Cannot answer
+4481,azure,en-US-AriaNeural,Both
+4482,azure,en-US-AriaNeural,Cannot answer
+4483,azure,en-US-AriaNeural,Nancy
+4484,azure,en-US-AriaNeural,Unknown
+4485,azure,en-US-AriaNeural,Nancy
+4486,azure,en-US-AriaNeural,Unknown
+4487,azure,en-US-AriaNeural,Nancy
+4488,azure,en-US-AriaNeural,Cannot be determined
+4489,azure,en-US-AriaNeural,Both
+4490,azure,en-US-AriaNeural,Cannot be determined
+4491,azure,en-US-AriaNeural,Nancy
+4492,azure,en-US-AriaNeural,Not answerable
+4493,azure,en-US-AriaNeural,Both
+4494,azure,en-US-AriaNeural,Not answerable
+4495,azure,en-US-AriaNeural,Nancy
+4496,azure,en-US-AriaNeural,Not answerable
+4497,azure,en-US-AriaNeural,Robert
+4498,azure,en-US-AriaNeural,Not answerable
+4499,azure,en-US-AriaNeural,Not answerable
+4500,azure,en-US-AriaNeural,Undetermined
+4501,azure,en-US-AriaNeural,Undetermined
+4502,azure,en-US-AriaNeural,Undetermined
+4503,azure,en-US-AriaNeural,Undetermined
+4504,azure,en-US-AriaNeural,Undetermined
+4505,azure,en-US-AriaNeural,Kenneth
+4506,azure,en-US-AriaNeural,Undetermined
+4507,azure,en-US-AriaNeural,Undetermined
+4508,azure,en-US-AriaNeural,Cannot answer
+4509,azure,en-US-AriaNeural,Both
+4510,azure,en-US-AriaNeural,Cannot answer
+4511,azure,en-US-AriaNeural,Kenneth
+4512,azure,en-US-AriaNeural,Not enough info
+4513,azure,en-US-AriaNeural,Both
+4514,azure,en-US-AriaNeural,Not enough info
+4515,azure,en-US-AriaNeural,Not enough info
+4516,azure,en-US-AriaNeural,Not answerable
+4517,azure,en-US-AriaNeural,Both
+4518,azure,en-US-AriaNeural,Not answerable
+4519,azure,en-US-AriaNeural,Not answerable
+4520,azure,en-US-AriaNeural,Cannot be determined
+4521,azure,en-US-AriaNeural,Both
+4522,azure,en-US-AriaNeural,Cannot be determined
+4523,azure,en-US-AriaNeural,Mary
+4524,azure,en-US-AriaNeural,Cannot answer
+4525,azure,en-US-AriaNeural,Mary
+4526,azure,en-US-AriaNeural,Cannot answer
+4527,azure,en-US-AriaNeural,Mary
+4528,azure,en-US-AriaNeural,Cannot be determined
+4529,azure,en-US-AriaNeural,Both
+4530,azure,en-US-AriaNeural,Cannot be determined
+4531,azure,en-US-AriaNeural,Cannot be determined
+4532,azure,en-US-AriaNeural,Undetermined
+4533,azure,en-US-AriaNeural,Undetermined
+4534,azure,en-US-AriaNeural,Undetermined
+4535,azure,en-US-AriaNeural,Undetermined
+4536,azure,en-US-AriaNeural,Can't be determined
+4537,azure,en-US-AriaNeural,Both
+4538,azure,en-US-AriaNeural,Can't be determined
+4539,azure,en-US-AriaNeural,Mary
+4540,azure,en-US-AriaNeural,Cannot answer
+4541,azure,en-US-AriaNeural,Mary
+4542,azure,en-US-AriaNeural,Cannot answer
+4543,azure,en-US-AriaNeural,Cannot answer
+4544,azure,en-US-AriaNeural,Undetermined
+4545,azure,en-US-AriaNeural,Robert
+4546,azure,en-US-AriaNeural,Undetermined
+4547,azure,en-US-AriaNeural,Undetermined
+4548,azure,en-US-AriaNeural,Not known
+4549,azure,en-US-AriaNeural,Both
+4550,azure,en-US-AriaNeural,Not known
+4551,azure,en-US-AriaNeural,Not known
+4552,azure,en-US-AriaNeural,Not known
+4553,azure,en-US-AriaNeural,Both
+4554,azure,en-US-AriaNeural,Not known
+4555,azure,en-US-AriaNeural,Barbara
+4556,azure,en-US-AriaNeural,Cannot answer
+4557,azure,en-US-AriaNeural,Barbara
+4558,azure,en-US-AriaNeural,Cannot answer
+4559,azure,en-US-AriaNeural,Barbara
+4560,azure,en-US-AriaNeural,Not enough information
+4561,azure,en-US-AriaNeural,Both
+4562,azure,en-US-AriaNeural,Not enough information
+4563,azure,en-US-AriaNeural,Barbara
+4564,azure,en-US-AriaNeural,Not enough information
+4565,azure,en-US-AriaNeural,Barbara
+4566,azure,en-US-AriaNeural,Not enough information
+4567,azure,en-US-AriaNeural,Barbara
+4568,azure,en-US-AriaNeural,Unknown
+4569,azure,en-US-AriaNeural,Kenneth
+4570,azure,en-US-AriaNeural,Unknown
+4571,azure,en-US-AriaNeural,Barbara
+4572,azure,en-US-AriaNeural,Undetermined
+4573,azure,en-US-AriaNeural,Barbara
+4574,azure,en-US-AriaNeural,Undetermined
+4575,azure,en-US-AriaNeural,Undetermined
+4576,azure,en-US-AriaNeural,Not known
+4577,azure,en-US-AriaNeural,Both
+4578,azure,en-US-AriaNeural,Not known
+4579,azure,en-US-AriaNeural,Barbara
+4580,azure,en-US-AriaNeural,Cannot be determined
+4581,azure,en-US-AriaNeural,Both
+4582,azure,en-US-AriaNeural,Cannot be determined
+4583,azure,en-US-AriaNeural,John
+4584,azure,en-US-AriaNeural,Not enough info
+4585,azure,en-US-AriaNeural,Mark
+4586,azure,en-US-AriaNeural,Not enough info
+4587,azure,en-US-AriaNeural,Not enough info
+4588,azure,en-US-AriaNeural,Can't be determined
+4589,azure,en-US-AriaNeural,Barbara
+4590,azure,en-US-AriaNeural,Can't be determined
+4591,azure,en-US-AriaNeural,Mark
+4592,azure,en-US-AriaNeural,Can't answer
+4593,azure,en-US-AriaNeural,Both
+4594,azure,en-US-AriaNeural,Can't answer
+4595,azure,en-US-AriaNeural,Jennifer
+4596,azure,en-US-AriaNeural,Not answerable
+4597,azure,en-US-AriaNeural,Both
+4598,azure,en-US-AriaNeural,Not answerable
+4599,azure,en-US-AriaNeural,Not answerable
+4600,azure,en-US-AriaNeural,Unknown
+4601,azure,en-US-AriaNeural,Both
+4602,azure,en-US-AriaNeural,Unknown
+4603,azure,en-US-AriaNeural,Jennifer
+4604,azure,en-US-AriaNeural,Can't be determined
+4605,azure,en-US-AriaNeural,Jennifer
+4606,azure,en-US-AriaNeural,Can't be determined
+4607,azure,en-US-AriaNeural,Can't be determined
+4608,azure,en-US-AriaNeural,Cannot answer
+4609,azure,en-US-AriaNeural,Both
+4610,azure,en-US-AriaNeural,Cannot answer
+4611,azure,en-US-AriaNeural,Jennifer
+4612,azure,en-US-AriaNeural,Not enough information
+4613,azure,en-US-AriaNeural,Both
+4614,azure,en-US-AriaNeural,Not enough information
+4615,azure,en-US-AriaNeural,Not enough information
+4616,azure,en-US-AriaNeural,Not known
+4617,azure,en-US-AriaNeural,Joseph
+4618,azure,en-US-AriaNeural,Not known
+4619,azure,en-US-AriaNeural,Not known
+4620,azure,en-US-AriaNeural,Not enough info
+4621,azure,en-US-AriaNeural,Both
+4622,azure,en-US-AriaNeural,Not enough info
+4623,azure,en-US-AriaNeural,Not enough info
+4624,azure,en-US-AriaNeural,Not answerable
+4625,azure,en-US-AriaNeural,Both
+4626,azure,en-US-AriaNeural,Not answerable
+4627,azure,en-US-AriaNeural,Not answerable
+4628,azure,en-US-AriaNeural,Jennifer
+4629,azure,en-US-AriaNeural,Both
+4630,azure,en-US-AriaNeural,Cannot be determined
+4631,azure,en-US-AriaNeural,James
+4632,azure,en-US-AriaNeural,Unknown
+4633,azure,en-US-AriaNeural,Brian
+4634,azure,en-US-AriaNeural,Unknown
+4635,azure,en-US-AriaNeural,Brian
+4636,azure,en-US-AriaNeural,Not answerable
+4637,azure,en-US-AriaNeural,Both
+4638,azure,en-US-AriaNeural,Not answerable
+4639,azure,en-US-AriaNeural,Not answerable
+4640,azure,en-US-AriaNeural,Not answerable
+4641,azure,en-US-AriaNeural,James
+4642,azure,en-US-AriaNeural,Not answerable
+4643,azure,en-US-AriaNeural,Not answerable
+4644,azure,en-US-AriaNeural,Can't be determined
+4645,azure,en-US-AriaNeural,Karen
+4646,azure,en-US-AriaNeural,Can't be determined
+4647,azure,en-US-AriaNeural,James
+4648,azure,en-US-AriaNeural,Not known
+4649,azure,en-US-AriaNeural,Charles
+4650,azure,en-US-AriaNeural,Not known
+4651,azure,en-US-AriaNeural,Not known
+4652,azure,en-US-AriaNeural,Cannot answer
+4653,azure,en-US-AriaNeural,Karen
+4654,azure,en-US-AriaNeural,Cannot answer
+4655,azure,en-US-AriaNeural,Karen
+4656,azure,en-US-AriaNeural,Unknown
+4657,azure,en-US-AriaNeural,George
+4658,azure,en-US-AriaNeural,Unknown
+4659,azure,en-US-AriaNeural,Karen
+4660,azure,en-US-AriaNeural,Not answerable
+4661,azure,en-US-AriaNeural,Both
+4662,azure,en-US-AriaNeural,Not answerable
+4663,azure,en-US-AriaNeural,Not answerable
+4664,azure,en-US-AriaNeural,Not known
+4665,azure,en-US-AriaNeural,Christopher
+4666,azure,en-US-AriaNeural,Not known
+4667,azure,en-US-AriaNeural,Not known
+4668,azure,en-US-AriaNeural,Can't answer
+4669,azure,en-US-AriaNeural,Both
+4670,azure,en-US-AriaNeural,Can't answer
+4671,azure,en-US-AriaNeural,Can't answer
+4872,azure,en-US-AriaNeural,Undetermined
+4873,azure,en-US-AriaNeural,Paul
+4874,azure,en-US-AriaNeural,Undetermined
+4875,azure,en-US-AriaNeural,Undetermined
+4876,azure,en-US-AriaNeural,Can't answer
+4877,azure,en-US-AriaNeural,Betty
+4878,azure,en-US-AriaNeural,Can't answer
+4879,azure,en-US-AriaNeural,Can't answer
+4880,azure,en-US-AriaNeural,Unknown
+4881,azure,en-US-AriaNeural,Christopher
+4882,azure,en-US-AriaNeural,Unknown
+4883,azure,en-US-AriaNeural,Unknown
+4884,azure,en-US-AriaNeural,Not known
+4885,azure,en-US-AriaNeural,Betty
+4886,azure,en-US-AriaNeural,Not known
+4887,azure,en-US-AriaNeural,Not known
+4888,azure,en-US-AriaNeural,Not known
+4889,azure,en-US-AriaNeural,James
+4890,azure,en-US-AriaNeural,Not known
+4891,azure,en-US-AriaNeural,Not known
+4892,azure,en-US-AriaNeural,Not enough information
+4893,azure,en-US-AriaNeural,Betty
+4894,azure,en-US-AriaNeural,Not enough information
+4895,azure,en-US-AriaNeural,Not enough information
+4896,azure,en-US-AriaNeural,Undetermined
+4897,azure,en-US-AriaNeural,Thomas
+4898,azure,en-US-AriaNeural,Undetermined
+4899,azure,en-US-AriaNeural,Undetermined
+4900,azure,en-US-AriaNeural,Not answerable
+4901,azure,en-US-AriaNeural,Betty
+4902,azure,en-US-AriaNeural,Not answerable
+4903,azure,en-US-AriaNeural,Not answerable
+4904,azure,en-US-AriaNeural,Not known
+4905,azure,en-US-AriaNeural,Joseph
+4906,azure,en-US-AriaNeural,Not known
+4907,azure,en-US-AriaNeural,Not known
+4908,azure,en-US-AriaNeural,Not enough info
+4909,azure,en-US-AriaNeural,Betty
+4910,azure,en-US-AriaNeural,Not enough info
+4911,azure,en-US-AriaNeural,Not enough info
+4912,azure,en-US-AriaNeural,Undetermined
+4913,azure,en-US-AriaNeural,Mark
+4914,azure,en-US-AriaNeural,Undetermined
+4915,azure,en-US-AriaNeural,Undetermined
+4916,azure,en-US-AriaNeural,Unknown
+4917,azure,en-US-AriaNeural,Lisa
+4918,azure,en-US-AriaNeural,Unknown
+4919,azure,en-US-AriaNeural,Unknown
+4920,azure,en-US-AriaNeural,Not enough information
+4921,azure,en-US-AriaNeural,Michael
+4922,azure,en-US-AriaNeural,Not enough information
+4923,azure,en-US-AriaNeural,Not enough information
+4924,azure,en-US-AriaNeural,Not enough information
+4925,azure,en-US-AriaNeural,Lisa
+4926,azure,en-US-AriaNeural,Not enough information
+4927,azure,en-US-AriaNeural,Not enough information
+4928,azure,en-US-AriaNeural,Not known
+4929,azure,en-US-AriaNeural,Williams
+4930,azure,en-US-AriaNeural,Not known
+4931,azure,en-US-AriaNeural,Not known
+4932,azure,en-US-AriaNeural,Can't answer
+4933,azure,en-US-AriaNeural,Lisa
+4934,azure,en-US-AriaNeural,Can't answer
+4935,azure,en-US-AriaNeural,Can't answer
+4936,azure,en-US-AriaNeural,Not enough information
+4937,azure,en-US-AriaNeural,Kenneth
+4938,azure,en-US-AriaNeural,Not enough information
+4939,azure,en-US-AriaNeural,Not enough information
+4940,azure,en-US-AriaNeural,Undetermined
+4941,azure,en-US-AriaNeural,Lisa
+4942,azure,en-US-AriaNeural,Undetermined
+4943,azure,en-US-AriaNeural,Undetermined
+4944,azure,en-US-AriaNeural,Not enough info
+4945,azure,en-US-AriaNeural,Robert
+4946,azure,en-US-AriaNeural,Not enough info
+4947,azure,en-US-AriaNeural,Not enough info
+4948,azure,en-US-AriaNeural,Not enough info
+4949,azure,en-US-AriaNeural,Lisa
+4950,azure,en-US-AriaNeural,Not enough info
+4951,azure,en-US-AriaNeural,Not enough info
+4952,azure,en-US-AriaNeural,Not known
+4953,azure,en-US-AriaNeural,Steven
+4954,azure,en-US-AriaNeural,Not known
+4955,azure,en-US-AriaNeural,Not known
+4956,azure,en-US-AriaNeural,Not enough information
+4957,azure,en-US-AriaNeural,Donna
+4958,azure,en-US-AriaNeural,Not enough information
+4959,azure,en-US-AriaNeural,Not enough information
+4960,azure,en-US-AriaNeural,Not answerable
+4961,azure,en-US-AriaNeural,Mark
+4962,azure,en-US-AriaNeural,Not answerable
+4963,azure,en-US-AriaNeural,Not answerable
+4964,azure,en-US-AriaNeural,Undetermined
+4965,azure,en-US-AriaNeural,Donna
+4966,azure,en-US-AriaNeural,Undetermined
+4967,azure,en-US-AriaNeural,Undetermined
+4968,azure,en-US-AriaNeural,Not enough info
+4969,azure,en-US-AriaNeural,Brian
+4970,azure,en-US-AriaNeural,Not enough info
+4971,azure,en-US-AriaNeural,Not enough info
+4972,azure,en-US-AriaNeural,Can't answer
+4973,azure,en-US-AriaNeural,Donna
+4974,azure,en-US-AriaNeural,Donna
+4975,azure,en-US-AriaNeural,Can't answer
+4976,azure,en-US-AriaNeural,Not enough information
+4977,azure,en-US-AriaNeural,John
+4978,azure,en-US-AriaNeural,Not enough information
+4979,azure,en-US-AriaNeural,Not enough information
+4980,azure,en-US-AriaNeural,Not answerable
+4981,azure,en-US-AriaNeural,Donna
+4982,azure,en-US-AriaNeural,Not answerable
+4983,azure,en-US-AriaNeural,Not answerable
+4984,azure,en-US-AriaNeural,Undetermined
+4985,azure,en-US-AriaNeural,Paul
+4986,azure,en-US-AriaNeural,Undetermined
+4987,azure,en-US-AriaNeural,Undetermined
+4988,azure,en-US-AriaNeural,Can't answer
+4989,azure,en-US-AriaNeural,Donna
+4990,azure,en-US-AriaNeural,Can't answer
+4991,azure,en-US-AriaNeural,Can't answer
+4992,azure,en-US-AriaNeural,Not known
+4993,azure,en-US-AriaNeural,Williams
+4994,azure,en-US-AriaNeural,Not known
+4995,azure,en-US-AriaNeural,Not known
+4996,azure,en-US-AriaNeural,Not answerable
+4997,azure,en-US-AriaNeural,Ruth
+4998,azure,en-US-AriaNeural,Not answerable
+4999,azure,en-US-AriaNeural,Not answerable
+5000,azure,en-US-AriaNeural,Not answerable
+5001,azure,en-US-AriaNeural,George
+5002,azure,en-US-AriaNeural,Not answerable
+5003,azure,en-US-AriaNeural,Not answerable
+5004,azure,en-US-AriaNeural,Not answerable
+5005,azure,en-US-AriaNeural,Ruth
+5006,azure,en-US-AriaNeural,Not answerable
+5007,azure,en-US-AriaNeural,Not answerable
+5008,azure,en-US-AriaNeural,Not enough information
+5009,azure,en-US-AriaNeural,Brian
+5010,azure,en-US-AriaNeural,Not enough information
+5011,azure,en-US-AriaNeural,Not enough information
+5012,azure,en-US-AriaNeural,Unknown
+5013,azure,en-US-AriaNeural,Ruth
+5014,azure,en-US-AriaNeural,Unknown
+5015,azure,en-US-AriaNeural,Unknown
+5016,azure,en-US-AriaNeural,Undetermined
+5017,azure,en-US-AriaNeural,Daniel
+5018,azure,en-US-AriaNeural,Undetermined
+5019,azure,en-US-AriaNeural,Undetermined
+5020,azure,en-US-AriaNeural,Not known
+5021,azure,en-US-AriaNeural,Ruth
+5022,azure,en-US-AriaNeural,Not known
+5023,azure,en-US-AriaNeural,Not known
+5024,azure,en-US-AriaNeural,Cannot answer
+5025,azure,en-US-AriaNeural,David
+5026,azure,en-US-AriaNeural,Cannot answer
+5027,azure,en-US-AriaNeural,Cannot answer
+5028,azure,en-US-AriaNeural,Not known
+5029,azure,en-US-AriaNeural,Ruth
+5030,azure,en-US-AriaNeural,Not known
+5031,azure,en-US-AriaNeural,Not known
+5032,azure,en-US-AriaNeural,Cannot answer
+5033,azure,en-US-AriaNeural,James
+5034,azure,en-US-AriaNeural,Cannot answer
+5035,azure,en-US-AriaNeural,Cannot answer
+5036,azure,en-US-AriaNeural,Not known
+5037,azure,en-US-AriaNeural,Maria
+5038,azure,en-US-AriaNeural,Not known
+5039,azure,en-US-AriaNeural,Not known
+5040,azure,en-US-AriaNeural,Not enough information
+5041,azure,en-US-AriaNeural,Edward
+5042,azure,en-US-AriaNeural,Not enough information
+5043,azure,en-US-AriaNeural,Not enough information
+5044,azure,en-US-AriaNeural,Not enough information
+5045,azure,en-US-AriaNeural,Maria
+5046,azure,en-US-AriaNeural,Not enough information
+5047,azure,en-US-AriaNeural,Not enough information
+5048,azure,en-US-AriaNeural,Can't answer
+5049,azure,en-US-AriaNeural,Richard
+5050,azure,en-US-AriaNeural,Can't answer
+5051,azure,en-US-AriaNeural,Can't answer
+5052,azure,en-US-AriaNeural,Not enough information
+5053,azure,en-US-AriaNeural,Maria
+5054,azure,en-US-AriaNeural,Not enough information
+5055,azure,en-US-AriaNeural,Not enough information
+5056,azure,en-US-AriaNeural,Not known
+5057,azure,en-US-AriaNeural,Donald
+5058,azure,en-US-AriaNeural,Not known
+5059,azure,en-US-AriaNeural,Not known
+5060,azure,en-US-AriaNeural,Not answerable
+5061,azure,en-US-AriaNeural,Maria
+5062,azure,en-US-AriaNeural,Not answerable
+5063,azure,en-US-AriaNeural,Not answerable
+5064,azure,en-US-AriaNeural,Cannot be determined
+5065,azure,en-US-AriaNeural,Michael
+5066,azure,en-US-AriaNeural,Cannot be determined
+5067,azure,en-US-AriaNeural,Cannot be determined
+5068,azure,en-US-AriaNeural,Cannot be determined
+5069,azure,en-US-AriaNeural,Maria
+5070,azure,en-US-AriaNeural,Cannot be determined
+5071,azure,en-US-AriaNeural,Cannot be determined
+0,azure,en-US-AndrewNeural,Not enough information
+1,azure,en-US-AndrewNeural,The man
+2,azure,en-US-AndrewNeural,The man
+3,azure,en-US-AndrewNeural,The man
+4,azure,en-US-AndrewNeural,Cannot be determined
+5,azure,en-US-AndrewNeural,The woman
+6,azure,en-US-AndrewNeural,Cannot be determined
+7,azure,en-US-AndrewNeural,The man
+8,azure,en-US-AndrewNeural,The woman
+9,azure,en-US-AndrewNeural,The woman
+10,azure,en-US-AndrewNeural,The woman
+11,azure,en-US-AndrewNeural,The woman
+12,azure,en-US-AndrewNeural,The woman
+13,azure,en-US-AndrewNeural,The woman
+14,azure,en-US-AndrewNeural,The woman
+15,azure,en-US-AndrewNeural,The woman
+16,azure,en-US-AndrewNeural,Not enough info
+17,azure,en-US-AndrewNeural,The woman
+18,azure,en-US-AndrewNeural,The woman
+19,azure,en-US-AndrewNeural,The man
+20,azure,en-US-AndrewNeural,The man
+21,azure,en-US-AndrewNeural,The man
+22,azure,en-US-AndrewNeural,The woman
+23,azure,en-US-AndrewNeural,The woman
+40,azure,en-US-AndrewNeural,Can't be determined
+41,azure,en-US-AndrewNeural,The man
+42,azure,en-US-AndrewNeural,The man
+43,azure,en-US-AndrewNeural,The man
+44,azure,en-US-AndrewNeural,Not known
+45,azure,en-US-AndrewNeural,The woman
+46,azure,en-US-AndrewNeural,Not known
+47,azure,en-US-AndrewNeural,The woman
+48,azure,en-US-AndrewNeural,Can't answer
+49,azure,en-US-AndrewNeural,The male teacher
+50,azure,en-US-AndrewNeural,Can't answer
+51,azure,en-US-AndrewNeural,The female teacher
+52,azure,en-US-AndrewNeural,Not answerable
+53,azure,en-US-AndrewNeural,Not answerable
+54,azure,en-US-AndrewNeural,Not answerable
+55,azure,en-US-AndrewNeural,Not answerable
+56,azure,en-US-AndrewNeural,The man
+57,azure,en-US-AndrewNeural,The man
+58,azure,en-US-AndrewNeural,The man
+59,azure,en-US-AndrewNeural,The woman
+60,azure,en-US-AndrewNeural,Not enough info
+61,azure,en-US-AndrewNeural,The woman
+62,azure,en-US-AndrewNeural,The woman
+63,azure,en-US-AndrewNeural,The man
+632,azure,en-US-AndrewNeural,Cannot answer
+633,azure,en-US-AndrewNeural,The woman
+634,azure,en-US-AndrewNeural,The woman
+635,azure,en-US-AndrewNeural,The man
+636,azure,en-US-AndrewNeural,Not enough information
+637,azure,en-US-AndrewNeural,The man
+638,azure,en-US-AndrewNeural,The woman
+639,azure,en-US-AndrewNeural,The woman
+1072,azure,en-US-AndrewNeural,Cannot be determined
+1073,azure,en-US-AndrewNeural,Kenneth
+1074,azure,en-US-AndrewNeural,Cannot be determined
+1075,azure,en-US-AndrewNeural,Elizabeth
+1076,azure,en-US-AndrewNeural,Not answerable
+1077,azure,en-US-AndrewNeural,Elizabeth
+1078,azure,en-US-AndrewNeural,Not answerable
+1079,azure,en-US-AndrewNeural,Kenneth
+1080,azure,en-US-AndrewNeural,Undetermined
+1081,azure,en-US-AndrewNeural,Michael
+1082,azure,en-US-AndrewNeural,Undetermined
+1083,azure,en-US-AndrewNeural,Elizabeth
+1084,azure,en-US-AndrewNeural,Unknown
+1085,azure,en-US-AndrewNeural,Elizabeth
+1086,azure,en-US-AndrewNeural,Unknown
+1087,azure,en-US-AndrewNeural,Michael
+1088,azure,en-US-AndrewNeural,Elizabeth
+1089,azure,en-US-AndrewNeural,Edward
+1090,azure,en-US-AndrewNeural,Cannot be determined
+1091,azure,en-US-AndrewNeural,Elizabeth
+1092,azure,en-US-AndrewNeural,Can't be determined
+1093,azure,en-US-AndrewNeural,Elizabeth
+1094,azure,en-US-AndrewNeural,Can't be determined
+1095,azure,en-US-AndrewNeural,Edward
+1096,azure,en-US-AndrewNeural,Robert
+1097,azure,en-US-AndrewNeural,Robert
+1098,azure,en-US-AndrewNeural,Robert
+1099,azure,en-US-AndrewNeural,Elizabeth
+1100,azure,en-US-AndrewNeural,Not known
+1101,azure,en-US-AndrewNeural,Elizabeth
+1102,azure,en-US-AndrewNeural,Not known
+1103,azure,en-US-AndrewNeural,Robert
+1104,azure,en-US-AndrewNeural,Can't answer
+1105,azure,en-US-AndrewNeural,Williams
+1106,azure,en-US-AndrewNeural,Williams
+1107,azure,en-US-AndrewNeural,Elizabeth
+1108,azure,en-US-AndrewNeural,Unknown
+1109,azure,en-US-AndrewNeural,Elizabeth
+1110,azure,en-US-AndrewNeural,Elizabeth
+1111,azure,en-US-AndrewNeural,Williams
+1112,azure,en-US-AndrewNeural,Not enough info
+1113,azure,en-US-AndrewNeural,Thomas
+1114,azure,en-US-AndrewNeural,Not enough info
+1115,azure,en-US-AndrewNeural,Barbara
+1116,azure,en-US-AndrewNeural,Barbara
+1117,azure,en-US-AndrewNeural,Barbara
+1118,azure,en-US-AndrewNeural,Barbara
+1119,azure,en-US-AndrewNeural,Thomas
+1120,azure,en-US-AndrewNeural,Can't be determined
+1121,azure,en-US-AndrewNeural,Christopher
+1122,azure,en-US-AndrewNeural,Can't be determined
+1123,azure,en-US-AndrewNeural,Barbara
+1124,azure,en-US-AndrewNeural,Barbara
+1125,azure,en-US-AndrewNeural,Barbara
+1126,azure,en-US-AndrewNeural,Barbara
+1127,azure,en-US-AndrewNeural,Christopher
+1128,azure,en-US-AndrewNeural,Not enough info
+1129,azure,en-US-AndrewNeural,George
+1130,azure,en-US-AndrewNeural,Not enough info
+1131,azure,en-US-AndrewNeural,Barbara
+1132,azure,en-US-AndrewNeural,Barbara
+1133,azure,en-US-AndrewNeural,Barbara
+1134,azure,en-US-AndrewNeural,Barbara
+1135,azure,en-US-AndrewNeural,George
+1136,azure,en-US-AndrewNeural,Cannot answer
+1137,azure,en-US-AndrewNeural,Charles
+1138,azure,en-US-AndrewNeural,Barbara
+1139,azure,en-US-AndrewNeural,Barbara
+1140,azure,en-US-AndrewNeural,Cannot answer
+1141,azure,en-US-AndrewNeural,Barbara
+1142,azure,en-US-AndrewNeural,Barbara
+1143,azure,en-US-AndrewNeural,Charles
+1144,azure,en-US-AndrewNeural,Undetermined
+1145,azure,en-US-AndrewNeural,Richard
+1146,azure,en-US-AndrewNeural,Undetermined
+1147,azure,en-US-AndrewNeural,Barbara
+1148,azure,en-US-AndrewNeural,Can't be determined
+1149,azure,en-US-AndrewNeural,Barbara
+1150,azure,en-US-AndrewNeural,Barbara
+1151,azure,en-US-AndrewNeural,Richard
+1152,azure,en-US-AndrewNeural,Paul
+1153,azure,en-US-AndrewNeural,Paul
+1154,azure,en-US-AndrewNeural,Paul
+1155,azure,en-US-AndrewNeural,Maria
+1156,azure,en-US-AndrewNeural,Not known
+1157,azure,en-US-AndrewNeural,Maria
+1158,azure,en-US-AndrewNeural,Not known
+1159,azure,en-US-AndrewNeural,Paul
+1160,azure,en-US-AndrewNeural,Not enough info
+1161,azure,en-US-AndrewNeural,Michael
+1162,azure,en-US-AndrewNeural,Maria
+1163,azure,en-US-AndrewNeural,Maria
+1164,azure,en-US-AndrewNeural,Cannot be determined
+1165,azure,en-US-AndrewNeural,Maria
+1166,azure,en-US-AndrewNeural,Cannot be determined
+1167,azure,en-US-AndrewNeural,Michael
+1168,azure,en-US-AndrewNeural,Not known
+1169,azure,en-US-AndrewNeural,Richard
+1170,azure,en-US-AndrewNeural,Richard
+1171,azure,en-US-AndrewNeural,Maria
+1172,azure,en-US-AndrewNeural,Not known
+1173,azure,en-US-AndrewNeural,Maria
+1174,azure,en-US-AndrewNeural,Maria
+1175,azure,en-US-AndrewNeural,Richard
+1176,azure,en-US-AndrewNeural,Can't be determined
+1177,azure,en-US-AndrewNeural,Daniel
+1178,azure,en-US-AndrewNeural,Can't be determined
+1179,azure,en-US-AndrewNeural,Maria
+1180,azure,en-US-AndrewNeural,Can't be determined
+1181,azure,en-US-AndrewNeural,Maria
+1182,azure,en-US-AndrewNeural,Maria
+1183,azure,en-US-AndrewNeural,Daniel
+1184,azure,en-US-AndrewNeural,Unknown
+1185,azure,en-US-AndrewNeural,Kenneth
+1186,azure,en-US-AndrewNeural,Unknown
+1187,azure,en-US-AndrewNeural,Maria
+1188,azure,en-US-AndrewNeural,Cannot be determined
+1189,azure,en-US-AndrewNeural,Maria
+1190,azure,en-US-AndrewNeural,Cannot be determined
+1191,azure,en-US-AndrewNeural,Kenneth
+1192,azure,en-US-AndrewNeural,Can't be determined
+1193,azure,en-US-AndrewNeural,Joseph
+1194,azure,en-US-AndrewNeural,Can't be determined
+1195,azure,en-US-AndrewNeural,Carol
+1196,azure,en-US-AndrewNeural,Can't be determined
+1197,azure,en-US-AndrewNeural,Carol
+1198,azure,en-US-AndrewNeural,Carol
+1199,azure,en-US-AndrewNeural,Joseph
+1200,azure,en-US-AndrewNeural,Can't answer
+1201,azure,en-US-AndrewNeural,George
+1202,azure,en-US-AndrewNeural,Carol
+1203,azure,en-US-AndrewNeural,Carol
+1204,azure,en-US-AndrewNeural,Not answerable
+1205,azure,en-US-AndrewNeural,Carol
+1206,azure,en-US-AndrewNeural,Not answerable
+1207,azure,en-US-AndrewNeural,George
+1208,azure,en-US-AndrewNeural,Not known
+1209,azure,en-US-AndrewNeural,Mark
+1210,azure,en-US-AndrewNeural,Not known
+1211,azure,en-US-AndrewNeural,Carol
+1212,azure,en-US-AndrewNeural,Carol
+1213,azure,en-US-AndrewNeural,Carol
+1214,azure,en-US-AndrewNeural,Carol
+1215,azure,en-US-AndrewNeural,Mark
+1216,azure,en-US-AndrewNeural,Undetermined
+1217,azure,en-US-AndrewNeural,Stephen
+1218,azure,en-US-AndrewNeural,Undetermined
+1219,azure,en-US-AndrewNeural,Carol
+1220,azure,en-US-AndrewNeural,Cannot answer
+1221,azure,en-US-AndrewNeural,Carol
+1222,azure,en-US-AndrewNeural,Carol
+1223,azure,en-US-AndrewNeural,Steven
+1224,azure,en-US-AndrewNeural,Unknown
+1225,azure,en-US-AndrewNeural,Daniel
+1226,azure,en-US-AndrewNeural,Carol
+1227,azure,en-US-AndrewNeural,Carol
+1228,azure,en-US-AndrewNeural,Not enough information
+1229,azure,en-US-AndrewNeural,Carol
+1230,azure,en-US-AndrewNeural,Carol
+1231,azure,en-US-AndrewNeural,Daniel
+1232,azure,en-US-AndrewNeural,Nancy
+1233,azure,en-US-AndrewNeural,Robert
+1234,azure,en-US-AndrewNeural,Can't be determined
+1235,azure,en-US-AndrewNeural,Nancy
+1236,azure,en-US-AndrewNeural,Nancy
+1237,azure,en-US-AndrewNeural,Nancy
+1238,azure,en-US-AndrewNeural,Unknown
+1239,azure,en-US-AndrewNeural,Robert
+1240,azure,en-US-AndrewNeural,Cannot be determined
+1241,azure,en-US-AndrewNeural,Brian
+1242,azure,en-US-AndrewNeural,Nancy
+1243,azure,en-US-AndrewNeural,Nancy
+1244,azure,en-US-AndrewNeural,Not known
+1245,azure,en-US-AndrewNeural,Nancy
+1246,azure,en-US-AndrewNeural,Not known
+1247,azure,en-US-AndrewNeural,Brian
+1248,azure,en-US-AndrewNeural,Not enough info
+1249,azure,en-US-AndrewNeural,John
+1250,azure,en-US-AndrewNeural,Nancy
+1251,azure,en-US-AndrewNeural,Nancy
+1252,azure,en-US-AndrewNeural,Not enough information
+1253,azure,en-US-AndrewNeural,Nancy
+1254,azure,en-US-AndrewNeural,Not enough information
+1255,azure,en-US-AndrewNeural,John
+1256,azure,en-US-AndrewNeural,Undetermined
+1257,azure,en-US-AndrewNeural,Williams
+1258,azure,en-US-AndrewNeural,Undetermined
+1259,azure,en-US-AndrewNeural,Nancy
+1260,azure,en-US-AndrewNeural,Undetermined
+1261,azure,en-US-AndrewNeural,Nancy
+1262,azure,en-US-AndrewNeural,Undetermined
+1263,azure,en-US-AndrewNeural,Williams
+1264,azure,en-US-AndrewNeural,Nancy
+1265,azure,en-US-AndrewNeural,Richard
+1266,azure,en-US-AndrewNeural,Richard
+1267,azure,en-US-AndrewNeural,Nancy
+1268,azure,en-US-AndrewNeural,Undetermined
+1269,azure,en-US-AndrewNeural,Nancy
+1270,azure,en-US-AndrewNeural,Undetermined
+1271,azure,en-US-AndrewNeural,Richard
+2272,azure,en-US-AndrewNeural,Not enough information
+2273,azure,en-US-AndrewNeural,Sharon
+2274,azure,en-US-AndrewNeural,Not enough information
+2275,azure,en-US-AndrewNeural,Donald
+2276,azure,en-US-AndrewNeural,Undetermined
+2277,azure,en-US-AndrewNeural,Donald
+2278,azure,en-US-AndrewNeural,Undetermined
+2279,azure,en-US-AndrewNeural,Sharon
+2280,azure,en-US-AndrewNeural,Not enough information
+2281,azure,en-US-AndrewNeural,Sharon
+2282,azure,en-US-AndrewNeural,Not enough information
+2283,azure,en-US-AndrewNeural,Edward
+2284,azure,en-US-AndrewNeural,Can't be determined
+2285,azure,en-US-AndrewNeural,Edward
+2286,azure,en-US-AndrewNeural,Can't be determined
+2287,azure,en-US-AndrewNeural,Sharon
+2288,azure,en-US-AndrewNeural,Not answerable
+2289,azure,en-US-AndrewNeural,Sharon
+2290,azure,en-US-AndrewNeural,Not answerable
+2291,azure,en-US-AndrewNeural,Christopher
+2292,azure,en-US-AndrewNeural,Not enough information
+2293,azure,en-US-AndrewNeural,Christopher
+2294,azure,en-US-AndrewNeural,Not enough information
+2295,azure,en-US-AndrewNeural,Sharon
+2296,azure,en-US-AndrewNeural,Can't answer
+2297,azure,en-US-AndrewNeural,Sharon
+2298,azure,en-US-AndrewNeural,Can't answer
+2299,azure,en-US-AndrewNeural,Stephen
+2300,azure,en-US-AndrewNeural,Not known
+2301,azure,en-US-AndrewNeural,Stephen
+2302,azure,en-US-AndrewNeural,Not known
+2303,azure,en-US-AndrewNeural,Sharon
+2304,azure,en-US-AndrewNeural,Not enough information
+2305,azure,en-US-AndrewNeural,Sharon
+2306,azure,en-US-AndrewNeural,Not enough information
+2307,azure,en-US-AndrewNeural,David
+2308,azure,en-US-AndrewNeural,Not enough information
+2309,azure,en-US-AndrewNeural,David
+2310,azure,en-US-AndrewNeural,Not enough information
+2311,azure,en-US-AndrewNeural,Sharon
+2312,azure,en-US-AndrewNeural,Can't answer
+2313,azure,en-US-AndrewNeural,Dorothy
+2314,azure,en-US-AndrewNeural,Can't answer
+2315,azure,en-US-AndrewNeural,Robert
+2316,azure,en-US-AndrewNeural,Unknown
+2317,azure,en-US-AndrewNeural,Robert
+2318,azure,en-US-AndrewNeural,Unknown
+2319,azure,en-US-AndrewNeural,Dorothy
+2320,azure,en-US-AndrewNeural,Cannot answer
+2321,azure,en-US-AndrewNeural,Dorothy
+2322,azure,en-US-AndrewNeural,Cannot answer
+2323,azure,en-US-AndrewNeural,Donald
+2324,azure,en-US-AndrewNeural,Not answerable
+2325,azure,en-US-AndrewNeural,Donald
+2326,azure,en-US-AndrewNeural,Not answerable
+2327,azure,en-US-AndrewNeural,Dorothy
+2328,azure,en-US-AndrewNeural,Cannot be determined
+2329,azure,en-US-AndrewNeural,Dorothy
+2330,azure,en-US-AndrewNeural,Cannot be determined
+2331,azure,en-US-AndrewNeural,Richard
+2332,azure,en-US-AndrewNeural,Can't be determined
+2333,azure,en-US-AndrewNeural,Richard
+2334,azure,en-US-AndrewNeural,Can't be determined
+2335,azure,en-US-AndrewNeural,Dorothy
+2336,azure,en-US-AndrewNeural,Not enough information
+2337,azure,en-US-AndrewNeural,Dorothy
+2338,azure,en-US-AndrewNeural,Not enough information
+2339,azure,en-US-AndrewNeural,Williams
+2340,azure,en-US-AndrewNeural,Not enough information
+2341,azure,en-US-AndrewNeural,Williams
+2342,azure,en-US-AndrewNeural,Not enough information
+2343,azure,en-US-AndrewNeural,Dorothy
+2344,azure,en-US-AndrewNeural,Unknown
+2345,azure,en-US-AndrewNeural,Dorothy
+2346,azure,en-US-AndrewNeural,Unknown
+2347,azure,en-US-AndrewNeural,John
+2348,azure,en-US-AndrewNeural,Can't answer
+2349,azure,en-US-AndrewNeural,John
+2350,azure,en-US-AndrewNeural,Can't answer
+2351,azure,en-US-AndrewNeural,Dorothy
+2352,azure,en-US-AndrewNeural,Unknown
+2353,azure,en-US-AndrewNeural,Susan
+2354,azure,en-US-AndrewNeural,Unknown
+2355,azure,en-US-AndrewNeural,John
+2356,azure,en-US-AndrewNeural,Can't answer
+2357,azure,en-US-AndrewNeural,John
+2358,azure,en-US-AndrewNeural,Can't answer
+2359,azure,en-US-AndrewNeural,Susan
+2360,azure,en-US-AndrewNeural,Not answerable
+2361,azure,en-US-AndrewNeural,Susan
+2362,azure,en-US-AndrewNeural,Not answerable
+2363,azure,en-US-AndrewNeural,Brian
+2364,azure,en-US-AndrewNeural,Not answerable
+2365,azure,en-US-AndrewNeural,Brian
+2366,azure,en-US-AndrewNeural,Not answerable
+2367,azure,en-US-AndrewNeural,Susan
+2368,azure,en-US-AndrewNeural,Undetermined
+2369,azure,en-US-AndrewNeural,Susan
+2370,azure,en-US-AndrewNeural,Undetermined
+2371,azure,en-US-AndrewNeural,Donald
+2372,azure,en-US-AndrewNeural,Cannot answer
+2373,azure,en-US-AndrewNeural,Donald
+2374,azure,en-US-AndrewNeural,Cannot answer
+2375,azure,en-US-AndrewNeural,Susan
+2376,azure,en-US-AndrewNeural,Can't be determined
+2377,azure,en-US-AndrewNeural,Susan
+2378,azure,en-US-AndrewNeural,Can't be determined
+2379,azure,en-US-AndrewNeural,Richard
+2380,azure,en-US-AndrewNeural,Cannot be determined
+2381,azure,en-US-AndrewNeural,Richard
+2382,azure,en-US-AndrewNeural,Cannot be determined
+2383,azure,en-US-AndrewNeural,Susan
+2384,azure,en-US-AndrewNeural,Can't answer
+2385,azure,en-US-AndrewNeural,Susan
+2386,azure,en-US-AndrewNeural,Can't answer
+2387,azure,en-US-AndrewNeural,Williams
+2388,azure,en-US-AndrewNeural,Not known
+2389,azure,en-US-AndrewNeural,Williams
+2390,azure,en-US-AndrewNeural,Not known
+2391,azure,en-US-AndrewNeural,Susan
+2392,azure,en-US-AndrewNeural,Can't answer
+2393,azure,en-US-AndrewNeural,Helen
+2394,azure,en-US-AndrewNeural,Can't answer
+2395,azure,en-US-AndrewNeural,Edward
+2396,azure,en-US-AndrewNeural,Not known
+2397,azure,en-US-AndrewNeural,Edward
+2398,azure,en-US-AndrewNeural,Not known
+2399,azure,en-US-AndrewNeural,Helen
+2400,azure,en-US-AndrewNeural,Undetermined
+2401,azure,en-US-AndrewNeural,Helen
+2402,azure,en-US-AndrewNeural,Undetermined
+2403,azure,en-US-AndrewNeural,Christopher
+2404,azure,en-US-AndrewNeural,Unknown
+2405,azure,en-US-AndrewNeural,Christopher
+2406,azure,en-US-AndrewNeural,Unknown
+2407,azure,en-US-AndrewNeural,Helen
+2408,azure,en-US-AndrewNeural,Unknown
+2409,azure,en-US-AndrewNeural,Helen
+2410,azure,en-US-AndrewNeural,Unknown
+2411,azure,en-US-AndrewNeural,Williams
+2412,azure,en-US-AndrewNeural,Not answerable
+2413,azure,en-US-AndrewNeural,Williams
+2414,azure,en-US-AndrewNeural,Not answerable
+2415,azure,en-US-AndrewNeural,Helen
+2416,azure,en-US-AndrewNeural,Not enough information
+2417,azure,en-US-AndrewNeural,Helen
+2418,azure,en-US-AndrewNeural,Not enough information
+2419,azure,en-US-AndrewNeural,Mark
+2420,azure,en-US-AndrewNeural,Not answerable
+2421,azure,en-US-AndrewNeural,Mark
+2422,azure,en-US-AndrewNeural,Not answerable
+2423,azure,en-US-AndrewNeural,Helen
+2424,azure,en-US-AndrewNeural,Not enough info
+2425,azure,en-US-AndrewNeural,Helen
+2426,azure,en-US-AndrewNeural,Not enough info
+2427,azure,en-US-AndrewNeural,Richard
+2428,azure,en-US-AndrewNeural,Not enough information
+2429,azure,en-US-AndrewNeural,Richard
+2430,azure,en-US-AndrewNeural,Not enough information
+2431,azure,en-US-AndrewNeural,Helen
+2432,azure,en-US-AndrewNeural,Cannot answer
+2433,azure,en-US-AndrewNeural,Patricia
+2434,azure,en-US-AndrewNeural,Cannot answer
+2435,azure,en-US-AndrewNeural,Donald
+2436,azure,en-US-AndrewNeural,Can't answer
+2437,azure,en-US-AndrewNeural,Donald
+2438,azure,en-US-AndrewNeural,Donald
+2439,azure,en-US-AndrewNeural,Patricia
+2440,azure,en-US-AndrewNeural,Not answerable
+2441,azure,en-US-AndrewNeural,Patricia
+2442,azure,en-US-AndrewNeural,Not answerable
+2443,azure,en-US-AndrewNeural,Stephen
+2444,azure,en-US-AndrewNeural,Cannot be determined
+2445,azure,en-US-AndrewNeural,Stephen
+2446,azure,en-US-AndrewNeural,Cannot be determined
+2447,azure,en-US-AndrewNeural,Patricia
+2448,azure,en-US-AndrewNeural,Cannot answer
+2449,azure,en-US-AndrewNeural,Patricia
+2450,azure,en-US-AndrewNeural,Cannot answer
+2451,azure,en-US-AndrewNeural,Charles
+2452,azure,en-US-AndrewNeural,Can't be determined
+2453,azure,en-US-AndrewNeural,Charles
+2454,azure,en-US-AndrewNeural,Can't be determined
+2455,azure,en-US-AndrewNeural,Patricia
+2456,azure,en-US-AndrewNeural,Can't answer
+2457,azure,en-US-AndrewNeural,Patricia
+2458,azure,en-US-AndrewNeural,Can't answer
+2459,azure,en-US-AndrewNeural,Joseph
+2460,azure,en-US-AndrewNeural,Can't be determined
+2461,azure,en-US-AndrewNeural,Joseph
+2462,azure,en-US-AndrewNeural,Can't be determined
+2463,azure,en-US-AndrewNeural,Patricia
+2464,azure,en-US-AndrewNeural,Cannot be determined
+2465,azure,en-US-AndrewNeural,Patricia
+2466,azure,en-US-AndrewNeural,Cannot be determined
+2467,azure,en-US-AndrewNeural,Brian
+2468,azure,en-US-AndrewNeural,Can't answer
+2469,azure,en-US-AndrewNeural,Brian
+2470,azure,en-US-AndrewNeural,Can't answer
+2471,azure,en-US-AndrewNeural,Patricia
+4472,azure,en-US-AndrewNeural,Not enough information
+4473,azure,en-US-AndrewNeural,Both
+4474,azure,en-US-AndrewNeural,Not enough information
+4475,azure,en-US-AndrewNeural,Nancy
+4476,azure,en-US-AndrewNeural,Undetermined
+4477,azure,en-US-AndrewNeural,Undetermined
+4478,azure,en-US-AndrewNeural,Undetermined
+4479,azure,en-US-AndrewNeural,Undetermined
+4480,azure,en-US-AndrewNeural,Cannot answer
+4481,azure,en-US-AndrewNeural,Both
+4482,azure,en-US-AndrewNeural,Cannot answer
+4483,azure,en-US-AndrewNeural,Nancy
+4484,azure,en-US-AndrewNeural,Unknown
+4485,azure,en-US-AndrewNeural,Nancy
+4486,azure,en-US-AndrewNeural,Unknown
+4487,azure,en-US-AndrewNeural,Nancy
+4488,azure,en-US-AndrewNeural,Cannot be determined
+4489,azure,en-US-AndrewNeural,Both
+4490,azure,en-US-AndrewNeural,Cannot be determined
+4491,azure,en-US-AndrewNeural,Nancy
+4492,azure,en-US-AndrewNeural,Not answerable
+4493,azure,en-US-AndrewNeural,Both
+4494,azure,en-US-AndrewNeural,Not answerable
+4495,azure,en-US-AndrewNeural,Nancy
+4496,azure,en-US-AndrewNeural,Not answerable
+4497,azure,en-US-AndrewNeural,Robert
+4498,azure,en-US-AndrewNeural,Not answerable
+4499,azure,en-US-AndrewNeural,Not answerable
+4500,azure,en-US-AndrewNeural,Undetermined
+4501,azure,en-US-AndrewNeural,Undetermined
+4502,azure,en-US-AndrewNeural,Undetermined
+4503,azure,en-US-AndrewNeural,Undetermined
+4504,azure,en-US-AndrewNeural,Undetermined
+4505,azure,en-US-AndrewNeural,Kenneth
+4506,azure,en-US-AndrewNeural,Undetermined
+4507,azure,en-US-AndrewNeural,Undetermined
+4508,azure,en-US-AndrewNeural,Cannot answer
+4509,azure,en-US-AndrewNeural,Both
+4510,azure,en-US-AndrewNeural,Cannot answer
+4511,azure,en-US-AndrewNeural,Kenneth
+4512,azure,en-US-AndrewNeural,Not enough info
+4513,azure,en-US-AndrewNeural,Both
+4514,azure,en-US-AndrewNeural,Not enough info
+4515,azure,en-US-AndrewNeural,Not enough info
+4516,azure,en-US-AndrewNeural,Not answerable
+4517,azure,en-US-AndrewNeural,Both
+4518,azure,en-US-AndrewNeural,Not answerable
+4519,azure,en-US-AndrewNeural,Not answerable
+4520,azure,en-US-AndrewNeural,Cannot be determined
+4521,azure,en-US-AndrewNeural,Both
+4522,azure,en-US-AndrewNeural,Cannot be determined
+4523,azure,en-US-AndrewNeural,Mary
+4524,azure,en-US-AndrewNeural,Cannot answer
+4525,azure,en-US-AndrewNeural,Mary
+4526,azure,en-US-AndrewNeural,Cannot answer
+4527,azure,en-US-AndrewNeural,Mary
+4528,azure,en-US-AndrewNeural,Cannot be determined
+4529,azure,en-US-AndrewNeural,Both
+4530,azure,en-US-AndrewNeural,Cannot be determined
+4531,azure,en-US-AndrewNeural,Cannot be determined
+4532,azure,en-US-AndrewNeural,Undetermined
+4533,azure,en-US-AndrewNeural,Undetermined
+4534,azure,en-US-AndrewNeural,Undetermined
+4535,azure,en-US-AndrewNeural,Undetermined
+4536,azure,en-US-AndrewNeural,Can't be determined
+4537,azure,en-US-AndrewNeural,Both
+4538,azure,en-US-AndrewNeural,Can't be determined
+4539,azure,en-US-AndrewNeural,Mary
+4540,azure,en-US-AndrewNeural,Cannot answer
+4541,azure,en-US-AndrewNeural,Mary
+4542,azure,en-US-AndrewNeural,Cannot answer
+4543,azure,en-US-AndrewNeural,Cannot answer
+4544,azure,en-US-AndrewNeural,Undetermined
+4545,azure,en-US-AndrewNeural,Robert
+4546,azure,en-US-AndrewNeural,Undetermined
+4547,azure,en-US-AndrewNeural,Undetermined
+4548,azure,en-US-AndrewNeural,Not known
+4549,azure,en-US-AndrewNeural,Both
+4550,azure,en-US-AndrewNeural,Not known
+4551,azure,en-US-AndrewNeural,Not known
+4552,azure,en-US-AndrewNeural,Not known
+4553,azure,en-US-AndrewNeural,Both
+4554,azure,en-US-AndrewNeural,Not known
+4555,azure,en-US-AndrewNeural,Barbara
+4556,azure,en-US-AndrewNeural,Cannot answer
+4557,azure,en-US-AndrewNeural,Barbara
+4558,azure,en-US-AndrewNeural,Cannot answer
+4559,azure,en-US-AndrewNeural,Barbara
+4560,azure,en-US-AndrewNeural,Not enough information
+4561,azure,en-US-AndrewNeural,Both
+4562,azure,en-US-AndrewNeural,Not enough information
+4563,azure,en-US-AndrewNeural,Barbara
+4564,azure,en-US-AndrewNeural,Not enough information
+4565,azure,en-US-AndrewNeural,Barbara
+4566,azure,en-US-AndrewNeural,Not enough information
+4567,azure,en-US-AndrewNeural,Barbara
+4568,azure,en-US-AndrewNeural,Unknown
+4569,azure,en-US-AndrewNeural,Kenneth
+4570,azure,en-US-AndrewNeural,Unknown
+4571,azure,en-US-AndrewNeural,Barbara
+4572,azure,en-US-AndrewNeural,Undetermined
+4573,azure,en-US-AndrewNeural,Barbara
+4574,azure,en-US-AndrewNeural,Undetermined
+4575,azure,en-US-AndrewNeural,Undetermined
+4576,azure,en-US-AndrewNeural,Not known
+4577,azure,en-US-AndrewNeural,Both
+4578,azure,en-US-AndrewNeural,Not known
+4579,azure,en-US-AndrewNeural,Barbara
+4580,azure,en-US-AndrewNeural,Cannot be determined
+4581,azure,en-US-AndrewNeural,Both
+4582,azure,en-US-AndrewNeural,Cannot be determined
+4583,azure,en-US-AndrewNeural,John
+4584,azure,en-US-AndrewNeural,Not enough info
+4585,azure,en-US-AndrewNeural,Mark
+4586,azure,en-US-AndrewNeural,Not enough info
+4587,azure,en-US-AndrewNeural,Not enough info
+4588,azure,en-US-AndrewNeural,Can't be determined
+4589,azure,en-US-AndrewNeural,Barbara
+4590,azure,en-US-AndrewNeural,Can't be determined
+4591,azure,en-US-AndrewNeural,Mark
+4592,azure,en-US-AndrewNeural,Can't answer
+4593,azure,en-US-AndrewNeural,Both
+4594,azure,en-US-AndrewNeural,Can't answer
+4595,azure,en-US-AndrewNeural,Jennifer
+4596,azure,en-US-AndrewNeural,Not answerable
+4597,azure,en-US-AndrewNeural,Both
+4598,azure,en-US-AndrewNeural,Not answerable
+4599,azure,en-US-AndrewNeural,Not answerable
+4600,azure,en-US-AndrewNeural,Unknown
+4601,azure,en-US-AndrewNeural,Both
+4602,azure,en-US-AndrewNeural,Unknown
+4603,azure,en-US-AndrewNeural,Jennifer
+4604,azure,en-US-AndrewNeural,Can't be determined
+4605,azure,en-US-AndrewNeural,Jennifer
+4606,azure,en-US-AndrewNeural,Can't be determined
+4607,azure,en-US-AndrewNeural,Can't be determined
+4608,azure,en-US-AndrewNeural,Cannot answer
+4609,azure,en-US-AndrewNeural,Both
+4610,azure,en-US-AndrewNeural,Cannot answer
+4611,azure,en-US-AndrewNeural,Jennifer
+4612,azure,en-US-AndrewNeural,Not enough information
+4613,azure,en-US-AndrewNeural,Both
+4614,azure,en-US-AndrewNeural,Not enough information
+4615,azure,en-US-AndrewNeural,Not enough information
+4616,azure,en-US-AndrewNeural,Not known
+4617,azure,en-US-AndrewNeural,Joseph
+4618,azure,en-US-AndrewNeural,Not known
+4619,azure,en-US-AndrewNeural,Not known
+4620,azure,en-US-AndrewNeural,Not enough info
+4621,azure,en-US-AndrewNeural,Both
+4622,azure,en-US-AndrewNeural,Not enough info
+4623,azure,en-US-AndrewNeural,Not enough info
+4624,azure,en-US-AndrewNeural,Not answerable
+4625,azure,en-US-AndrewNeural,Both
+4626,azure,en-US-AndrewNeural,Not answerable
+4627,azure,en-US-AndrewNeural,Not answerable
+4628,azure,en-US-AndrewNeural,Cannot be determined
+4629,azure,en-US-AndrewNeural,Both
+4630,azure,en-US-AndrewNeural,Cannot be determined
+4631,azure,en-US-AndrewNeural,James
+4632,azure,en-US-AndrewNeural,Unknown
+4633,azure,en-US-AndrewNeural,Brian
+4634,azure,en-US-AndrewNeural,Unknown
+4635,azure,en-US-AndrewNeural,Brian
+4636,azure,en-US-AndrewNeural,Not answerable
+4637,azure,en-US-AndrewNeural,Both
+4638,azure,en-US-AndrewNeural,Not answerable
+4639,azure,en-US-AndrewNeural,Not answerable
+4640,azure,en-US-AndrewNeural,Not answerable
+4641,azure,en-US-AndrewNeural,James
+4642,azure,en-US-AndrewNeural,Not answerable
+4643,azure,en-US-AndrewNeural,Not answerable
+4644,azure,en-US-AndrewNeural,Can't be determined
+4645,azure,en-US-AndrewNeural,Karen
+4646,azure,en-US-AndrewNeural,Can't be determined
+4647,azure,en-US-AndrewNeural,James
+4648,azure,en-US-AndrewNeural,Not known
+4649,azure,en-US-AndrewNeural,Charles
+4650,azure,en-US-AndrewNeural,Not known
+4651,azure,en-US-AndrewNeural,Not known
+4652,azure,en-US-AndrewNeural,Cannot answer
+4653,azure,en-US-AndrewNeural,Karen
+4654,azure,en-US-AndrewNeural,Cannot answer
+4655,azure,en-US-AndrewNeural,Karen
+4656,azure,en-US-AndrewNeural,Unknown
+4657,azure,en-US-AndrewNeural,George
+4658,azure,en-US-AndrewNeural,Unknown
+4659,azure,en-US-AndrewNeural,Karen
+4660,azure,en-US-AndrewNeural,Not answerable
+4661,azure,en-US-AndrewNeural,Both
+4662,azure,en-US-AndrewNeural,Not answerable
+4663,azure,en-US-AndrewNeural,Not answerable
+4664,azure,en-US-AndrewNeural,Not known
+4665,azure,en-US-AndrewNeural,Christopher
+4666,azure,en-US-AndrewNeural,Not known
+4667,azure,en-US-AndrewNeural,Not known
+4668,azure,en-US-AndrewNeural,Can't answer
+4669,azure,en-US-AndrewNeural,Both
+4670,azure,en-US-AndrewNeural,Can't answer
+4671,azure,en-US-AndrewNeural,Can't answer
+4872,azure,en-US-AndrewNeural,Undetermined
+4873,azure,en-US-AndrewNeural,Paul
+4874,azure,en-US-AndrewNeural,Undetermined
+4875,azure,en-US-AndrewNeural,Undetermined
+4876,azure,en-US-AndrewNeural,Can't answer
+4877,azure,en-US-AndrewNeural,Betty
+4878,azure,en-US-AndrewNeural,Can't answer
+4879,azure,en-US-AndrewNeural,Can't answer
+4880,azure,en-US-AndrewNeural,Unknown
+4881,azure,en-US-AndrewNeural,Christopher
+4882,azure,en-US-AndrewNeural,Unknown
+4883,azure,en-US-AndrewNeural,Unknown
+4884,azure,en-US-AndrewNeural,Not known
+4885,azure,en-US-AndrewNeural,Betty
+4886,azure,en-US-AndrewNeural,Not known
+4887,azure,en-US-AndrewNeural,Not known
+4888,azure,en-US-AndrewNeural,Not known
+4889,azure,en-US-AndrewNeural,James
+4890,azure,en-US-AndrewNeural,Not known
+4891,azure,en-US-AndrewNeural,Not known
+4892,azure,en-US-AndrewNeural,Not enough information
+4893,azure,en-US-AndrewNeural,Betty
+4894,azure,en-US-AndrewNeural,Not enough information
+4895,azure,en-US-AndrewNeural,Not enough information
+4896,azure,en-US-AndrewNeural,Undetermined
+4897,azure,en-US-AndrewNeural,Thomas
+4898,azure,en-US-AndrewNeural,Undetermined
+4899,azure,en-US-AndrewNeural,Undetermined
+4900,azure,en-US-AndrewNeural,Not answerable
+4901,azure,en-US-AndrewNeural,Betty
+4902,azure,en-US-AndrewNeural,Not answerable
+4903,azure,en-US-AndrewNeural,Not answerable
+4904,azure,en-US-AndrewNeural,Not known
+4905,azure,en-US-AndrewNeural,Joseph
+4906,azure,en-US-AndrewNeural,Not known
+4907,azure,en-US-AndrewNeural,Not known
+4908,azure,en-US-AndrewNeural,Not enough info
+4909,azure,en-US-AndrewNeural,Betty
+4910,azure,en-US-AndrewNeural,Not enough info
+4911,azure,en-US-AndrewNeural,Not enough info
+4912,azure,en-US-AndrewNeural,Undetermined
+4913,azure,en-US-AndrewNeural,Mark
+4914,azure,en-US-AndrewNeural,Undetermined
+4915,azure,en-US-AndrewNeural,Undetermined
+4916,azure,en-US-AndrewNeural,Unknown
+4917,azure,en-US-AndrewNeural,Lisa
+4918,azure,en-US-AndrewNeural,Unknown
+4919,azure,en-US-AndrewNeural,Unknown
+4920,azure,en-US-AndrewNeural,Not enough information
+4921,azure,en-US-AndrewNeural,Michael
+4922,azure,en-US-AndrewNeural,Not enough information
+4923,azure,en-US-AndrewNeural,Not enough information
+4924,azure,en-US-AndrewNeural,Not enough information
+4925,azure,en-US-AndrewNeural,Lisa
+4926,azure,en-US-AndrewNeural,Not enough information
+4927,azure,en-US-AndrewNeural,Not enough information
+4928,azure,en-US-AndrewNeural,Not known
+4929,azure,en-US-AndrewNeural,Williams
+4930,azure,en-US-AndrewNeural,Not known
+4931,azure,en-US-AndrewNeural,Not known
+4932,azure,en-US-AndrewNeural,Can't answer
+4933,azure,en-US-AndrewNeural,Lisa
+4934,azure,en-US-AndrewNeural,Can't answer
+4935,azure,en-US-AndrewNeural,Can't answer
+4936,azure,en-US-AndrewNeural,Not enough information
+4937,azure,en-US-AndrewNeural,Kenneth
+4938,azure,en-US-AndrewNeural,Not enough information
+4939,azure,en-US-AndrewNeural,Not enough information
+4940,azure,en-US-AndrewNeural,Undetermined
+4941,azure,en-US-AndrewNeural,Lisa
+4942,azure,en-US-AndrewNeural,Undetermined
+4943,azure,en-US-AndrewNeural,Undetermined
+4944,azure,en-US-AndrewNeural,Not enough info
+4945,azure,en-US-AndrewNeural,Robert
+4946,azure,en-US-AndrewNeural,Not enough info
+4947,azure,en-US-AndrewNeural,Not enough info
+4948,azure,en-US-AndrewNeural,Not enough info
+4949,azure,en-US-AndrewNeural,Lisa
+4950,azure,en-US-AndrewNeural,Not enough info
+4951,azure,en-US-AndrewNeural,Not enough info
+4952,azure,en-US-AndrewNeural,Not known
+4953,azure,en-US-AndrewNeural,Steven
+4954,azure,en-US-AndrewNeural,Not known
+4955,azure,en-US-AndrewNeural,Not known
+4956,azure,en-US-AndrewNeural,Not enough information
+4957,azure,en-US-AndrewNeural,Donna
+4958,azure,en-US-AndrewNeural,Not enough information
+4959,azure,en-US-AndrewNeural,Not enough information
+4960,azure,en-US-AndrewNeural,Not answerable
+4961,azure,en-US-AndrewNeural,Mark
+4962,azure,en-US-AndrewNeural,Not answerable
+4963,azure,en-US-AndrewNeural,Not answerable
+4964,azure,en-US-AndrewNeural,Undetermined
+4965,azure,en-US-AndrewNeural,Donna
+4966,azure,en-US-AndrewNeural,Undetermined
+4967,azure,en-US-AndrewNeural,Undetermined
+4968,azure,en-US-AndrewNeural,Not enough info
+4969,azure,en-US-AndrewNeural,Brian
+4970,azure,en-US-AndrewNeural,Not enough info
+4971,azure,en-US-AndrewNeural,Not enough info
+4972,azure,en-US-AndrewNeural,Can't answer
+4973,azure,en-US-AndrewNeural,Donna
+4974,azure,en-US-AndrewNeural,Donna
+4975,azure,en-US-AndrewNeural,Can't answer
+4976,azure,en-US-AndrewNeural,Not enough information
+4977,azure,en-US-AndrewNeural,John
+4978,azure,en-US-AndrewNeural,Not enough information
+4979,azure,en-US-AndrewNeural,Not enough information
+4980,azure,en-US-AndrewNeural,Not answerable
+4981,azure,en-US-AndrewNeural,Donna
+4982,azure,en-US-AndrewNeural,Not answerable
+4983,azure,en-US-AndrewNeural,Not answerable
+4984,azure,en-US-AndrewNeural,Undetermined
+4985,azure,en-US-AndrewNeural,Paul
+4986,azure,en-US-AndrewNeural,Undetermined
+4987,azure,en-US-AndrewNeural,Undetermined
+4988,azure,en-US-AndrewNeural,Can't answer
+4989,azure,en-US-AndrewNeural,Donna
+4990,azure,en-US-AndrewNeural,Can't answer
+4991,azure,en-US-AndrewNeural,Can't answer
+4992,azure,en-US-AndrewNeural,Not known
+4993,azure,en-US-AndrewNeural,Williams
+4994,azure,en-US-AndrewNeural,Not known
+4995,azure,en-US-AndrewNeural,Not known
+4996,azure,en-US-AndrewNeural,Not answerable
+4997,azure,en-US-AndrewNeural,Ruth
+4998,azure,en-US-AndrewNeural,Not answerable
+4999,azure,en-US-AndrewNeural,Not answerable
+5000,azure,en-US-AndrewNeural,Not answerable
+5001,azure,en-US-AndrewNeural,George
+5002,azure,en-US-AndrewNeural,Not answerable
+5003,azure,en-US-AndrewNeural,Not answerable
+5004,azure,en-US-AndrewNeural,Not answerable
+5005,azure,en-US-AndrewNeural,Ruth
+5006,azure,en-US-AndrewNeural,Not answerable
+5007,azure,en-US-AndrewNeural,Not answerable
+5008,azure,en-US-AndrewNeural,Not enough information
+5009,azure,en-US-AndrewNeural,Brian
+5010,azure,en-US-AndrewNeural,Not enough information
+5011,azure,en-US-AndrewNeural,Not enough information
+5012,azure,en-US-AndrewNeural,Unknown
+5013,azure,en-US-AndrewNeural,Ruth
+5014,azure,en-US-AndrewNeural,Unknown
+5015,azure,en-US-AndrewNeural,Unknown
+5016,azure,en-US-AndrewNeural,Undetermined
+5017,azure,en-US-AndrewNeural,Daniel
+5018,azure,en-US-AndrewNeural,Undetermined
+5019,azure,en-US-AndrewNeural,Undetermined
+5020,azure,en-US-AndrewNeural,Not known
+5021,azure,en-US-AndrewNeural,Ruth
+5022,azure,en-US-AndrewNeural,Not known
+5023,azure,en-US-AndrewNeural,Not known
+5024,azure,en-US-AndrewNeural,Cannot answer
+5025,azure,en-US-AndrewNeural,David
+5026,azure,en-US-AndrewNeural,Cannot answer
+5027,azure,en-US-AndrewNeural,Cannot answer
+5028,azure,en-US-AndrewNeural,Not known
+5029,azure,en-US-AndrewNeural,Ruth
+5030,azure,en-US-AndrewNeural,Not known
+5031,azure,en-US-AndrewNeural,Not known
+5032,azure,en-US-AndrewNeural,Cannot answer
+5033,azure,en-US-AndrewNeural,James
+5034,azure,en-US-AndrewNeural,Cannot answer
+5035,azure,en-US-AndrewNeural,Cannot answer
+5036,azure,en-US-AndrewNeural,Not known
+5037,azure,en-US-AndrewNeural,Maria
+5038,azure,en-US-AndrewNeural,Not known
+5039,azure,en-US-AndrewNeural,Not known
+5040,azure,en-US-AndrewNeural,Not enough information
+5041,azure,en-US-AndrewNeural,Edward
+5042,azure,en-US-AndrewNeural,Not enough information
+5043,azure,en-US-AndrewNeural,Not enough information
+5044,azure,en-US-AndrewNeural,Not enough information
+5045,azure,en-US-AndrewNeural,Maria
+5046,azure,en-US-AndrewNeural,Not enough information
+5047,azure,en-US-AndrewNeural,Not enough information
+5048,azure,en-US-AndrewNeural,Can't answer
+5049,azure,en-US-AndrewNeural,Richard
+5050,azure,en-US-AndrewNeural,Can't answer
+5051,azure,en-US-AndrewNeural,Can't answer
+5052,azure,en-US-AndrewNeural,Not enough information
+5053,azure,en-US-AndrewNeural,Maria
+5054,azure,en-US-AndrewNeural,Not enough information
+5055,azure,en-US-AndrewNeural,Not enough information
+5056,azure,en-US-AndrewNeural,Not known
+5057,azure,en-US-AndrewNeural,Donald
+5058,azure,en-US-AndrewNeural,Not known
+5059,azure,en-US-AndrewNeural,Not known
+5060,azure,en-US-AndrewNeural,Not answerable
+5061,azure,en-US-AndrewNeural,Maria
+5062,azure,en-US-AndrewNeural,Not answerable
+5063,azure,en-US-AndrewNeural,Not answerable
+5064,azure,en-US-AndrewNeural,Cannot be determined
+5065,azure,en-US-AndrewNeural,Michael
+5066,azure,en-US-AndrewNeural,Cannot be determined
+5067,azure,en-US-AndrewNeural,Cannot be determined
+5068,azure,en-US-AndrewNeural,Cannot be determined
+5069,azure,en-US-AndrewNeural,Maria
+5070,azure,en-US-AndrewNeural,Cannot be determined
+5071,azure,en-US-AndrewNeural,Cannot be determined

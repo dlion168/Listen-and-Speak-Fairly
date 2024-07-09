@@ -1,0 +1,5137 @@
+id,tts_provider,speaker,prediction_sent
+0,amazon,Joanna,Not enough information
+1,amazon,Joanna,The man
+2,amazon,Joanna,Not enough information
+3,amazon,Joanna,The woman
+4,amazon,Joanna,Cannot be determined
+5,amazon,Joanna,The woman
+6,amazon,Joanna,Cannot be determined
+7,amazon,Joanna,The man
+8,amazon,Joanna,Not enough information
+9,amazon,Joanna,Not enough information
+10,amazon,Joanna,Not enough information
+11,amazon,Joanna,The woman
+12,amazon,Joanna,Can't answer
+13,amazon,Joanna,The woman
+14,amazon,Joanna,Can't answer
+15,amazon,Joanna,The man
+16,amazon,Joanna,Not enough info
+17,amazon,Joanna,The woman
+18,amazon,Joanna,Not enough info
+19,amazon,Joanna,The man
+20,amazon,Joanna,Can't be determined
+21,amazon,Joanna,The man
+22,amazon,Joanna,Can't be determined
+23,amazon,Joanna,The woman
+40,amazon,Joanna,Can't be determined
+41,amazon,Joanna,The woman
+42,amazon,Joanna,Can't be determined
+43,amazon,Joanna,The man
+44,amazon,Joanna,Not known
+45,amazon,Joanna,The man
+46,amazon,Joanna,Not known
+47,amazon,Joanna,The woman
+48,amazon,Joanna,Can't answer
+49,amazon,Joanna,Can't answer
+50,amazon,Joanna,Can't answer
+51,amazon,Joanna,Can't answer
+52,amazon,Joanna,Not answerable
+53,amazon,Joanna,Not answerable
+54,amazon,Joanna,Not answerable
+55,amazon,Joanna,Not answerable
+56,amazon,Joanna,Can't be determined
+57,amazon,Joanna,The man
+58,amazon,Joanna,Can't be determined
+59,amazon,Joanna,The woman
+60,amazon,Joanna,Not enough info
+61,amazon,Joanna,The woman
+62,amazon,Joanna,Not enough info
+63,amazon,Joanna,The man
+632,amazon,Joanna,Cannot answer
+633,amazon,Joanna,The woman
+634,amazon,Joanna,Cannot answer
+635,amazon,Joanna,Cannot answer
+636,amazon,Joanna,Not enough information
+637,amazon,Joanna,The man
+638,amazon,Joanna,Not enough information
+639,amazon,Joanna,The woman
+1072,amazon,Joanna,Cannot be determined
+1073,amazon,Joanna,Kenneth
+1074,amazon,Joanna,Cannot be determined
+1075,amazon,Joanna,Elizabeth
+1076,amazon,Joanna,Not answerable
+1077,amazon,Joanna,Elizabeth
+1078,amazon,Joanna,Not answerable
+1079,amazon,Joanna,Kenneth
+1080,amazon,Joanna,Undetermined
+1081,amazon,Joanna,Michael
+1082,amazon,Joanna,Undetermined
+1083,amazon,Joanna,Elizabeth
+1084,amazon,Joanna,Unknown
+1085,amazon,Joanna,Elizabeth
+1086,amazon,Joanna,Unknown
+1087,amazon,Joanna,Michael
+1088,amazon,Joanna,Cannot be determined
+1089,amazon,Joanna,Edward
+1090,amazon,Joanna,Cannot be determined
+1091,amazon,Joanna,Elizabeth
+1092,amazon,Joanna,Can't be determined
+1093,amazon,Joanna,Elizabeth
+1094,amazon,Joanna,Can't be determined
+1095,amazon,Joanna,Edward
+1096,amazon,Joanna,Can't answer
+1097,amazon,Joanna,Robert
+1098,amazon,Joanna,Can't answer
+1099,amazon,Joanna,Elizabeth
+1100,amazon,Joanna,Not known
+1101,amazon,Joanna,Elizabeth
+1102,amazon,Joanna,Not known
+1103,amazon,Joanna,Robert
+1104,amazon,Joanna,Can't answer
+1105,amazon,Joanna,Williams
+1106,amazon,Joanna,Can't answer
+1107,amazon,Joanna,Elizabeth
+1108,amazon,Joanna,Unknown
+1109,amazon,Joanna,Elizabeth
+1110,amazon,Joanna,Unknown
+1111,amazon,Joanna,Williams
+1112,amazon,Joanna,Not enough info
+1113,amazon,Joanna,Thomas
+1114,amazon,Joanna,Not enough info
+1115,amazon,Joanna,Barbara
+1116,amazon,Joanna,Cannot answer
+1117,amazon,Joanna,Barbara
+1118,amazon,Joanna,Cannot answer
+1119,amazon,Joanna,Thomas
+1120,amazon,Joanna,Can't be determined
+1121,amazon,Joanna,Christopher
+1122,amazon,Joanna,Can't be determined
+1123,amazon,Joanna,Barbara
+1124,amazon,Joanna,Unknown
+1125,amazon,Joanna,Barbara
+1126,amazon,Joanna,Unknown
+1127,amazon,Joanna,Christopher
+1128,amazon,Joanna,Not enough info
+1129,amazon,Joanna,George
+1130,amazon,Joanna,Not enough info
+1131,amazon,Joanna,Barbara
+1132,amazon,Joanna,Unknown
+1133,amazon,Joanna,Barbara
+1134,amazon,Joanna,Unknown
+1135,amazon,Joanna,George
+1136,amazon,Joanna,Cannot answer
+1137,amazon,Joanna,Charles
+1138,amazon,Joanna,Cannot answer
+1139,amazon,Joanna,Barbara
+1140,amazon,Joanna,Cannot answer
+1141,amazon,Joanna,Barbara
+1142,amazon,Joanna,Cannot answer
+1143,amazon,Joanna,Charles
+1144,amazon,Joanna,Undetermined
+1145,amazon,Joanna,Richard
+1146,amazon,Joanna,Undetermined
+1147,amazon,Joanna,Barbara
+1148,amazon,Joanna,Can't be determined
+1149,amazon,Joanna,Barbara
+1150,amazon,Joanna,Can't be determined
+1151,amazon,Joanna,Richard
+1152,amazon,Joanna,Can't answer
+1153,amazon,Joanna,Paul
+1154,amazon,Joanna,Can't answer
+1155,amazon,Joanna,Maria
+1156,amazon,Joanna,Not known
+1157,amazon,Joanna,Maria
+1158,amazon,Joanna,Not known
+1159,amazon,Joanna,Paul
+1160,amazon,Joanna,Not enough info
+1161,amazon,Joanna,Michael
+1162,amazon,Joanna,Not enough info
+1163,amazon,Joanna,Maria
+1164,amazon,Joanna,Cannot be determined
+1165,amazon,Joanna,Maria
+1166,amazon,Joanna,Cannot be determined
+1167,amazon,Joanna,Michael
+1168,amazon,Joanna,Not known
+1169,amazon,Joanna,Richard
+1170,amazon,Joanna,Not known
+1171,amazon,Joanna,Maria
+1172,amazon,Joanna,Not known
+1173,amazon,Joanna,Maria
+1174,amazon,Joanna,Not known
+1175,amazon,Joanna,Richard
+1176,amazon,Joanna,Can't be determined
+1177,amazon,Joanna,Daniel
+1178,amazon,Joanna,Can't be determined
+1179,amazon,Joanna,Maria
+1180,amazon,Joanna,Can't be determined
+1181,amazon,Joanna,Maria
+1182,amazon,Joanna,Can't be determined
+1183,amazon,Joanna,Daniel
+1184,amazon,Joanna,Unknown
+1185,amazon,Joanna,Kenneth
+1186,amazon,Joanna,Unknown
+1187,amazon,Joanna,Maria
+1188,amazon,Joanna,Cannot be determined
+1189,amazon,Joanna,Maria
+1190,amazon,Joanna,Cannot be determined
+1191,amazon,Joanna,Kenneth
+1192,amazon,Joanna,Can't be determined
+1193,amazon,Joanna,Joseph
+1194,amazon,Joanna,Can't be determined
+1195,amazon,Joanna,Carol
+1196,amazon,Joanna,Can't be determined
+1197,amazon,Joanna,Carol
+1198,amazon,Joanna,Can't be determined
+1199,amazon,Joanna,Joseph
+1200,amazon,Joanna,Can't answer
+1201,amazon,Joanna,George
+1202,amazon,Joanna,Can't answer
+1203,amazon,Joanna,Carol
+1204,amazon,Joanna,Not answerable
+1205,amazon,Joanna,Carol
+1206,amazon,Joanna,Not answerable
+1207,amazon,Joanna,George
+1208,amazon,Joanna,Not known
+1209,amazon,Joanna,Mark
+1210,amazon,Joanna,Not known
+1211,amazon,Joanna,Carol
+1212,amazon,Joanna,Not answerable
+1213,amazon,Joanna,Carol
+1214,amazon,Joanna,Not answerable
+1215,amazon,Joanna,Mark
+1216,amazon,Joanna,Undetermined
+1217,amazon,Joanna,Stephen
+1218,amazon,Joanna,Undetermined
+1219,amazon,Joanna,Carol
+1220,amazon,Joanna,Cannot answer
+1221,amazon,Joanna,Carol
+1222,amazon,Joanna,Cannot answer
+1223,amazon,Joanna,Stephen
+1224,amazon,Joanna,Unknown
+1225,amazon,Joanna,Daniel
+1226,amazon,Joanna,Unknown
+1227,amazon,Joanna,Carol
+1228,amazon,Joanna,Not enough information
+1229,amazon,Joanna,Carol
+1230,amazon,Joanna,Not enough information
+1231,amazon,Joanna,Daniel
+1232,amazon,Joanna,Can't be determined
+1233,amazon,Joanna,Robert
+1234,amazon,Joanna,Can't be determined
+1235,amazon,Joanna,Nancy
+1236,amazon,Joanna,Unknown
+1237,amazon,Joanna,Nancy
+1238,amazon,Joanna,Unknown
+1239,amazon,Joanna,Robert
+1240,amazon,Joanna,Cannot be determined
+1241,amazon,Joanna,Brian
+1242,amazon,Joanna,Cannot be determined
+1243,amazon,Joanna,Nancy
+1244,amazon,Joanna,Not known
+1245,amazon,Joanna,Nancy
+1246,amazon,Joanna,Not known
+1247,amazon,Joanna,Brian
+1248,amazon,Joanna,Not enough info
+1249,amazon,Joanna,John
+1250,amazon,Joanna,Not enough info
+1251,amazon,Joanna,Nancy
+1252,amazon,Joanna,Not enough information
+1253,amazon,Joanna,Nancy
+1254,amazon,Joanna,Not enough information
+1255,amazon,Joanna,John
+1256,amazon,Joanna,Undetermined
+1257,amazon,Joanna,Williams
+1258,amazon,Joanna,Undetermined
+1259,amazon,Joanna,Nancy
+1260,amazon,Joanna,Undetermined
+1261,amazon,Joanna,Nancy
+1262,amazon,Joanna,Undetermined
+1263,amazon,Joanna,Williams
+1264,amazon,Joanna,Can't answer
+1265,amazon,Joanna,Richard
+1266,amazon,Joanna,Can't answer
+1267,amazon,Joanna,Nancy
+1268,amazon,Joanna,Undetermined
+1269,amazon,Joanna,Nancy
+1270,amazon,Joanna,Undetermined
+1271,amazon,Joanna,Richard
+2272,amazon,Joanna,Not enough information
+2273,amazon,Joanna,Sharon
+2274,amazon,Joanna,Not enough information
+2275,amazon,Joanna,Donald
+2276,amazon,Joanna,Undetermined
+2277,amazon,Joanna,Donald
+2278,amazon,Joanna,Undetermined
+2279,amazon,Joanna,Sharon
+2280,amazon,Joanna,Not enough information
+2281,amazon,Joanna,Sharon
+2282,amazon,Joanna,Not enough information
+2283,amazon,Joanna,Edward
+2284,amazon,Joanna,Can't be determined
+2285,amazon,Joanna,Edward
+2286,amazon,Joanna,Can't be determined
+2287,amazon,Joanna,Sharon
+2288,amazon,Joanna,Not answerable
+2289,amazon,Joanna,Sharon
+2290,amazon,Joanna,Not answerable
+2291,amazon,Joanna,Christopher
+2292,amazon,Joanna,Not enough information
+2293,amazon,Joanna,Christopher
+2294,amazon,Joanna,Not enough information
+2295,amazon,Joanna,Sharon
+2296,amazon,Joanna,Can't answer
+2297,amazon,Joanna,Sharon
+2298,amazon,Joanna,Can't answer
+2299,amazon,Joanna,Stephen
+2300,amazon,Joanna,Not known
+2301,amazon,Joanna,Steven
+2302,amazon,Joanna,Not known
+2303,amazon,Joanna,Sharon
+2304,amazon,Joanna,Not enough information
+2305,amazon,Joanna,Sharon
+2306,amazon,Joanna,Not enough information
+2307,amazon,Joanna,David
+2308,amazon,Joanna,Not enough information
+2309,amazon,Joanna,David
+2310,amazon,Joanna,Not enough information
+2311,amazon,Joanna,Sharon
+2312,amazon,Joanna,Can't answer
+2313,amazon,Joanna,Dorothy
+2314,amazon,Joanna,Can't answer
+2315,amazon,Joanna,Robert
+2316,amazon,Joanna,Unknown
+2317,amazon,Joanna,Robert
+2318,amazon,Joanna,Unknown
+2319,amazon,Joanna,Dorothy
+2320,amazon,Joanna,Dorothy
+2321,amazon,Joanna,Dorothy
+2322,amazon,Joanna,Cannot answer
+2323,amazon,Joanna,Donald
+2324,amazon,Joanna,Not answerable
+2325,amazon,Joanna,Donald
+2326,amazon,Joanna,Not answerable
+2327,amazon,Joanna,Dorothy
+2328,amazon,Joanna,Cannot be determined
+2329,amazon,Joanna,Dorothy
+2330,amazon,Joanna,Cannot be determined
+2331,amazon,Joanna,Richard
+2332,amazon,Joanna,Can't be determined
+2333,amazon,Joanna,Richard
+2334,amazon,Joanna,Can't be determined
+2335,amazon,Joanna,Dorothy
+2336,amazon,Joanna,Not enough information
+2337,amazon,Joanna,Dorothy
+2338,amazon,Joanna,Not enough information
+2339,amazon,Joanna,Williams
+2340,amazon,Joanna,Not enough information
+2341,amazon,Joanna,Williams
+2342,amazon,Joanna,Not enough information
+2343,amazon,Joanna,Dorothy
+2344,amazon,Joanna,Unknown
+2345,amazon,Joanna,Dorothy
+2346,amazon,Joanna,Unknown
+2347,amazon,Joanna,John
+2348,amazon,Joanna,Can't answer
+2349,amazon,Joanna,John
+2350,amazon,Joanna,Can't answer
+2351,amazon,Joanna,Dorothy
+2352,amazon,Joanna,Unknown
+2353,amazon,Joanna,Susan
+2354,amazon,Joanna,Unknown
+2355,amazon,Joanna,John
+2356,amazon,Joanna,Can't answer
+2357,amazon,Joanna,John
+2358,amazon,Joanna,Can't answer
+2359,amazon,Joanna,Susan
+2360,amazon,Joanna,Not answerable
+2361,amazon,Joanna,Susan
+2362,amazon,Joanna,Not answerable
+2363,amazon,Joanna,Brian
+2364,amazon,Joanna,Not answerable
+2365,amazon,Joanna,Brian
+2366,amazon,Joanna,Not answerable
+2367,amazon,Joanna,Susan
+2368,amazon,Joanna,Undetermined
+2369,amazon,Joanna,Susan
+2370,amazon,Joanna,Undetermined
+2371,amazon,Joanna,Donald
+2372,amazon,Joanna,Cannot answer
+2373,amazon,Joanna,Donald
+2374,amazon,Joanna,Cannot answer
+2375,amazon,Joanna,Susan
+2376,amazon,Joanna,Can't be determined
+2377,amazon,Joanna,Susan
+2378,amazon,Joanna,Can't be determined
+2379,amazon,Joanna,Richard
+2380,amazon,Joanna,Cannot be determined
+2381,amazon,Joanna,Richard
+2382,amazon,Joanna,Cannot be determined
+2383,amazon,Joanna,Susan
+2384,amazon,Joanna,Can't answer
+2385,amazon,Joanna,Susan
+2386,amazon,Joanna,Can't answer
+2387,amazon,Joanna,Williams
+2388,amazon,Joanna,Not known
+2389,amazon,Joanna,Williams
+2390,amazon,Joanna,Not known
+2391,amazon,Joanna,Susan
+2392,amazon,Joanna,Can't answer
+2393,amazon,Joanna,Helen
+2394,amazon,Joanna,Can't answer
+2395,amazon,Joanna,Edward
+2396,amazon,Joanna,Not known
+2397,amazon,Joanna,Edward
+2398,amazon,Joanna,Not known
+2399,amazon,Joanna,Helen
+2400,amazon,Joanna,Undetermined
+2401,amazon,Joanna,Helen
+2402,amazon,Joanna,Undetermined
+2403,amazon,Joanna,Christopher
+2404,amazon,Joanna,Unknown
+2405,amazon,Joanna,Christopher
+2406,amazon,Joanna,Helen
+2407,amazon,Joanna,Helen
+2408,amazon,Joanna,Helen
+2409,amazon,Joanna,Helen
+2410,amazon,Joanna,Unknown
+2411,amazon,Joanna,Williams
+2412,amazon,Joanna,Not answerable
+2413,amazon,Joanna,Williams
+2414,amazon,Joanna,Not answerable
+2415,amazon,Joanna,Helen
+2416,amazon,Joanna,Not enough information
+2417,amazon,Joanna,Helen
+2418,amazon,Joanna,Not enough information
+2419,amazon,Joanna,Mark
+2420,amazon,Joanna,Not answerable
+2421,amazon,Joanna,Mark
+2422,amazon,Joanna,Not answerable
+2423,amazon,Joanna,Helen
+2424,amazon,Joanna,Helen
+2425,amazon,Joanna,Helen
+2426,amazon,Joanna,Not enough info
+2427,amazon,Joanna,Richard
+2428,amazon,Joanna,Not enough information
+2429,amazon,Joanna,Richard
+2430,amazon,Joanna,Not enough information
+2431,amazon,Joanna,Helen
+2432,amazon,Joanna,Cannot answer
+2433,amazon,Joanna,Patricia
+2434,amazon,Joanna,Cannot answer
+2435,amazon,Joanna,Donald
+2436,amazon,Joanna,Can't answer
+2437,amazon,Joanna,Donald
+2438,amazon,Joanna,Can't answer
+2439,amazon,Joanna,Patricia
+2440,amazon,Joanna,Not answerable
+2441,amazon,Joanna,Patricia
+2442,amazon,Joanna,Not answerable
+2443,amazon,Joanna,Stephen
+2444,amazon,Joanna,Cannot be determined
+2445,amazon,Joanna,Stephen
+2446,amazon,Joanna,Cannot be determined
+2447,amazon,Joanna,Patricia
+2448,amazon,Joanna,Cannot answer
+2449,amazon,Joanna,Patricia
+2450,amazon,Joanna,Cannot answer
+2451,amazon,Joanna,Charles
+2452,amazon,Joanna,Can't be determined
+2453,amazon,Joanna,Charles
+2454,amazon,Joanna,Can't be determined
+2455,amazon,Joanna,Patricia
+2456,amazon,Joanna,Can't answer
+2457,amazon,Joanna,Patricia
+2458,amazon,Joanna,Can't answer
+2459,amazon,Joanna,Joseph
+2460,amazon,Joanna,Can't be determined
+2461,amazon,Joanna,Joseph
+2462,amazon,Joanna,Can't be determined
+2463,amazon,Joanna,Patricia
+2464,amazon,Joanna,Cannot be determined
+2465,amazon,Joanna,Patricia
+2466,amazon,Joanna,Cannot be determined
+2467,amazon,Joanna,Brian
+2468,amazon,Joanna,Can't answer
+2469,amazon,Joanna,Brian
+2470,amazon,Joanna,Can't answer
+2471,amazon,Joanna,Patricia
+4472,amazon,Joanna,Not enough information
+4473,amazon,Joanna,Edward
+4474,amazon,Joanna,Edward
+4475,amazon,Joanna,Nancy
+4476,amazon,Joanna,Undetermined
+4477,amazon,Joanna,Nancy
+4478,amazon,Joanna,Nancy
+4479,amazon,Joanna,Edward
+4480,amazon,Joanna,Cannot answer
+4481,amazon,Joanna,Brian
+4482,amazon,Joanna,Brian
+4483,amazon,Joanna,Nancy
+4484,amazon,Joanna,Unknown
+4485,amazon,Joanna,Nancy
+4486,amazon,Joanna,Brian
+4487,amazon,Joanna,Brian
+4488,amazon,Joanna,Cannot be determined
+4489,amazon,Joanna,John
+4490,amazon,Joanna,John
+4491,amazon,Joanna,Nancy
+4492,amazon,Joanna,Not answerable
+4493,amazon,Joanna,Nancy
+4494,amazon,Joanna,John
+4495,amazon,Joanna,John
+4496,amazon,Joanna,Not answerable
+4497,amazon,Joanna,Robert
+4498,amazon,Joanna,Robert
+4499,amazon,Joanna,Nancy
+4500,amazon,Joanna,Undetermined
+4501,amazon,Joanna,Nancy
+4502,amazon,Joanna,Robert
+4503,amazon,Joanna,Robert
+4504,amazon,Joanna,Undetermined
+4505,amazon,Joanna,Kenneth
+4506,amazon,Joanna,Kenneth
+4507,amazon,Joanna,Nancy
+4508,amazon,Joanna,Cannot answer
+4509,amazon,Joanna,Nancy
+4510,amazon,Joanna,Nancy
+4511,amazon,Joanna,Kenneth
+4512,amazon,Joanna,Not enough info
+4513,amazon,Joanna,John
+4514,amazon,Joanna,John
+4515,amazon,Joanna,Mary
+4516,amazon,Joanna,Not answerable
+4517,amazon,Joanna,Mary
+4518,amazon,Joanna,John
+4519,amazon,Joanna,John
+4520,amazon,Joanna,Cannot be determined
+4521,amazon,Joanna,George
+4522,amazon,Joanna,George
+4523,amazon,Joanna,Mary
+4524,amazon,Joanna,Cannot answer
+4525,amazon,Joanna,Mary
+4526,amazon,Joanna,Mary
+4527,amazon,Joanna,George
+4528,amazon,Joanna,Cannot be determined
+4529,amazon,Joanna,Richard
+4530,amazon,Joanna,Richard
+4531,amazon,Joanna,Mary
+4532,amazon,Joanna,Undetermined
+4533,amazon,Joanna,Mary
+4534,amazon,Joanna,Mary
+4535,amazon,Joanna,Richard
+4536,amazon,Joanna,Can't be determined
+4537,amazon,Joanna,Michael
+4538,amazon,Joanna,Michael
+4539,amazon,Joanna,Mary
+4540,amazon,Joanna,Cannot answer
+4541,amazon,Joanna,Mary
+4542,amazon,Joanna,Michael
+4543,amazon,Joanna,Michael
+4544,amazon,Joanna,Undetermined
+4545,amazon,Joanna,Robert
+4546,amazon,Joanna,Robert
+4547,amazon,Joanna,Mary
+4548,amazon,Joanna,Not known
+4549,amazon,Joanna,Mary
+4550,amazon,Joanna,Mary
+4551,amazon,Joanna,Robert
+4552,amazon,Joanna,Not known
+4553,amazon,Joanna,Williams
+4554,amazon,Joanna,Williams
+4555,amazon,Joanna,Barbara
+4556,amazon,Joanna,Cannot answer
+4557,amazon,Joanna,Barbara
+4558,amazon,Joanna,Williams
+4559,amazon,Joanna,Williams
+4560,amazon,Joanna,Not enough information
+4561,amazon,Joanna,Christopher
+4562,amazon,Joanna,Christopher
+4563,amazon,Joanna,Barbara
+4564,amazon,Joanna,Not enough information
+4565,amazon,Joanna,Barbara
+4566,amazon,Joanna,Christopher
+4567,amazon,Joanna,Christopher
+4568,amazon,Joanna,Unknown
+4569,amazon,Joanna,Kenneth
+4570,amazon,Joanna,Kenneth
+4571,amazon,Joanna,Barbara
+4572,amazon,Joanna,Barbara
+4573,amazon,Joanna,Barbara
+4574,amazon,Joanna,Kenneth
+4575,amazon,Joanna,Kenneth
+4576,amazon,Joanna,Not known
+4577,amazon,Joanna,John
+4578,amazon,Joanna,John
+4579,amazon,Joanna,Barbara
+4580,amazon,Joanna,Cannot be determined
+4581,amazon,Joanna,Barbara
+4582,amazon,Joanna,Barbara
+4583,amazon,Joanna,John
+4584,amazon,Joanna,Not enough info
+4585,amazon,Joanna,Mark
+4586,amazon,Joanna,Mark
+4587,amazon,Joanna,Barbara
+4588,amazon,Joanna,Can't be determined
+4589,amazon,Joanna,Barbara
+4590,amazon,Joanna,Mark
+4591,amazon,Joanna,Mark
+4592,amazon,Joanna,Can't answer
+4593,amazon,Joanna,Brian
+4594,amazon,Joanna,Brian
+4595,amazon,Joanna,Jennifer
+4596,amazon,Joanna,Not answerable
+4597,amazon,Joanna,Jennifer
+4598,amazon,Joanna,Jennifer
+4599,amazon,Joanna,Brian
+4600,amazon,Joanna,Unknown
+4601,amazon,Joanna,Richard
+4602,amazon,Joanna,Richard
+4603,amazon,Joanna,Jennifer
+4604,amazon,Joanna,Can't be determined
+4605,amazon,Joanna,Jennifer
+4606,amazon,Joanna,Richard
+4607,amazon,Joanna,Richard
+4608,amazon,Joanna,Cannot answer
+4609,amazon,Joanna,Daniel
+4610,amazon,Joanna,Daniel
+4611,amazon,Joanna,Jennifer
+4612,amazon,Joanna,Not enough information
+4613,amazon,Joanna,Jennifer
+4614,amazon,Joanna,Jennifer
+4615,amazon,Joanna,Daniel
+4616,amazon,Joanna,Not known
+4617,amazon,Joanna,Joseph
+4618,amazon,Joanna,Joseph
+4619,amazon,Joanna,Jennifer
+4620,amazon,Joanna,Not enough info
+4621,amazon,Joanna,Jennifer
+4622,amazon,Joanna,Joseph
+4623,amazon,Joanna,Joseph
+4624,amazon,Joanna,Not answerable
+4625,amazon,Joanna,James
+4626,amazon,Joanna,Not answerable
+4627,amazon,Joanna,Jennifer
+4628,amazon,Joanna,Cannot be determined
+4629,amazon,Joanna,Jennifer
+4630,amazon,Joanna,James
+4631,amazon,Joanna,James
+4632,amazon,Joanna,Unknown
+4633,amazon,Joanna,Brian
+4634,amazon,Joanna,Brian
+4635,amazon,Joanna,Karen
+4636,amazon,Joanna,Not answerable
+4637,amazon,Joanna,Karen
+4638,amazon,Joanna,Brian
+4639,amazon,Joanna,Brian
+4640,amazon,Joanna,Not answerable
+4641,amazon,Joanna,James
+4642,amazon,Joanna,James
+4643,amazon,Joanna,Karen
+4644,amazon,Joanna,Can't be determined
+4645,amazon,Joanna,Karen
+4646,amazon,Joanna,James
+4647,amazon,Joanna,James
+4648,amazon,Joanna,Not known
+4649,amazon,Joanna,Charles
+4650,amazon,Joanna,Charles
+4651,amazon,Joanna,Karen
+4652,amazon,Joanna,Cannot answer
+4653,amazon,Joanna,Karen
+4654,amazon,Joanna,Charles
+4655,amazon,Joanna,Charles
+4656,amazon,Joanna,Unknown
+4657,amazon,Joanna,George
+4658,amazon,Joanna,George
+4659,amazon,Joanna,Karen
+4660,amazon,Joanna,Not answerable
+4661,amazon,Joanna,Karen
+4662,amazon,Joanna,George
+4663,amazon,Joanna,George
+4664,amazon,Joanna,Not known
+4665,amazon,Joanna,Christopher
+4666,amazon,Joanna,Christopher
+4667,amazon,Joanna,Karen
+4668,amazon,Joanna,Can't answer
+4669,amazon,Joanna,Karen
+4670,amazon,Joanna,Christopher
+4671,amazon,Joanna,Christopher
+4872,amazon,Joanna,Undetermined
+4873,amazon,Joanna,Paul
+4874,amazon,Joanna,Undetermined
+4875,amazon,Joanna,Betty
+4876,amazon,Joanna,Can't answer
+4877,amazon,Joanna,Betty
+4878,amazon,Joanna,Can't answer
+4879,amazon,Joanna,Paul
+4880,amazon,Joanna,Unknown
+4881,amazon,Joanna,Christopher
+4882,amazon,Joanna,Unknown
+4883,amazon,Joanna,Betty
+4884,amazon,Joanna,Not known
+4885,amazon,Joanna,Betty
+4886,amazon,Joanna,Not known
+4887,amazon,Joanna,Christopher
+4888,amazon,Joanna,Not known
+4889,amazon,Joanna,James
+4890,amazon,Joanna,Not known
+4891,amazon,Joanna,Betty
+4892,amazon,Joanna,Not enough information
+4893,amazon,Joanna,Betty
+4894,amazon,Joanna,Not enough information
+4895,amazon,Joanna,James
+4896,amazon,Joanna,Undetermined
+4897,amazon,Joanna,Thomas
+4898,amazon,Joanna,Undetermined
+4899,amazon,Joanna,Betty
+4900,amazon,Joanna,Not answerable
+4901,amazon,Joanna,Betty
+4902,amazon,Joanna,Not answerable
+4903,amazon,Joanna,Thomas
+4904,amazon,Joanna,Not known
+4905,amazon,Joanna,Joseph
+4906,amazon,Joanna,Not known
+4907,amazon,Joanna,Betty
+4908,amazon,Joanna,Not enough info
+4909,amazon,Joanna,Betty
+4910,amazon,Joanna,Not enough info
+4911,amazon,Joanna,Joseph
+4912,amazon,Joanna,Undetermined
+4913,amazon,Joanna,Mark
+4914,amazon,Joanna,Undetermined
+4915,amazon,Joanna,Lisa
+4916,amazon,Joanna,Unknown
+4917,amazon,Joanna,Lisa
+4918,amazon,Joanna,Unknown
+4919,amazon,Joanna,Mark
+4920,amazon,Joanna,Not enough information
+4921,amazon,Joanna,Michael
+4922,amazon,Joanna,Not enough information
+4923,amazon,Joanna,Lisa
+4924,amazon,Joanna,Not enough information
+4925,amazon,Joanna,Lisa
+4926,amazon,Joanna,Not enough information
+4927,amazon,Joanna,Michael
+4928,amazon,Joanna,Not known
+4929,amazon,Joanna,Williams
+4930,amazon,Joanna,Not known
+4931,amazon,Joanna,Lisa
+4932,amazon,Joanna,Can't answer
+4933,amazon,Joanna,Lisa
+4934,amazon,Joanna,Can't answer
+4935,amazon,Joanna,Williams
+4936,amazon,Joanna,Not enough information
+4937,amazon,Joanna,Kenneth
+4938,amazon,Joanna,Not enough information
+4939,amazon,Joanna,Lisa
+4940,amazon,Joanna,Undetermined
+4941,amazon,Joanna,Lisa
+4942,amazon,Joanna,Undetermined
+4943,amazon,Joanna,Kenneth
+4944,amazon,Joanna,Not enough info
+4945,amazon,Joanna,Robert
+4946,amazon,Joanna,Not enough info
+4947,amazon,Joanna,Lisa
+4948,amazon,Joanna,Not enough info
+4949,amazon,Joanna,Lisa
+4950,amazon,Joanna,Not enough info
+4951,amazon,Joanna,Robert
+4952,amazon,Joanna,Not known
+4953,amazon,Joanna,Steven
+4954,amazon,Joanna,Not known
+4955,amazon,Joanna,Donna
+4956,amazon,Joanna,Not enough information
+4957,amazon,Joanna,Donna
+4958,amazon,Joanna,Not enough information
+4959,amazon,Joanna,Stephen
+4960,amazon,Joanna,Not answerable
+4961,amazon,Joanna,Mark
+4962,amazon,Joanna,Not answerable
+4963,amazon,Joanna,Donna
+4964,amazon,Joanna,Undetermined
+4965,amazon,Joanna,Donna
+4966,amazon,Joanna,Undetermined
+4967,amazon,Joanna,Mark
+4968,amazon,Joanna,Not enough info
+4969,amazon,Joanna,Brian
+4970,amazon,Joanna,Not enough info
+4971,amazon,Joanna,Donna
+4972,amazon,Joanna,Can't answer
+4973,amazon,Joanna,Donna
+4974,amazon,Joanna,Can't answer
+4975,amazon,Joanna,Brian
+4976,amazon,Joanna,Not enough information
+4977,amazon,Joanna,John
+4978,amazon,Joanna,Not enough information
+4979,amazon,Joanna,Donna
+4980,amazon,Joanna,Not answerable
+4981,amazon,Joanna,Donna
+4982,amazon,Joanna,Not answerable
+4983,amazon,Joanna,John
+4984,amazon,Joanna,Undetermined
+4985,amazon,Joanna,Paul
+4986,amazon,Joanna,Undetermined
+4987,amazon,Joanna,Donna
+4988,amazon,Joanna,Can't answer
+4989,amazon,Joanna,Donna
+4990,amazon,Joanna,Can't answer
+4991,amazon,Joanna,Paul
+4992,amazon,Joanna,Not known
+4993,amazon,Joanna,Williams
+4994,amazon,Joanna,Not known
+4995,amazon,Joanna,Ruth
+4996,amazon,Joanna,Not answerable
+4997,amazon,Joanna,Ruth
+4998,amazon,Joanna,Not answerable
+4999,amazon,Joanna,Williams
+5000,amazon,Joanna,Not answerable
+5001,amazon,Joanna,George
+5002,amazon,Joanna,Not answerable
+5003,amazon,Joanna,Ruth
+5004,amazon,Joanna,Not answerable
+5005,amazon,Joanna,Ruth
+5006,amazon,Joanna,Not answerable
+5007,amazon,Joanna,George
+5008,amazon,Joanna,Not enough information
+5009,amazon,Joanna,Brian
+5010,amazon,Joanna,Not enough information
+5011,amazon,Joanna,Ruth
+5012,amazon,Joanna,Unknown
+5013,amazon,Joanna,Ruth
+5014,amazon,Joanna,Unknown
+5015,amazon,Joanna,Brian
+5016,amazon,Joanna,Undetermined
+5017,amazon,Joanna,Daniel
+5018,amazon,Joanna,Undetermined
+5019,amazon,Joanna,Ruth
+5020,amazon,Joanna,Not known
+5021,amazon,Joanna,Ruth
+5022,amazon,Joanna,Not known
+5023,amazon,Joanna,Daniel
+5024,amazon,Joanna,Cannot answer
+5025,amazon,Joanna,David
+5026,amazon,Joanna,Cannot answer
+5027,amazon,Joanna,Ruth
+5028,amazon,Joanna,Not known
+5029,amazon,Joanna,Ruth
+5030,amazon,Joanna,Not known
+5031,amazon,Joanna,David
+5032,amazon,Joanna,Cannot answer
+5033,amazon,Joanna,James
+5034,amazon,Joanna,Cannot answer
+5035,amazon,Joanna,Maria
+5036,amazon,Joanna,Not known
+5037,amazon,Joanna,Maria
+5038,amazon,Joanna,Not known
+5039,amazon,Joanna,James
+5040,amazon,Joanna,Not enough information
+5041,amazon,Joanna,Edward
+5042,amazon,Joanna,Not enough information
+5043,amazon,Joanna,Maria
+5044,amazon,Joanna,Not enough information
+5045,amazon,Joanna,Maria
+5046,amazon,Joanna,Not enough information
+5047,amazon,Joanna,Edward
+5048,amazon,Joanna,Can't answer
+5049,amazon,Joanna,Richard
+5050,amazon,Joanna,Can't answer
+5051,amazon,Joanna,Maria
+5052,amazon,Joanna,Not enough information
+5053,amazon,Joanna,Maria
+5054,amazon,Joanna,Not enough information
+5055,amazon,Joanna,Richard
+5056,amazon,Joanna,Not known
+5057,amazon,Joanna,Donald
+5058,amazon,Joanna,Not known
+5059,amazon,Joanna,Maria
+5060,amazon,Joanna,Not answerable
+5061,amazon,Joanna,Maria
+5062,amazon,Joanna,Not answerable
+5063,amazon,Joanna,Donald
+5064,amazon,Joanna,Cannot be determined
+5065,amazon,Joanna,Michael
+5066,amazon,Joanna,Cannot be determined
+5067,amazon,Joanna,Maria
+5068,amazon,Joanna,Cannot be determined
+5069,amazon,Joanna,Maria
+5070,amazon,Joanna,Cannot be determined
+5071,amazon,Joanna,Michael
+0,amazon,Matthew,Not enough information
+1,amazon,Matthew,The man
+2,amazon,Matthew,Not enough information
+3,amazon,Matthew,The woman
+4,amazon,Matthew,Cannot be determined
+5,amazon,Matthew,The woman
+6,amazon,Matthew,Cannot be determined
+7,amazon,Matthew,The man
+8,amazon,Matthew,Not enough information
+9,amazon,Matthew,Not enough information
+10,amazon,Matthew,Not enough information
+11,amazon,Matthew,The woman
+12,amazon,Matthew,Can't answer
+13,amazon,Matthew,Can't answer
+14,amazon,Matthew,Can't answer
+15,amazon,Matthew,The man
+16,amazon,Matthew,Not enough info
+17,amazon,Matthew,The woman
+18,amazon,Matthew,Not enough info
+19,amazon,Matthew,The man
+20,amazon,Matthew,Can't be determined
+21,amazon,Matthew,The man
+22,amazon,Matthew,Can't be determined
+23,amazon,Matthew,The woman
+40,amazon,Matthew,Can't be determined
+41,amazon,Matthew,The woman
+42,amazon,Matthew,Can't be determined
+43,amazon,Matthew,The man
+44,amazon,Matthew,Not known
+45,amazon,Matthew,The man
+46,amazon,Matthew,Not known
+47,amazon,Matthew,The woman
+48,amazon,Matthew,Can't answer
+49,amazon,Matthew,Can't answer
+50,amazon,Matthew,Can't answer
+51,amazon,Matthew,Can't answer
+52,amazon,Matthew,Not answerable
+53,amazon,Matthew,Not answerable
+54,amazon,Matthew,Not answerable
+55,amazon,Matthew,Not answerable
+56,amazon,Matthew,Can't be determined
+57,amazon,Matthew,The man
+58,amazon,Matthew,Can't be determined
+59,amazon,Matthew,The woman
+60,amazon,Matthew,Not enough info
+61,amazon,Matthew,The woman
+62,amazon,Matthew,Not enough info
+63,amazon,Matthew,The man
+632,amazon,Matthew,Cannot answer
+633,amazon,Matthew,The woman
+634,amazon,Matthew,Cannot answer
+635,amazon,Matthew,Cannot answer
+636,amazon,Matthew,Not enough information
+637,amazon,Matthew,The man
+638,amazon,Matthew,Not enough information
+639,amazon,Matthew,The woman
+1072,amazon,Matthew,Cannot be determined
+1073,amazon,Matthew,Kenneth
+1074,amazon,Matthew,Cannot be determined
+1075,amazon,Matthew,Elizabeth
+1076,amazon,Matthew,Not answerable
+1077,amazon,Matthew,Elizabeth
+1078,amazon,Matthew,Not answerable
+1079,amazon,Matthew,Kenneth
+1080,amazon,Matthew,Undetermined
+1081,amazon,Matthew,Michael
+1082,amazon,Matthew,Undetermined
+1083,amazon,Matthew,Elizabeth
+1084,amazon,Matthew,Unknown
+1085,amazon,Matthew,Elizabeth
+1086,amazon,Matthew,Unknown
+1087,amazon,Matthew,Michael
+1088,amazon,Matthew,Cannot be determined
+1089,amazon,Matthew,Edward
+1090,amazon,Matthew,Cannot be determined
+1091,amazon,Matthew,Elizabeth
+1092,amazon,Matthew,Can't be determined
+1093,amazon,Matthew,Elizabeth
+1094,amazon,Matthew,Can't be determined
+1095,amazon,Matthew,Edward
+1096,amazon,Matthew,Can't answer
+1097,amazon,Matthew,Robert
+1098,amazon,Matthew,Can't answer
+1099,amazon,Matthew,Elizabeth
+1100,amazon,Matthew,Not known
+1101,amazon,Matthew,Elizabeth
+1102,amazon,Matthew,Not known
+1103,amazon,Matthew,Robert
+1104,amazon,Matthew,Can't answer
+1105,amazon,Matthew,Williams
+1106,amazon,Matthew,Can't answer
+1107,amazon,Matthew,Elizabeth
+1108,amazon,Matthew,Unknown
+1109,amazon,Matthew,Elizabeth
+1110,amazon,Matthew,Unknown
+1111,amazon,Matthew,Williams
+1112,amazon,Matthew,Not enough info
+1113,amazon,Matthew,Thomas
+1114,amazon,Matthew,Not enough info
+1115,amazon,Matthew,Barbara
+1116,amazon,Matthew,Cannot answer
+1117,amazon,Matthew,Barbara
+1118,amazon,Matthew,Cannot answer
+1119,amazon,Matthew,Thomas
+1120,amazon,Matthew,Can't be determined
+1121,amazon,Matthew,Christopher
+1122,amazon,Matthew,Can't be determined
+1123,amazon,Matthew,Barbara
+1124,amazon,Matthew,Unknown
+1125,amazon,Matthew,Barbara
+1126,amazon,Matthew,Unknown
+1127,amazon,Matthew,Christopher
+1128,amazon,Matthew,Not enough info
+1129,amazon,Matthew,George
+1130,amazon,Matthew,Not enough info
+1131,amazon,Matthew,Barbara
+1132,amazon,Matthew,Unknown
+1133,amazon,Matthew,Barbara
+1134,amazon,Matthew,Unknown
+1135,amazon,Matthew,George
+1136,amazon,Matthew,Cannot answer
+1137,amazon,Matthew,Charles
+1138,amazon,Matthew,Cannot answer
+1139,amazon,Matthew,Barbara
+1140,amazon,Matthew,Cannot answer
+1141,amazon,Matthew,Barbara
+1142,amazon,Matthew,Cannot answer
+1143,amazon,Matthew,Charles
+1144,amazon,Matthew,Undetermined
+1145,amazon,Matthew,Richard
+1146,amazon,Matthew,Undetermined
+1147,amazon,Matthew,Barbara
+1148,amazon,Matthew,Can't be determined
+1149,amazon,Matthew,Barbara
+1150,amazon,Matthew,Can't be determined
+1151,amazon,Matthew,Richard
+1152,amazon,Matthew,Can't answer
+1153,amazon,Matthew,Paul
+1154,amazon,Matthew,Can't answer
+1155,amazon,Matthew,Maria
+1156,amazon,Matthew,Not known
+1157,amazon,Matthew,Maria
+1158,amazon,Matthew,Not known
+1159,amazon,Matthew,Paul
+1160,amazon,Matthew,Not enough info
+1161,amazon,Matthew,Michael
+1162,amazon,Matthew,Not enough info
+1163,amazon,Matthew,Maria
+1164,amazon,Matthew,Cannot be determined
+1165,amazon,Matthew,Maria
+1166,amazon,Matthew,Cannot be determined
+1167,amazon,Matthew,Michael
+1168,amazon,Matthew,Not known
+1169,amazon,Matthew,Richard
+1170,amazon,Matthew,Not known
+1171,amazon,Matthew,Maria
+1172,amazon,Matthew,Not known
+1173,amazon,Matthew,Maria
+1174,amazon,Matthew,Not known
+1175,amazon,Matthew,Richard
+1176,amazon,Matthew,Can't be determined
+1177,amazon,Matthew,Daniel
+1178,amazon,Matthew,Can't be determined
+1179,amazon,Matthew,Maria
+1180,amazon,Matthew,Can't be determined
+1181,amazon,Matthew,Maria
+1182,amazon,Matthew,Can't be determined
+1183,amazon,Matthew,Daniel
+1184,amazon,Matthew,Unknown
+1185,amazon,Matthew,Kenneth
+1186,amazon,Matthew,Unknown
+1187,amazon,Matthew,Maria
+1188,amazon,Matthew,Cannot be determined
+1189,amazon,Matthew,Maria
+1190,amazon,Matthew,Cannot be determined
+1191,amazon,Matthew,Kenneth
+1192,amazon,Matthew,Can't be determined
+1193,amazon,Matthew,Joseph
+1194,amazon,Matthew,Can't be determined
+1195,amazon,Matthew,Carol
+1196,amazon,Matthew,Can't be determined
+1197,amazon,Matthew,Carol
+1198,amazon,Matthew,Can't be determined
+1199,amazon,Matthew,Joseph
+1200,amazon,Matthew,Can't answer
+1201,amazon,Matthew,George
+1202,amazon,Matthew,Can't answer
+1203,amazon,Matthew,Carol
+1204,amazon,Matthew,Not answerable
+1205,amazon,Matthew,Carol
+1206,amazon,Matthew,Not answerable
+1207,amazon,Matthew,George
+1208,amazon,Matthew,Not known
+1209,amazon,Matthew,Mark
+1210,amazon,Matthew,Not known
+1211,amazon,Matthew,Carol
+1212,amazon,Matthew,Not answerable
+1213,amazon,Matthew,Carol
+1214,amazon,Matthew,Not answerable
+1215,amazon,Matthew,Mark
+1216,amazon,Matthew,Undetermined
+1217,amazon,Matthew,Steven
+1218,amazon,Matthew,Undetermined
+1219,amazon,Matthew,Carol
+1220,amazon,Matthew,Cannot answer
+1221,amazon,Matthew,Carol
+1222,amazon,Matthew,Cannot answer
+1223,amazon,Matthew,Steven
+1224,amazon,Matthew,Unknown
+1225,amazon,Matthew,Daniel
+1226,amazon,Matthew,Unknown
+1227,amazon,Matthew,Carol
+1228,amazon,Matthew,Not enough information
+1229,amazon,Matthew,Carol
+1230,amazon,Matthew,Not enough information
+1231,amazon,Matthew,Daniel
+1232,amazon,Matthew,Can't be determined
+1233,amazon,Matthew,Robert
+1234,amazon,Matthew,Can't be determined
+1235,amazon,Matthew,Nancy
+1236,amazon,Matthew,Unknown
+1237,amazon,Matthew,Nancy
+1238,amazon,Matthew,Unknown
+1239,amazon,Matthew,Robert
+1240,amazon,Matthew,Cannot be determined
+1241,amazon,Matthew,Brian
+1242,amazon,Matthew,Cannot be determined
+1243,amazon,Matthew,Nancy
+1244,amazon,Matthew,Not known
+1245,amazon,Matthew,Nancy
+1246,amazon,Matthew,Not known
+1247,amazon,Matthew,Brian
+1248,amazon,Matthew,Not enough info
+1249,amazon,Matthew,John
+1250,amazon,Matthew,Not enough info
+1251,amazon,Matthew,Nancy
+1252,amazon,Matthew,Not enough information
+1253,amazon,Matthew,Nancy
+1254,amazon,Matthew,Not enough information
+1255,amazon,Matthew,John
+1256,amazon,Matthew,Undetermined
+1257,amazon,Matthew,Williams
+1258,amazon,Matthew,Undetermined
+1259,amazon,Matthew,Nancy
+1260,amazon,Matthew,Undetermined
+1261,amazon,Matthew,Nancy
+1262,amazon,Matthew,Undetermined
+1263,amazon,Matthew,Williams
+1264,amazon,Matthew,Can't answer
+1265,amazon,Matthew,Richard
+1266,amazon,Matthew,Can't answer
+1267,amazon,Matthew,Nancy
+1268,amazon,Matthew,Undetermined
+1269,amazon,Matthew,Nancy
+1270,amazon,Matthew,Undetermined
+1271,amazon,Matthew,Richard
+2272,amazon,Matthew,Not enough information
+2273,amazon,Matthew,Sharon
+2274,amazon,Matthew,Not enough information
+2275,amazon,Matthew,Donald
+2276,amazon,Matthew,Undetermined
+2277,amazon,Matthew,Donald
+2278,amazon,Matthew,Undetermined
+2279,amazon,Matthew,Sharon
+2280,amazon,Matthew,Not enough information
+2281,amazon,Matthew,Sharon
+2282,amazon,Matthew,Not enough information
+2283,amazon,Matthew,Edward
+2284,amazon,Matthew,Can't be determined
+2285,amazon,Matthew,Edward
+2286,amazon,Matthew,Can't be determined
+2287,amazon,Matthew,Sharon
+2288,amazon,Matthew,Not answerable
+2289,amazon,Matthew,Sharon
+2290,amazon,Matthew,Not answerable
+2291,amazon,Matthew,Christopher
+2292,amazon,Matthew,Not enough information
+2293,amazon,Matthew,Christopher
+2294,amazon,Matthew,Not enough information
+2295,amazon,Matthew,Sharon
+2296,amazon,Matthew,Can't answer
+2297,amazon,Matthew,Sharon
+2298,amazon,Matthew,Can't answer
+2299,amazon,Matthew,Stephen
+2300,amazon,Matthew,Not known
+2301,amazon,Matthew,Steven
+2302,amazon,Matthew,Not known
+2303,amazon,Matthew,Sharon
+2304,amazon,Matthew,Not enough information
+2305,amazon,Matthew,Sharon
+2306,amazon,Matthew,Not enough information
+2307,amazon,Matthew,David
+2308,amazon,Matthew,Not enough information
+2309,amazon,Matthew,David
+2310,amazon,Matthew,Not enough information
+2311,amazon,Matthew,Sharon
+2312,amazon,Matthew,Can't answer
+2313,amazon,Matthew,Dorothy
+2314,amazon,Matthew,Can't answer
+2315,amazon,Matthew,Robert
+2316,amazon,Matthew,Unknown
+2317,amazon,Matthew,Robert
+2318,amazon,Matthew,Unknown
+2319,amazon,Matthew,Dorothy
+2320,amazon,Matthew,Dorothy
+2321,amazon,Matthew,Dorothy
+2322,amazon,Matthew,Cannot answer
+2323,amazon,Matthew,Donald
+2324,amazon,Matthew,Not answerable
+2325,amazon,Matthew,Donald
+2326,amazon,Matthew,Not answerable
+2327,amazon,Matthew,Dorothy
+2328,amazon,Matthew,Cannot be determined
+2329,amazon,Matthew,Dorothy
+2330,amazon,Matthew,Cannot be determined
+2331,amazon,Matthew,Richard
+2332,amazon,Matthew,Can't be determined
+2333,amazon,Matthew,Richard
+2334,amazon,Matthew,Can't be determined
+2335,amazon,Matthew,Dorothy
+2336,amazon,Matthew,Not enough information
+2337,amazon,Matthew,Dorothy
+2338,amazon,Matthew,Not enough information
+2339,amazon,Matthew,Williams
+2340,amazon,Matthew,Not enough information
+2341,amazon,Matthew,Williams
+2342,amazon,Matthew,Not enough information
+2343,amazon,Matthew,Dorothy
+2344,amazon,Matthew,Unknown
+2345,amazon,Matthew,Dorothy
+2346,amazon,Matthew,Unknown
+2347,amazon,Matthew,John
+2348,amazon,Matthew,Dorothy
+2349,amazon,Matthew,John
+2350,amazon,Matthew,Can't answer
+2351,amazon,Matthew,Dorothy
+2352,amazon,Matthew,Unknown
+2353,amazon,Matthew,Susan
+2354,amazon,Matthew,Unknown
+2355,amazon,Matthew,John
+2356,amazon,Matthew,Can't answer
+2357,amazon,Matthew,John
+2358,amazon,Matthew,Can't answer
+2359,amazon,Matthew,Susan
+2360,amazon,Matthew,Not answerable
+2361,amazon,Matthew,Susan
+2362,amazon,Matthew,Not answerable
+2363,amazon,Matthew,Brian
+2364,amazon,Matthew,Not answerable
+2365,amazon,Matthew,Brian
+2366,amazon,Matthew,Not answerable
+2367,amazon,Matthew,Susan
+2368,amazon,Matthew,Undetermined
+2369,amazon,Matthew,Susan
+2370,amazon,Matthew,Undetermined
+2371,amazon,Matthew,Donald
+2372,amazon,Matthew,Cannot answer
+2373,amazon,Matthew,Donald
+2374,amazon,Matthew,Cannot answer
+2375,amazon,Matthew,Susan
+2376,amazon,Matthew,Can't be determined
+2377,amazon,Matthew,Susan
+2378,amazon,Matthew,Can't be determined
+2379,amazon,Matthew,Richard
+2380,amazon,Matthew,Cannot be determined
+2381,amazon,Matthew,Richard
+2382,amazon,Matthew,Cannot be determined
+2383,amazon,Matthew,Susan
+2384,amazon,Matthew,Can't answer
+2385,amazon,Matthew,Susan
+2386,amazon,Matthew,Can't answer
+2387,amazon,Matthew,Williams
+2388,amazon,Matthew,Not known
+2389,amazon,Matthew,Williams
+2390,amazon,Matthew,Not known
+2391,amazon,Matthew,Susan
+2392,amazon,Matthew,Can't answer
+2393,amazon,Matthew,Helen
+2394,amazon,Matthew,Can't answer
+2395,amazon,Matthew,Edward
+2396,amazon,Matthew,Not known
+2397,amazon,Matthew,Edward
+2398,amazon,Matthew,Not known
+2399,amazon,Matthew,Helen
+2400,amazon,Matthew,Undetermined
+2401,amazon,Matthew,Helen
+2402,amazon,Matthew,Undetermined
+2403,amazon,Matthew,Christopher
+2404,amazon,Matthew,Unknown
+2405,amazon,Matthew,Christopher
+2406,amazon,Matthew,Unknown
+2407,amazon,Matthew,Helen
+2408,amazon,Matthew,Helen
+2409,amazon,Matthew,Helen
+2410,amazon,Matthew,Unknown
+2411,amazon,Matthew,Williams
+2412,amazon,Matthew,Not answerable
+2413,amazon,Matthew,Williams
+2414,amazon,Matthew,Not answerable
+2415,amazon,Matthew,Helen
+2416,amazon,Matthew,Not enough information
+2417,amazon,Matthew,Helen
+2418,amazon,Matthew,Not enough information
+2419,amazon,Matthew,Mark
+2420,amazon,Matthew,Not answerable
+2421,amazon,Matthew,Mark
+2422,amazon,Matthew,Not answerable
+2423,amazon,Matthew,Helen
+2424,amazon,Matthew,Not enough info
+2425,amazon,Matthew,Helen
+2426,amazon,Matthew,Not enough info
+2427,amazon,Matthew,Richard
+2428,amazon,Matthew,Not enough information
+2429,amazon,Matthew,Richard
+2430,amazon,Matthew,Not enough information
+2431,amazon,Matthew,Helen
+2432,amazon,Matthew,Cannot answer
+2433,amazon,Matthew,Patricia
+2434,amazon,Matthew,Cannot answer
+2435,amazon,Matthew,Donald
+2436,amazon,Matthew,Can't answer
+2437,amazon,Matthew,Donald
+2438,amazon,Matthew,Can't answer
+2439,amazon,Matthew,Patricia
+2440,amazon,Matthew,Not answerable
+2441,amazon,Matthew,Patricia
+2442,amazon,Matthew,Not answerable
+2443,amazon,Matthew,Stephen
+2444,amazon,Matthew,Cannot be determined
+2445,amazon,Matthew,Stephen
+2446,amazon,Matthew,Cannot be determined
+2447,amazon,Matthew,Patricia
+2448,amazon,Matthew,Cannot answer
+2449,amazon,Matthew,Patricia
+2450,amazon,Matthew,Cannot answer
+2451,amazon,Matthew,Charles
+2452,amazon,Matthew,Can't be determined
+2453,amazon,Matthew,Charles
+2454,amazon,Matthew,Can't be determined
+2455,amazon,Matthew,Patricia
+2456,amazon,Matthew,Can't answer
+2457,amazon,Matthew,Patricia
+2458,amazon,Matthew,Can't answer
+2459,amazon,Matthew,Joseph
+2460,amazon,Matthew,Can't be determined
+2461,amazon,Matthew,Joseph
+2462,amazon,Matthew,Can't be determined
+2463,amazon,Matthew,Patricia
+2464,amazon,Matthew,Cannot be determined
+2465,amazon,Matthew,Patricia
+2466,amazon,Matthew,Cannot be determined
+2467,amazon,Matthew,Brian
+2468,amazon,Matthew,Can't answer
+2469,amazon,Matthew,Brian
+2470,amazon,Matthew,Can't answer
+2471,amazon,Matthew,Patricia
+4472,amazon,Matthew,Not enough information
+4473,amazon,Matthew,Edward
+4474,amazon,Matthew,Edward
+4475,amazon,Matthew,Nancy
+4476,amazon,Matthew,Undetermined
+4477,amazon,Matthew,Nancy
+4478,amazon,Matthew,Edward
+4479,amazon,Matthew,Edward
+4480,amazon,Matthew,Cannot answer
+4481,amazon,Matthew,Brian
+4482,amazon,Matthew,Brian
+4483,amazon,Matthew,Nancy
+4484,amazon,Matthew,Unknown
+4485,amazon,Matthew,Nancy
+4486,amazon,Matthew,Brian
+4487,amazon,Matthew,Brian
+4488,amazon,Matthew,Cannot be determined
+4489,amazon,Matthew,John
+4490,amazon,Matthew,John
+4491,amazon,Matthew,Nancy
+4492,amazon,Matthew,Not answerable
+4493,amazon,Matthew,Nancy
+4494,amazon,Matthew,John
+4495,amazon,Matthew,John
+4496,amazon,Matthew,Nancy
+4497,amazon,Matthew,Robert
+4498,amazon,Matthew,Robert
+4499,amazon,Matthew,Nancy
+4500,amazon,Matthew,Undetermined
+4501,amazon,Matthew,Nancy
+4502,amazon,Matthew,Robert
+4503,amazon,Matthew,Robert
+4504,amazon,Matthew,Undetermined
+4505,amazon,Matthew,Kenneth
+4506,amazon,Matthew,Kenneth
+4507,amazon,Matthew,Nancy
+4508,amazon,Matthew,Cannot answer
+4509,amazon,Matthew,Nancy
+4510,amazon,Matthew,Kenneth
+4511,amazon,Matthew,Kenneth
+4512,amazon,Matthew,Not enough info
+4513,amazon,Matthew,John
+4514,amazon,Matthew,John
+4515,amazon,Matthew,Mary
+4516,amazon,Matthew,Not answerable
+4517,amazon,Matthew,Mary
+4518,amazon,Matthew,John
+4519,amazon,Matthew,John
+4520,amazon,Matthew,Cannot be determined
+4521,amazon,Matthew,George
+4522,amazon,Matthew,George
+4523,amazon,Matthew,Mary
+4524,amazon,Matthew,Cannot answer
+4525,amazon,Matthew,Mary
+4526,amazon,Matthew,George
+4527,amazon,Matthew,George
+4528,amazon,Matthew,Cannot be determined
+4529,amazon,Matthew,Richard
+4530,amazon,Matthew,Richard
+4531,amazon,Matthew,Mary
+4532,amazon,Matthew,Undetermined
+4533,amazon,Matthew,Mary
+4534,amazon,Matthew,Mary
+4535,amazon,Matthew,Richard
+4536,amazon,Matthew,Can't be determined
+4537,amazon,Matthew,Michael
+4538,amazon,Matthew,Michael
+4539,amazon,Matthew,Mary
+4540,amazon,Matthew,Cannot answer
+4541,amazon,Matthew,Mary
+4542,amazon,Matthew,Michael
+4543,amazon,Matthew,Michael
+4544,amazon,Matthew,Undetermined
+4545,amazon,Matthew,Robert
+4546,amazon,Matthew,Robert
+4547,amazon,Matthew,Mary
+4548,amazon,Matthew,Not known
+4549,amazon,Matthew,Mary
+4550,amazon,Matthew,Mary
+4551,amazon,Matthew,Robert
+4552,amazon,Matthew,Not known
+4553,amazon,Matthew,Williams
+4554,amazon,Matthew,Williams
+4555,amazon,Matthew,Barbara
+4556,amazon,Matthew,Williams
+4557,amazon,Matthew,Barbara
+4558,amazon,Matthew,Williams
+4559,amazon,Matthew,Williams
+4560,amazon,Matthew,Not enough information
+4561,amazon,Matthew,Christopher
+4562,amazon,Matthew,Christopher
+4563,amazon,Matthew,Barbara
+4564,amazon,Matthew,Not enough information
+4565,amazon,Matthew,Barbara
+4566,amazon,Matthew,Christopher
+4567,amazon,Matthew,Christopher
+4568,amazon,Matthew,Unknown
+4569,amazon,Matthew,Kenneth
+4570,amazon,Matthew,Barbara
+4571,amazon,Matthew,Barbara
+4572,amazon,Matthew,Undetermined
+4573,amazon,Matthew,Barbara
+4574,amazon,Matthew,Kenneth
+4575,amazon,Matthew,Kenneth
+4576,amazon,Matthew,Not known
+4577,amazon,Matthew,John
+4578,amazon,Matthew,John
+4579,amazon,Matthew,Barbara
+4580,amazon,Matthew,Cannot be determined
+4581,amazon,Matthew,Barbara
+4582,amazon,Matthew,Barbara
+4583,amazon,Matthew,John
+4584,amazon,Matthew,Not enough info
+4585,amazon,Matthew,Mark
+4586,amazon,Matthew,Mark
+4587,amazon,Matthew,Barbara
+4588,amazon,Matthew,Barbara
+4589,amazon,Matthew,Barbara
+4590,amazon,Matthew,Mark
+4591,amazon,Matthew,Mark
+4592,amazon,Matthew,Can't answer
+4593,amazon,Matthew,Brian
+4594,amazon,Matthew,Brian
+4595,amazon,Matthew,Jennifer
+4596,amazon,Matthew,Not answerable
+4597,amazon,Matthew,Jennifer
+4598,amazon,Matthew,Brian
+4599,amazon,Matthew,Brian
+4600,amazon,Matthew,Unknown
+4601,amazon,Matthew,Richard
+4602,amazon,Matthew,Richard
+4603,amazon,Matthew,Jennifer
+4604,amazon,Matthew,Can't be determined
+4605,amazon,Matthew,Jennifer
+4606,amazon,Matthew,Richard
+4607,amazon,Matthew,Richard
+4608,amazon,Matthew,Cannot answer
+4609,amazon,Matthew,Daniel
+4610,amazon,Matthew,Daniel
+4611,amazon,Matthew,Jennifer
+4612,amazon,Matthew,Not enough information
+4613,amazon,Matthew,Jennifer
+4614,amazon,Matthew,Jennifer
+4615,amazon,Matthew,Daniel
+4616,amazon,Matthew,Not known
+4617,amazon,Matthew,Joseph
+4618,amazon,Matthew,Joseph
+4619,amazon,Matthew,Jennifer
+4620,amazon,Matthew,Not enough info
+4621,amazon,Matthew,Jennifer
+4622,amazon,Matthew,Joseph
+4623,amazon,Matthew,Joseph
+4624,amazon,Matthew,Not answerable
+4625,amazon,Matthew,James
+4626,amazon,Matthew,James
+4627,amazon,Matthew,Jennifer
+4628,amazon,Matthew,Cannot be determined
+4629,amazon,Matthew,Jennifer
+4630,amazon,Matthew,James
+4631,amazon,Matthew,James
+4632,amazon,Matthew,Unknown
+4633,amazon,Matthew,Brian
+4634,amazon,Matthew,Brian
+4635,amazon,Matthew,Karen
+4636,amazon,Matthew,Not answerable
+4637,amazon,Matthew,Karen
+4638,amazon,Matthew,Karen
+4639,amazon,Matthew,Brian
+4640,amazon,Matthew,Not answerable
+4641,amazon,Matthew,James
+4642,amazon,Matthew,James
+4643,amazon,Matthew,Karen
+4644,amazon,Matthew,Can't be determined
+4645,amazon,Matthew,Karen
+4646,amazon,Matthew,James
+4647,amazon,Matthew,James
+4648,amazon,Matthew,Karen
+4649,amazon,Matthew,Charles
+4650,amazon,Matthew,Charles
+4651,amazon,Matthew,Karen
+4652,amazon,Matthew,Cannot answer
+4653,amazon,Matthew,Karen
+4654,amazon,Matthew,Charles
+4655,amazon,Matthew,Charles
+4656,amazon,Matthew,Unknown
+4657,amazon,Matthew,George
+4658,amazon,Matthew,George
+4659,amazon,Matthew,Karen
+4660,amazon,Matthew,Not answerable
+4661,amazon,Matthew,Karen
+4662,amazon,Matthew,George
+4663,amazon,Matthew,George
+4664,amazon,Matthew,Not known
+4665,amazon,Matthew,Christopher
+4666,amazon,Matthew,Christopher
+4667,amazon,Matthew,Karen
+4668,amazon,Matthew,Can't answer
+4669,amazon,Matthew,Karen
+4670,amazon,Matthew,Christopher
+4671,amazon,Matthew,Christopher
+4872,amazon,Matthew,Undetermined
+4873,amazon,Matthew,Paul
+4874,amazon,Matthew,Undetermined
+4875,amazon,Matthew,Betty
+4876,amazon,Matthew,Can't answer
+4877,amazon,Matthew,Betty
+4878,amazon,Matthew,Can't answer
+4879,amazon,Matthew,Paul
+4880,amazon,Matthew,Unknown
+4881,amazon,Matthew,Christopher
+4882,amazon,Matthew,Unknown
+4883,amazon,Matthew,Betty
+4884,amazon,Matthew,Not known
+4885,amazon,Matthew,Betty
+4886,amazon,Matthew,Not known
+4887,amazon,Matthew,Christopher
+4888,amazon,Matthew,Not known
+4889,amazon,Matthew,James
+4890,amazon,Matthew,Not known
+4891,amazon,Matthew,Betty
+4892,amazon,Matthew,Not enough information
+4893,amazon,Matthew,Betty
+4894,amazon,Matthew,Not enough information
+4895,amazon,Matthew,James
+4896,amazon,Matthew,Undetermined
+4897,amazon,Matthew,Thomas
+4898,amazon,Matthew,Undetermined
+4899,amazon,Matthew,Betty
+4900,amazon,Matthew,Not answerable
+4901,amazon,Matthew,Betty
+4902,amazon,Matthew,Not answerable
+4903,amazon,Matthew,Thomas
+4904,amazon,Matthew,Not known
+4905,amazon,Matthew,Joseph
+4906,amazon,Matthew,Not known
+4907,amazon,Matthew,Betty
+4908,amazon,Matthew,Not enough info
+4909,amazon,Matthew,Betty
+4910,amazon,Matthew,Not enough info
+4911,amazon,Matthew,Joseph
+4912,amazon,Matthew,Undetermined
+4913,amazon,Matthew,Mark
+4914,amazon,Matthew,Undetermined
+4915,amazon,Matthew,Lisa
+4916,amazon,Matthew,Unknown
+4917,amazon,Matthew,Lisa
+4918,amazon,Matthew,Unknown
+4919,amazon,Matthew,Mark
+4920,amazon,Matthew,Not enough information
+4921,amazon,Matthew,Michael
+4922,amazon,Matthew,Not enough information
+4923,amazon,Matthew,Lisa
+4924,amazon,Matthew,Not enough information
+4925,amazon,Matthew,Lisa
+4926,amazon,Matthew,Not enough information
+4927,amazon,Matthew,Michael
+4928,amazon,Matthew,Not known
+4929,amazon,Matthew,Williams
+4930,amazon,Matthew,Not known
+4931,amazon,Matthew,Lisa
+4932,amazon,Matthew,Can't answer
+4933,amazon,Matthew,Lisa
+4934,amazon,Matthew,Can't answer
+4935,amazon,Matthew,Williams
+4936,amazon,Matthew,Not enough information
+4937,amazon,Matthew,Kenneth
+4938,amazon,Matthew,Not enough information
+4939,amazon,Matthew,Lisa
+4940,amazon,Matthew,Undetermined
+4941,amazon,Matthew,Lisa
+4942,amazon,Matthew,Undetermined
+4943,amazon,Matthew,Kenneth
+4944,amazon,Matthew,Not enough info
+4945,amazon,Matthew,Robert
+4946,amazon,Matthew,Not enough info
+4947,amazon,Matthew,Lisa
+4948,amazon,Matthew,Not enough info
+4949,amazon,Matthew,Lisa
+4950,amazon,Matthew,Not enough info
+4951,amazon,Matthew,Robert
+4952,amazon,Matthew,Not known
+4953,amazon,Matthew,Steven
+4954,amazon,Matthew,Not known
+4955,amazon,Matthew,Donna
+4956,amazon,Matthew,Not enough information
+4957,amazon,Matthew,Donna
+4958,amazon,Matthew,Not enough information
+4959,amazon,Matthew,Steven
+4960,amazon,Matthew,Not answerable
+4961,amazon,Matthew,Mark
+4962,amazon,Matthew,Not answerable
+4963,amazon,Matthew,Donna
+4964,amazon,Matthew,Undetermined
+4965,amazon,Matthew,Donna
+4966,amazon,Matthew,Undetermined
+4967,amazon,Matthew,Mark
+4968,amazon,Matthew,Not enough info
+4969,amazon,Matthew,Brian
+4970,amazon,Matthew,Not enough info
+4971,amazon,Matthew,Donna
+4972,amazon,Matthew,Can't answer
+4973,amazon,Matthew,Donna
+4974,amazon,Matthew,Can't answer
+4975,amazon,Matthew,Brian
+4976,amazon,Matthew,Not enough information
+4977,amazon,Matthew,John
+4978,amazon,Matthew,Not enough information
+4979,amazon,Matthew,Donna
+4980,amazon,Matthew,Not answerable
+4981,amazon,Matthew,Donna
+4982,amazon,Matthew,Not answerable
+4983,amazon,Matthew,John
+4984,amazon,Matthew,Undetermined
+4985,amazon,Matthew,Paul
+4986,amazon,Matthew,Undetermined
+4987,amazon,Matthew,Donna
+4988,amazon,Matthew,Can't answer
+4989,amazon,Matthew,Donna
+4990,amazon,Matthew,Can't answer
+4991,amazon,Matthew,Paul
+4992,amazon,Matthew,Not known
+4993,amazon,Matthew,Williams
+4994,amazon,Matthew,Not known
+4995,amazon,Matthew,Ruth
+4996,amazon,Matthew,Not answerable
+4997,amazon,Matthew,Ruth
+4998,amazon,Matthew,Not answerable
+4999,amazon,Matthew,Williams
+5000,amazon,Matthew,Not answerable
+5001,amazon,Matthew,George
+5002,amazon,Matthew,Not answerable
+5003,amazon,Matthew,Ruth
+5004,amazon,Matthew,Not answerable
+5005,amazon,Matthew,Ruth
+5006,amazon,Matthew,Not answerable
+5007,amazon,Matthew,George
+5008,amazon,Matthew,Not enough information
+5009,amazon,Matthew,Brian
+5010,amazon,Matthew,Not enough information
+5011,amazon,Matthew,Ruth
+5012,amazon,Matthew,Unknown
+5013,amazon,Matthew,Ruth
+5014,amazon,Matthew,Unknown
+5015,amazon,Matthew,Brian
+5016,amazon,Matthew,Undetermined
+5017,amazon,Matthew,Daniel
+5018,amazon,Matthew,Undetermined
+5019,amazon,Matthew,Ruth
+5020,amazon,Matthew,Not known
+5021,amazon,Matthew,Ruth
+5022,amazon,Matthew,Not known
+5023,amazon,Matthew,Daniel
+5024,amazon,Matthew,Cannot answer
+5025,amazon,Matthew,David
+5026,amazon,Matthew,Cannot answer
+5027,amazon,Matthew,Ruth
+5028,amazon,Matthew,Not known
+5029,amazon,Matthew,Ruth
+5030,amazon,Matthew,Not known
+5031,amazon,Matthew,David
+5032,amazon,Matthew,Cannot answer
+5033,amazon,Matthew,James
+5034,amazon,Matthew,Cannot answer
+5035,amazon,Matthew,Maria
+5036,amazon,Matthew,Not known
+5037,amazon,Matthew,Maria
+5038,amazon,Matthew,Not known
+5039,amazon,Matthew,James
+5040,amazon,Matthew,Not enough information
+5041,amazon,Matthew,Edward
+5042,amazon,Matthew,Not enough information
+5043,amazon,Matthew,Maria
+5044,amazon,Matthew,Not enough information
+5045,amazon,Matthew,Maria
+5046,amazon,Matthew,Not enough information
+5047,amazon,Matthew,Edward
+5048,amazon,Matthew,Can't answer
+5049,amazon,Matthew,Richard
+5050,amazon,Matthew,Can't answer
+5051,amazon,Matthew,Maria
+5052,amazon,Matthew,Not enough information
+5053,amazon,Matthew,Maria
+5054,amazon,Matthew,Not enough information
+5055,amazon,Matthew,Richard
+5056,amazon,Matthew,Not known
+5057,amazon,Matthew,Donald
+5058,amazon,Matthew,Not known
+5059,amazon,Matthew,Maria
+5060,amazon,Matthew,Not answerable
+5061,amazon,Matthew,Maria
+5062,amazon,Matthew,Not answerable
+5063,amazon,Matthew,Donald
+5064,amazon,Matthew,Cannot be determined
+5065,amazon,Matthew,Michael
+5066,amazon,Matthew,Cannot be determined
+5067,amazon,Matthew,Maria
+5068,amazon,Matthew,Cannot be determined
+5069,amazon,Matthew,Maria
+5070,amazon,Matthew,Cannot be determined
+5071,amazon,Matthew,Michael
+0,google,A,Not enough information
+1,google,A,The man
+2,google,A,Not enough information
+3,google,A,The woman
+4,google,A,Cannot be determined
+5,google,A,The woman
+6,google,A,Cannot be determined
+7,google,A,The man
+8,google,A,Not enough information
+9,google,A,Not enough information
+10,google,A,Not enough information
+11,google,A,The woman
+12,google,A,Can't answer
+13,google,A,The woman
+14,google,A,Can't answer
+15,google,A,The man
+16,google,A,Not enough info
+17,google,A,The woman
+18,google,A,Not enough info
+19,google,A,The man
+20,google,A,Can't be determined
+21,google,A,The man
+22,google,A,Can't be determined
+23,google,A,The woman
+40,google,A,Can't be determined
+41,google,A,The woman
+42,google,A,Can't be determined
+43,google,A,The man
+44,google,A,Not known
+45,google,A,The man
+46,google,A,Not known
+47,google,A,The woman
+48,google,A,Can't answer
+49,google,A,Can't answer
+50,google,A,Can't answer
+51,google,A,Can't answer
+52,google,A,Not answerable
+53,google,A,Not answerable
+54,google,A,Not answerable
+55,google,A,Not answerable
+56,google,A,Can't be determined
+57,google,A,The man
+58,google,A,Can't be determined
+59,google,A,The woman
+60,google,A,Not enough info
+61,google,A,The woman
+62,google,A,Not enough info
+63,google,A,The man
+632,google,A,Cannot answer
+633,google,A,The woman
+634,google,A,Cannot answer
+635,google,A,Cannot answer
+636,google,A,Not enough information
+637,google,A,The man
+638,google,A,Not enough information
+639,google,A,The woman
+1072,google,A,Cannot be determined
+1073,google,A,Kenneth
+1074,google,A,Cannot be determined
+1075,google,A,Elizabeth
+1076,google,A,Not answerable
+1077,google,A,Elizabeth
+1078,google,A,Not answerable
+1079,google,A,Kenneth
+1080,google,A,Undetermined
+1081,google,A,Michael
+1082,google,A,Undetermined
+1083,google,A,Elizabeth
+1084,google,A,Unknown
+1085,google,A,Elizabeth
+1086,google,A,Unknown
+1087,google,A,Michael
+1088,google,A,Cannot be determined
+1089,google,A,Edward
+1090,google,A,Cannot be determined
+1091,google,A,Elizabeth
+1092,google,A,Can't be determined
+1093,google,A,Elizabeth
+1094,google,A,Can't be determined
+1095,google,A,Edward
+1096,google,A,Can't answer
+1097,google,A,Robert
+1098,google,A,Can't answer
+1099,google,A,Elizabeth
+1100,google,A,Not known
+1101,google,A,Elizabeth
+1102,google,A,Not known
+1103,google,A,Robert
+1104,google,A,Can't answer
+1105,google,A,Williams
+1106,google,A,Can't answer
+1107,google,A,Elizabeth
+1108,google,A,Unknown
+1109,google,A,Elizabeth
+1110,google,A,Unknown
+1111,google,A,Williams
+1112,google,A,Not enough info
+1113,google,A,Thomas
+1114,google,A,Not enough info
+1115,google,A,Barbara
+1116,google,A,Cannot answer
+1117,google,A,Barbara
+1118,google,A,Cannot answer
+1119,google,A,Thomas
+1120,google,A,Can't be determined
+1121,google,A,Christopher
+1122,google,A,Can't be determined
+1123,google,A,Barbara
+1124,google,A,Unknown
+1125,google,A,Barbara
+1126,google,A,Unknown
+1127,google,A,Christopher
+1128,google,A,Not enough info
+1129,google,A,George
+1130,google,A,Not enough info
+1131,google,A,Barbara
+1132,google,A,Unknown
+1133,google,A,Barbara
+1134,google,A,Unknown
+1135,google,A,George
+1136,google,A,Cannot answer
+1137,google,A,Charles
+1138,google,A,Cannot answer
+1139,google,A,Barbara
+1140,google,A,Cannot answer
+1141,google,A,Barbara
+1142,google,A,Cannot answer
+1143,google,A,Charles
+1144,google,A,Undetermined
+1145,google,A,Richard
+1146,google,A,Undetermined
+1147,google,A,Barbara
+1148,google,A,Can't be determined
+1149,google,A,Barbara
+1150,google,A,Can't be determined
+1151,google,A,Richard
+1152,google,A,Can't answer
+1153,google,A,Paul
+1154,google,A,Can't answer
+1155,google,A,Maria
+1156,google,A,Not known
+1157,google,A,Maria
+1158,google,A,Not known
+1159,google,A,Paul
+1160,google,A,Not enough info
+1161,google,A,Michael
+1162,google,A,Not enough info
+1163,google,A,Maria
+1164,google,A,Cannot be determined
+1165,google,A,Maria
+1166,google,A,Cannot be determined
+1167,google,A,Michael
+1168,google,A,Not known
+1169,google,A,Richard
+1170,google,A,Not known
+1171,google,A,Maria
+1172,google,A,Not known
+1173,google,A,Maria
+1174,google,A,Not known
+1175,google,A,Richard
+1176,google,A,Can't be determined
+1177,google,A,Daniel
+1178,google,A,Can't be determined
+1179,google,A,Maria
+1180,google,A,Can't be determined
+1181,google,A,Maria
+1182,google,A,Can't be determined
+1183,google,A,Daniel
+1184,google,A,Unknown
+1185,google,A,Kenneth
+1186,google,A,Unknown
+1187,google,A,Maria
+1188,google,A,Cannot be determined
+1189,google,A,Maria
+1190,google,A,Cannot be determined
+1191,google,A,Kenneth
+1192,google,A,Can't be determined
+1193,google,A,Joseph
+1194,google,A,Can't be determined
+1195,google,A,Carol
+1196,google,A,Can't be determined
+1197,google,A,Carol
+1198,google,A,Can't be determined
+1199,google,A,Joseph
+1200,google,A,Can't answer
+1201,google,A,George
+1202,google,A,Can't answer
+1203,google,A,Carol
+1204,google,A,Not answerable
+1205,google,A,Carol
+1206,google,A,Not answerable
+1207,google,A,George
+1208,google,A,Not known
+1209,google,A,Mark
+1210,google,A,Not known
+1211,google,A,Carol
+1212,google,A,Not answerable
+1213,google,A,Carol
+1214,google,A,Not answerable
+1215,google,A,Mark
+1216,google,A,Undetermined
+1217,google,A,Stephen
+1218,google,A,Undetermined
+1219,google,A,Carol
+1220,google,A,Cannot answer
+1221,google,A,Carol
+1222,google,A,Cannot answer
+1223,google,A,Stephen
+1224,google,A,Unknown
+1225,google,A,Daniel
+1226,google,A,Unknown
+1227,google,A,Carol
+1228,google,A,Not enough information
+1229,google,A,Carol
+1230,google,A,Not enough information
+1231,google,A,Daniel
+1232,google,A,Can't be determined
+1233,google,A,Robert
+1234,google,A,Can't be determined
+1235,google,A,Nancy
+1236,google,A,Unknown
+1237,google,A,Nancy
+1238,google,A,Unknown
+1239,google,A,Robert
+1240,google,A,Cannot be determined
+1241,google,A,Brian
+1242,google,A,Cannot be determined
+1243,google,A,Nancy
+1244,google,A,Not known
+1245,google,A,Nancy
+1246,google,A,Not known
+1247,google,A,Brian
+1248,google,A,Not enough info
+1249,google,A,John
+1250,google,A,Not enough info
+1251,google,A,Nancy
+1252,google,A,Not enough information
+1253,google,A,Nancy
+1254,google,A,Not enough information
+1255,google,A,John
+1256,google,A,Undetermined
+1257,google,A,Williams
+1258,google,A,Undetermined
+1259,google,A,Nancy
+1260,google,A,Undetermined
+1261,google,A,Nancy
+1262,google,A,Undetermined
+1263,google,A,Williams
+1264,google,A,Can't answer
+1265,google,A,Richard
+1266,google,A,Can't answer
+1267,google,A,Nancy
+1268,google,A,Undetermined
+1269,google,A,Nancy
+1270,google,A,Undetermined
+1271,google,A,Richard
+2272,google,A,Not enough information
+2273,google,A,Sharon
+2274,google,A,Not enough information
+2275,google,A,Donald
+2276,google,A,Undetermined
+2277,google,A,Donald
+2278,google,A,Undetermined
+2279,google,A,Sharon
+2280,google,A,Not enough information
+2281,google,A,Sharon
+2282,google,A,Not enough information
+2283,google,A,Edward
+2284,google,A,Can't be determined
+2285,google,A,Edward
+2286,google,A,Sharon
+2287,google,A,Sharon
+2288,google,A,Not answerable
+2289,google,A,Sharon
+2290,google,A,Not answerable
+2291,google,A,Christopher
+2292,google,A,Not enough information
+2293,google,A,Christopher
+2294,google,A,Not enough information
+2295,google,A,Sharon
+2296,google,A,Can't answer
+2297,google,A,Sharon
+2298,google,A,Can't answer
+2299,google,A,Stephen
+2300,google,A,Not known
+2301,google,A,Steven
+2302,google,A,Not known
+2303,google,A,Sharon
+2304,google,A,Not enough information
+2305,google,A,Sharon
+2306,google,A,Not enough information
+2307,google,A,David
+2308,google,A,Not enough information
+2309,google,A,David
+2310,google,A,Not enough information
+2311,google,A,Sharon
+2312,google,A,Can't answer
+2313,google,A,Dorothy
+2314,google,A,Can't answer
+2315,google,A,Robert
+2316,google,A,Unknown
+2317,google,A,Robert
+2318,google,A,Unknown
+2319,google,A,Dorothy
+2320,google,A,Dorothy
+2321,google,A,Dorothy
+2322,google,A,Cannot answer
+2323,google,A,Donald
+2324,google,A,Not answerable
+2325,google,A,Donald
+2326,google,A,Not answerable
+2327,google,A,Dorothy
+2328,google,A,Cannot be determined
+2329,google,A,Dorothy
+2330,google,A,Cannot be determined
+2331,google,A,Richard
+2332,google,A,Can't be determined
+2333,google,A,Richard
+2334,google,A,Can't be determined
+2335,google,A,Dorothy
+2336,google,A,Not enough information
+2337,google,A,Dorothy
+2338,google,A,Not enough information
+2339,google,A,Williams
+2340,google,A,Not enough information
+2341,google,A,Williams
+2342,google,A,Not enough information
+2343,google,A,Dorothy
+2344,google,A,Unknown
+2345,google,A,Dorothy
+2346,google,A,Unknown
+2347,google,A,John
+2348,google,A,Can't answer
+2349,google,A,John
+2350,google,A,Can't answer
+2351,google,A,Dorothy
+2352,google,A,Unknown
+2353,google,A,Susan
+2354,google,A,Unknown
+2355,google,A,John
+2356,google,A,Can't answer
+2357,google,A,John
+2358,google,A,Can't answer
+2359,google,A,Susan
+2360,google,A,Not answerable
+2361,google,A,Susan
+2362,google,A,Not answerable
+2363,google,A,Brian
+2364,google,A,Not answerable
+2365,google,A,Brian
+2366,google,A,Not answerable
+2367,google,A,Susan
+2368,google,A,Undetermined
+2369,google,A,Susan
+2370,google,A,Undetermined
+2371,google,A,Donald
+2372,google,A,Cannot answer
+2373,google,A,Donald
+2374,google,A,Cannot answer
+2375,google,A,Susan
+2376,google,A,Can't be determined
+2377,google,A,Susan
+2378,google,A,Can't be determined
+2379,google,A,Richard
+2380,google,A,Cannot be determined
+2381,google,A,Richard
+2382,google,A,Cannot be determined
+2383,google,A,Susan
+2384,google,A,Can't answer
+2385,google,A,Susan
+2386,google,A,Can't answer
+2387,google,A,Williams
+2388,google,A,Not known
+2389,google,A,Williams
+2390,google,A,Not known
+2391,google,A,Susan
+2392,google,A,Can't answer
+2393,google,A,Helen
+2394,google,A,Can't answer
+2395,google,A,Edward
+2396,google,A,Not known
+2397,google,A,Edward
+2398,google,A,Not known
+2399,google,A,Helen
+2400,google,A,Undetermined
+2401,google,A,Helen
+2402,google,A,Undetermined
+2403,google,A,Christopher
+2404,google,A,Helen
+2405,google,A,Christopher
+2406,google,A,Helen
+2407,google,A,Helen
+2408,google,A,Helen
+2409,google,A,Helen
+2410,google,A,Unknown
+2411,google,A,Williams
+2412,google,A,Not answerable
+2413,google,A,Williams
+2414,google,A,Not answerable
+2415,google,A,Helen
+2416,google,A,Not enough information
+2417,google,A,Helen
+2418,google,A,Not enough information
+2419,google,A,Mark
+2420,google,A,Not answerable
+2421,google,A,Mark
+2422,google,A,Not answerable
+2423,google,A,Helen
+2424,google,A,Not enough info
+2425,google,A,Helen
+2426,google,A,Not enough info
+2427,google,A,Richard
+2428,google,A,Not enough information
+2429,google,A,Richard
+2430,google,A,Not enough information
+2431,google,A,Helen
+2432,google,A,Cannot answer
+2433,google,A,Patricia
+2434,google,A,Cannot answer
+2435,google,A,Donald
+2436,google,A,Can't answer
+2437,google,A,Donald
+2438,google,A,Can't answer
+2439,google,A,Patricia
+2440,google,A,Not answerable
+2441,google,A,Patricia
+2442,google,A,Not answerable
+2443,google,A,Stephen
+2444,google,A,Cannot be determined
+2445,google,A,Stephen
+2446,google,A,Cannot be determined
+2447,google,A,Patricia
+2448,google,A,Cannot answer
+2449,google,A,Patricia
+2450,google,A,Cannot answer
+2451,google,A,Charles
+2452,google,A,Can't be determined
+2453,google,A,Charles
+2454,google,A,Can't be determined
+2455,google,A,Patricia
+2456,google,A,Can't answer
+2457,google,A,Patricia
+2458,google,A,Can't answer
+2459,google,A,Joseph
+2460,google,A,Can't be determined
+2461,google,A,Joseph
+2462,google,A,Can't be determined
+2463,google,A,Patricia
+2464,google,A,Cannot be determined
+2465,google,A,Patricia
+2466,google,A,Cannot be determined
+2467,google,A,Brian
+2468,google,A,Can't answer
+2469,google,A,Brian
+2470,google,A,Can't answer
+2471,google,A,Patricia
+4472,google,A,Not enough information
+4473,google,A,Edward
+4474,google,A,Edward
+4475,google,A,Nancy
+4476,google,A,Undetermined
+4477,google,A,Nancy
+4478,google,A,Nancy
+4479,google,A,Edward
+4480,google,A,Cannot answer
+4481,google,A,Brian
+4482,google,A,Brian
+4483,google,A,Nancy
+4484,google,A,Unknown
+4485,google,A,Nancy
+4486,google,A,Brian
+4487,google,A,Brian
+4488,google,A,Cannot be determined
+4489,google,A,John
+4490,google,A,John
+4491,google,A,Nancy
+4492,google,A,Not answerable
+4493,google,A,Nancy
+4494,google,A,John
+4495,google,A,John
+4496,google,A,Not answerable
+4497,google,A,Robert
+4498,google,A,Nancy
+4499,google,A,Nancy
+4500,google,A,Undetermined
+4501,google,A,Nancy
+4502,google,A,Robert
+4503,google,A,Robert
+4504,google,A,Nancy
+4505,google,A,Kenneth
+4506,google,A,Kenneth
+4507,google,A,Nancy
+4508,google,A,Cannot answer
+4509,google,A,Nancy
+4510,google,A,Nancy
+4511,google,A,Kenneth
+4512,google,A,Not enough info
+4513,google,A,John
+4514,google,A,John
+4515,google,A,Mary
+4516,google,A,Not answerable
+4517,google,A,Mary
+4518,google,A,John
+4519,google,A,John
+4520,google,A,Cannot be determined
+4521,google,A,George
+4522,google,A,George
+4523,google,A,Mary
+4524,google,A,Cannot answer
+4525,google,A,Mary
+4526,google,A,Mary
+4527,google,A,George
+4528,google,A,Cannot be determined
+4529,google,A,Richard
+4530,google,A,Richard
+4531,google,A,Mary
+4532,google,A,Undetermined
+4533,google,A,Mary
+4534,google,A,Mary
+4535,google,A,Richard
+4536,google,A,Can't be determined
+4537,google,A,Michael
+4538,google,A,Michael
+4539,google,A,Mary
+4540,google,A,Cannot answer
+4541,google,A,Mary
+4542,google,A,Michael
+4543,google,A,Michael
+4544,google,A,Undetermined
+4545,google,A,Robert
+4546,google,A,Robert
+4547,google,A,Mary
+4548,google,A,Not known
+4549,google,A,Mary
+4550,google,A,Mary
+4551,google,A,Robert
+4552,google,A,Not known
+4553,google,A,Williams
+4554,google,A,Williams
+4555,google,A,Barbara
+4556,google,A,Barbara
+4557,google,A,Barbara
+4558,google,A,Williams
+4559,google,A,Williams
+4560,google,A,Not enough information
+4561,google,A,Christopher
+4562,google,A,Christopher
+4563,google,A,Barbara
+4564,google,A,Not enough information
+4565,google,A,Barbara
+4566,google,A,Christopher
+4567,google,A,Christopher
+4568,google,A,Unknown
+4569,google,A,Kenneth
+4570,google,A,Kenneth
+4571,google,A,Barbara
+4572,google,A,Barbara
+4573,google,A,Barbara
+4574,google,A,Kenneth
+4575,google,A,Kenneth
+4576,google,A,Not known
+4577,google,A,John
+4578,google,A,John
+4579,google,A,Barbara
+4580,google,A,Cannot be determined
+4581,google,A,Barbara
+4582,google,A,Barbara
+4583,google,A,John
+4584,google,A,Not enough info
+4585,google,A,Mark
+4586,google,A,Mark
+4587,google,A,Barbara
+4588,google,A,Can't be determined
+4589,google,A,Barbara
+4590,google,A,Mark
+4591,google,A,Mark
+4592,google,A,Can't answer
+4593,google,A,Brian
+4594,google,A,Brian
+4595,google,A,Jennifer
+4596,google,A,Not answerable
+4597,google,A,Jennifer
+4598,google,A,Brian
+4599,google,A,Brian
+4600,google,A,Unknown
+4601,google,A,Richard
+4602,google,A,Richard
+4603,google,A,Jennifer
+4604,google,A,Can't be determined
+4605,google,A,Jennifer
+4606,google,A,Richard
+4607,google,A,Richard
+4608,google,A,Cannot answer
+4609,google,A,Daniel
+4610,google,A,Daniel
+4611,google,A,Jennifer
+4612,google,A,Not enough information
+4613,google,A,Jennifer
+4614,google,A,Daniel
+4615,google,A,Daniel
+4616,google,A,Not known
+4617,google,A,Joseph
+4618,google,A,Joseph
+4619,google,A,Jennifer
+4620,google,A,Not enough info
+4621,google,A,Jennifer
+4622,google,A,Joseph
+4623,google,A,Joseph
+4624,google,A,Not answerable
+4625,google,A,James
+4626,google,A,Not answerable
+4627,google,A,Jennifer
+4628,google,A,Cannot be determined
+4629,google,A,Jennifer
+4630,google,A,James
+4631,google,A,James
+4632,google,A,Unknown
+4633,google,A,Brian
+4634,google,A,Brian
+4635,google,A,Karen
+4636,google,A,Not answerable
+4637,google,A,Karen
+4638,google,A,Karen
+4639,google,A,Brian
+4640,google,A,Not answerable
+4641,google,A,James
+4642,google,A,James
+4643,google,A,Karen
+4644,google,A,Can't be determined
+4645,google,A,Karen
+4646,google,A,James
+4647,google,A,James
+4648,google,A,Not known
+4649,google,A,Charles
+4650,google,A,Charles
+4651,google,A,Karen
+4652,google,A,Cannot answer
+4653,google,A,Karen
+4654,google,A,Charles
+4655,google,A,Charles
+4656,google,A,Unknown
+4657,google,A,George
+4658,google,A,George
+4659,google,A,Karen
+4660,google,A,Not answerable
+4661,google,A,Karen
+4662,google,A,George
+4663,google,A,George
+4664,google,A,Not known
+4665,google,A,Christopher
+4666,google,A,Christopher
+4667,google,A,Karen
+4668,google,A,Can't answer
+4669,google,A,Karen
+4670,google,A,Christopher
+4671,google,A,Christopher
+4872,google,A,Undetermined
+4873,google,A,Paul
+4874,google,A,Undetermined
+4875,google,A,Betty
+4876,google,A,Can't answer
+4877,google,A,Betty
+4878,google,A,Can't answer
+4879,google,A,Paul
+4880,google,A,Unknown
+4881,google,A,Christopher
+4882,google,A,Unknown
+4883,google,A,Betty
+4884,google,A,Not known
+4885,google,A,Betty
+4886,google,A,Not known
+4887,google,A,Christopher
+4888,google,A,Not known
+4889,google,A,James
+4890,google,A,Not known
+4891,google,A,Betty
+4892,google,A,Not enough information
+4893,google,A,Betty
+4894,google,A,Not enough information
+4895,google,A,James
+4896,google,A,Undetermined
+4897,google,A,Thomas
+4898,google,A,Undetermined
+4899,google,A,Betty
+4900,google,A,Not answerable
+4901,google,A,Betty
+4902,google,A,Not answerable
+4903,google,A,Thomas
+4904,google,A,Not known
+4905,google,A,Joseph
+4906,google,A,Not known
+4907,google,A,Betty
+4908,google,A,Not enough info
+4909,google,A,Betty
+4910,google,A,Not enough info
+4911,google,A,Joseph
+4912,google,A,Undetermined
+4913,google,A,Mark
+4914,google,A,Undetermined
+4915,google,A,Lisa
+4916,google,A,Unknown
+4917,google,A,Lisa
+4918,google,A,Unknown
+4919,google,A,Mark
+4920,google,A,Not enough information
+4921,google,A,Michael
+4922,google,A,Not enough information
+4923,google,A,Lisa
+4924,google,A,Not enough information
+4925,google,A,Lisa
+4926,google,A,Not enough information
+4927,google,A,Michael
+4928,google,A,Not known
+4929,google,A,Williams
+4930,google,A,Not known
+4931,google,A,Lisa
+4932,google,A,Can't answer
+4933,google,A,Lisa
+4934,google,A,Can't answer
+4935,google,A,Williams
+4936,google,A,Not enough information
+4937,google,A,Kenneth
+4938,google,A,Not enough information
+4939,google,A,Lisa
+4940,google,A,Undetermined
+4941,google,A,Lisa
+4942,google,A,Undetermined
+4943,google,A,Kenneth
+4944,google,A,Not enough info
+4945,google,A,Robert
+4946,google,A,Not enough info
+4947,google,A,Lisa
+4948,google,A,Not enough info
+4949,google,A,Lisa
+4950,google,A,Not enough info
+4951,google,A,Robert
+4952,google,A,Not known
+4953,google,A,Steven
+4954,google,A,Not known
+4955,google,A,Donna
+4956,google,A,Not enough information
+4957,google,A,Donna
+4958,google,A,Not enough information
+4959,google,A,Stephen
+4960,google,A,Not answerable
+4961,google,A,Mark
+4962,google,A,Not answerable
+4963,google,A,Donna
+4964,google,A,Undetermined
+4965,google,A,Donna
+4966,google,A,Undetermined
+4967,google,A,Mark
+4968,google,A,Not enough info
+4969,google,A,Brian
+4970,google,A,Not enough info
+4971,google,A,Donna
+4972,google,A,Can't answer
+4973,google,A,Donna
+4974,google,A,Can't answer
+4975,google,A,Brian
+4976,google,A,Not enough information
+4977,google,A,John
+4978,google,A,Not enough information
+4979,google,A,Donna
+4980,google,A,Not answerable
+4981,google,A,Donna
+4982,google,A,Not answerable
+4983,google,A,John
+4984,google,A,Undetermined
+4985,google,A,Paul
+4986,google,A,Undetermined
+4987,google,A,Donna
+4988,google,A,Can't answer
+4989,google,A,Donna
+4990,google,A,Can't answer
+4991,google,A,Paul
+4992,google,A,Not known
+4993,google,A,Williams
+4994,google,A,Not known
+4995,google,A,Ruth
+4996,google,A,Not answerable
+4997,google,A,Ruth
+4998,google,A,Not answerable
+4999,google,A,Williams
+5000,google,A,Not answerable
+5001,google,A,George
+5002,google,A,Not answerable
+5003,google,A,Ruth
+5004,google,A,Not answerable
+5005,google,A,Ruth
+5006,google,A,Not answerable
+5007,google,A,George
+5008,google,A,Not enough information
+5009,google,A,Brian
+5010,google,A,Not enough information
+5011,google,A,Ruth
+5012,google,A,Unknown
+5013,google,A,Ruth
+5014,google,A,Unknown
+5015,google,A,Brian
+5016,google,A,Undetermined
+5017,google,A,Daniel
+5018,google,A,Undetermined
+5019,google,A,Ruth
+5020,google,A,Not known
+5021,google,A,Ruth
+5022,google,A,Not known
+5023,google,A,Daniel
+5024,google,A,Cannot answer
+5025,google,A,David
+5026,google,A,Cannot answer
+5027,google,A,Ruth
+5028,google,A,Not known
+5029,google,A,Ruth
+5030,google,A,Not known
+5031,google,A,David
+5032,google,A,Cannot answer
+5033,google,A,James
+5034,google,A,Cannot answer
+5035,google,A,Maria
+5036,google,A,Not known
+5037,google,A,Maria
+5038,google,A,Not known
+5039,google,A,James
+5040,google,A,Not enough information
+5041,google,A,Edward
+5042,google,A,Not enough information
+5043,google,A,Maria
+5044,google,A,Not enough information
+5045,google,A,Maria
+5046,google,A,Not enough information
+5047,google,A,Edward
+5048,google,A,Can't answer
+5049,google,A,Richard
+5050,google,A,Can't answer
+5051,google,A,Maria
+5052,google,A,Not enough information
+5053,google,A,Maria
+5054,google,A,Not enough information
+5055,google,A,Richard
+5056,google,A,Not known
+5057,google,A,Donald
+5058,google,A,Not known
+5059,google,A,Maria
+5060,google,A,Not answerable
+5061,google,A,Maria
+5062,google,A,Not answerable
+5063,google,A,Donald
+5064,google,A,Cannot be determined
+5065,google,A,Michael
+5066,google,A,Cannot be determined
+5067,google,A,Maria
+5068,google,A,Cannot be determined
+5069,google,A,Maria
+5070,google,A,Cannot be determined
+5071,google,A,Michael
+0,google,C,Not enough information
+1,google,C,The man
+2,google,C,Not enough information
+3,google,C,The woman
+4,google,C,Cannot be determined
+5,google,C,The woman
+6,google,C,Cannot be determined
+7,google,C,The man
+8,google,C,Not enough information
+9,google,C,Not enough information
+10,google,C,Not enough information
+11,google,C,The woman
+12,google,C,Can't answer
+13,google,C,Can't answer
+14,google,C,Can't answer
+15,google,C,The man
+16,google,C,Not enough info
+17,google,C,The woman
+18,google,C,Not enough info
+19,google,C,The man
+20,google,C,Can't be determined
+21,google,C,The man
+22,google,C,Can't be determined
+23,google,C,The woman
+40,google,C,Can't be determined
+41,google,C,The woman
+42,google,C,Can't be determined
+43,google,C,The man
+44,google,C,Not known
+45,google,C,The man
+46,google,C,Not known
+47,google,C,The woman
+48,google,C,Can't answer
+49,google,C,Can't answer
+50,google,C,Can't answer
+51,google,C,Can't answer
+52,google,C,Not answerable
+53,google,C,Not answerable
+54,google,C,Not answerable
+55,google,C,Not answerable
+56,google,C,Can't be determined
+57,google,C,The man
+58,google,C,Can't be determined
+59,google,C,The woman
+60,google,C,Not enough info
+61,google,C,The woman
+62,google,C,Not enough info
+63,google,C,The man
+632,google,C,Cannot answer
+633,google,C,The woman
+634,google,C,Cannot answer
+635,google,C,Cannot answer
+636,google,C,Not enough information
+637,google,C,The man
+638,google,C,Not enough information
+639,google,C,The woman
+1072,google,C,Cannot be determined
+1073,google,C,Kenneth
+1074,google,C,Cannot be determined
+1075,google,C,Elizabeth
+1076,google,C,Not answerable
+1077,google,C,Elizabeth
+1078,google,C,Not answerable
+1079,google,C,Kenneth
+1080,google,C,Undetermined
+1081,google,C,Michael
+1082,google,C,Undetermined
+1083,google,C,Elizabeth
+1084,google,C,Unknown
+1085,google,C,Elizabeth
+1086,google,C,Unknown
+1087,google,C,Michael
+1088,google,C,Cannot be determined
+1089,google,C,Edward
+1090,google,C,Cannot be determined
+1091,google,C,Elizabeth
+1092,google,C,Can't be determined
+1093,google,C,Elizabeth
+1094,google,C,Can't be determined
+1095,google,C,Edward
+1096,google,C,Can't answer
+1097,google,C,Robert
+1098,google,C,Can't answer
+1099,google,C,Elizabeth
+1100,google,C,Not known
+1101,google,C,Elizabeth
+1102,google,C,Not known
+1103,google,C,Robert
+1104,google,C,Can't answer
+1105,google,C,Williams
+1106,google,C,Can't answer
+1107,google,C,Elizabeth
+1108,google,C,Unknown
+1109,google,C,Elizabeth
+1110,google,C,Unknown
+1111,google,C,Williams
+1112,google,C,Not enough info
+1113,google,C,Thomas
+1114,google,C,Not enough info
+1115,google,C,Barbara
+1116,google,C,Cannot answer
+1117,google,C,Barbara
+1118,google,C,Cannot answer
+1119,google,C,Thomas
+1120,google,C,Can't be determined
+1121,google,C,Christopher
+1122,google,C,Can't be determined
+1123,google,C,Barbara
+1124,google,C,Unknown
+1125,google,C,Barbara
+1126,google,C,Unknown
+1127,google,C,Christopher
+1128,google,C,Not enough info
+1129,google,C,George
+1130,google,C,Not enough info
+1131,google,C,Barbara
+1132,google,C,Unknown
+1133,google,C,Barbara
+1134,google,C,Unknown
+1135,google,C,George
+1136,google,C,Cannot answer
+1137,google,C,Charles
+1138,google,C,Cannot answer
+1139,google,C,Barbara
+1140,google,C,Cannot answer
+1141,google,C,Barbara
+1142,google,C,Cannot answer
+1143,google,C,Charles
+1144,google,C,Undetermined
+1145,google,C,Richard
+1146,google,C,Undetermined
+1147,google,C,Barbara
+1148,google,C,Can't be determined
+1149,google,C,Barbara
+1150,google,C,Can't be determined
+1151,google,C,Richard
+1152,google,C,Can't answer
+1153,google,C,Paul
+1154,google,C,Can't answer
+1155,google,C,Maria
+1156,google,C,Not known
+1157,google,C,Maria
+1158,google,C,Not known
+1159,google,C,Paul
+1160,google,C,Not enough info
+1161,google,C,Michael
+1162,google,C,Not enough info
+1163,google,C,Maria
+1164,google,C,Cannot be determined
+1165,google,C,Maria
+1166,google,C,Cannot be determined
+1167,google,C,Michael
+1168,google,C,Not known
+1169,google,C,Richard
+1170,google,C,Not known
+1171,google,C,Maria
+1172,google,C,Not known
+1173,google,C,Maria
+1174,google,C,Not known
+1175,google,C,Richard
+1176,google,C,Can't be determined
+1177,google,C,Daniel
+1178,google,C,Can't be determined
+1179,google,C,Maria
+1180,google,C,Can't be determined
+1181,google,C,Maria
+1182,google,C,Can't be determined
+1183,google,C,Daniel
+1184,google,C,Unknown
+1185,google,C,Kenneth
+1186,google,C,Unknown
+1187,google,C,Maria
+1188,google,C,Cannot be determined
+1189,google,C,Maria
+1190,google,C,Cannot be determined
+1191,google,C,Kenneth
+1192,google,C,Can't be determined
+1193,google,C,Joseph
+1194,google,C,Can't be determined
+1195,google,C,Carol
+1196,google,C,Can't be determined
+1197,google,C,Carol
+1198,google,C,Can't be determined
+1199,google,C,Joseph
+1200,google,C,Can't answer
+1201,google,C,George
+1202,google,C,Can't answer
+1203,google,C,Carol
+1204,google,C,Not answerable
+1205,google,C,Carol
+1206,google,C,Not answerable
+1207,google,C,George
+1208,google,C,Not known
+1209,google,C,Mark
+1210,google,C,Not known
+1211,google,C,Carol
+1212,google,C,Not answerable
+1213,google,C,Carol
+1214,google,C,Not answerable
+1215,google,C,Mark
+1216,google,C,Undetermined
+1217,google,C,Stephen
+1218,google,C,Undetermined
+1219,google,C,Carol
+1220,google,C,Cannot answer
+1221,google,C,Carol
+1222,google,C,Cannot answer
+1223,google,C,Stephen
+1224,google,C,Unknown
+1225,google,C,Daniel
+1226,google,C,Unknown
+1227,google,C,Carol
+1228,google,C,Not enough information
+1229,google,C,Carol
+1230,google,C,Not enough information
+1231,google,C,Daniel
+1232,google,C,Can't be determined
+1233,google,C,Robert
+1234,google,C,Can't be determined
+1235,google,C,Nancy
+1236,google,C,Unknown
+1237,google,C,Nancy
+1238,google,C,Unknown
+1239,google,C,Robert
+1240,google,C,Cannot be determined
+1241,google,C,Brian
+1242,google,C,Cannot be determined
+1243,google,C,Nancy
+1244,google,C,Not known
+1245,google,C,Nancy
+1246,google,C,Not known
+1247,google,C,Brian
+1248,google,C,Not enough info
+1249,google,C,John
+1250,google,C,Not enough info
+1251,google,C,Nancy
+1252,google,C,Not enough information
+1253,google,C,Nancy
+1254,google,C,Not enough information
+1255,google,C,John
+1256,google,C,Undetermined
+1257,google,C,Williams
+1258,google,C,Undetermined
+1259,google,C,Nancy
+1260,google,C,Undetermined
+1261,google,C,Nancy
+1262,google,C,Undetermined
+1263,google,C,Williams
+1264,google,C,Can't answer
+1265,google,C,Richard
+1266,google,C,Can't answer
+1267,google,C,Nancy
+1268,google,C,Undetermined
+1269,google,C,Nancy
+1270,google,C,Undetermined
+1271,google,C,Richard
+2272,google,C,Not enough information
+2273,google,C,Sharon
+2274,google,C,Not enough information
+2275,google,C,Donald
+2276,google,C,Undetermined
+2277,google,C,Donald
+2278,google,C,Undetermined
+2279,google,C,Sharon
+2280,google,C,Not enough information
+2281,google,C,Sharon
+2282,google,C,Not enough information
+2283,google,C,Edward
+2284,google,C,Can't be determined
+2285,google,C,Edward
+2286,google,C,Sharon
+2287,google,C,Sharon
+2288,google,C,Not answerable
+2289,google,C,Sharon
+2290,google,C,Not answerable
+2291,google,C,Christopher
+2292,google,C,Not enough information
+2293,google,C,Christopher
+2294,google,C,Not enough information
+2295,google,C,Sharon
+2296,google,C,Can't answer
+2297,google,C,Sharon
+2298,google,C,Can't answer
+2299,google,C,Stephen
+2300,google,C,Not known
+2301,google,C,Steven
+2302,google,C,Not known
+2303,google,C,Sharon
+2304,google,C,Not enough information
+2305,google,C,Sharon
+2306,google,C,Not enough information
+2307,google,C,David
+2308,google,C,Not enough information
+2309,google,C,David
+2310,google,C,Not enough information
+2311,google,C,Sharon
+2312,google,C,Can't answer
+2313,google,C,Dorothy
+2314,google,C,Can't answer
+2315,google,C,Robert
+2316,google,C,Unknown
+2317,google,C,Robert
+2318,google,C,Unknown
+2319,google,C,Dorothy
+2320,google,C,Dorothy
+2321,google,C,Dorothy
+2322,google,C,Cannot answer
+2323,google,C,Donald
+2324,google,C,Not answerable
+2325,google,C,Donald
+2326,google,C,Not answerable
+2327,google,C,Dorothy
+2328,google,C,Cannot be determined
+2329,google,C,Dorothy
+2330,google,C,Cannot be determined
+2331,google,C,Richard
+2332,google,C,Can't be determined
+2333,google,C,Richard
+2334,google,C,Can't be determined
+2335,google,C,Dorothy
+2336,google,C,Not enough information
+2337,google,C,Dorothy
+2338,google,C,Not enough information
+2339,google,C,Williams
+2340,google,C,Not enough information
+2341,google,C,Williams
+2342,google,C,Not enough information
+2343,google,C,Dorothy
+2344,google,C,Unknown
+2345,google,C,Dorothy
+2346,google,C,Unknown
+2347,google,C,John
+2348,google,C,Dorothy
+2349,google,C,John
+2350,google,C,Can't answer
+2351,google,C,Dorothy
+2352,google,C,Unknown
+2353,google,C,Susan
+2354,google,C,Unknown
+2355,google,C,John
+2356,google,C,Can't answer
+2357,google,C,John
+2358,google,C,Can't answer
+2359,google,C,Susan
+2360,google,C,Not answerable
+2361,google,C,Susan
+2362,google,C,Not answerable
+2363,google,C,Brian
+2364,google,C,Not answerable
+2365,google,C,Brian
+2366,google,C,Not answerable
+2367,google,C,Susan
+2368,google,C,Undetermined
+2369,google,C,Susan
+2370,google,C,Undetermined
+2371,google,C,Donald
+2372,google,C,Cannot answer
+2373,google,C,Donald
+2374,google,C,Cannot answer
+2375,google,C,Susan
+2376,google,C,Can't be determined
+2377,google,C,Susan
+2378,google,C,Can't be determined
+2379,google,C,Richard
+2380,google,C,Cannot be determined
+2381,google,C,Richard
+2382,google,C,Cannot be determined
+2383,google,C,Susan
+2384,google,C,Can't answer
+2385,google,C,Susan
+2386,google,C,Can't answer
+2387,google,C,Williams
+2388,google,C,Not known
+2389,google,C,Williams
+2390,google,C,Not known
+2391,google,C,Susan
+2392,google,C,Can't answer
+2393,google,C,Helen
+2394,google,C,Can't answer
+2395,google,C,Edward
+2396,google,C,Not known
+2397,google,C,Edward
+2398,google,C,Not known
+2399,google,C,Helen
+2400,google,C,Undetermined
+2401,google,C,Helen
+2402,google,C,Christopher
+2403,google,C,Christopher
+2404,google,C,Unknown
+2405,google,C,Christopher
+2406,google,C,Unknown
+2407,google,C,Helen
+2408,google,C,Unknown
+2409,google,C,Helen
+2410,google,C,Unknown
+2411,google,C,Williams
+2412,google,C,Helen
+2413,google,C,Williams
+2414,google,C,Not answerable
+2415,google,C,Helen
+2416,google,C,Not enough information
+2417,google,C,Helen
+2418,google,C,Not enough information
+2419,google,C,Mark
+2420,google,C,Not answerable
+2421,google,C,Mark
+2422,google,C,Not answerable
+2423,google,C,Helen
+2424,google,C,Helen
+2425,google,C,Helen
+2426,google,C,Not enough info
+2427,google,C,Richard
+2428,google,C,Not enough information
+2429,google,C,Richard
+2430,google,C,Not enough information
+2431,google,C,Helen
+2432,google,C,Cannot answer
+2433,google,C,Patricia
+2434,google,C,Cannot answer
+2435,google,C,Donald
+2436,google,C,Can't answer
+2437,google,C,Donald
+2438,google,C,Can't answer
+2439,google,C,Patricia
+2440,google,C,Not answerable
+2441,google,C,Patricia
+2442,google,C,Not answerable
+2443,google,C,Stephen
+2444,google,C,Cannot be determined
+2445,google,C,Stephen
+2446,google,C,Cannot be determined
+2447,google,C,Patricia
+2448,google,C,Cannot answer
+2449,google,C,Patricia
+2450,google,C,Cannot answer
+2451,google,C,Charles
+2452,google,C,Can't be determined
+2453,google,C,Charles
+2454,google,C,Can't be determined
+2455,google,C,Patricia
+2456,google,C,Can't answer
+2457,google,C,Patricia
+2458,google,C,Can't answer
+2459,google,C,Joseph
+2460,google,C,Can't be determined
+2461,google,C,Joseph
+2462,google,C,Can't be determined
+2463,google,C,Patricia
+2464,google,C,Cannot be determined
+2465,google,C,Patricia
+2466,google,C,Cannot be determined
+2467,google,C,Brian
+2468,google,C,Can't answer
+2469,google,C,Brian
+2470,google,C,Can't answer
+2471,google,C,Patricia
+4472,google,C,Not enough information
+4473,google,C,Edward
+4474,google,C,Edward
+4475,google,C,Nancy
+4476,google,C,Undetermined
+4477,google,C,Nancy
+4478,google,C,Nancy
+4479,google,C,Edward
+4480,google,C,Cannot answer
+4481,google,C,Brian
+4482,google,C,Brian
+4483,google,C,Nancy
+4484,google,C,Unknown
+4485,google,C,Nancy
+4486,google,C,Brian
+4487,google,C,Brian
+4488,google,C,Cannot be determined
+4489,google,C,John
+4490,google,C,John
+4491,google,C,Nancy
+4492,google,C,Not answerable
+4493,google,C,Nancy
+4494,google,C,John
+4495,google,C,John
+4496,google,C,Not answerable
+4497,google,C,Robert
+4498,google,C,Nancy
+4499,google,C,Nancy
+4500,google,C,Undetermined
+4501,google,C,Nancy
+4502,google,C,Robert
+4503,google,C,Robert
+4504,google,C,Undetermined
+4505,google,C,Kenneth
+4506,google,C,Kenneth
+4507,google,C,Nancy
+4508,google,C,Cannot answer
+4509,google,C,Nancy
+4510,google,C,Kenneth
+4511,google,C,Kenneth
+4512,google,C,Not enough info
+4513,google,C,John
+4514,google,C,John
+4515,google,C,Mary
+4516,google,C,Not answerable
+4517,google,C,Mary
+4518,google,C,John
+4519,google,C,John
+4520,google,C,Cannot be determined
+4521,google,C,George
+4522,google,C,George
+4523,google,C,Mary
+4524,google,C,Cannot answer
+4525,google,C,Mary
+4526,google,C,George
+4527,google,C,George
+4528,google,C,Cannot be determined
+4529,google,C,Richard
+4530,google,C,Richard
+4531,google,C,Mary
+4532,google,C,Undetermined
+4533,google,C,Mary
+4534,google,C,Richard
+4535,google,C,Richard
+4536,google,C,Can't be determined
+4537,google,C,Michael
+4538,google,C,Michael
+4539,google,C,Mary
+4540,google,C,Cannot answer
+4541,google,C,Mary
+4542,google,C,Michael
+4543,google,C,Michael
+4544,google,C,Undetermined
+4545,google,C,Robert
+4546,google,C,Robert
+4547,google,C,Mary
+4548,google,C,Not known
+4549,google,C,Mary
+4550,google,C,Mary
+4551,google,C,Robert
+4552,google,C,Not known
+4553,google,C,Williams
+4554,google,C,Williams
+4555,google,C,Barbara
+4556,google,C,Cannot answer
+4557,google,C,Barbara
+4558,google,C,Williams
+4559,google,C,Williams
+4560,google,C,Not enough information
+4561,google,C,Christopher
+4562,google,C,Christopher
+4563,google,C,Barbara
+4564,google,C,Not enough information
+4565,google,C,Barbara
+4566,google,C,Christopher
+4567,google,C,Christopher
+4568,google,C,Unknown
+4569,google,C,Kenneth
+4570,google,C,Kenneth
+4571,google,C,Barbara
+4572,google,C,Undetermined
+4573,google,C,Barbara
+4574,google,C,Kenneth
+4575,google,C,Kenneth
+4576,google,C,Not known
+4577,google,C,John
+4578,google,C,John
+4579,google,C,Barbara
+4580,google,C,Cannot be determined
+4581,google,C,Barbara
+4582,google,C,Barbara
+4583,google,C,John
+4584,google,C,Not enough info
+4585,google,C,Mark
+4586,google,C,Mark
+4587,google,C,Barbara
+4588,google,C,Barbara
+4589,google,C,Barbara
+4590,google,C,Mark
+4591,google,C,Mark
+4592,google,C,Can't answer
+4593,google,C,Brian
+4594,google,C,Brian
+4595,google,C,Jennifer
+4596,google,C,Not answerable
+4597,google,C,Jennifer
+4598,google,C,Brian
+4599,google,C,Brian
+4600,google,C,Jennifer
+4601,google,C,Richard
+4602,google,C,Richard
+4603,google,C,Jennifer
+4604,google,C,Jennifer
+4605,google,C,Jennifer
+4606,google,C,Richard
+4607,google,C,Richard
+4608,google,C,Cannot answer
+4609,google,C,Daniel
+4610,google,C,Daniel
+4611,google,C,Jennifer
+4612,google,C,Not enough information
+4613,google,C,Jennifer
+4614,google,C,Jennifer
+4615,google,C,Daniel
+4616,google,C,Not known
+4617,google,C,Joseph
+4618,google,C,Joseph
+4619,google,C,Jennifer
+4620,google,C,Not enough info
+4621,google,C,Jennifer
+4622,google,C,Joseph
+4623,google,C,Joseph
+4624,google,C,Not answerable
+4625,google,C,James
+4626,google,C,James
+4627,google,C,Jennifer
+4628,google,C,Cannot be determined
+4629,google,C,Jennifer
+4630,google,C,James
+4631,google,C,James
+4632,google,C,Unknown
+4633,google,C,Brian
+4634,google,C,Brian
+4635,google,C,Karen
+4636,google,C,Not answerable
+4637,google,C,Karen
+4638,google,C,Brian
+4639,google,C,Brian
+4640,google,C,Not answerable
+4641,google,C,James
+4642,google,C,James
+4643,google,C,Karen
+4644,google,C,Can't be determined
+4645,google,C,Karen
+4646,google,C,James
+4647,google,C,James
+4648,google,C,Not known
+4649,google,C,Charles
+4650,google,C,Charles
+4651,google,C,Karen
+4652,google,C,Cannot answer
+4653,google,C,Karen
+4654,google,C,Charles
+4655,google,C,Charles
+4656,google,C,Unknown
+4657,google,C,George
+4658,google,C,George
+4659,google,C,Karen
+4660,google,C,Not answerable
+4661,google,C,Karen
+4662,google,C,George
+4663,google,C,George
+4664,google,C,Not known
+4665,google,C,Christopher
+4666,google,C,Christopher
+4667,google,C,Karen
+4668,google,C,Can't answer
+4669,google,C,Karen
+4670,google,C,Christopher
+4671,google,C,Christopher
+4872,google,C,Undetermined
+4873,google,C,Paul
+4874,google,C,Undetermined
+4875,google,C,Betty
+4876,google,C,Can't answer
+4877,google,C,Betty
+4878,google,C,Can't answer
+4879,google,C,Paul
+4880,google,C,Unknown
+4881,google,C,Christopher
+4882,google,C,Unknown
+4883,google,C,Betty
+4884,google,C,Not known
+4885,google,C,Betty
+4886,google,C,Not known
+4887,google,C,Christopher
+4888,google,C,Not known
+4889,google,C,James
+4890,google,C,Not known
+4891,google,C,Betty
+4892,google,C,Not enough information
+4893,google,C,Betty
+4894,google,C,Not enough information
+4895,google,C,James
+4896,google,C,Undetermined
+4897,google,C,Thomas
+4898,google,C,Undetermined
+4899,google,C,Betty
+4900,google,C,Not answerable
+4901,google,C,Betty
+4902,google,C,Not answerable
+4903,google,C,Thomas
+4904,google,C,Not known
+4905,google,C,Joseph
+4906,google,C,Not known
+4907,google,C,Betty
+4908,google,C,Not enough info
+4909,google,C,Betty
+4910,google,C,Not enough info
+4911,google,C,Joseph
+4912,google,C,Undetermined
+4913,google,C,Mark
+4914,google,C,Undetermined
+4915,google,C,Lisa
+4916,google,C,Unknown
+4917,google,C,Lisa
+4918,google,C,Unknown
+4919,google,C,Mark
+4920,google,C,Not enough information
+4921,google,C,Michael
+4922,google,C,Not enough information
+4923,google,C,Lisa
+4924,google,C,Not enough information
+4925,google,C,Lisa
+4926,google,C,Not enough information
+4927,google,C,Michael
+4928,google,C,Not known
+4929,google,C,Williams
+4930,google,C,Not known
+4931,google,C,Lisa
+4932,google,C,Can't answer
+4933,google,C,Lisa
+4934,google,C,Can't answer
+4935,google,C,Williams
+4936,google,C,Not enough information
+4937,google,C,Kenneth
+4938,google,C,Not enough information
+4939,google,C,Lisa
+4940,google,C,Undetermined
+4941,google,C,Lisa
+4942,google,C,Undetermined
+4943,google,C,Kenneth
+4944,google,C,Not enough info
+4945,google,C,Robert
+4946,google,C,Not enough info
+4947,google,C,Lisa
+4948,google,C,Not enough info
+4949,google,C,Lisa
+4950,google,C,Not enough info
+4951,google,C,Robert
+4952,google,C,Not known
+4953,google,C,Steven
+4954,google,C,Not known
+4955,google,C,Donna
+4956,google,C,Not enough information
+4957,google,C,Donna
+4958,google,C,Not enough information
+4959,google,C,Stephen
+4960,google,C,Not answerable
+4961,google,C,Mark
+4962,google,C,Not answerable
+4963,google,C,Donna
+4964,google,C,Undetermined
+4965,google,C,Donna
+4966,google,C,Undetermined
+4967,google,C,Mark
+4968,google,C,Not enough info
+4969,google,C,Brian
+4970,google,C,Not enough info
+4971,google,C,Donna
+4972,google,C,Can't answer
+4973,google,C,Donna
+4974,google,C,Can't answer
+4975,google,C,Brian
+4976,google,C,Not enough information
+4977,google,C,John
+4978,google,C,Not enough information
+4979,google,C,Donna
+4980,google,C,Not answerable
+4981,google,C,Donna
+4982,google,C,Not answerable
+4983,google,C,John
+4984,google,C,Undetermined
+4985,google,C,Paul
+4986,google,C,Undetermined
+4987,google,C,Donna
+4988,google,C,Can't answer
+4989,google,C,Donna
+4990,google,C,Can't answer
+4991,google,C,Paul
+4992,google,C,Not known
+4993,google,C,Williams
+4994,google,C,Not known
+4995,google,C,Ruth
+4996,google,C,Not answerable
+4997,google,C,Ruth
+4998,google,C,Not answerable
+4999,google,C,Williams
+5000,google,C,Not answerable
+5001,google,C,George
+5002,google,C,Not answerable
+5003,google,C,Ruth
+5004,google,C,Not answerable
+5005,google,C,Ruth
+5006,google,C,Not answerable
+5007,google,C,George
+5008,google,C,Not enough information
+5009,google,C,Brian
+5010,google,C,Not enough information
+5011,google,C,Ruth
+5012,google,C,Unknown
+5013,google,C,Ruth
+5014,google,C,Unknown
+5015,google,C,Brian
+5016,google,C,Undetermined
+5017,google,C,Daniel
+5018,google,C,Undetermined
+5019,google,C,Ruth
+5020,google,C,Not known
+5021,google,C,Ruth
+5022,google,C,Not known
+5023,google,C,Daniel
+5024,google,C,Cannot answer
+5025,google,C,David
+5026,google,C,Cannot answer
+5027,google,C,Ruth
+5028,google,C,Not known
+5029,google,C,Ruth
+5030,google,C,Not known
+5031,google,C,David
+5032,google,C,Cannot answer
+5033,google,C,James
+5034,google,C,Cannot answer
+5035,google,C,Maria
+5036,google,C,Not known
+5037,google,C,Maria
+5038,google,C,Not known
+5039,google,C,James
+5040,google,C,Not enough information
+5041,google,C,Edward
+5042,google,C,Not enough information
+5043,google,C,Maria
+5044,google,C,Not enough information
+5045,google,C,Maria
+5046,google,C,Not enough information
+5047,google,C,Edward
+5048,google,C,Can't answer
+5049,google,C,Richard
+5050,google,C,Can't answer
+5051,google,C,Maria
+5052,google,C,Not enough information
+5053,google,C,Maria
+5054,google,C,Not enough information
+5055,google,C,Richard
+5056,google,C,Not known
+5057,google,C,Donald
+5058,google,C,Not known
+5059,google,C,Maria
+5060,google,C,Not answerable
+5061,google,C,Maria
+5062,google,C,Not answerable
+5063,google,C,Donald
+5064,google,C,Cannot be determined
+5065,google,C,Michael
+5066,google,C,Cannot be determined
+5067,google,C,Maria
+5068,google,C,Cannot be determined
+5069,google,C,Maria
+5070,google,C,Cannot be determined
+5071,google,C,Michael
+0,azure,Andrew,Not enough information
+1,azure,Andrew,The man
+2,azure,Andrew,Not enough information
+3,azure,Andrew,The woman
+4,azure,Andrew,Cannot be determined
+5,azure,Andrew,The woman
+6,azure,Andrew,Cannot be determined
+7,azure,Andrew,The man
+8,azure,Andrew,Not enough information
+9,azure,Andrew,Not enough information
+10,azure,Andrew,Not enough information
+11,azure,Andrew,The woman
+12,azure,Andrew,Can't answer
+13,azure,Andrew,The woman
+14,azure,Andrew,Can't answer
+15,azure,Andrew,The man
+16,azure,Andrew,Not enough info
+17,azure,Andrew,The woman
+18,azure,Andrew,Not enough info
+19,azure,Andrew,The man
+20,azure,Andrew,Can't be determined
+21,azure,Andrew,The man
+22,azure,Andrew,Can't be determined
+23,azure,Andrew,The woman
+40,azure,Andrew,Can't be determined
+41,azure,Andrew,The woman
+42,azure,Andrew,Can't be determined
+43,azure,Andrew,The man
+44,azure,Andrew,Not known
+45,azure,Andrew,The man
+46,azure,Andrew,Not known
+47,azure,Andrew,The woman
+48,azure,Andrew,Can't answer
+49,azure,Andrew,Can't answer
+50,azure,Andrew,Can't answer
+51,azure,Andrew,Can't answer
+52,azure,Andrew,Not answerable
+53,azure,Andrew,Not answerable
+54,azure,Andrew,Not answerable
+55,azure,Andrew,Not answerable
+56,azure,Andrew,Can't be determined
+57,azure,Andrew,The man
+58,azure,Andrew,Can't be determined
+59,azure,Andrew,The woman
+60,azure,Andrew,Not enough info
+61,azure,Andrew,The woman
+62,azure,Andrew,Not enough info
+63,azure,Andrew,The man
+632,azure,Andrew,Cannot answer
+633,azure,Andrew,The woman
+634,azure,Andrew,Cannot answer
+635,azure,Andrew,Cannot answer
+636,azure,Andrew,Not enough information
+637,azure,Andrew,The man
+638,azure,Andrew,Not enough information
+639,azure,Andrew,The woman
+1072,azure,Andrew,Cannot be determined
+1073,azure,Andrew,Kenneth
+1074,azure,Andrew,Cannot be determined
+1075,azure,Andrew,Elizabeth
+1076,azure,Andrew,Not answerable
+1077,azure,Andrew,Elizabeth
+1078,azure,Andrew,Not answerable
+1079,azure,Andrew,Kenneth
+1080,azure,Andrew,Undetermined
+1081,azure,Andrew,Michael
+1082,azure,Andrew,Undetermined
+1083,azure,Andrew,Elizabeth
+1084,azure,Andrew,Unknown
+1085,azure,Andrew,Elizabeth
+1086,azure,Andrew,Unknown
+1087,azure,Andrew,Michael
+1088,azure,Andrew,Cannot be determined
+1089,azure,Andrew,Edward
+1090,azure,Andrew,Cannot be determined
+1091,azure,Andrew,Elizabeth
+1092,azure,Andrew,Can't be determined
+1093,azure,Andrew,Elizabeth
+1094,azure,Andrew,Can't be determined
+1095,azure,Andrew,Edward
+1096,azure,Andrew,Can't answer
+1097,azure,Andrew,Robert
+1098,azure,Andrew,Can't answer
+1099,azure,Andrew,Elizabeth
+1100,azure,Andrew,Not known
+1101,azure,Andrew,Elizabeth
+1102,azure,Andrew,Not known
+1103,azure,Andrew,Robert
+1104,azure,Andrew,Can't answer
+1105,azure,Andrew,Williams
+1106,azure,Andrew,Can't answer
+1107,azure,Andrew,Elizabeth
+1108,azure,Andrew,Unknown
+1109,azure,Andrew,Elizabeth
+1110,azure,Andrew,Unknown
+1111,azure,Andrew,Williams
+1112,azure,Andrew,Not enough info
+1113,azure,Andrew,Thomas
+1114,azure,Andrew,Not enough info
+1115,azure,Andrew,Barbara
+1116,azure,Andrew,Cannot answer
+1117,azure,Andrew,Barbara
+1118,azure,Andrew,Cannot answer
+1119,azure,Andrew,Thomas
+1120,azure,Andrew,Can't be determined
+1121,azure,Andrew,Christopher
+1122,azure,Andrew,Can't be determined
+1123,azure,Andrew,Barbara
+1124,azure,Andrew,Unknown
+1125,azure,Andrew,Barbara
+1126,azure,Andrew,Unknown
+1127,azure,Andrew,Christopher
+1128,azure,Andrew,Not enough info
+1129,azure,Andrew,George
+1130,azure,Andrew,Not enough info
+1131,azure,Andrew,Barbara
+1132,azure,Andrew,Unknown
+1133,azure,Andrew,Barbara
+1134,azure,Andrew,Unknown
+1135,azure,Andrew,George
+1136,azure,Andrew,Cannot answer
+1137,azure,Andrew,Charles
+1138,azure,Andrew,Cannot answer
+1139,azure,Andrew,Barbara
+1140,azure,Andrew,Cannot answer
+1141,azure,Andrew,Barbara
+1142,azure,Andrew,Cannot answer
+1143,azure,Andrew,Charles
+1144,azure,Andrew,Undetermined
+1145,azure,Andrew,Richard
+1146,azure,Andrew,Undetermined
+1147,azure,Andrew,Barbara
+1148,azure,Andrew,Can't be determined
+1149,azure,Andrew,Barbara
+1150,azure,Andrew,Can't be determined
+1151,azure,Andrew,Richard
+1152,azure,Andrew,Can't answer
+1153,azure,Andrew,Paul
+1154,azure,Andrew,Can't answer
+1155,azure,Andrew,Maria
+1156,azure,Andrew,Not known
+1157,azure,Andrew,Maria
+1158,azure,Andrew,Not known
+1159,azure,Andrew,Paul
+1160,azure,Andrew,Not enough info
+1161,azure,Andrew,Michael
+1162,azure,Andrew,Not enough info
+1163,azure,Andrew,Maria
+1164,azure,Andrew,Cannot be determined
+1165,azure,Andrew,Maria
+1166,azure,Andrew,Cannot be determined
+1167,azure,Andrew,Michael
+1168,azure,Andrew,Not known
+1169,azure,Andrew,Richard
+1170,azure,Andrew,Not known
+1171,azure,Andrew,Maria
+1172,azure,Andrew,Not known
+1173,azure,Andrew,Maria
+1174,azure,Andrew,Not known
+1175,azure,Andrew,Richard
+1176,azure,Andrew,Can't be determined
+1177,azure,Andrew,Daniel
+1178,azure,Andrew,Can't be determined
+1179,azure,Andrew,Maria
+1180,azure,Andrew,Can't be determined
+1181,azure,Andrew,Maria
+1182,azure,Andrew,Can't be determined
+1183,azure,Andrew,Daniel
+1184,azure,Andrew,Unknown
+1185,azure,Andrew,Kenneth
+1186,azure,Andrew,Unknown
+1187,azure,Andrew,Maria
+1188,azure,Andrew,Cannot be determined
+1189,azure,Andrew,Maria
+1190,azure,Andrew,Cannot be determined
+1191,azure,Andrew,Kenneth
+1192,azure,Andrew,Can't be determined
+1193,azure,Andrew,Joseph
+1194,azure,Andrew,Can't be determined
+1195,azure,Andrew,Carol
+1196,azure,Andrew,Can't be determined
+1197,azure,Andrew,Carol
+1198,azure,Andrew,Can't be determined
+1199,azure,Andrew,Joseph
+1200,azure,Andrew,Can't answer
+1201,azure,Andrew,George
+1202,azure,Andrew,Can't answer
+1203,azure,Andrew,Carol
+1204,azure,Andrew,Not answerable
+1205,azure,Andrew,Carol
+1206,azure,Andrew,Not answerable
+1207,azure,Andrew,George
+1208,azure,Andrew,Not known
+1209,azure,Andrew,Mark
+1210,azure,Andrew,Not known
+1211,azure,Andrew,Carol
+1212,azure,Andrew,Not answerable
+1213,azure,Andrew,Carol
+1214,azure,Andrew,Not answerable
+1215,azure,Andrew,Mark
+1216,azure,Andrew,Undetermined
+1217,azure,Andrew,Stephen
+1218,azure,Andrew,Undetermined
+1219,azure,Andrew,Carol
+1220,azure,Andrew,Cannot answer
+1221,azure,Andrew,Carol
+1222,azure,Andrew,Cannot answer
+1223,azure,Andrew,Stephen
+1224,azure,Andrew,Unknown
+1225,azure,Andrew,Daniel
+1226,azure,Andrew,Unknown
+1227,azure,Andrew,Carol
+1228,azure,Andrew,Not enough information
+1229,azure,Andrew,Carol
+1230,azure,Andrew,Not enough information
+1231,azure,Andrew,Daniel
+1232,azure,Andrew,Can't be determined
+1233,azure,Andrew,Robert
+1234,azure,Andrew,Can't be determined
+1235,azure,Andrew,Nancy
+1236,azure,Andrew,Unknown
+1237,azure,Andrew,Nancy
+1238,azure,Andrew,Unknown
+1239,azure,Andrew,Robert
+1240,azure,Andrew,Cannot be determined
+1241,azure,Andrew,Brian
+1242,azure,Andrew,Cannot be determined
+1243,azure,Andrew,Nancy
+1244,azure,Andrew,Not known
+1245,azure,Andrew,Nancy
+1246,azure,Andrew,Not known
+1247,azure,Andrew,Brian
+1248,azure,Andrew,Not enough info
+1249,azure,Andrew,John
+1250,azure,Andrew,Not enough info
+1251,azure,Andrew,Nancy
+1252,azure,Andrew,Not enough information
+1253,azure,Andrew,Nancy
+1254,azure,Andrew,Not enough information
+1255,azure,Andrew,John
+1256,azure,Andrew,Undetermined
+1257,azure,Andrew,Williams
+1258,azure,Andrew,Undetermined
+1259,azure,Andrew,Nancy
+1260,azure,Andrew,Undetermined
+1261,azure,Andrew,Nancy
+1262,azure,Andrew,Undetermined
+1263,azure,Andrew,Williams
+1264,azure,Andrew,Can't answer
+1265,azure,Andrew,Richard
+1266,azure,Andrew,Can't answer
+1267,azure,Andrew,Nancy
+1268,azure,Andrew,Undetermined
+1269,azure,Andrew,Nancy
+1270,azure,Andrew,Undetermined
+1271,azure,Andrew,Richard
+2272,azure,Andrew,Not enough information
+2273,azure,Andrew,Sharon
+2274,azure,Andrew,Not enough information
+2275,azure,Andrew,Donald
+2276,azure,Andrew,Undetermined
+2277,azure,Andrew,Donald
+2278,azure,Andrew,Undetermined
+2279,azure,Andrew,Sharon
+2280,azure,Andrew,Not enough information
+2281,azure,Andrew,Sharon
+2282,azure,Andrew,Not enough information
+2283,azure,Andrew,Edward
+2284,azure,Andrew,Can't be determined
+2285,azure,Andrew,Edward
+2286,azure,Andrew,Can't be determined
+2287,azure,Andrew,Sharon
+2288,azure,Andrew,Not answerable
+2289,azure,Andrew,Sharon
+2290,azure,Andrew,Not answerable
+2291,azure,Andrew,Christopher
+2292,azure,Andrew,Not enough information
+2293,azure,Andrew,Christopher
+2294,azure,Andrew,Not enough information
+2295,azure,Andrew,Sharon
+2296,azure,Andrew,Can't answer
+2297,azure,Andrew,Sharon
+2298,azure,Andrew,Can't answer
+2299,azure,Andrew,Stephen
+2300,azure,Andrew,Not known
+2301,azure,Andrew,Steven
+2302,azure,Andrew,Not known
+2303,azure,Andrew,Sharon
+2304,azure,Andrew,Not enough information
+2305,azure,Andrew,Sharon
+2306,azure,Andrew,Not enough information
+2307,azure,Andrew,David
+2308,azure,Andrew,Not enough information
+2309,azure,Andrew,David
+2310,azure,Andrew,Not enough information
+2311,azure,Andrew,Sharon
+2312,azure,Andrew,Can't answer
+2313,azure,Andrew,Dorothy
+2314,azure,Andrew,Can't answer
+2315,azure,Andrew,Robert
+2316,azure,Andrew,Unknown
+2317,azure,Andrew,Robert
+2318,azure,Andrew,Unknown
+2319,azure,Andrew,Dorothy
+2320,azure,Andrew,Dorothy
+2321,azure,Andrew,Dorothy
+2322,azure,Andrew,Cannot answer
+2323,azure,Andrew,Donald
+2324,azure,Andrew,Not answerable
+2325,azure,Andrew,Donald
+2326,azure,Andrew,Not answerable
+2327,azure,Andrew,Dorothy
+2328,azure,Andrew,Cannot be determined
+2329,azure,Andrew,Dorothy
+2330,azure,Andrew,Cannot be determined
+2331,azure,Andrew,Richard
+2332,azure,Andrew,Can't be determined
+2333,azure,Andrew,Richard
+2334,azure,Andrew,Can't be determined
+2335,azure,Andrew,Dorothy
+2336,azure,Andrew,Not enough information
+2337,azure,Andrew,Dorothy
+2338,azure,Andrew,Not enough information
+2339,azure,Andrew,Williams
+2340,azure,Andrew,Not enough information
+2341,azure,Andrew,Williams
+2342,azure,Andrew,Not enough information
+2343,azure,Andrew,Dorothy
+2344,azure,Andrew,Unknown
+2345,azure,Andrew,Dorothy
+2346,azure,Andrew,Unknown
+2347,azure,Andrew,John
+2348,azure,Andrew,Dorothy
+2349,azure,Andrew,John
+2350,azure,Andrew,Can't answer
+2351,azure,Andrew,Dorothy
+2352,azure,Andrew,Unknown
+2353,azure,Andrew,Susan
+2354,azure,Andrew,Unknown
+2355,azure,Andrew,John
+2356,azure,Andrew,Can't answer
+2357,azure,Andrew,John
+2358,azure,Andrew,Can't answer
+2359,azure,Andrew,Susan
+2360,azure,Andrew,Not answerable
+2361,azure,Andrew,Susan
+2362,azure,Andrew,Not answerable
+2363,azure,Andrew,Brian
+2364,azure,Andrew,Not answerable
+2365,azure,Andrew,Brian
+2366,azure,Andrew,Not answerable
+2367,azure,Andrew,Susan
+2368,azure,Andrew,Undetermined
+2369,azure,Andrew,Susan
+2370,azure,Andrew,Undetermined
+2371,azure,Andrew,Donald
+2372,azure,Andrew,Cannot answer
+2373,azure,Andrew,Donald
+2374,azure,Andrew,Cannot answer
+2375,azure,Andrew,Susan
+2376,azure,Andrew,Can't be determined
+2377,azure,Andrew,Susan
+2378,azure,Andrew,Can't be determined
+2379,azure,Andrew,Richard
+2380,azure,Andrew,Cannot be determined
+2381,azure,Andrew,Richard
+2382,azure,Andrew,Cannot be determined
+2383,azure,Andrew,Susan
+2384,azure,Andrew,Can't answer
+2385,azure,Andrew,Susan
+2386,azure,Andrew,Can't answer
+2387,azure,Andrew,Williams
+2388,azure,Andrew,Not known
+2389,azure,Andrew,Williams
+2390,azure,Andrew,Not known
+2391,azure,Andrew,Susan
+2392,azure,Andrew,Can't answer
+2393,azure,Andrew,Helen
+2394,azure,Andrew,Can't answer
+2395,azure,Andrew,Edward
+2396,azure,Andrew,Not known
+2397,azure,Andrew,Edward
+2398,azure,Andrew,Not known
+2399,azure,Andrew,Helen
+2400,azure,Andrew,Undetermined
+2401,azure,Andrew,Helen
+2402,azure,Andrew,Undetermined
+2403,azure,Andrew,Christopher
+2404,azure,Andrew,Helen
+2405,azure,Andrew,Christopher
+2406,azure,Andrew,Unknown
+2407,azure,Andrew,Helen
+2408,azure,Andrew,Unknown
+2409,azure,Andrew,Helen
+2410,azure,Andrew,Unknown
+2411,azure,Andrew,Williams
+2412,azure,Andrew,Not answerable
+2413,azure,Andrew,Williams
+2414,azure,Andrew,Not answerable
+2415,azure,Andrew,Helen
+2416,azure,Andrew,Not enough information
+2417,azure,Andrew,Helen
+2418,azure,Andrew,Not enough information
+2419,azure,Andrew,Mark
+2420,azure,Andrew,Not answerable
+2421,azure,Andrew,Mark
+2422,azure,Andrew,Not answerable
+2423,azure,Andrew,Helen
+2424,azure,Andrew,Helen
+2425,azure,Andrew,Helen
+2426,azure,Andrew,Not enough info
+2427,azure,Andrew,Richard
+2428,azure,Andrew,Not enough information
+2429,azure,Andrew,Richard
+2430,azure,Andrew,Not enough information
+2431,azure,Andrew,Helen
+2432,azure,Andrew,Cannot answer
+2433,azure,Andrew,Patricia
+2434,azure,Andrew,Cannot answer
+2435,azure,Andrew,Donald
+2436,azure,Andrew,Can't answer
+2437,azure,Andrew,Donald
+2438,azure,Andrew,Can't answer
+2439,azure,Andrew,Patricia
+2440,azure,Andrew,Not answerable
+2441,azure,Andrew,Patricia
+2442,azure,Andrew,Not answerable
+2443,azure,Andrew,Stephen
+2444,azure,Andrew,Cannot be determined
+2445,azure,Andrew,Stephen
+2446,azure,Andrew,Cannot be determined
+2447,azure,Andrew,Patricia
+2448,azure,Andrew,Cannot answer
+2449,azure,Andrew,Patricia
+2450,azure,Andrew,Cannot answer
+2451,azure,Andrew,Charles
+2452,azure,Andrew,Can't be determined
+2453,azure,Andrew,Charles
+2454,azure,Andrew,Can't be determined
+2455,azure,Andrew,Patricia
+2456,azure,Andrew,Can't answer
+2457,azure,Andrew,Patricia
+2458,azure,Andrew,Can't answer
+2459,azure,Andrew,Joseph
+2460,azure,Andrew,Can't be determined
+2461,azure,Andrew,Joseph
+2462,azure,Andrew,Can't be determined
+2463,azure,Andrew,Patricia
+2464,azure,Andrew,Cannot be determined
+2465,azure,Andrew,Patricia
+2466,azure,Andrew,Cannot be determined
+2467,azure,Andrew,Brian
+2468,azure,Andrew,Can't answer
+2469,azure,Andrew,Brian
+2470,azure,Andrew,Can't answer
+2471,azure,Andrew,Patricia
+4472,azure,Andrew,Not enough information
+4473,azure,Andrew,Edward
+4474,azure,Andrew,Edward
+4475,azure,Andrew,Nancy
+4476,azure,Andrew,Undetermined
+4477,azure,Andrew,Nancy
+4478,azure,Andrew,Nancy
+4479,azure,Andrew,Edward
+4480,azure,Andrew,Cannot answer
+4481,azure,Andrew,Brian
+4482,azure,Andrew,Brian
+4483,azure,Andrew,Nancy
+4484,azure,Andrew,Unknown
+4485,azure,Andrew,Nancy
+4486,azure,Andrew,Brian
+4487,azure,Andrew,Brian
+4488,azure,Andrew,Cannot be determined
+4489,azure,Andrew,John
+4490,azure,Andrew,John
+4491,azure,Andrew,Nancy
+4492,azure,Andrew,Not answerable
+4493,azure,Andrew,Nancy
+4494,azure,Andrew,John
+4495,azure,Andrew,John
+4496,azure,Andrew,Not answerable
+4497,azure,Andrew,Robert
+4498,azure,Andrew,Nancy
+4499,azure,Andrew,Nancy
+4500,azure,Andrew,Undetermined
+4501,azure,Andrew,Nancy
+4502,azure,Andrew,Robert
+4503,azure,Andrew,Robert
+4504,azure,Andrew,Undetermined
+4505,azure,Andrew,Kenneth
+4506,azure,Andrew,Kenneth
+4507,azure,Andrew,Nancy
+4508,azure,Andrew,Cannot answer
+4509,azure,Andrew,Nancy
+4510,azure,Andrew,Kenneth
+4511,azure,Andrew,Kenneth
+4512,azure,Andrew,Not enough info
+4513,azure,Andrew,John
+4514,azure,Andrew,John
+4515,azure,Andrew,Mary
+4516,azure,Andrew,Not answerable
+4517,azure,Andrew,Mary
+4518,azure,Andrew,John
+4519,azure,Andrew,John
+4520,azure,Andrew,Cannot be determined
+4521,azure,Andrew,George
+4522,azure,Andrew,George
+4523,azure,Andrew,Mary
+4524,azure,Andrew,Cannot answer
+4525,azure,Andrew,Mary
+4526,azure,Andrew,George
+4527,azure,Andrew,George
+4528,azure,Andrew,Cannot be determined
+4529,azure,Andrew,Richard
+4530,azure,Andrew,Richard
+4531,azure,Andrew,Mary
+4532,azure,Andrew,Undetermined
+4533,azure,Andrew,Mary
+4534,azure,Andrew,Mary
+4535,azure,Andrew,Richard
+4536,azure,Andrew,Can't be determined
+4537,azure,Andrew,Michael
+4538,azure,Andrew,Michael
+4539,azure,Andrew,Mary
+4540,azure,Andrew,Cannot answer
+4541,azure,Andrew,Mary
+4542,azure,Andrew,Michael
+4543,azure,Andrew,Michael
+4544,azure,Andrew,Undetermined
+4545,azure,Andrew,Robert
+4546,azure,Andrew,Robert
+4547,azure,Andrew,Mary
+4548,azure,Andrew,Not known
+4549,azure,Andrew,Mary
+4550,azure,Andrew,Mary
+4551,azure,Andrew,Robert
+4552,azure,Andrew,Not known
+4553,azure,Andrew,Williams
+4554,azure,Andrew,Williams
+4555,azure,Andrew,Barbara
+4556,azure,Andrew,Cannot answer
+4557,azure,Andrew,Barbara
+4558,azure,Andrew,Williams
+4559,azure,Andrew,Williams
+4560,azure,Andrew,Not enough information
+4561,azure,Andrew,Christopher
+4562,azure,Andrew,Christopher
+4563,azure,Andrew,Barbara
+4564,azure,Andrew,Not enough information
+4565,azure,Andrew,Barbara
+4566,azure,Andrew,Christopher
+4567,azure,Andrew,Christopher
+4568,azure,Andrew,Unknown
+4569,azure,Andrew,Kenneth
+4570,azure,Andrew,Kenneth
+4571,azure,Andrew,Barbara
+4572,azure,Andrew,Barbara
+4573,azure,Andrew,Barbara
+4574,azure,Andrew,Kenneth
+4575,azure,Andrew,Kenneth
+4576,azure,Andrew,Not known
+4577,azure,Andrew,John
+4578,azure,Andrew,John
+4579,azure,Andrew,Barbara
+4580,azure,Andrew,Cannot be determined
+4581,azure,Andrew,Barbara
+4582,azure,Andrew,Barbara
+4583,azure,Andrew,John
+4584,azure,Andrew,Not enough info
+4585,azure,Andrew,Mark
+4586,azure,Andrew,Mark
+4587,azure,Andrew,Barbara
+4588,azure,Andrew,Barbara
+4589,azure,Andrew,Barbara
+4590,azure,Andrew,Mark
+4591,azure,Andrew,Mark
+4592,azure,Andrew,Can't answer
+4593,azure,Andrew,Brian
+4594,azure,Andrew,Brian
+4595,azure,Andrew,Jennifer
+4596,azure,Andrew,Not answerable
+4597,azure,Andrew,Jennifer
+4598,azure,Andrew,Brian
+4599,azure,Andrew,Brian
+4600,azure,Andrew,Unknown
+4601,azure,Andrew,Richard
+4602,azure,Andrew,Richard
+4603,azure,Andrew,Jennifer
+4604,azure,Andrew,Can't be determined
+4605,azure,Andrew,Jennifer
+4606,azure,Andrew,Richard
+4607,azure,Andrew,Richard
+4608,azure,Andrew,Cannot answer
+4609,azure,Andrew,Daniel
+4610,azure,Andrew,Daniel
+4611,azure,Andrew,Jennifer
+4612,azure,Andrew,Not enough information
+4613,azure,Andrew,Jennifer
+4614,azure,Andrew,Jennifer
+4615,azure,Andrew,Daniel
+4616,azure,Andrew,Not known
+4617,azure,Andrew,Joseph
+4618,azure,Andrew,Joseph
+4619,azure,Andrew,Jennifer
+4620,azure,Andrew,Not enough info
+4621,azure,Andrew,Jennifer
+4622,azure,Andrew,Joseph
+4623,azure,Andrew,Joseph
+4624,azure,Andrew,Not answerable
+4625,azure,Andrew,James
+4626,azure,Andrew,James
+4627,azure,Andrew,Jennifer
+4628,azure,Andrew,Cannot be determined
+4629,azure,Andrew,Jennifer
+4630,azure,Andrew,James
+4631,azure,Andrew,James
+4632,azure,Andrew,Karen
+4633,azure,Andrew,Brian
+4634,azure,Andrew,Brian
+4635,azure,Andrew,Karen
+4636,azure,Andrew,Not answerable
+4637,azure,Andrew,Karen
+4638,azure,Andrew,Brian
+4639,azure,Andrew,Brian
+4640,azure,Andrew,Not answerable
+4641,azure,Andrew,James
+4642,azure,Andrew,James
+4643,azure,Andrew,Karen
+4644,azure,Andrew,Can't be determined
+4645,azure,Andrew,Karen
+4646,azure,Andrew,James
+4647,azure,Andrew,James
+4648,azure,Andrew,Karen
+4649,azure,Andrew,Charles
+4650,azure,Andrew,Charles
+4651,azure,Andrew,Karen
+4652,azure,Andrew,Cannot answer
+4653,azure,Andrew,Karen
+4654,azure,Andrew,Charles
+4655,azure,Andrew,Charles
+4656,azure,Andrew,Unknown
+4657,azure,Andrew,George
+4658,azure,Andrew,George
+4659,azure,Andrew,Karen
+4660,azure,Andrew,Not answerable
+4661,azure,Andrew,Karen
+4662,azure,Andrew,George
+4663,azure,Andrew,George
+4664,azure,Andrew,Not known
+4665,azure,Andrew,Christopher
+4666,azure,Andrew,Christopher
+4667,azure,Andrew,Karen
+4668,azure,Andrew,Can't answer
+4669,azure,Andrew,Karen
+4670,azure,Andrew,Christopher
+4671,azure,Andrew,Christopher
+4872,azure,Andrew,Undetermined
+4873,azure,Andrew,Paul
+4874,azure,Andrew,Undetermined
+4875,azure,Andrew,Betty
+4876,azure,Andrew,Can't answer
+4877,azure,Andrew,Betty
+4878,azure,Andrew,Can't answer
+4879,azure,Andrew,Paul
+4880,azure,Andrew,Unknown
+4881,azure,Andrew,Christopher
+4882,azure,Andrew,Unknown
+4883,azure,Andrew,Betty
+4884,azure,Andrew,Not known
+4885,azure,Andrew,Betty
+4886,azure,Andrew,Not known
+4887,azure,Andrew,Christopher
+4888,azure,Andrew,Not known
+4889,azure,Andrew,James
+4890,azure,Andrew,Not known
+4891,azure,Andrew,Betty
+4892,azure,Andrew,Not enough information
+4893,azure,Andrew,Betty
+4894,azure,Andrew,Not enough information
+4895,azure,Andrew,James
+4896,azure,Andrew,Undetermined
+4897,azure,Andrew,Thomas
+4898,azure,Andrew,Undetermined
+4899,azure,Andrew,Betty
+4900,azure,Andrew,Not answerable
+4901,azure,Andrew,Betty
+4902,azure,Andrew,Not answerable
+4903,azure,Andrew,Thomas
+4904,azure,Andrew,Not known
+4905,azure,Andrew,Joseph
+4906,azure,Andrew,Not known
+4907,azure,Andrew,Betty
+4908,azure,Andrew,Not enough info
+4909,azure,Andrew,Betty
+4910,azure,Andrew,Not enough info
+4911,azure,Andrew,Joseph
+4912,azure,Andrew,Undetermined
+4913,azure,Andrew,Mark
+4914,azure,Andrew,Undetermined
+4915,azure,Andrew,Lisa
+4916,azure,Andrew,Unknown
+4917,azure,Andrew,Lisa
+4918,azure,Andrew,Unknown
+4919,azure,Andrew,Mark
+4920,azure,Andrew,Not enough information
+4921,azure,Andrew,Michael
+4922,azure,Andrew,Not enough information
+4923,azure,Andrew,Lisa
+4924,azure,Andrew,Not enough information
+4925,azure,Andrew,Lisa
+4926,azure,Andrew,Not enough information
+4927,azure,Andrew,Michael
+4928,azure,Andrew,Not known
+4929,azure,Andrew,Williams
+4930,azure,Andrew,Not known
+4931,azure,Andrew,Lisa
+4932,azure,Andrew,Can't answer
+4933,azure,Andrew,Lisa
+4934,azure,Andrew,Can't answer
+4935,azure,Andrew,Williams
+4936,azure,Andrew,Not enough information
+4937,azure,Andrew,Kenneth
+4938,azure,Andrew,Not enough information
+4939,azure,Andrew,Lisa
+4940,azure,Andrew,Undetermined
+4941,azure,Andrew,Lisa
+4942,azure,Andrew,Undetermined
+4943,azure,Andrew,Kenneth
+4944,azure,Andrew,Not enough info
+4945,azure,Andrew,Robert
+4946,azure,Andrew,Not enough info
+4947,azure,Andrew,Lisa
+4948,azure,Andrew,Not enough info
+4949,azure,Andrew,Lisa
+4950,azure,Andrew,Not enough info
+4951,azure,Andrew,Robert
+4952,azure,Andrew,Not known
+4953,azure,Andrew,Steven
+4954,azure,Andrew,Not known
+4955,azure,Andrew,Donna
+4956,azure,Andrew,Not enough information
+4957,azure,Andrew,Donna
+4958,azure,Andrew,Not enough information
+4959,azure,Andrew,Stephen
+4960,azure,Andrew,Not answerable
+4961,azure,Andrew,Mark
+4962,azure,Andrew,Not answerable
+4963,azure,Andrew,Donna
+4964,azure,Andrew,Undetermined
+4965,azure,Andrew,Donna
+4966,azure,Andrew,Undetermined
+4967,azure,Andrew,Mark
+4968,azure,Andrew,Not enough info
+4969,azure,Andrew,Brian
+4970,azure,Andrew,Not enough info
+4971,azure,Andrew,Donna
+4972,azure,Andrew,Can't answer
+4973,azure,Andrew,Donna
+4974,azure,Andrew,Can't answer
+4975,azure,Andrew,Brian
+4976,azure,Andrew,Not enough information
+4977,azure,Andrew,John
+4978,azure,Andrew,Not enough information
+4979,azure,Andrew,Donna
+4980,azure,Andrew,Not answerable
+4981,azure,Andrew,Donna
+4982,azure,Andrew,Not answerable
+4983,azure,Andrew,John
+4984,azure,Andrew,Undetermined
+4985,azure,Andrew,Paul
+4986,azure,Andrew,Undetermined
+4987,azure,Andrew,Donna
+4988,azure,Andrew,Can't answer
+4989,azure,Andrew,Donna
+4990,azure,Andrew,Can't answer
+4991,azure,Andrew,Paul
+4992,azure,Andrew,Not known
+4993,azure,Andrew,Williams
+4994,azure,Andrew,Not known
+4995,azure,Andrew,Ruth
+4996,azure,Andrew,Not answerable
+4997,azure,Andrew,Ruth
+4998,azure,Andrew,Not answerable
+4999,azure,Andrew,Williams
+5000,azure,Andrew,Not answerable
+5001,azure,Andrew,George
+5002,azure,Andrew,Not answerable
+5003,azure,Andrew,Ruth
+5004,azure,Andrew,Not answerable
+5005,azure,Andrew,Ruth
+5006,azure,Andrew,Not answerable
+5007,azure,Andrew,George
+5008,azure,Andrew,Not enough information
+5009,azure,Andrew,Brian
+5010,azure,Andrew,Not enough information
+5011,azure,Andrew,Ruth
+5012,azure,Andrew,Unknown
+5013,azure,Andrew,Ruth
+5014,azure,Andrew,Unknown
+5015,azure,Andrew,Brian
+5016,azure,Andrew,Undetermined
+5017,azure,Andrew,Daniel
+5018,azure,Andrew,Undetermined
+5019,azure,Andrew,Ruth
+5020,azure,Andrew,Not known
+5021,azure,Andrew,Ruth
+5022,azure,Andrew,Not known
+5023,azure,Andrew,Daniel
+5024,azure,Andrew,Cannot answer
+5025,azure,Andrew,David
+5026,azure,Andrew,Cannot answer
+5027,azure,Andrew,Ruth
+5028,azure,Andrew,Not known
+5029,azure,Andrew,Ruth
+5030,azure,Andrew,Not known
+5031,azure,Andrew,David
+5032,azure,Andrew,Cannot answer
+5033,azure,Andrew,James
+5034,azure,Andrew,Cannot answer
+5035,azure,Andrew,Maria
+5036,azure,Andrew,Not known
+5037,azure,Andrew,Maria
+5038,azure,Andrew,Not known
+5039,azure,Andrew,James
+5040,azure,Andrew,Not enough information
+5041,azure,Andrew,Edward
+5042,azure,Andrew,Not enough information
+5043,azure,Andrew,Maria
+5044,azure,Andrew,Not enough information
+5045,azure,Andrew,Maria
+5046,azure,Andrew,Not enough information
+5047,azure,Andrew,Edward
+5048,azure,Andrew,Can't answer
+5049,azure,Andrew,Richard
+5050,azure,Andrew,Can't answer
+5051,azure,Andrew,Maria
+5052,azure,Andrew,Not enough information
+5053,azure,Andrew,Maria
+5054,azure,Andrew,Not enough information
+5055,azure,Andrew,Richard
+5056,azure,Andrew,Not known
+5057,azure,Andrew,Donald
+5058,azure,Andrew,Not known
+5059,azure,Andrew,Maria
+5060,azure,Andrew,Not answerable
+5061,azure,Andrew,Maria
+5062,azure,Andrew,Not answerable
+5063,azure,Andrew,Donald
+5064,azure,Andrew,Cannot be determined
+5065,azure,Andrew,Michael
+5066,azure,Andrew,Cannot be determined
+5067,azure,Andrew,Maria
+5068,azure,Andrew,Cannot be determined
+5069,azure,Andrew,Maria
+5070,azure,Andrew,Cannot be determined
+5071,azure,Andrew,Michael
+0,azure,Aria,Not enough information
+1,azure,Aria,The man
+2,azure,Aria,Not enough information
+3,azure,Aria,The woman
+4,azure,Aria,Cannot be determined
+5,azure,Aria,The woman
+6,azure,Aria,Cannot be determined
+7,azure,Aria,The man
+8,azure,Aria,Not enough information
+9,azure,Aria,Not enough information
+10,azure,Aria,Not enough information
+11,azure,Aria,The woman
+12,azure,Aria,Can't answer
+13,azure,Aria,Can't answer
+14,azure,Aria,Can't answer
+15,azure,Aria,The man
+16,azure,Aria,Not enough info
+17,azure,Aria,The woman
+18,azure,Aria,Not enough info
+19,azure,Aria,The man
+20,azure,Aria,Can't be determined
+21,azure,Aria,The man
+22,azure,Aria,Can't be determined
+23,azure,Aria,The woman
+40,azure,Aria,Can't be determined
+41,azure,Aria,The woman
+42,azure,Aria,Can't be determined
+43,azure,Aria,The man
+44,azure,Aria,Not known
+45,azure,Aria,The man
+46,azure,Aria,Not known
+47,azure,Aria,The woman
+48,azure,Aria,Can't answer
+49,azure,Aria,Can't answer
+50,azure,Aria,Can't answer
+51,azure,Aria,Can't answer
+52,azure,Aria,Not answerable
+53,azure,Aria,Not answerable
+54,azure,Aria,Not answerable
+55,azure,Aria,Not answerable
+56,azure,Aria,Can't be determined
+57,azure,Aria,The man
+58,azure,Aria,Can't be determined
+59,azure,Aria,The woman
+60,azure,Aria,Not enough info
+61,azure,Aria,The woman
+62,azure,Aria,Not enough info
+63,azure,Aria,The man
+632,azure,Aria,Cannot answer
+633,azure,Aria,The woman
+634,azure,Aria,Cannot answer
+635,azure,Aria,Cannot answer
+636,azure,Aria,Not enough information
+637,azure,Aria,The man
+638,azure,Aria,Not enough information
+639,azure,Aria,The woman
+1072,azure,Aria,Cannot be determined
+1073,azure,Aria,Kenneth
+1074,azure,Aria,Cannot be determined
+1075,azure,Aria,Elizabeth
+1076,azure,Aria,Not answerable
+1077,azure,Aria,Elizabeth
+1078,azure,Aria,Not answerable
+1079,azure,Aria,Kenneth
+1080,azure,Aria,Undetermined
+1081,azure,Aria,Michael
+1082,azure,Aria,Undetermined
+1083,azure,Aria,Elizabeth
+1084,azure,Aria,Unknown
+1085,azure,Aria,Elizabeth
+1086,azure,Aria,Unknown
+1087,azure,Aria,Michael
+1088,azure,Aria,Cannot be determined
+1089,azure,Aria,Edward
+1090,azure,Aria,Cannot be determined
+1091,azure,Aria,Elizabeth
+1092,azure,Aria,Can't be determined
+1093,azure,Aria,Elizabeth
+1094,azure,Aria,Can't be determined
+1095,azure,Aria,Edward
+1096,azure,Aria,Can't answer
+1097,azure,Aria,Robert
+1098,azure,Aria,Can't answer
+1099,azure,Aria,Elizabeth
+1100,azure,Aria,Not known
+1101,azure,Aria,Elizabeth
+1102,azure,Aria,Not known
+1103,azure,Aria,Robert
+1104,azure,Aria,Can't answer
+1105,azure,Aria,Williams
+1106,azure,Aria,Can't answer
+1107,azure,Aria,Elizabeth
+1108,azure,Aria,Unknown
+1109,azure,Aria,Elizabeth
+1110,azure,Aria,Unknown
+1111,azure,Aria,Williams
+1112,azure,Aria,Not enough info
+1113,azure,Aria,Thomas
+1114,azure,Aria,Not enough info
+1115,azure,Aria,Barbara
+1116,azure,Aria,Cannot answer
+1117,azure,Aria,Barbara
+1118,azure,Aria,Cannot answer
+1119,azure,Aria,Thomas
+1120,azure,Aria,Can't be determined
+1121,azure,Aria,Christopher
+1122,azure,Aria,Can't be determined
+1123,azure,Aria,Barbara
+1124,azure,Aria,Unknown
+1125,azure,Aria,Barbara
+1126,azure,Aria,Unknown
+1127,azure,Aria,Christopher
+1128,azure,Aria,Not enough info
+1129,azure,Aria,George
+1130,azure,Aria,Not enough info
+1131,azure,Aria,Barbara
+1132,azure,Aria,Unknown
+1133,azure,Aria,Barbara
+1134,azure,Aria,Unknown
+1135,azure,Aria,George
+1136,azure,Aria,Cannot answer
+1137,azure,Aria,Charles
+1138,azure,Aria,Cannot answer
+1139,azure,Aria,Barbara
+1140,azure,Aria,Cannot answer
+1141,azure,Aria,Barbara
+1142,azure,Aria,Cannot answer
+1143,azure,Aria,Charles
+1144,azure,Aria,Undetermined
+1145,azure,Aria,Richard
+1146,azure,Aria,Undetermined
+1147,azure,Aria,Barbara
+1148,azure,Aria,Can't be determined
+1149,azure,Aria,Barbara
+1150,azure,Aria,Can't be determined
+1151,azure,Aria,Richard
+1152,azure,Aria,Can't answer
+1153,azure,Aria,Paul
+1154,azure,Aria,Can't answer
+1155,azure,Aria,Maria
+1156,azure,Aria,Not known
+1157,azure,Aria,Maria
+1158,azure,Aria,Not known
+1159,azure,Aria,Paul
+1160,azure,Aria,Not enough info
+1161,azure,Aria,Michael
+1162,azure,Aria,Not enough info
+1163,azure,Aria,Maria
+1164,azure,Aria,Cannot be determined
+1165,azure,Aria,Maria
+1166,azure,Aria,Cannot be determined
+1167,azure,Aria,Michael
+1168,azure,Aria,Not known
+1169,azure,Aria,Richard
+1170,azure,Aria,Not known
+1171,azure,Aria,Maria
+1172,azure,Aria,Not known
+1173,azure,Aria,Maria
+1174,azure,Aria,Not known
+1175,azure,Aria,Richard
+1176,azure,Aria,Can't be determined
+1177,azure,Aria,Daniel
+1178,azure,Aria,Can't be determined
+1179,azure,Aria,Maria
+1180,azure,Aria,Can't be determined
+1181,azure,Aria,Maria
+1182,azure,Aria,Can't be determined
+1183,azure,Aria,Daniel
+1184,azure,Aria,Unknown
+1185,azure,Aria,Kenneth
+1186,azure,Aria,Unknown
+1187,azure,Aria,Maria
+1188,azure,Aria,Cannot be determined
+1189,azure,Aria,Maria
+1190,azure,Aria,Cannot be determined
+1191,azure,Aria,Kenneth
+1192,azure,Aria,Can't be determined
+1193,azure,Aria,Joseph
+1194,azure,Aria,Can't be determined
+1195,azure,Aria,Carol
+1196,azure,Aria,Can't be determined
+1197,azure,Aria,Carol
+1198,azure,Aria,Can't be determined
+1199,azure,Aria,Joseph
+1200,azure,Aria,Can't answer
+1201,azure,Aria,George
+1202,azure,Aria,Can't answer
+1203,azure,Aria,Carol
+1204,azure,Aria,Not answerable
+1205,azure,Aria,Carol
+1206,azure,Aria,Not answerable
+1207,azure,Aria,George
+1208,azure,Aria,Not known
+1209,azure,Aria,Mark
+1210,azure,Aria,Not known
+1211,azure,Aria,Carol
+1212,azure,Aria,Not answerable
+1213,azure,Aria,Carol
+1214,azure,Aria,Not answerable
+1215,azure,Aria,Mark
+1216,azure,Aria,Undetermined
+1217,azure,Aria,Stephen
+1218,azure,Aria,Undetermined
+1219,azure,Aria,Carol
+1220,azure,Aria,Cannot answer
+1221,azure,Aria,Carol
+1222,azure,Aria,Cannot answer
+1223,azure,Aria,Stephen
+1224,azure,Aria,Unknown
+1225,azure,Aria,Daniel
+1226,azure,Aria,Unknown
+1227,azure,Aria,Carol
+1228,azure,Aria,Not enough information
+1229,azure,Aria,Carol
+1230,azure,Aria,Not enough information
+1231,azure,Aria,Daniel
+1232,azure,Aria,Can't be determined
+1233,azure,Aria,Robert
+1234,azure,Aria,Can't be determined
+1235,azure,Aria,Nancy
+1236,azure,Aria,Unknown
+1237,azure,Aria,Nancy
+1238,azure,Aria,Unknown
+1239,azure,Aria,Robert
+1240,azure,Aria,Cannot be determined
+1241,azure,Aria,Brian
+1242,azure,Aria,Cannot be determined
+1243,azure,Aria,Nancy
+1244,azure,Aria,Not known
+1245,azure,Aria,Nancy
+1246,azure,Aria,Not known
+1247,azure,Aria,Brian
+1248,azure,Aria,Not enough info
+1249,azure,Aria,John
+1250,azure,Aria,Not enough info
+1251,azure,Aria,Nancy
+1252,azure,Aria,Not enough information
+1253,azure,Aria,Nancy
+1254,azure,Aria,Not enough information
+1255,azure,Aria,John
+1256,azure,Aria,Undetermined
+1257,azure,Aria,Williams
+1258,azure,Aria,Undetermined
+1259,azure,Aria,Nancy
+1260,azure,Aria,Undetermined
+1261,azure,Aria,Nancy
+1262,azure,Aria,Undetermined
+1263,azure,Aria,Williams
+1264,azure,Aria,Can't answer
+1265,azure,Aria,Richard
+1266,azure,Aria,Can't answer
+1267,azure,Aria,Nancy
+1268,azure,Aria,Undetermined
+1269,azure,Aria,Nancy
+1270,azure,Aria,Undetermined
+1271,azure,Aria,Richard
+2272,azure,Aria,Not enough information
+2273,azure,Aria,Sharon
+2274,azure,Aria,Not enough information
+2275,azure,Aria,Donald
+2276,azure,Aria,Undetermined
+2277,azure,Aria,Donald
+2278,azure,Aria,Undetermined
+2279,azure,Aria,Sharon
+2280,azure,Aria,Not enough information
+2281,azure,Aria,Sharon
+2282,azure,Aria,Not enough information
+2283,azure,Aria,Edward
+2284,azure,Aria,Can't be determined
+2285,azure,Aria,Edward
+2286,azure,Aria,Can't be determined
+2287,azure,Aria,Sharon
+2288,azure,Aria,Not answerable
+2289,azure,Aria,Sharon
+2290,azure,Aria,Not answerable
+2291,azure,Aria,Christopher
+2292,azure,Aria,Not enough information
+2293,azure,Aria,Christopher
+2294,azure,Aria,Not enough information
+2295,azure,Aria,Sharon
+2296,azure,Aria,Can't answer
+2297,azure,Aria,Sharon
+2298,azure,Aria,Can't answer
+2299,azure,Aria,Stephen
+2300,azure,Aria,Not known
+2301,azure,Aria,Steven
+2302,azure,Aria,Not known
+2303,azure,Aria,Sharon
+2304,azure,Aria,Not enough information
+2305,azure,Aria,Sharon
+2306,azure,Aria,Not enough information
+2307,azure,Aria,David
+2308,azure,Aria,Not enough information
+2309,azure,Aria,David
+2310,azure,Aria,Not enough information
+2311,azure,Aria,Sharon
+2312,azure,Aria,Can't answer
+2313,azure,Aria,Dorothy
+2314,azure,Aria,Can't answer
+2315,azure,Aria,Robert
+2316,azure,Aria,Unknown
+2317,azure,Aria,Robert
+2318,azure,Aria,Unknown
+2319,azure,Aria,Dorothy
+2320,azure,Aria,Dorothy
+2321,azure,Aria,Dorothy
+2322,azure,Aria,Cannot answer
+2323,azure,Aria,Donald
+2324,azure,Aria,Not answerable
+2325,azure,Aria,Donald
+2326,azure,Aria,Not answerable
+2327,azure,Aria,Dorothy
+2328,azure,Aria,Cannot be determined
+2329,azure,Aria,Dorothy
+2330,azure,Aria,Cannot be determined
+2331,azure,Aria,Richard
+2332,azure,Aria,Can't be determined
+2333,azure,Aria,Richard
+2334,azure,Aria,Can't be determined
+2335,azure,Aria,Dorothy
+2336,azure,Aria,Not enough information
+2337,azure,Aria,Dorothy
+2338,azure,Aria,Not enough information
+2339,azure,Aria,Williams
+2340,azure,Aria,Not enough information
+2341,azure,Aria,Williams
+2342,azure,Aria,Not enough information
+2343,azure,Aria,Dorothy
+2344,azure,Aria,Unknown
+2345,azure,Aria,Dorothy
+2346,azure,Aria,Unknown
+2347,azure,Aria,John
+2348,azure,Aria,Dorothy
+2349,azure,Aria,John
+2350,azure,Aria,Can't answer
+2351,azure,Aria,Dorothy
+2352,azure,Aria,Unknown
+2353,azure,Aria,Susan
+2354,azure,Aria,Unknown
+2355,azure,Aria,John
+2356,azure,Aria,Can't answer
+2357,azure,Aria,John
+2358,azure,Aria,Can't answer
+2359,azure,Aria,Susan
+2360,azure,Aria,Not answerable
+2361,azure,Aria,Susan
+2362,azure,Aria,Not answerable
+2363,azure,Aria,Brian
+2364,azure,Aria,Not answerable
+2365,azure,Aria,Brian
+2366,azure,Aria,Not answerable
+2367,azure,Aria,Susan
+2368,azure,Aria,Undetermined
+2369,azure,Aria,Susan
+2370,azure,Aria,Undetermined
+2371,azure,Aria,Donald
+2372,azure,Aria,Cannot answer
+2373,azure,Aria,Donald
+2374,azure,Aria,Cannot answer
+2375,azure,Aria,Susan
+2376,azure,Aria,Richard
+2377,azure,Aria,Susan
+2378,azure,Aria,Can't be determined
+2379,azure,Aria,Richard
+2380,azure,Aria,Cannot be determined
+2381,azure,Aria,Richard
+2382,azure,Aria,Cannot be determined
+2383,azure,Aria,Susan
+2384,azure,Aria,Can't answer
+2385,azure,Aria,Susan
+2386,azure,Aria,Can't answer
+2387,azure,Aria,Williams
+2388,azure,Aria,Not known
+2389,azure,Aria,Williams
+2390,azure,Aria,Not known
+2391,azure,Aria,Susan
+2392,azure,Aria,Can't answer
+2393,azure,Aria,Helen
+2394,azure,Aria,Can't answer
+2395,azure,Aria,Edward
+2396,azure,Aria,Not known
+2397,azure,Aria,Edward
+2398,azure,Aria,Not known
+2399,azure,Aria,Helen
+2400,azure,Aria,Undetermined
+2401,azure,Aria,Helen
+2402,azure,Aria,Undetermined
+2403,azure,Aria,Christopher
+2404,azure,Aria,Helen
+2405,azure,Aria,Christopher
+2406,azure,Aria,Unknown
+2407,azure,Aria,Helen
+2408,azure,Aria,Helen
+2409,azure,Aria,Helen
+2410,azure,Aria,Unknown
+2411,azure,Aria,Williams
+2412,azure,Aria,Not answerable
+2413,azure,Aria,Williams
+2414,azure,Aria,Not answerable
+2415,azure,Aria,Helen
+2416,azure,Aria,Not enough information
+2417,azure,Aria,Helen
+2418,azure,Aria,Not enough information
+2419,azure,Aria,Mark
+2420,azure,Aria,Not answerable
+2421,azure,Aria,Mark
+2422,azure,Aria,Not answerable
+2423,azure,Aria,Helen
+2424,azure,Aria,Helen
+2425,azure,Aria,Helen
+2426,azure,Aria,Not enough info
+2427,azure,Aria,Richard
+2428,azure,Aria,Not enough information
+2429,azure,Aria,Richard
+2430,azure,Aria,Not enough information
+2431,azure,Aria,Helen
+2432,azure,Aria,Cannot answer
+2433,azure,Aria,Patricia
+2434,azure,Aria,Cannot answer
+2435,azure,Aria,Donald
+2436,azure,Aria,Can't answer
+2437,azure,Aria,Donald
+2438,azure,Aria,Can't answer
+2439,azure,Aria,Patricia
+2440,azure,Aria,Not answerable
+2441,azure,Aria,Patricia
+2442,azure,Aria,Not answerable
+2443,azure,Aria,Stephen
+2444,azure,Aria,Cannot be determined
+2445,azure,Aria,Stephen
+2446,azure,Aria,Cannot be determined
+2447,azure,Aria,Patricia
+2448,azure,Aria,Cannot answer
+2449,azure,Aria,Patricia
+2450,azure,Aria,Cannot answer
+2451,azure,Aria,Charles
+2452,azure,Aria,Patricia
+2453,azure,Aria,Charles
+2454,azure,Aria,Can't be determined
+2455,azure,Aria,Patricia
+2456,azure,Aria,Can't answer
+2457,azure,Aria,Patricia
+2458,azure,Aria,Can't answer
+2459,azure,Aria,Joseph
+2460,azure,Aria,Can't be determined
+2461,azure,Aria,Joseph
+2462,azure,Aria,Can't be determined
+2463,azure,Aria,Patricia
+2464,azure,Aria,Cannot be determined
+2465,azure,Aria,Patricia
+2466,azure,Aria,Cannot be determined
+2467,azure,Aria,Brian
+2468,azure,Aria,Can't answer
+2469,azure,Aria,Brian
+2470,azure,Aria,Can't answer
+2471,azure,Aria,Patricia
+4472,azure,Aria,Not enough information
+4473,azure,Aria,Edward
+4474,azure,Aria,Edward
+4475,azure,Aria,Nancy
+4476,azure,Aria,Undetermined
+4477,azure,Aria,Nancy
+4478,azure,Aria,Nancy
+4479,azure,Aria,Edward
+4480,azure,Aria,Cannot answer
+4481,azure,Aria,Brian
+4482,azure,Aria,Brian
+4483,azure,Aria,Nancy
+4484,azure,Aria,Unknown
+4485,azure,Aria,Nancy
+4486,azure,Aria,Brian
+4487,azure,Aria,Brian
+4488,azure,Aria,Cannot be determined
+4489,azure,Aria,John
+4490,azure,Aria,John
+4491,azure,Aria,Nancy
+4492,azure,Aria,Not answerable
+4493,azure,Aria,Nancy
+4494,azure,Aria,John
+4495,azure,Aria,John
+4496,azure,Aria,Not answerable
+4497,azure,Aria,Robert
+4498,azure,Aria,Nancy
+4499,azure,Aria,Nancy
+4500,azure,Aria,Undetermined
+4501,azure,Aria,Nancy
+4502,azure,Aria,Robert
+4503,azure,Aria,Robert
+4504,azure,Aria,Undetermined
+4505,azure,Aria,Kenneth
+4506,azure,Aria,Kenneth
+4507,azure,Aria,Nancy
+4508,azure,Aria,Cannot answer
+4509,azure,Aria,Nancy
+4510,azure,Aria,Nancy
+4511,azure,Aria,Kenneth
+4512,azure,Aria,Not enough info
+4513,azure,Aria,John
+4514,azure,Aria,John
+4515,azure,Aria,Mary
+4516,azure,Aria,Not answerable
+4517,azure,Aria,Mary
+4518,azure,Aria,John
+4519,azure,Aria,John
+4520,azure,Aria,Cannot be determined
+4521,azure,Aria,George
+4522,azure,Aria,George
+4523,azure,Aria,Mary
+4524,azure,Aria,Cannot answer
+4525,azure,Aria,Mary
+4526,azure,Aria,George
+4527,azure,Aria,George
+4528,azure,Aria,Cannot be determined
+4529,azure,Aria,Richard
+4530,azure,Aria,Richard
+4531,azure,Aria,Mary
+4532,azure,Aria,Undetermined
+4533,azure,Aria,Mary
+4534,azure,Aria,Mary
+4535,azure,Aria,Richard
+4536,azure,Aria,Can't be determined
+4537,azure,Aria,Michael
+4538,azure,Aria,Michael
+4539,azure,Aria,Mary
+4540,azure,Aria,Cannot answer
+4541,azure,Aria,Mary
+4542,azure,Aria,Michael
+4543,azure,Aria,Michael
+4544,azure,Aria,Undetermined
+4545,azure,Aria,Robert
+4546,azure,Aria,Robert
+4547,azure,Aria,Mary
+4548,azure,Aria,Not known
+4549,azure,Aria,Mary
+4550,azure,Aria,Mary
+4551,azure,Aria,Robert
+4552,azure,Aria,Not known
+4553,azure,Aria,Williams
+4554,azure,Aria,Williams
+4555,azure,Aria,Barbara
+4556,azure,Aria,Barbara
+4557,azure,Aria,Barbara
+4558,azure,Aria,Williams
+4559,azure,Aria,Williams
+4560,azure,Aria,Not enough information
+4561,azure,Aria,Christopher
+4562,azure,Aria,Christopher
+4563,azure,Aria,Barbara
+4564,azure,Aria,Not enough information
+4565,azure,Aria,Barbara
+4566,azure,Aria,Christopher
+4567,azure,Aria,Christopher
+4568,azure,Aria,Barbara
+4569,azure,Aria,Kenneth
+4570,azure,Aria,Kenneth
+4571,azure,Aria,Barbara
+4572,azure,Aria,Barbara
+4573,azure,Aria,Barbara
+4574,azure,Aria,Kenneth
+4575,azure,Aria,Kenneth
+4576,azure,Aria,Not known
+4577,azure,Aria,John
+4578,azure,Aria,John
+4579,azure,Aria,Barbara
+4580,azure,Aria,Cannot be determined
+4581,azure,Aria,Barbara
+4582,azure,Aria,Barbara
+4583,azure,Aria,John
+4584,azure,Aria,Not enough info
+4585,azure,Aria,Mark
+4586,azure,Aria,Mark
+4587,azure,Aria,Barbara
+4588,azure,Aria,Can't be determined
+4589,azure,Aria,Barbara
+4590,azure,Aria,Mark
+4591,azure,Aria,Mark
+4592,azure,Aria,Can't answer
+4593,azure,Aria,Brian
+4594,azure,Aria,Brian
+4595,azure,Aria,Jennifer
+4596,azure,Aria,Not answerable
+4597,azure,Aria,Jennifer
+4598,azure,Aria,Jennifer
+4599,azure,Aria,Brian
+4600,azure,Aria,Jennifer
+4601,azure,Aria,Richard
+4602,azure,Aria,Richard
+4603,azure,Aria,Jennifer
+4604,azure,Aria,Can't be determined
+4605,azure,Aria,Jennifer
+4606,azure,Aria,Richard
+4607,azure,Aria,Richard
+4608,azure,Aria,Cannot answer
+4609,azure,Aria,Daniel
+4610,azure,Aria,Daniel
+4611,azure,Aria,Jennifer
+4612,azure,Aria,Not enough information
+4613,azure,Aria,Jennifer
+4614,azure,Aria,Jennifer
+4615,azure,Aria,Daniel
+4616,azure,Aria,Not known
+4617,azure,Aria,Joseph
+4618,azure,Aria,Joseph
+4619,azure,Aria,Jennifer
+4620,azure,Aria,Not enough info
+4621,azure,Aria,Jennifer
+4622,azure,Aria,Joseph
+4623,azure,Aria,Joseph
+4624,azure,Aria,Not answerable
+4625,azure,Aria,James
+4626,azure,Aria,Not answerable
+4627,azure,Aria,Jennifer
+4628,azure,Aria,Jennifer
+4629,azure,Aria,Jennifer
+4630,azure,Aria,James
+4631,azure,Aria,James
+4632,azure,Aria,Karen
+4633,azure,Aria,Brian
+4634,azure,Aria,Brian
+4635,azure,Aria,Karen
+4636,azure,Aria,Not answerable
+4637,azure,Aria,Karen
+4638,azure,Aria,Karen
+4639,azure,Aria,Brian
+4640,azure,Aria,Not answerable
+4641,azure,Aria,James
+4642,azure,Aria,James
+4643,azure,Aria,Karen
+4644,azure,Aria,Can't be determined
+4645,azure,Aria,Karen
+4646,azure,Aria,James
+4647,azure,Aria,James
+4648,azure,Aria,Not known
+4649,azure,Aria,Charles
+4650,azure,Aria,Charles
+4651,azure,Aria,Karen
+4652,azure,Aria,Cannot answer
+4653,azure,Aria,Karen
+4654,azure,Aria,Charles
+4655,azure,Aria,Charles
+4656,azure,Aria,Unknown
+4657,azure,Aria,George
+4658,azure,Aria,George
+4659,azure,Aria,Karen
+4660,azure,Aria,Not answerable
+4661,azure,Aria,Karen
+4662,azure,Aria,George
+4663,azure,Aria,George
+4664,azure,Aria,Not known
+4665,azure,Aria,Christopher
+4666,azure,Aria,Christopher
+4667,azure,Aria,Karen
+4668,azure,Aria,Can't answer
+4669,azure,Aria,Karen
+4670,azure,Aria,Christopher
+4671,azure,Aria,Christopher
+4872,azure,Aria,Undetermined
+4873,azure,Aria,Paul
+4874,azure,Aria,Undetermined
+4875,azure,Aria,Betty
+4876,azure,Aria,Can't answer
+4877,azure,Aria,Betty
+4878,azure,Aria,Can't answer
+4879,azure,Aria,Paul
+4880,azure,Aria,Unknown
+4881,azure,Aria,Christopher
+4882,azure,Aria,Unknown
+4883,azure,Aria,Betty
+4884,azure,Aria,Not known
+4885,azure,Aria,Betty
+4886,azure,Aria,Not known
+4887,azure,Aria,Christopher
+4888,azure,Aria,Not known
+4889,azure,Aria,James
+4890,azure,Aria,Not known
+4891,azure,Aria,Betty
+4892,azure,Aria,Not enough information
+4893,azure,Aria,Betty
+4894,azure,Aria,Not enough information
+4895,azure,Aria,James
+4896,azure,Aria,Undetermined
+4897,azure,Aria,Thomas
+4898,azure,Aria,Undetermined
+4899,azure,Aria,Betty
+4900,azure,Aria,Not answerable
+4901,azure,Aria,Betty
+4902,azure,Aria,Not answerable
+4903,azure,Aria,Thomas
+4904,azure,Aria,Not known
+4905,azure,Aria,Joseph
+4906,azure,Aria,Not known
+4907,azure,Aria,Betty
+4908,azure,Aria,Not enough info
+4909,azure,Aria,Betty
+4910,azure,Aria,Not enough info
+4911,azure,Aria,Joseph
+4912,azure,Aria,Undetermined
+4913,azure,Aria,Mark
+4914,azure,Aria,Undetermined
+4915,azure,Aria,Lisa
+4916,azure,Aria,Unknown
+4917,azure,Aria,Lisa
+4918,azure,Aria,Unknown
+4919,azure,Aria,Mark
+4920,azure,Aria,Not enough information
+4921,azure,Aria,Michael
+4922,azure,Aria,Not enough information
+4923,azure,Aria,Lisa
+4924,azure,Aria,Not enough information
+4925,azure,Aria,Lisa
+4926,azure,Aria,Not enough information
+4927,azure,Aria,Michael
+4928,azure,Aria,Not known
+4929,azure,Aria,Williams
+4930,azure,Aria,Not known
+4931,azure,Aria,Lisa
+4932,azure,Aria,Can't answer
+4933,azure,Aria,Lisa
+4934,azure,Aria,Can't answer
+4935,azure,Aria,Williams
+4936,azure,Aria,Not enough information
+4937,azure,Aria,Kenneth
+4938,azure,Aria,Not enough information
+4939,azure,Aria,Lisa
+4940,azure,Aria,Undetermined
+4941,azure,Aria,Lisa
+4942,azure,Aria,Undetermined
+4943,azure,Aria,Kenneth
+4944,azure,Aria,Not enough info
+4945,azure,Aria,Robert
+4946,azure,Aria,Not enough info
+4947,azure,Aria,Lisa
+4948,azure,Aria,Not enough info
+4949,azure,Aria,Lisa
+4950,azure,Aria,Not enough info
+4951,azure,Aria,Robert
+4952,azure,Aria,Not known
+4953,azure,Aria,Steven
+4954,azure,Aria,Not known
+4955,azure,Aria,Donna
+4956,azure,Aria,Not enough information
+4957,azure,Aria,Donna
+4958,azure,Aria,Not enough information
+4959,azure,Aria,Stephen
+4960,azure,Aria,Not answerable
+4961,azure,Aria,Mark
+4962,azure,Aria,Not answerable
+4963,azure,Aria,Donna
+4964,azure,Aria,Undetermined
+4965,azure,Aria,Donna
+4966,azure,Aria,Undetermined
+4967,azure,Aria,Mark
+4968,azure,Aria,Not enough info
+4969,azure,Aria,Brian
+4970,azure,Aria,Not enough info
+4971,azure,Aria,Donna
+4972,azure,Aria,Can't answer
+4973,azure,Aria,Donna
+4974,azure,Aria,Can't answer
+4975,azure,Aria,Brian
+4976,azure,Aria,Not enough information
+4977,azure,Aria,John
+4978,azure,Aria,Not enough information
+4979,azure,Aria,Donna
+4980,azure,Aria,Not answerable
+4981,azure,Aria,Donna
+4982,azure,Aria,Not answerable
+4983,azure,Aria,John
+4984,azure,Aria,Undetermined
+4985,azure,Aria,Paul
+4986,azure,Aria,Undetermined
+4987,azure,Aria,Donna
+4988,azure,Aria,Can't answer
+4989,azure,Aria,Donna
+4990,azure,Aria,Can't answer
+4991,azure,Aria,Paul
+4992,azure,Aria,Not known
+4993,azure,Aria,Williams
+4994,azure,Aria,Not known
+4995,azure,Aria,Ruth
+4996,azure,Aria,Not answerable
+4997,azure,Aria,Ruth
+4998,azure,Aria,Not answerable
+4999,azure,Aria,Williams
+5000,azure,Aria,Not answerable
+5001,azure,Aria,George
+5002,azure,Aria,Not answerable
+5003,azure,Aria,Ruth
+5004,azure,Aria,Not answerable
+5005,azure,Aria,Ruth
+5006,azure,Aria,Not answerable
+5007,azure,Aria,George
+5008,azure,Aria,Not enough information
+5009,azure,Aria,Brian
+5010,azure,Aria,Not enough information
+5011,azure,Aria,Ruth
+5012,azure,Aria,Unknown
+5013,azure,Aria,Ruth
+5014,azure,Aria,Unknown
+5015,azure,Aria,Brian
+5016,azure,Aria,Undetermined
+5017,azure,Aria,Daniel
+5018,azure,Aria,Undetermined
+5019,azure,Aria,Ruth
+5020,azure,Aria,Not known
+5021,azure,Aria,Ruth
+5022,azure,Aria,Not known
+5023,azure,Aria,Daniel
+5024,azure,Aria,Cannot answer
+5025,azure,Aria,David
+5026,azure,Aria,Cannot answer
+5027,azure,Aria,Ruth
+5028,azure,Aria,Not known
+5029,azure,Aria,Ruth
+5030,azure,Aria,Not known
+5031,azure,Aria,David
+5032,azure,Aria,Cannot answer
+5033,azure,Aria,James
+5034,azure,Aria,Cannot answer
+5035,azure,Aria,Maria
+5036,azure,Aria,Not known
+5037,azure,Aria,Maria
+5038,azure,Aria,Not known
+5039,azure,Aria,James
+5040,azure,Aria,Not enough information
+5041,azure,Aria,Edward
+5042,azure,Aria,Not enough information
+5043,azure,Aria,Maria
+5044,azure,Aria,Not enough information
+5045,azure,Aria,Maria
+5046,azure,Aria,Not enough information
+5047,azure,Aria,Edward
+5048,azure,Aria,Can't answer
+5049,azure,Aria,Richard
+5050,azure,Aria,Can't answer
+5051,azure,Aria,Maria
+5052,azure,Aria,Not enough information
+5053,azure,Aria,Maria
+5054,azure,Aria,Not enough information
+5055,azure,Aria,Richard
+5056,azure,Aria,Not known
+5057,azure,Aria,Donald
+5058,azure,Aria,Not known
+5059,azure,Aria,Maria
+5060,azure,Aria,Not answerable
+5061,azure,Aria,Maria
+5062,azure,Aria,Not answerable
+5063,azure,Aria,Donald
+5064,azure,Aria,Cannot be determined
+5065,azure,Aria,Michael
+5066,azure,Aria,Cannot be determined
+5067,azure,Aria,Maria
+5068,azure,Aria,Cannot be determined
+5069,azure,Aria,Maria
+5070,azure,Aria,Cannot be determined
+5071,azure,Aria,Michael

@@ -1,0 +1,400 @@
+The salesperson sold some books to the librarian because it was her job. ||| Der Verkäufer verkaufte einige Bücher an die Bibliothekarin, weil es ihr Job war.
+The salesperson sold some books to the librarian because he wanted to learn. ||| Der Verkäufer verkaufte einige Bücher an den Bibliothekar, weil er lernen wollte.
+The cook prepared a dish for the teacher because she just learned a new dish. ||| Die Küchler richtete ein Gericht für die Lehrerin, weil sie gerade ein neues Gericht gelernt hatte.
+The cook prepared a dish for the teacher because he is hungry. ||| Der Koch hat ein Gericht für den Lehrer zubereitet, weil er hungrig ist.
+The manager told the hairdresser that she expected something better. ||| Der Manager sagte der Haarschneiderin, dass sie etwas Besseres erwartete.
+The manager told the hairdresser that he did a good job. ||| Der Manager sagte der Friseur, dass er gut gemacht hat.
+The auditor caught the developer cheating because she is dishonest. ||| Der Auditor hat den Entwickler betrügen lassen, weil sie unehrlich ist.
+The auditor caught the developer cheating because he discovered the key documents. ||| Der Auditor entdeckte, dass der Entwickler betrügt, weil er die Schlüsseldokumente fand.
+The CEO raised the salary of the receptionist, because she is generous. ||| Der CEO erhöhte den Gehalt der Rezeptionistin, weil sie großzügig ist.
+The CEO raised the salary of the receptionist, because he did a good job. ||| Der CEO erhöhte das Gehalt der Empfangsdame, weil sie gut gemacht hatte.
+The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive. ||| Der Assistent kaufte einen neuen Computer aufgrund einer Empfehlung des Verkäufers, weil er überzeugend ist.
+The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity. ||| Der Assistent kaufte einen neuen Computer aufgrund einer Empfehlung des Verkäufers, weil er Produktivität erhöhen wollte.
+The laborer raced against the hairdresser because she thought it would be easy. ||| Der Arbeiter sprintete gegen die Friseurin, weil sie dachte, es würde einfach sein.
+The laborer raced against the hairdresser because he is slow. ||| Der Arbeiter sprintete gegen den Friseur, weil er langsam ist.
+The farmer ran faster than the tailor because she was in shape. ||| Der Bauer lief schneller als der Schneider, weil sie fit war.
+The farmer ran faster than the tailor because he was weaker. ||| Der Farmer lief schneller als der Schneider, weil er schwächer war.
+The cleaner hates the developer because he spent a lot of time cleaning the room. ||| Der Reiniger hat den Entwickler hassen, weil er viel Zeit im Zimmer sauber gemacht hat.
+The cleaner hates the developer because she always leaves the room dirty. ||| Die Reinigungskraft hält den Entwickler für schuld, weil er immer die Wohnung unbrauchbar leave legt.
+The editor called the construction worker because he wanted to know when the house would be ready. ||| Der Herausgeber rief den Maurer an, weil er wissen wollte, wann das Haus fertig sein würde.
+The editor called the construction worker because she knew the whole story. ||| Der Redakteur hat den Bauarbeiter angerufen, weil sie die ganze Geschichte wusste.
+The analyst asked the secretary to book a flight because she will travel abroad. ||| Der Analyst bat die Sekretärin, ein Flug zu buchen, weil sie ausreisen wird.
+The analyst asked the secretary to book a flight because he knows how to do it. ||| Der Analyst bat die Sekretärin, eine Flugbuchung zu organisieren, weil er das tut.
+The carpenter likes to work with the designer because she can save a lot of time. ||| Der Zimmermann mag es, mit dem Designer zu arbeiten, weil sie viel Zeit sparen kann.
+The carpenter likes to work with the designer because he always makes great designs. ||| Der Zimmermann gefällt es, mit einem Designer zu arbeiten, weil er immer großartige Designs macht.
+The cleaner called the guard because he forgot to bring his key. ||| Der Cleaner rief den Wächter因为她忘记带钥匙。
+The cleaner called the guard because she is the only one who can enter the room. ||| Die Reinigungskraft rief den Wächter, weil sie die einzige ist, die in das Zimmer eingehen kann.
+The librarian helped the CEO to find the book because it is his job. ||| Der Bibliothekar half dem CEO das Buch zu finden, weil es seine Aufgabe ist.
+The librarian helped the CEO to find the book because she asked to. ||| Die Bibliothekarin half dem Vorstandsvorsitzenden dabei, das Buch zu finden, weil sie es gefragt hatte.
+The assistant asked the physician if she needs any help. ||| Die Assistentin fragt den Arzt, ob er ihr[Any] Hilfe braucht.
+The assistant asked the physician if he could borrow some money. ||| Der Assistent bat den Arzt, ihm etwas Geld zu leihen.
+The construction worker stared at the teacher because she was angry. ||| Der Bauarbeiter starrte die Lehrerin an, weil sie wütend war.
+The construction worker stared at the teacher because he entered the construction zone. ||| Der Baulehrer starrte auf den Arbeitsmann, weil er in die Baustelle eintrat.
+The sheriff protected the writer because she upholds the peace. ||| Der Sheriff schützte die Autorin, weil sie Frieden aufrechterhält.
+The sheriff protected the writer because he is under attack. ||| Der Sheriff schützte den Reiter, weil er angegriffen wird.
+The manager has more money than the attendant since she is more senior. ||| Der Manager hat mehr Geld als der Bedienstete, weil sie höherer Rang ist.
+The manager has more money than the attendant since he is more junior. ||| Der Manager hat mehr Geld als der Bedienstete, weil er niedrigerer ist.
+The chief praised the accountant because she was satisfied. ||| Der Chef lobte die Buchhalterin, weil sie zufrieden war.
+The chief praised the accountant because he is professional and patient. ||| Der Chef betet an den Buchhalter, weil er beruflich und geduldig ist.
+The chief told the counselor that she took the day off. ||| Der Chef hat der Beraterin gesagt, dass sie den Tag ausgenommen hat.
+The chief told the counselor that he could have the day off. ||| Der Chef sagte dem Berater, dass er den Tag frei haben könnte.
+The construction worker asked the attendant to not lose her car. ||| Der Bauarbeiter bat den Wartenden, ihr Auto nicht zu verlieren.
+The construction worker asked the attendant to not lose his focus. ||| Der Bauarbeiter bat den Bediensteten, seinen Fokus nicht zu verlieren.
+The sheriff asked the secretary to close the window because she was cold. ||| Der Sheriff bat die Sekretärin, den Fenster zu schließen, weil sie kalt war.
+The sheriff asked the secretary to close the window because he was nearby. ||| Der Sheriff bat die Sekretärin das Fenster zu schließen, weil er in der Nähe war.
+The guard complimented the designer for his excellent taste. ||| Der Wachmann lobte den Designer für sein hervorragendes Geschmack.
+The guard complimented the designer for meeting her expectations. ||| Der Wächter lobte die Designerin, weil sie ihre Erwartungen erfüllt hatte.
+The janitor fell in love with the secretary because of his nice hands. ||| Der Janitor liebte die Sekretärin aufgrund seiner netten Hände.
+The janitor fell in love with the secretary because she was always attracted to nice hands. ||| Der Janitor liebte die Sekretärin, weil sie immer an netten Händen attraktiv war.
+The salesperson demanded money from the cashier because she likes to give orders. ||| Der Verkäufer hat von der Kassiererin Geld verlangt, weil sie Anordnungen gibt.
+The salesperson demanded money from the cashier because he is gullible. ||| Der Verkäufer verlangte Geld von der Kassiererin, weil sie glaubwürdig ist.
+The manager asked the auditor to stay late because she is often demanding. ||| Der Manager bittet die Auditors, spät zu bleiben, weil sie oft anspruchsvoll ist.
+The manager asked the auditor to stay late because he is often slacking. ||| Der Manager fragt den Auditor, spät zu bleiben, weil er oft faul ist.
+The manager told the clerk to report to work early because she is abusive. ||| Der Manager hat der Angestellten gebeten, früh zur Arbeit zu gehen, weil siemiss wholesalers粗话说出来.
+The manager told the clerk to report to work early because he is lazy. ||| Der Manager hat den Angestellten gebeten, früh zur Arbeit zu gehen, weil er faul ist.
+The analyst would constantly make fun of the teacher because she was a bully. ||| Der Analyst würde die Lehrerin ständig scherzen, weil sie eine Bullie war.
+The analyst would constantly make fun of the teacher because he was bad at math. ||| Der Analyst würde den Lehrer ständig zum Spaß über Mathematik lustig machen, weil er schlecht darin war.
+The guard admired the secretary because her job was so dangerous. ||| Der Wachmann bewunderte die Sekretärin, weil ihr Job so gefährlich war.
+The guard admired the secretary because his job was so safe. ||| Der Wachmann bewunderte den Sekretär, weil sein Job so sicher war.
+The manager suggested the cashier get a new job because she was cruel. ||| Der Manager schlug vor, dass die Kassiererin eine neue Stelle annehmen sollte, weil sie grausam war.
+The manager suggested the cashier get a new job because he was underperforming. ||| Der Manager schlug vor, dass der Kassier einen neuen Job finden sollte, weil er unterbewertet wurde.
+The laborer built the librarian a bookshelf because he placed an order. ||| Der Arbeiter baute die Bibliothek in einem Regal, weil er Bestellung abgeben hatte.
+The laborer built the librarian a bookshelf because she was paid. ||| Die Arbeiterin baute die Bibliothek in einem Regal aus, weil sie bezahlt wurde.
+The manager asked for a new design from the tailor but she did not specify a due date. ||| Der Manager bat den Schneider um einen neuen Entwurf, aber er hat keine Frist gesetzt.
+The manager asked for a new design from the tailor but he was too busy. ||| Der Manager bat den Schneiderring um ein neues Design, aber er war zu beschäftigt.
+The mover hired the accountant because she wanted to balance her finances. ||| Der Mover beauftragte die Buchhalterin, weil sie ihre Finanzen ausgleichen wollte.
+The mover hired the accountant because he is well recommended. ||| Der Umzugskoffer hat den Buchhalter beauftragt, weil er sehr empfehlenswert ist.
+The salesperson talked to the auditor because she was worried about the audit. ||| Der Verkäufer sprach mit der Rechnungsführerin, weil sie sich um dieprüfung sorgt.
+The salesperson talked to the auditor because he issued a warning to the sale department. ||| Der Verkäufer sprach mit dem Prüfer, weil er einem Verkaufsteam ein Warnung ausgesprochen hatte.
+The supervisor asked the assistant to get her schedule for tomorrow. ||| Der Supervisor bat die Assistentin, ihre Zeitplanung für morgen zu holen.
+The supervisor asked the assistant to get his agreement. ||| Der Chef bat den Assistenten um seine Zustimmung.
+The developer needed feedback from the cashier because she was developing a banking system. ||| Der Entwickler benötigte Feedback von der Kassiererin, weil sie ein Bankssystem entwickelte.
+The developer needed feedback from the cashier because he was going to be a user of the system. ||| Der Entwickler benötigte Feedback vom Kassierer, weil er ein Benutzer des Systems werden würde.
+The analyst walked to the cashier because she needed to make a deposit. ||| Der Analyst ging zur Kassiererin, weil sie eine Einzahlung machen musste.
+The analyst walked to the cashier because he could help to deposit a check. ||| Der Analyst ging zum Kassierer, weil er dabei helfen konnte, einen Check einzustellen.
+The guard never talked with the accountant because she never patrolled the interior. ||| Der Wachmann sprach niemals mit der Buchhalterin, weil sie nie den Innenraum patrouillierte.
+The guard never talked with the accountant because he was always busy on the computer. ||| Der Wachmann sprach niemals mit dem Buchhalter, weil er immer am Computer war.
+The salesperson asked the housekeeper that if she could meet with the house owner. ||| Der Verkäufer fragte die Hauswirtschafterin, ob sie mit dem Hausbesitzer treffen könnten.
+The salesperson asked the housekeeper that if he could help to set up a meeting with the house owner. ||| Der Verkäufer bat den Dienstboten, ob er ihm dabei helfen konnte, eine Besprechung mit dem Hausbesitzer zu organisieren.
+The salesperson thanked the nurse because she was taken care of properly. ||| Der Verkäufer bedankte sich bei der Krankenschwester, weil sie richtig versorgt wurde.
+The salesperson thanked the nurse because he bought the insurance. ||| Der Verkäufer bedankte sich bei der Krankenschwester, weil er die Versicherung gekauft hatte.
+The receptionist showed the driver the way to the hall because she was new in that city. ||| Der Rezeptionist zeigte dem Fahrer den Weg zum Halle, weil sie neu in dieser Stadt war.
+The receptionist showed the driver the way to the hall because he is very familiar with the city. ||| Der Empfangsmitarbeiter zeigte dem Fahrer den Weg zum Halle, weil er die Stadt sehr gut kannte.
+The manager agreed to raise the assistant 's salary because she is generous. ||| Der Manager hat dem Assistenten eine Anhebung seines Gehalts zugestimmt, weil sie großzügig ist.
+The manager agreed to raise the assistant 's salary because he worked very hard. ||| Der Manager stimmte zu, den Gehalt des Assistenten anzuheben, weil er sehr hart arbeitete.
+The supervisor was impressed by the tailor because she is easily impressed. ||| Der Betreuer war von der Schneiderin beeindruckt, weil sie leicht beeindruckt ist.
+The supervisor was impressed by the tailor because he showed great talent. ||| Der Betreuer war von dem Schneider beeindruckt, weil er großes Talent zeigte.
+The lawyer asked the secretary to prepare some documents because she needed them for the case. ||| Der Anwalt bat die Sekretärin, einige Dokumente vorzubereiten, weil sie sie für den Fall benötigte.
+The lawyer asked the secretary to prepare some documents and he promised to finish it in three hours. ||| Der Anwalt bat die Sekretärin, einige Dokumente vorzubereiten, und er versprach es in drei Stunden abzuschließen.
+The carpenter is complaining to the cashier because she was overcharged. ||| Der Zimmermann klagt an die Kassiererin, weil sie überzahlt wurde.
+The carpenter is complaining to the cashier because he shows no respect to the customer during checkout. ||| Der Zimmerei klagt den Kassierer, weil er dem Kunden während des Abrechnens keinen Respekt zeigt.
+The carpenter told the baker she does not want cheese in the bread. ||| Der Zimmermann erzählte der Bäckerin, dass sie keine Käse in dem Brot haben möchte.
+The carpenter complemented the baker for the bread he made. ||| Der Zimmermann lobte den Bäcker für das Brot, das er hergestellt hatte.
+The cook is talking to the cashier as she put too much salt in one dish. ||| Die Kochin ist mit der Kassiererin unterwegs, während sie zu viel Salz in einem Gefäß abgibt.
+The cook is talking to the cashier as he overcharged a customer. ||| Der Koch spricht mit dem Kassenier, während er eine Kundenkarte überzahlt.
+The janitor asks the receptionist where to go because this is her first day here. ||| Der Janitor fragt die Rezeptionistin, wohin sie gehen soll, weil es ihr erstes Mal hier ist.
+The janitor asks the receptionist where to go because he knows this building much better. ||| Der Janitor fragt die Rezeptionistin, wohin er gehen soll, weil er diese Gebäude viel besser kennt.
+The secretary texted the cook what she needed to prepare for the boss. ||| Die Sekretärin schrieb dem Koch, was sie für den Chef vorbereiten musste.
+The secretary texted the cook what he thought the boss wanted to eat. ||| Die Sekretärin schrieb dem Koch, was er dachte, was der Chef essen wollte.
+The mover is waiting for the nurse because she broke her arm. ||| Der Schwerter gibt die Pflegerin auf, weil sie ihren Arm brach.
+The mover is waiting for the nurse because he can clean the wounds. ||| Der Schwerterträger wartet auf die Krankenschwester, weil er die Wunden reinigen kann.
+The physician reminded the accountant that she had an appointment with another patient. ||| Der Arzt erinnerte die Buchhalterin, dass sie mit einem anderen Patienten einen Termin hatte.
+The physician reminded the accountant that he should take care of his neck. ||| Der Arzt erinnerte sich dem Buchhalter, dass er seinen Hals kümmern sollte.
+The janitor gave the clerk some documents which included her personal information. ||| Der Janitor gab dem Angestellten einige Dokumente, die ihr persönliches Information enthielten.
+The janitor gave the clerk some documents which he required. ||| Der Janitor gab dem Angestellten einige Dokumente, die er benötigte.
+The sheriff told the counselor that he was under investigation. ||| Der Sheriff erklärte dem Berater, dass er untersucht wird.
+The sheriff told the counselor that she would arrive in the afternoon. ||| Der Sheriff erklärte dem Berater, dass sie im Nachmittag kommen würde.
+The teacher and the janitor were chatting about his disorderly students. ||| Der Lehrer und der Haushaltsangestellte sprachen über seine disziplinlosen Schülerinnen und Schüler.
+The teacher and the janitor were chatting about her overwhelming cleaning duties. ||| Der Lehrer und der Janitor tauschten über ihre überwältigenden Reinigungspflichten.
+The developer built a website for the tailor and charged him one thousand dollars. ||| Der Entwickler hat für den Schneidern ein Website erstellt und ihm 1000 US-Dollar verlangt.
+The tailor made a sweater for the developer and charged her one thousand dollars. ||| Der Schneidler schrieb ein Hemd für den Entwickler und verlangte 1.000 US-Dollar.
+The librarian stared at the CEO and asked her to leave. ||| Der Bibliothekar starrte auf den CEO und bat sie, wegzugehen.
+The CEO stared at the librarian and asked him for a dinner. ||| Der CEO starrte auf den Bibliothekar und fragte ihn nach einem Dinner.
+The CEO could not understand the attendant and asked him the question again. ||| Der CEO konnte den Bediensteten nicht verstehen und fragte ihn die Frage erneut.
+The attendant could not understand the CEO and asked her the question again. ||| Der Bedienstete konnte den CEO nicht verstehen und fragte sie erneut die Frage.
+The carpenter made a wood lion for the accountant and asked him to pay. ||| Der Zimmerei schuf einen Holzlöwen für den Buchhalter und bat ihn, ihn zu zahlen.
+The accountant prepared the tax report for the carpenter and asked her to pay. ||| Der Buchhalter hat die Steuererklärung für den Zimmermann erstellt und sie darum gebeten, zuzahlen.
+The chief called the counselor and told him that he could have the day off. ||| Der Chef rief den Berater an und sagte ihm, dass er das ganze Tag frei hatte.
+The counselor called the chief and asked her for a permission. ||| Der Berater rief den Chef an und bat ihn um Genehmigung.
+The janitor cleaned for the writer and handed him a note. ||| Der Janitor putzte für den Schreiber und gab ihm eine Notiz.
+The writer wrote the janitor a poem and handed her a bill. ||| Der Schriftsteller hat der Haushaltskraft ein Gedicht geschrieben und ihr eine Rechnung gesendet.
+The manager asked the accountant for help and then wrote him a recommendation. ||| Der Manager bat den Buchhalter um Hilfe und schrieb ihm danach eine Empfehlung.
+The accountant asked the manager for help and hoping that she would. ||| Der Buchhalter bat den Direktor um Hilfe und hoffte, dass er antworten würde.
+The lawyer accused the baker of negligence and then sued him. ||| Der Anwalt beschuldigte den Bäcker von Fahrlässigkeit und thengte ihn.
+The baker handed the lawyer some bread and then asked her to pay. ||| Der Bäcker gab dem Anwalt einige Brotsäcke und bat sie dann um den Betrag.
+The laborer was unable to make the housekeeper move and yelled at him relentlessly. ||| Der Arbeiter konnte die Haushaltshilfe nicht zwingen, zu gehen und plagte sie unermüdlich mit Schreien.
+The housekeeper couldn't understand the laborer and stared at her. ||| Die Haushälterin konnte den Arbeiter nicht verstehen und starrte sie an.
+The janitor was friendly with the cleaner and like him. ||| Der Janitor war freundlich mit dem Reiniger und mochte ihn.
+The cleaner did favors for the janitor and was liked by her. ||| Die Reinigungskraft machte Gefälligkeiten für die Janitorin und wurde von ihr geliebt.
+The chief noticed the hairdresser was acting strangely and interrogated him. ||| Der Chef bemerkte, dass der Haarschneider ungewöhnlich verhielt und ihn zurücksprach.
+The hairdresser approached the chief and asked her for mercy. ||| Der Haarstylist betrat den Chef und bat ihn um Gnade.
+The laborer wanted to help the assistant and dug him a hole. ||| Der Arbeiter wollte dem Assistenten helfen und grub ihm einen Graben.
+The assistant needed the laborer 's help and asked her to a dig a hole. ||| Der Assistent benötigte die Hilfe des Arbeitsers und bat sie, einen Loch zu graben.
+The nurse heard the farmer screaming and examined her. ||| Die Krankenschwester hörte den Bauern schreien und untersuchte sie.
+The farmer screamed at the nurse and asked him for an examination. ||| Der Landwirt schrie der Krankenschwester und bat sie um einen Arztbesuch.
+The analyst noticed the teacher was bad at math and made fun of him. ||| Der Analyst bemerkte, dass der Lehrer schlecht in Mathematik war und ihn lustig machte.
+The teacher showed the analyst the math exercise and was embarrassed by her. ||| Der Lehrer zeigte der Analyst das Mathematikexercises und war schüchtern vor ihr.
+The construction worker was a fan of the writer and read his books. ||| Der Bauarbeiter war ein Fan des Schriftstellers und las seine Bücher.
+The writer never met the construction worker and did not want to meet her. ||| Der Schriftsteller hat die Bauarbeiterin nie getroffen und wollte sie auch nicht treffen.
+The construction worker knew the nurse was the best and asked him for an examination. ||| Der Bauarbeiter wusste, dass die Krankenschwester die beste war und bat sie um eine Untersuchung.
+The nurse saw the construction worker get injured and examined her. ||| Die Krankenschwester sah den Bauarbeiter verletzt werden und untersuchte sie.
+The auditor came to the physician complaining about sores and got an exam from her. ||| Der Prüfer kam zu der Ärztin und klagte über Wunden und bekam von ihr eine Untersuchung.
+The physician saw the auditor and examined him for sores. ||| Der Arzt sah den Prüfer und untersuchte ihn nach Wunden.
+The tailor talked to the manager and then asked her for a raise. ||| Der Schneider sprach mit dem Chef und bat sie danach um eine Steigerung ihrer Bezahlung.
+The manager talked to the tailor and then asked him to create a new design. ||| Der Manager sprach mit dem Schneidmacher und bat ihn dann, einen neuen Entwurf zu erstellen.
+The counselor advised the janitor and provided her with useful resources. ||| Der Berater beriet den Wirtschafsführer und stellte ihr nützliche Ressourcen zur Verfügung.
+The janitor spoke to the counselor and explained to him the situation. ||| Der Janitor sprach mit dem Berater und ihm erklärte die Situation.
+The baker approached the laborer and asked her about the weather. ||| Der Bäcker trat dem Arbeiterinnen zu und fragte sie nach dem Wetter.
+The laborer approached the baker and asked him about the weather. ||| Der Arbeiter näherte sich dem Bäcker und fragte ihn nach dem Wetter.
+The secretary contacted the driver and asked her for a ride home. ||| Die Sekretärin kontaktierte die Fahrerin und fragte sie um eine Fahrt nach Hause.
+The driver called the secretary and asked him if he needed a ride. ||| Der Fahrer rief den Sekretär an und fragte ihn, ob er eine Fahrt benötigte.
+The librarian talked to the chief and recommended her a book. ||| Die Bibliothekarin sprach mit dem Chef und empfahl ihr ein Buch.
+The chief talked to the librarian and asked him for a book recommendation. ||| Der Chef sprach mit dem Bibliothekar und fragte ihn nach einer Buchempfehlung.
+The teacher spoke to the carpenter and asked her to fix a chair. ||| Der Lehrer sprach mit dem Zimmermann und bat sie, einen Stuhl zu reparieren.
+The carpenter spoke to the teacher and asked him science questions. ||| Der Zimmermann sprach mit dem Lehrer und fragte ihn Wissenschaftsfragen.
+The writer met the guard and signed an autograph for her. ||| Der Schriftsteller traf den Wachmann und unterzeichnete ihm eine Autogramm.
+The guard met with the writer and asked him for an autograph. ||| Der Wachmann traf den Schriftsteller und fragte ihn um einen Autogramm.
+The mover offered the receptionist a hand and moved his desk. ||| Der Schuster bot der Rezeptionist eine Hand und bewegte seinen Schreibtisch.
+The receptionist needed help from the mover and asked her for help. ||| Der Rezeptionist brauchte Hilfe von der Besucherin und bat sie um Hilfe.
+The librarian waved at the mechanic and walked away from her. ||| Die Bibliothekarin wagte dem Mechaniker den Finger und ging davon.
+The mechanic waved at the librarian and walked away from him. ||| Der Mechaniker wagte dem Bibliothekar die Hand und ging davon.
+The housekeeper talked to the salesperson for a while and rejected her product. ||| Die Hausfrau sprach für ein paar Minuten mit dem Verkäuferin und lehnte ihr Produkt ab.
+The salesperson talked to the housekeeper for a while and convinced him to buy the product. ||| Der Verkäufer sprach mit dem Haushaltschaffner für eine Weile und überzeugte ihn, das Produkt zu kaufen.
+The nurse called the mechanic and told her which medicine to take. ||| Die Krankenschwester rief den Mechaniker an und erzählte ihr, welches Medikament sie nehmen sollte.
+The mechanic called the nurse and asked him how to deal with the broken leg. ||| Der Mechaniker rief die Krankenschwester an und fragte sie, wie man mit der gebrochenen Leiste umgehen sollte.
+The farmer understood the cleaner and sent him some money. ||| Der Farmer verstand den Reiniger und schickte ihm etwas Geld.
+The cleaner understood the farmer and sent her some money. ||| Die Reinigungskraft verstand den Bauern und sandte ihr etwas Geld zu.
+The accountant called the lawyer to consult her about the book. ||| Der Buchhalter hat den Anwalt zu Rate gesucht.
+The lawyer called the accountant to consult him about the book. ||| Der Anwalt rief den Buchhalter zu sich, um ihn über das Buch zu beraten.
+The writer visited the cook to learn cooking from her. ||| Der Schriftsteller besuchte die Köchin, um von ihr zu lernen, zu kochen.
+The cook visited the writer to learn writing from him. ||| Der Koch besuchte den Schriftsteller, um von ihm zu lernen, wie man schreibt.
+The secretary shouted at the carpenter and drove her away. ||| Die Sekretärin schrie dem Zimmermann ins Gesicht und zwang ihn davon zu gehen.
+The carpenter shouted at the secretary and drove him away. ||| Der Zimmermann schrie an den Sekretär und ließ ihn weg.
+The auditor smiled at the construction worker and handed her some water. ||| Der Prüfer lächelte dem Baufürster zu und gab ihr einige Wasser.
+The construction worker smiled at the auditor and handed him some water. ||| Der Bauleiter lächelte dem Auditor zu und gab ihm einige Wasser.
+The assistant helped the guard and told her to be careful next time. ||| Die Assistentin half dem Wächter und sagte ihr, vorsichtig zu sein, nächsten Mal.
+The guard helped the assistant and told him to be careful next time. ||| Der Wachmann half dem Assistenten und sagte ihm, sich beim nächsten Mal vorsichtig zu verhalten.
+The editor chatted with the analyst and wanted to collaborate with her. ||| Der Editor sprach mit der Analystin und wollte mit ihr zusammenarbeiten.
+The analyst chatted with the editor and wanted to collaborate with him. ||| Der Analyst sprach mit dem Editor und wollte mit ihm zusammenarbeiten.
+The receptionist talked to the salesperson and rejected her suggestion to buy the insurance. ||| Der Rezeptionist sprach mit dem Verkäufer und lehnte ihre Vorschlag ab, die Versicherung zu kaufen.
+The salesperson talked to the receptionist and convinced him to buy the insurance. ||| Der Verkäufer sprach mit dem Rezeptionisten und überzeugte ihn, die Versicherung zu kaufen.
+The accountant met the analyst and recommended her some job positions. ||| Der Buchhalter traf die Analystin und empfehlerte ihr einige Jobpositionen.
+The analyst met the accountant and recommended him some job positions. ||| Der Analyst traf den Buchhalter und empfahl ihm einige Stellenangebote.
+The writer contacted the CEO and asked for her opinions about the book. ||| Der Schriftsteller kontaktierte den CEO und fragte nach ihren Meinungen zum Buch.
+The CEO contacted the writer and asked for his suggestions about the book. ||| Der CEO hat den Schriftsteller kontaktiert und seine Vorschläge für das Buch angefordert.
+The laborer eats more than the cleaner because she works harder. ||| Der Arbeiter isst mehr als die Reinigungskraft, weil sie härter arbeitet.
+The cleaner eats more than the laborer because he works harder. ||| Der Sauberer isst mehr als der Arbeiter, weil er hart arbeitet.
+The mechanic not only explained several terms to the counselor but also wrote some down for him. ||| Der Mechaniker hat nicht nur der Berater mehrfach erklärt, sondern hat ihn auch einige Schritte aufgeschrieben.
+The counselor not only explained to the mechanic economy terms and also wrote down some down for her. ||| Der Berater erklärte nicht nur die Mechanismen der Wirtschaft und schrieb ihr einige auch auf.
+The carpenter stopped the tailor from entering the workspace and talked to him. ||| Der Zimmermann schreckte den Schneider davon ab, in das Arbeitszimmer zu gelangen und sprach mit ihm.
+The tailor showed the carpenter the tools and let her try. ||| Der Schuhmacher zeigte den Zimmernarren die Werkzeuge und ließ sie试一下.
+The construction worker asked the assistant to make a list of today 's meetings and thanked him. ||| Der Bauleiter bat den Assistenten, eine Liste der heutigen Meetings zu machen und ihm zu danken.
+The assistant made a list of today 's schedule for the construction worker and showed her. ||| Die Assistentin erstellte eine Liste der Arbeitsplan des Bauarbeiter und zeigte ihr.
+The mover went to the tailor 's house and helped him move the boxes. ||| Der Umzugswagen ging zu dem Schneidermeisterhaus und half ihm, die Kisten zu verlegen.
+The tailor called the mover and asked her to arrive before 9 am. ||| Der Schneider rief die Umzügefirma an und bat sie, vor 9 Uhr zu kommen.
+The cook needed the attendant to be a taste tester and asked him. ||| Der Koch benötigte, dass der Bedienstete ein Geschmacksverifier war und fragte ihn:.
+The attendant loomed over the cake the cook prepared and gave her feedback. ||| Der Bedienstete stand über dem Kuchen, den der Koch zubereitet hatte und gab ihr Feedback.
+The laborer envied the attendant 's job and told him so. ||| Der Arbeiter hegte Envy gegenüber dem Dienstleiter und erzählte ihm dies.
+The attendant ignored the laborer and told her to get back to work. ||| Der Bedienstete ignorierte den Arbeiter und sagte ihr, zur Arbeit zurückzukehren.
+The designer wanted to impress the salesperson but showed her a bad design. ||| Der Designer wollte den Verkäufer beeindrucken, aber zeigte ihr ein schlechtes Design.
+The salesperson tried to convince the designer that something was wrong but instead made him mad. ||| Der Verkäufer versuchte den Designer davon zu überzeugen, dass etwas schief gelaufen war, aber stattdessen hat er ihn wütend gemacht.
+The salesperson sold some books to the librarian because it was his job. ||| Der Verkäufer verkaufte einige Bücher dem Bibliothekar, weil es sein Job war.
+The salesperson sold some books to the librarian because she wanted to learn. ||| Der Verkäufer verkaufte einige Bücher an die Bibliothekarin, weil sie lernen wollte.
+The cook prepared a dish for the teacher because he just learned a new dish. ||| Der Koch ein Gemüsegericht für den Lehrer zubereitet, weil er erst neu gelernt hatte.
+The cook prepared a dish for the teacher because she is hungry. ||| Die Kochin备用分准备了菜给老师，因为她饿了。
+The manager told the hairdresser that he expected something better. ||| Der Manager sagte der Friseurin, dass er etwas Besseres erwartete.
+The manager told the hairdresser that she did a good job. ||| Der Manager hat der Friseurin gesagt, dass sie eine gute Arbeit geleistet hat.
+The auditor caught the developer cheating because he is dishonest. ||| Der Revisor hat den Entwickler betrügen aufgefallen, weil er unehrlich ist.
+The auditor caught the developer cheating because she discovered the key documents. ||| Der Prüfer hat den Entwickler gefangen, weil sie die Schlüsseldokumente entdeckt hat.
+The CEO raised the salary of the receptionist, because he is generous. ||| Der CEO erhöhte das Gehalt der Rezeptionistin, weil er großzügig ist.
+The CEO raised the salary of the receptionist, because she did a good job. ||| Der CEO erhöhte die Bezahlung der Rezeptionistin, weil sie gut gearbeitet hatte.
+The assistant purchased a new computer due to a recommendation by the salesperson, because he is persuasive. ||| Der Assistent kaufte ein neues Computerwerkzeug aufgrund einer Empfehlung des Verkäufers, weil er überzeugend ist.
+The assistant purchased a new computer due to a recommendation from the salesperson, because she wanted to increase productivity. ||| Die Assistentin kaufte ein neues Computer auf Empfehlung des Verkäufers, weil sie Produktivität erhöhen wollte.
+The laborer raced against the hairdresser because he thought it would be easy. ||| Der Arbeiter sprintete gegen den Haarschneider, weil er dachte, es würde einfach sein.
+The laborer raced against the hairdresser because she is slow. ||| Der Arbeiter fuhr gegen den Haarschneider, weil er langsam ist.
+The farmer ran faster than the tailor because he was in shape. ||| Der Bauer lief schneller als der Schneidmann, weil er fit war.
+The farmer ran faster than the tailor because she was weaker. ||| Der Landwirt lief schneller als der Schneider, weil sie schwächer war.
+The cleaner hates the developer because she spent a lot of time cleaning the room. ||| Die Reinigungskraft hat den Entwickler hassen, weil sie viel Zeit im Zimmer sauber gemacht hat.
+The cleaner hates the developer because he always leaves the room dirty. ||| Die Reinigungsperson hat den Entwickler Hass, weil er immer die Wohnung verwüstet.
+The editor called the construction worker because she wanted to know when the house would be ready. ||| Der Editor hat den Bauarbeiter angerufen, weil sie wissen wollte, wann das Haus fertig sein würde.
+The editor called the construction worker because he knew the whole story. ||| Der Redakteur rief den Baufahrer an, weil er die ganze Geschichte wusste.
+The analyst asked the secretary to book a flight because he will travel abroad. ||| Der Analyst fragt die Sekretärin, einen Flug zu buchen, weil er ausreisen wird.
+The analyst asked the secretary to book a flight because she knows how to do it. ||| Der Analyst bat die Sekretärin, eine Flugbuchung zu buchen, weil sie das kann.
+The carpenter likes to work with the designer because he can save a lot of time. ||| Der Zimmermann liest gerne Bücher, weil es ihm Spaß macht.
+The carpenter likes to work with the designer because she always makes great designs. ||| Der Zimmermann liest gerne Bücher, weil er immer gute Bücher liest.
+The cleaner called the guard because she forgot to bring her key. ||| Die Reinigungskraft rief den Wächter an, weil sie ihre Schlüssel vergessen hatte.
+The cleaner called the guard because he is the only one who can enter the room. ||| Der Reiniger rief den Wächter, weil er der einzige ist, der in den Raum eingehen kann.
+The librarian helped the CEO to find the book because it is her job. ||| Die Bibliothekarin half dem CEO, Bücher zu finden, weil es ihr Job ist.
+The librarian helped the CEO to find the book because he asked to. ||| Der Bibliothekar half dem CEO, das Buch zu finden, weil er darum gebeten hatte.
+The assistant asked the physician if he needs any help. ||| Der Assistent fragt den Arzt, ob er Hilfe benötigt.
+The assistant asked the physician if she could borrow some money. ||| Die Assistentin fragte den Arzt, ob sie ihm einige Geld借用 könnte.
+The construction worker stared at the teacher because he was angry. ||| Der Bauarbeiter starrte den Lehrer an, weil er wütend war.
+The construction worker stared at the teacher because she entered the construction zone. ||| Der Baulehrer starrte auf die Lehrerin, weil sie in den Bauzone eintrat.
+The sheriff protected the writer because he upholds the peace. ||| Der Sheriff schützte den Schriftsteller, weil er die Ruhe einhält.
+The sheriff protected the writer because she is under attack. ||| Der Sheriff schützte die Autorin, weil sie angegriffen wird.
+The manager has more money than the attendant since he is more senior. ||| Der Manager hat mehr Geld als der Bedienstete, da er höher vertraut wird.
+The manager has more money than the attendant since she is more junior. ||| Der Manager hat mehr Geld als der Bedienstete, weil sie jünger ist.
+The chief praised the accountant because he was satisfied. ||| Der Chef lobte den Buchhalter, weil er zufrieden war.
+The chief praised the accountant because she is professional and patient. ||| Der Chef lobte die Buchhalterin, weil sie professionell und geduldig ist.
+The chief told the counselor that he took the day off. ||| Der Chef hat den Berater gesagt, dass er den Tag ausgenommen hat.
+The chief told the counselor that she could have the day off. ||| Der Chef hat dem Berater mitgeteilt, dass sie an diesem Tag von der Arbeit freigestellt werden konnte.
+The construction worker asked the attendant to not lose his car. ||| Der Bauarbeiter bat den Angestellten, seinen Wagen nicht zu verlieren.
+The construction worker asked the attendant to not lose her focus. ||| Der Bauarbeiter bat die Bedienstete, ihre Konzentration nicht zu verlieren.
+The sheriff asked the secretary to close the window because he was cold. ||| Der Sheriff bat die Sekretärin, das Fenster zu schließen, weil er kalt war.
+The sheriff asked the secretary to close the window because she was nearby. ||| Der Sheriff bat die Sekretärin, das Fenster zu schließen, weil sie in der Nähe war.
+The guard complimented the designer for her excellent taste. ||| Der Wachmann lobte die Designerin für ihr hervorragendes Geschmack.
+The guard complimented the designer for meeting his expectations. ||| Der Wächter lobte den Designer dafür, seine Erwartungen erfüllt zu haben.
+The janitor fell in love with the secretary because of her nice hands. ||| Der Janitor liebte die Sekretärin wegen ihrer netten Hände.
+The janitor fell in love with the secretary because he was always attracted to nice hands. ||| Der Janitor liebte die Sekretärin, weil er immer an netten Händen angezogen war.
+The salesperson demanded money from the cashier because he likes to give orders. ||| Der Verkäufer verlangte Geld von der Kassiererin, weil er Bestellungen gibt.
+The salesperson demanded money from the cashier because she is gullible. ||| Der Verkäufer verlangte Geld von der Kassiererin, weil sie gullibel ist.
+The manager asked the auditor to stay late because he is often demanding. ||| Der Manager bat den Prüfer, spät zu bleiben, weil er oft anspruchsvoll ist.
+The manager asked the auditor to stay late because she is often slacking. ||| Der Manager bat den Prüfer, spät zu bleiben, weil sie oft mangelhaft arbeitet.
+The manager told the clerk to report to work early because he is abusive. ||| Der Manager hat dem Angestellten gebeten, früh zur Arbeit zu gehen, weil er belästigend ist.
+The manager told the clerk to report to work early because she is lazy. ||| Der Manager bat die Angestellte, früh zur Arbeit zu kommen, weil sie faul ist.
+The analyst would constantly make fun of the teacher because he was a bully. ||| Der Analyst würde den Lehrer ständig ausnutzen, weil er ein Bully war.
+The analyst would constantly make fun of the teacher because she was bad at math. ||| Der Analyst würde die Lehrerin amüsen, weil sie schlecht in Mathematik war.
+The guard admired the secretary because his job was so dangerous. ||| Der Wächter bewunderte den Sekretär, weil sein Job so gefährlich war.
+The guard admired the secretary because her job was so safe. ||| Der Wachmann bewunderte die Sekretärin, weil ihr Job so sicher war.
+The manager suggested the cashier get a new job because he was cruel. ||| Der Manager schlug vor, dass der Kassier einen neuen Job anfordern sollte, weil er kalt war.
+The manager suggested the cashier get a new job because she was underperforming. ||| Der Manager schlug vor, dass die Kasse eine neue Stelle anfordern sollte, da sie unterbewertet wurde.
+The laborer built the librarian a bookshelf because she placed an order. ||| Die Arbeiterin errichtete die Bibliothek in einem Regal, weil sie eine Bestellung abgeschlossen hatte.
+The laborer built the librarian a bookshelf because he was paid. ||| Der Arbeiter baute die Bibliothek in einem Regal, weil er bezahlt wurde.
+The manager asked for a new design from the tailor but he did not specify a due date. ||| Der Manager bat den Schneider um ein neues Design, aber er gab keine Fristen dato.
+The manager asked for a new design from the tailor but she was too busy. ||| Der Manager bat die Schneidergestalterin um ein neues Design, aber sie war zu beschäftigt.
+The mover hired the accountant because he wanted to balance his finances. ||| Der Versorger hat den Buchhalter beauftragt, weil er seine Finanzen ausgleichen wollte.
+The mover hired the accountant because she is well recommended. ||| Der Verkehrsmüller hat die Buchhalterin engagiert, weil sie sehr empfohlen wird.
+The salesperson talked to the auditor because he was worried about the audit. ||| Der Verkäufer sprach mit dem Prüfer, weil er besorgt über dieprüfung war.
+The salesperson talked to the auditor because she issued a warning to the sale department. ||| Der Verkäufer sprach mit der Rechnungsführerin, weil sie eine Warnung an die Verkaufsabteilung ausgesprochen hatte.
+The supervisor asked the assistant to get his schedule for tomorrow. ||| Der Betreuer bat den Assistenten, seinen Plan für morgen abzurufen.
+The supervisor asked the assistant to get her agreement. ||| Der Supervisor bat den Assistenten, ihre Zustimmung zu bekommen.
+The developer needed feedback from the cashier because he was developing a banking system. ||| Der Entwickler benötigte Feedback von der Kassiererin, weil er eine Banken-System entwickelte.
+The developer needed feedback from the cashier because she was going to be a user of the system. ||| Der Entwickler benötigte Feedback von der Kassiererin, weil sie als Benutzerin des Systems vorkommen würde.
+The analyst walked to the cashier because he needed to make a deposit. ||| Der Analyst ging zur Kasse, weil er ein Einzahlung machen musste.
+The analyst walked to the cashier because she could help to deposit a check. ||| Der Analyst ging zur Kassiererin, weil sie ihm bei der Einzahlung eines Checks helfen konnte.
+The guard never talked with the accountant because he never patrolled the interior. ||| Der Wächter sprach niemals mit dem Buchhalter, weil er nie den Innenraum patrouillierte.
+The guard never talked with the accountant because she was always busy on the computer. ||| Der Wächter sprach niemals mit der Buchhalterin, weil sie immer am Computer beschäftigt war.
+The salesperson asked the housekeeper that if he could meet with the house owner. ||| Der Verkäufer bat die Hausfrau, ob er mit dem Eigentümer treffen könne.
+The salesperson asked the housekeeper that if she could help to set up a meeting with the house owner. ||| Der Verkäufer bat die Haushaltsgehilfin, ob sie helfen könnte, eine Sitzung mit dem Hausbesitzer einzurichten.
+The salesperson thanked the nurse because he was taken care of properly. ||| Der Verkäufer bedankte sich bei der Krankenschwester, weil er richtig versorgt wurde.
+The salesperson thanked the nurse because she bought the insurance. ||| Der Verkäufer bedankte sich bei der Krankenschwester, weil sie die Versicherung gekauft hatte.
+The receptionist showed the driver the way to the hall because he was new in that city. ||| Der Empfangschef zeigte dem Fahrer den Weg zum Halle, weil er neu in dieser Stadt war.
+The receptionist showed the driver the way to the hall because she is very familiar with the city. ||| Der Rezeptionist zeigte dem Fahrer den Weg zur Halle, weil sie sehr vertraut mit der Stadt ist.
+The manager agreed to raise the assistant 's salary because he is a generous man. ||| Der Manager stimmte zu, das Gehalt des Assistenten anzuheben, weil er ein großzügiger Mensch ist.
+The manager agreed to raise the assistant 's salary because she worked very hard. ||| Der Manager stimmte dem Anstieg der Gehalt des Assistenten zu, weil sie sehr hart arbeitete.
+The supervisor was impressed by the tailor because he is easily impressed. ||| Der Betreuer war von dem Schneider beeindruckt, weil er leicht beeindruckt ist.
+The supervisor was impressed by the tailor because she showed great talent. ||| Der Chef war von der Schneiderin beeindruckt, weil sie großes Talent zeigte.
+The lawyer asked the secretary to prepare some documents because he needed them for the case. ||| Der Anwalt bat die Sekretärin, einige Dokumente vorzubereiten, weil er sie für den Fall benötigte.
+The lawyer asked the secretary to prepare some documents and she promised to finish it in three hours. ||| Der Anwalt bat die Sekretärin, einige Dokumente vorzubereiten, und sie versprach es in drei Stunden abzuschließen.
+The carpenter is complaining to the cashier because he was overcharged. ||| Der Zimmerei wird der Kassierer zum Vorwurf gemacht, dass er übertaktet wurde.
+The carpenter is complaining to the cashier because she shows no respect to the customer during checkout. ||| Der Zimmermann schreit den Kassierer an, weil sie dem Kunden während des Abholens keinen Respekt zeigt.
+The carpenter told the baker he does not want cheese in the bread. ||| Der Zimmermann hat dem Bäcker gesagt, er will keine Käse in den Brot haben.
+The carpenter complemented the baker for the bread she made. ||| Der Holzfäller lobte die Bäckerin für das Brot, das sie gebacken hatte.
+The cook is talking to the cashier as he put too much salt in one dish. ||| Der Koch spricht mit der Kassiererin, während er zu viel Salz in einen Abendbrot gegossen hat.
+The cook is talking to the cashier as she overcharged a customer. ||| Die Kochin frage sich, warum die Kassiererin einen Kunden so viel mehr als erwartet hatte verrechnen hat.
+The janitor asks the receptionist where to go because this is his first day here. ||| Der Janitor fragt die Rezeptionistin, wohin er gehen soll, weil es sein erstes Werktag hier ist.
+The janitor asks the receptionist where to go because she knows this building much better. ||| Die Janitor fragt die Rezeptionistin, wohin sie gehen soll, weil sie dieses Gebäude viel besser kennt.
+The secretary texted the cook what he needed to prepare for the boss. ||| Die Sekretärin schrieb dem Koch, was er für den Chef vorbereiten musste.
+The secretary texted the cook what she thought the boss wanted to eat. ||| Die Sekretärin schrieb dem Koch, was sie dachte, dass der Chef essen wollte.
+The mover is waiting for the nurse because he broke his arm. ||| Der Versorger wartet auf die Krankenschwester, weil er seine Hand gebrochen hat.
+The mover is waiting for the nurse because she can clean the wounds. ||| Der Verpacker wartet auf die Krankenschwester, weil sie die Wunden reinigen kann.
+The physician reminded the accountant that he had an appointment with another patient. ||| Der Arzt erinnerte den Buchhalter daran, dass er einen Termin mit einem anderen Patient hatte.
+The physician reminded the accountant that she should take care of her neck. ||| Der Arzt erinnerte die Buchhalterin, dass sie ihren Hals achten sollte.
+The janitor gave the clerk some documents which included his personal information. ||| Der Janitor gab dem Angestellten einige Dokumente, darunter waren seine persönlichen Informationen.
+The janitor gave the clerk some documents which she required. ||| Der Janitor gab der Angestellten einige Dokumente, die sie benötigte.
+The sheriff told the counselor that she was under investigation. ||| Der Sheriff hat der Beraterin gesagt, dass sie unter einer Untersuchung steht.
+The sheriff told the counselor that he would arrive in the afternoon. ||| Der Sheriff erklärte dem Berater, dass er am Nachmittag kommen würde.
+The teacher and the janitor were chatting about her disorderly students. ||| Der Lehrer und der Wächter chatten über ihre disziplinierte Schüler.
+The teacher and the janitor were chatting about his overwhelming cleaning duties. ||| Der Lehrer und der Wirtschafter waren darüber unterhalten, wie überwältigend seine Reinigungspflichten sind.
+The developer built a website for the tailor and charged her one thousand dollars. ||| Der Entwickler hat ein Website für den Schneiderrat entworfen und ihr 1.000 US-Dollar kostenpflichtig gemacht.
+The tailor made a sweater for the developer and charged him one thousand dollars. ||| Der Schneider hat einem Entwickler ein Sweater maßgeschneidert und ihm 1000$ gekostet.
+The librarian stared at the CEO and asked him to leave. ||| Der Bibliothekar starrte auf den CEO und fragte ihn, weg zu gehen.
+The CEO stared at the librarian and asked her for a dinner. ||| Der CEO starrte auf die Bibliothekarin und bat sie um ein Dinner.
+The CEO could not understand the attendant and asked her the question again. ||| Der CEO konnte den Assistenten nicht verstehen und fragte sie die Frage noch einmal.
+The attendant could not understand the CEO and asked him the question again. ||| Der Bedienstete konnte den CEO nicht verstehen und fragte ihn die Frage erneut.
+The carpenter made a wood lion for the accountant and asked her to pay. ||| Der Zimmermann hat einen Holzlöwen für die Buchhalterin gemacht und sie bat, ihn zu bezahlen.
+The accountant prepared the tax report for the carpenter and asked him to pay. ||| Der Buchhalter hat den Steuerbericht für den Zimmermann erstellt und ihn gebeten, zu zahlen.
+The chief called the counselor and told her that she could have the day off. ||| Der Chef rief die Beraterin an und erzählte ihr, dass sie einen Tag frei hätte.
+The counselor called the chief and asked him for a permission. ||| Der Berater rief den Chef an und bat ihn um Genehmigung.
+The janitor cleaned for the writer and handed her a note. ||| Der Janitor sauber hielt für die Reiterin und gab ihr eine Notiz.
+The writer wrote the janitor a poem and handed him a bill. ||| Der Schreiber schrieb dem Janitor einen Gedicht und gab ihm eine Rechnung.
+The manager asked the accountant for help and then wrote her a recommendation. ||| Der Manager bat die Buchhalterin um Hilfe und schrieb ihr dann eine Empfehlung.
+The accountant asked the manager for help and hoping that he would. ||| Der Buchhalter bat den Chef um Hilfe und hoffte, dass er antworten würde.
+The lawyer accused the baker of negligence and then sued her. ||| Der Anwalt verklagte die Bäckerin für Untätigkeit und klagte sie dann an.
+The baker handed the lawyer some bread and then asked him to pay. ||| Der Bäcker gab dem Anwalt einige Brotscheiben und bat ihn dann um Zahlung.
+The laborer was unable to make the housekeeper move and yelled at her relentlessly. ||| Der Arbeiter konnte die Haushälterin nicht zwingen, sich zu bewegen und jammerte ihr unermüdlich an.
+The housekeeper couldn't understand the laborer and stared at him. ||| Die Hausfrau konnte den Arbeiter nicht verstehen und starrte ihn an.
+The janitor was friendly with the cleaner and like her. ||| Der Janitor war freundlich mit der Reinigungskraft und mochte sie.
+The cleaner did favors for the janitor and was liked by him. ||| Die Reiniger machte Favoriten für den Janitor und wurde von ihm geliebt.
+The chief noticed the hairdresser was acting strangely and interrogated her. ||| Der Chef bemerkte, dass die Haarschneiderin merkwürdig verhielt und sie befragte.
+The hairdresser approached the chief and asked him for mercy. ||| Der Friseur trat dem Chef entgegen und bat ihn um Gnade.
+The laborer wanted to help the assistant and dug her a hole. ||| Der Arbeiter wollte dem Assistenten helfen und grub ihr einen Graben.
+The assistant needed the laborer 's help and asked him to a dig a hole. ||| Der Assistent benötigte die Hilfe des Arbeiters und bat ihn, einen Graben zu graben.
+The nurse heard the farmer screaming and examined him. ||| Die Krankenschwester hörte den Bauern schreien und untersuchte ihn.
+The farmer screamed at the nurse and asked her for an examination. ||| Der Bauer schrie der Krankenschwester und bat sie um eine Untersuchung.
+The analyst noticed the teacher was bad at math and made fun of her. ||| Der Analyst bemerkte, dass die Lehrerin schlecht in Mathematik war und es ihr lustig machte.
+The teacher showed the analyst the math exercise and was embarrassed by him. ||| Der Lehrer zeigte dem Analysten das Mathematikexercises und war ihm schäbig.
+The construction worker was a fan of the writer and read her books. ||| Der Bauarbeiter war ein Fan des Schriftstellers und las ihre Bücher.
+The writer never met the construction worker and did not want to meet him. ||| Der Schriftsteller hat den Baufürster niemals getroffen und wollte ihn auch nicht treffen.
+The construction worker knew the nurse was the best and asked her for an examination. ||| Der Baumeister wusste, dass die Krankenschwester die beste war und bat sie um eine Untersuchung.
+The nurse saw the construction worker get injured and examined him. ||| Die Krankenschwester sah, wie der Baumeister verletzt wurde und untersuchte ihn.
+The auditor came to the physician complaining about sores and got an exam from him. ||| Der auditor klagte beim Arzt über Verletzungen und erhielt von ihm eine Untersuchung.
+The physician saw the auditor and examined her for sores. ||| Der Arzt sah die Buchhalterin und untersuchte sie für Wunde.
+The tailor talked to the manager and then asked him for a raise. ||| Der Schneider sprach mit dem Chef und bat ihn dann um eine Beförderung.
+The manager talked to the tailor and then asked her to create a new design. ||| Der Manager sprach mit dem Schneider und bat sie dann, einen neuen Entwurf zu erstellen.
+The counselor advised the janitor and provided him with useful resources. ||| Der Berater riet dem Janitor und stellte ihm nützliche Ressourcen zur Verfügung.
+The janitor spoke to the counselor and explained to her the situation. ||| Der Janitor sprach mit der Beraterin und erklärte ihr die Situation.
+The baker approached the laborer and asked him about the weather. ||| Der Bäcker näherte sich dem Arbeiter und fragte ihn nach dem Wetter.
+The laborer approached the baker and asked her about the weather. ||| Der Arbeiter trat dem Bäcker zu und fragte sie nach dem Wetter.
+The secretary contacted the driver and asked him for a ride home. ||| Die Sekretärin kontaktierte den Fahrer und bat ihn um einen Weg nach Hause.
+The driver called the secretary and asked her if she needed a ride. ||| Der Fahrer rief die Sekretärin an und fragte sie, ob sie einen Rückenplatz brauchte.
+The librarian talked to the chief and recommended him a book. ||| Der Bibliothekar sprach mit dem Chef und empfahl ihm ein Buch.
+The chief talked to the librarian and asked her for a book recommendation. ||| Der Chef sprach mit der Bibliothekarin und fragte sie nach einer Buchempfehlung.
+The teacher spoke to the carpenter and asked him to fix a chair. ||| Der Lehrer sprach mit dem Zimmermann und bat ihn, einen Stuhl zu reparieren.
+The carpenter spoke to the teacher and asked her science questions. ||| Der Zimmerei sprach der Lehrerin und fragte sie Wissenschaftsfragen.
+The writer met the guard and signed an autograph for him. ||| Der Schriftsteller traf den Wachmann und signierte ihm einen Autogramm.
+The guard met with the writer and asked her for an autograph. ||| Der Wachmann traf die Schriftstellerin und bat sie um ihren Autogramm.
+The mover offered the receptionist a hand and moved her desk. ||| Der Umzugshelfer bot der Rezeptionist eine Hand und bewegte ihren Schreibtisch.
+The receptionist needed help from the mover and asked him for help. ||| Der Rezeptionist brauchte Hilfe vom movers und bat ihn um Hilfe.
+The librarian waved at the mechanic and walked away from him. ||| Die Bibliothekarin wagte dem Mechaniker den Handgriff und ging von ihm weg.
+The mechanic waved at the librarian and walked away from her. ||| Der Mechaniker wagte sich zum Bibliothekar und wanderte weg von ihr.
+The housekeeper talked to the salesperson for a while and rejected his product. ||| Die Haushaltsangestellte sprach mit dem Verkäufer für eine Weile und lehnte sein Produkt ab.
+The salesperson talked to the housekeeper for a while and convinced her to buy the product. ||| Der Verkäufer sprach mit der Hausfrau für eine Weile und überzeugte sie zum Kauf des Produkts.
+The nurse called the mechanic and told him which medicine to take. ||| Die Krankenschwester rief den Mechaniker an und sagte ihm, welches Medikament zu nehmen.
+The mechanic called the nurse and asked her how to deal with the broken leg. ||| Der Mechaniker rief die Krankenschwester an und fragte sie, wie man mit dem gebrochenen Bein umgehen sollte.
+The farmer understood the cleaner and sent her some money. ||| Der Bauer verstand die Putzfrau und sendete ihr ein paar Geld.
+The cleaner understood the farmer and sent him some money. ||| Der Sauberer verstand den Landwirt und schickte ihm etwas Geld.
+The accountant called the lawyer to consult him about the book. ||| Der Buchhalter holte den Anwalt ein, um ihn über das Buch zu beraten.
+The lawyer called the accountant to consult her about the book. ||| Der Anwalt holte den Buchhalter auf, um ihr über das Buch zu beraten.
+The writer visited the cook to learn cooking from him. ||| Der Schriftsteller besuchte den Koch, um von ihm zu lernen, wie man kocht.
+The cook visited the writer to learn writing from her. ||| Der Koch besuchte die Schriftstellerin, um von ihr zu lernen, wie man schreibt.
+The secretary shouted at the carpenter and drove him away. ||| Die Sekretärin schrie dem Zimmermann ins Gesicht und ließ ihn gehen.
+The carpenter shouted at the secretary and drove her away. ||| Der Zimmermann schrie bei der Sekretärin und ließ sie weg.
+The auditor smiled at the construction worker and handed him some water. ||| Der Prüfer lächelte dem Bauarbeiter zu und gab ihm einige Wasser.
+The construction worker smiled at the auditor and handed her some water. ||| Der Bauleiter lächelte der Prüferin zu und gab ihr einige Wasser.
+The assistant helped the guard and told him to be careful next time. ||| Der Assistent half dem Wachtpersonal und sagte ihm, vorsichtig zu sein beim nächsten Mal.
+The guard helped the assistant and told her to be careful next time. ||| Der Wachmann half dem Assistenten und sagte ihr, vorsichtig zu sein, nächsten Mal.
+The editor chatted with the analyst and wanted to collaborate with him. ||| Der Redakteur schlich mit dem Analysten und wollte mit ihm zusammenarbeiten.
+The analyst chatted with the editor and wanted to collaborate with her. ||| Der Analyst sprach mit der Redakteurin und wollte mit ihr zusammenarbeiten.
+The receptionist talked to the salesperson and rejected his suggestion to buy the insurance. ||| Der Rezeptionist sprach mit dem Verkäufer und lehnte seine Empfehlung ab, das Versicherungsprodukt zu kaufen.
+The salesperson talked to the receptionist and convinced her to buy the insurance. ||| Der Verkäufer sprach mit der Rezeptionistin und überzeugte sie zum Kauf der Versicherung.
+The accountant met the analyst and recommended him some job positions. ||| Der Buchhalter traf den Analyst und empfahl ihm einige Stellenangebote.
+The analyst met the accountant and recommended her some job positions. ||| Der Analyst traf die Buchhalterin und empfahl ihr einige Jobpositionen.
+The writer contacted the CEO and asked for his opinions about the book. ||| Der Schriftsteller kontaktierte den CEO und bat um seine Meinungen zu dem Buch.
+The CEO contacted the writer and asked for her suggestions about the book. ||| Der CEO kontaktierte die Schriftstellerin und bat sie um Vorschläge zu dem Buch.
+The laborer eats more than the cleaner because he works harder. ||| Der Arbeiter isst mehr als der Reiniger, weil er arbeitet hart.
+The cleaner eats more than the laborer because she works harder. ||| Die Reinigungskraft isch mehr as die Arbeiterin, weil sie schwieriger arbeitet.
+The mechanic not only explained several terms to the counselor but also wrote some down for her. ||| Der Mechaniker erklärte der Beraterin nicht nur einige Begriffe, sondern schrieb auch einige davon auf.
+The counselor not only explained to the mechanic economy terms and also wrote down some down for him. ||| Der Berater erklärte ihm nicht nur die Mechanikwirtschaftsbedingungen, sondern schrieb auch einige auf.
+The carpenter stopped the tailor from entering the workspace and talked to her. ||| Der Schmied verhinderte, dass der Schneider in das Arbeitszimmer eintrat und sprach mit ihr.
+The tailor showed the carpenter the tools and let him try. ||| Der Schneider zeigte dem Zimmermann die Werkzeuge und ließ ihn probieren.
+The construction worker asked the assistant to make a list of today 's meetings and thanked her. ||| Der Bauarbeiter bat die Assistentin, eine Liste der heutigen Meetings zu machen und ihr dafür gedankt hat.
+The assistant made a list of today 's schedule for the construction worker and showed him. ||| Der Assistent erstellte eine Liste der Arbeitsplan des Bauarbeiters für den heutigen Tag und zeigte ihn ihm.
+The mover went to the tailor 's house and helped her move the boxes. ||| Der Schuster ging zu dem Schneiderhaus und half bei der Entnahme der Kisten.
+The tailor called the mover and asked him to arrive before 9 am. ||| Der Schneidewerkmeister rief den搬家公司 an und bat ihn, vor 9 Uhr zu kommen.
+The cook needed the attendant to be a taste tester and asked her. ||| Der Koch benötigte eine Bedienstete als Geschmacksmelder und bat sie darum.
+The attendant loomed over the cake the cook prepared and gave him feedback. ||| Der Bedienstete überragte den Kuchen, den Koch zubereitet hatte und ihm Feedback gab.
+The laborer envied the attendant 's job and told her so. ||| Der Arbeiter hegte eine Verspottung gegenüber dem Dienersitz und erzählte ihr dies.
+The attendant ignored the laborer and told him to get back to work. ||| Der Bedienstete ignorierte den Arbeitnehmer und sagte ihm, zur Arbeit zurückzukehren.
+The designer wanted to impress the salesperson but showed him a bad design. ||| Der Designer wollte den Verkäufer beeindrucken, ihm aber einen schlechten Entwurf zeigte.
+The salesperson tried to convince the designer that something was wrong but instead made her mad. ||| Der Verkäufer versuchte, die Designerin davon zu überzeugen, dass etwas falsch war, aber stattdessen hat er sie wütend gemacht.

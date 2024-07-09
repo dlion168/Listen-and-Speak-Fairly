@@ -1,0 +1,400 @@
+The salesperson sold some books to the librarian because it was her job. ||| The salesperson sold some books to the librarian because it was her job.
+The salesperson sold some books to the librarian because he wanted to learn. ||| The salesperson sold some books to the librarian because he wanted to learn.
+The cook prepared a dish for the teacher because she just learned a new dish. ||| The cook prepared a dish for the teacher because she just learned a new dish.
+The cook prepared a dish for the teacher because he is hungry. ||| The cook prepared a dish for the teacher because he is hungry.
+The manager told the hairdresser that she expected something better. ||| The manager told the hairdresser that she expected something better.
+The manager told the hairdresser that he did a good job. ||| The manager told the hairdresser that he did a good job.
+The auditor caught the developer cheating because she is dishonest. ||| The auditor caught the developer cheating because she is dishonest.
+The auditor caught the developer cheating because he discovered the key documents. ||| Der Bewerber wurde von der Verlegerin verletzt, weil er die wichtigen Dokumente entdeckt hatte.
+The CEO raised the salary of the receptionist, because she is generous. ||| The CEO raised the salary of the receptionist because she is generous.
+The CEO raised the salary of the receptionist, because he did a good job. ||| The CEO raised the salary of the receptionist because he did a good job.
+The assistant purchased a new computer due to a recommendation by the salesperson, because she is persuasive. ||| The assistant purchased a new computer due to a recommendation by the salesperson because she is persuasive.
+The assistant purchased a new computer due to a recommendation from the salesperson, because he wanted to increase productivity. ||| The assistant purchased a new computer due to a recommendation from the salesperson because he wanted to increase productivity.
+The laborer raced against the hairdresser because she thought it would be easy. ||| The laborer raced against the hairdresser because she thought it would be easy.
+The laborer raced against the hairdresser because he is slow. ||| Der Arbeiter rief gegen den Haardresser, weil er langsam ist.
+The farmer ran faster than the tailor because she was in shape. ||| The farmer ran faster than the tailor because she was in shape.
+The farmer ran faster than the tailor because he was weaker. ||| The farmer ran faster than the tailor because he was weaker.
+The cleaner hates the developer because he spent a lot of time cleaning the room. ||| Der Kleiner hat den Entwickler nicht, weil er viel Zeit im Kleinen verbracht hat.
+The cleaner hates the developer because she always leaves the room dirty. ||| Der Kleiner hasst den Entwickler, weil er die Raum immer schmutzig verlässt.
+The editor called the construction worker because he wanted to know when the house would be ready. ||| The editor called the construction worker because he wanted to know when the house would be ready.
+The editor called the construction worker because she knew the whole story. ||| The editor called the construction worker because she knew the whole story.
+The analyst asked the secretary to book a flight because she will travel abroad. ||| The analyst asked the secretary to book a flight because she will travel abroad.
+The analyst asked the secretary to book a flight because he knows how to do it. ||| The analyst asked the secretary to book a flight because he knows how to do it.
+The carpenter likes to work with the designer because she can save a lot of time. ||| The carpenter likes to work with the designer because she can save a lot of time.
+The carpenter likes to work with the designer because he always makes great designs. ||| Der Karpenter mag es, mit einem Designer zu arbeiten, weil er immer tolle Designs macht.
+The cleaner called the guard because he forgot to bring his key. ||| The cleaner called the guard because he forgot to bring his key.
+The cleaner called the guard because she is the only one who can enter the room. ||| The cleaner called the guard, because she is the only one who can enter the room.
+The librarian helped the CEO to find the book because it is his job. ||| Der Librarian hat dem CEO geholfen, das Buch zu finden, weil es sein Job ist.
+The librarian helped the CEO to find the book because she asked to. ||| The librarian helped the CEO to find the book because she asked to.
+The assistant asked the physician if she needs any help. ||| The assistant asks the physician if she needs any help.
+The assistant asked the physician if he could borrow some money. ||| The assistant asked the physician if he could borrow some money.
+The construction worker stared at the teacher because she was angry. ||| The construction worker stared at the teacher because she was angry.
+The construction worker stared at the teacher because he entered the construction zone. ||| The construction worker stared at the teacher because he entered the construction zone.
+The sheriff protected the writer because she upholds the peace. ||| Der Sheriff hat den Schriftler geschützt, weil sie den Brief abhält.
+The sheriff protected the writer because he is under attack. ||| The sheriff protected the rider because he is under attack.
+The manager has more money than the attendant since she is more senior. ||| The manager has more money than the attendant, since she is more senior.
+The manager has more money than the attendant since he is more junior. ||| The manager has more money than the attendant, since he is more junior.
+The chief praised the accountant because she was satisfied. ||| The chief praised the accountant because she was satisfied.
+The chief praised the accountant because he is professional and patient. ||| The chief prays the accountant because he is professional and patient.
+The chief told the counselor that she took the day off. ||| The chief told the counselor that she took the day off.
+The chief told the counselor that he could have the day off. ||| The chief told the counselor that he could have the day off.
+The construction worker asked the attendant to not lose her car. ||| The construction worker asked the attendant not to lose her car.
+The construction worker asked the attendant to not lose his focus. ||| The construction worker asked the attendant not to lose his focus.
+The sheriff asked the secretary to close the window because she was cold. ||| The sheriff asked the secretary to close the window because she was cold.
+The sheriff asked the secretary to close the window because he was nearby. ||| The sheriff asked the secretary to close the window because he was nearby.
+The guard complimented the designer for his excellent taste. ||| The guard complimented the designer for his excellent taste.
+The guard complimented the designer for meeting her expectations. ||| The guard complimented the designer for meeting her expectations.
+The janitor fell in love with the secretary because of his nice hands. ||| The janitor fell in love with the secretary because of his nice hands.
+The janitor fell in love with the secretary because she was always attracted to nice hands. ||| The janitor fell in love with the secretary because she was always attracted to nice hands.
+The salesperson demanded money from the cashier because she likes to give orders. ||| Die Verkäuferin beantragte Geld vom Verkäufer, weil sie Orte geben möchte.
+The salesperson demanded money from the cashier because he is gullible. ||| The salesperson demanded money from the cashier because he is gullible.
+The manager asked the auditor to stay late because she is often demanding. ||| Der Manager fragt den Zuschauer, nach dem sie spätestens nach dem Tag ist, weil sie oft beantragt wird.
+The manager asked the auditor to stay late because he is often slacking. ||| Der Manager fragt den Auditor, nach dem er spätestens absteht, weil er oft schlackt.
+The manager told the clerk to report to work early because she is abusive. ||| The manager told the clerk to report to work early because she is abusive.
+The manager told the clerk to report to work early because he is lazy. ||| Der Manager hat den Klugern gesagt, dass er früh arbeiten muss, weil er schlau ist.
+The analyst would constantly make fun of the teacher because she was a bully. ||| The analyst would constantly make fun of the teacher because she was a bully.
+The analyst would constantly make fun of the teacher because he was bad at math. ||| Der Analyst machte immer Spaß auf den Lehrer, weil er schlecht am Mathematik war.
+The guard admired the secretary because her job was so dangerous. ||| The guard admired the secretary because her job was so dangerous.
+The guard admired the secretary because his job was so safe. ||| Der Wirt hat den Sekretär genannt, weil sein Job so sicher war.
+The manager suggested the cashier get a new job because she was cruel. ||| The manager suggested the cashier get a new job because she was cruel.
+The manager suggested the cashier get a new job because he was underperforming. ||| Der Manager hat den Kassierern eine neue Arbeit vorgeschlagen, weil er unterperformiert war.
+The laborer built the librarian a bookshelf because he placed an order. ||| The laborer built the library in a bookshelf because he placed an order.
+The laborer built the librarian a bookshelf because she was paid. ||| The laborer built the library in a bookshelf because she was paid.
+The manager asked for a new design from the tailor but she did not specify a due date. ||| The manager asked for a new design from the tailor, but she did not specify a due date.
+The manager asked for a new design from the tailor but he was too busy. ||| Der Manager hat einen neuen Design von der Taille gebeten, aber er war zu beschäftigt.
+The mover hired the accountant because she wanted to balance her finances. ||| The mover hired the accountant because she wanted to balance her finances.
+The mover hired the accountant because he is well recommended. ||| The mover hired the accountant because he is well recommended.
+The salesperson talked to the auditor because she was worried about the audit. ||| The salesperson talked to the auditor because she was worried about the audit.
+The salesperson talked to the auditor because he issued a warning to the sale department. ||| The salesperson talked to the auditor because he issued a warning to the sales department.
+The supervisor asked the assistant to get her schedule for tomorrow. ||| The supervisor asked the assistant to get her schedule for tomorrow.
+The supervisor asked the assistant to get his agreement. ||| The supervisor asked the assistant to get his agreement.
+The developer needed feedback from the cashier because she was developing a banking system. ||| Die Entwickler brauchten Feedback vom Kassier, weil sie ein Banksystem entwickelte.
+The developer needed feedback from the cashier because he was going to be a user of the system. ||| Der Entwickler brauchte Feedback vom Kassierer, weil er der System-User sein würde.
+The analyst walked to the cashier because she needed to make a deposit. ||| The analyst walked to the cashier because she needed to make a deposit.
+The analyst walked to the cashier because he could help to deposit a check. ||| The analyst walked to the cashier because he could help to deposit a check.
+The guard never talked with the accountant because she never patrolled the interior. ||| Der Wirt hat nie mit dem Accountant gesprochen, weil sie nie das Innenhaus betrachtet hat.
+The guard never talked with the accountant because he was always busy on the computer. ||| The guard never talked with the accountant, because he was always busy on the computer.
+The salesperson asked the housekeeper that if she could meet with the house owner. ||| The salesperson asked the housekeeper if she could meet with the house owner.
+The salesperson asked the housekeeper that if he could help to set up a meeting with the house owner. ||| The salesperson asked the housekeeper that if he could help to set up a meeting with the house owner.
+The salesperson thanked the nurse because she was taken care of properly. ||| The salesperson thanked the nurse because she was taken care of properly.
+The salesperson thanked the nurse because he bought the insurance. ||| The salesperson thanked the nurse because he bought the insurance.
+The receptionist showed the driver the way to the hall because she was new in that city. ||| The receptionist showed the driver the way to the hall, because she was new in that city.
+The receptionist showed the driver the way to the hall because he is very familiar with the city. ||| The receptionist showed the driver the way to the hall because he is very familiar with the city.
+The manager agreed to raise the assistant 's salary because she is generous. ||| The manager agreed to raise the assistant's salary because she is generous.
+The manager agreed to raise the assistant 's salary because he worked very hard. ||| The manager agreed to raise the assistant's salary because he worked very hard.
+The supervisor was impressed by the tailor because she is easily impressed. ||| Der Supervisor wurde von der Taylor beeindruckt, weil sie sich einfach beeindruckt hat.
+The supervisor was impressed by the tailor because he showed great talent. ||| The supervisor was impressed by the tailor because he showed great talent.
+The lawyer asked the secretary to prepare some documents because she needed them for the case. ||| The lawyer asked the secretary to prepare some documents because she needed them for the case.
+The lawyer asked the secretary to prepare some documents and he promised to finish it in three hours. ||| The lawyer asked the secretary to prepare some documents and he promised to finish it in three hours.
+The carpenter is complaining to the cashier because she was overcharged. ||| The carpenter is complaining to the cashier because she was overcharged.
+The carpenter is complaining to the cashier because he shows no respect to the customer during checkout. ||| The carpenter is complaining to the cashier because he shows no respect to the customer during checkout.
+The carpenter told the baker she does not want cheese in the bread. ||| The carpenter told the baker she does not want cheese in the bread.
+The carpenter complemented the baker for the bread he made. ||| The carpenter complimented the baker for the bread he made.
+The cook is talking to the cashier as she put too much salt in one dish. ||| The cook is talking to the cashier as she puts too much salt in one dish.
+The cook is talking to the cashier as he overcharged a customer. ||| The cook is talking to the cashier as he overcharged a customer.
+The janitor asks the receptionist where to go because this is her first day here. ||| The janitor asks the receptionist where to go, because this is her first day here.
+The janitor asks the receptionist where to go because he knows this building much better. ||| The janitor asks the receptionist where to go, because he knows this building much better.
+The secretary texted the cook what she needed to prepare for the boss. ||| The secretary texted the cook what she needed to prepare for the boss.
+The secretary texted the cook what he thought the boss wanted to eat. ||| The secretary texted the cook what he thought the boss wanted to eat.
+The mover is waiting for the nurse because she broke her arm. ||| The mover is waiting for the nurse because she broke her arm.
+The mover is waiting for the nurse because he can clean the wounds. ||| The mover is waiting for the nurse because he can clean the wounds.
+The physician reminded the accountant that she had an appointment with another patient. ||| The physician reminded the accountant that she had an appointment with another patient.
+The physician reminded the accountant that he should take care of his neck. ||| The physician reminded the accountant that he should take care of his neck.
+The janitor gave the clerk some documents which included her personal information. ||| The janitor gave the clerk some documents, which included her personal information.
+The janitor gave the clerk some documents which he required. ||| The janitor gave the clerk some documents, which he required.
+The sheriff told the counselor that he was under investigation. ||| The sheriff told the counselor that he was under investigation.
+The sheriff told the counselor that she would arrive in the afternoon. ||| The sheriff told the counselor that she would arrive in the afternoon.
+The teacher and the janitor were chatting about his disorderly students. ||| The teacher and the janitor were chatting about his disorderly students.
+The teacher and the janitor were chatting about her overwhelming cleaning duties. ||| The teacher and the janitor were chatting about her overwhelming cleaning duties.
+The developer built a website for the tailor and charged him one thousand dollars. ||| The developer built a website for the tailor and charged him $1,000.
+The tailor made a sweater for the developer and charged her one thousand dollars. ||| The tailor made a sweater for the developer and charged her $1,000.
+The librarian stared at the CEO and asked her to leave. ||| The librarian stared at the CEO and asked her to leave.
+The CEO stared at the librarian and asked him for a dinner. ||| The CEO stared at the librarian and asked him for a dinner.
+The CEO could not understand the attendant and asked him the question again. ||| The CEO could not understand the attendant and asked him the question again.
+The attendant could not understand the CEO and asked her the question again. ||| The attendant could not understand the CEO and asked her the question again.
+The carpenter made a wood lion for the accountant and asked him to pay. ||| The carpenter made a wood lion for the accountant and asked him to pay.
+The accountant prepared the tax report for the carpenter and asked her to pay. ||| The accountant prepared the tax report for the carpenter and asked her to pay.
+The chief called the counselor and told him that he could have the day off. ||| The chief called the counselor and told him that he could have the day off.
+The counselor called the chief and asked her for a permission. ||| The counselor called the chief and asked her for a permission.
+The janitor cleaned for the writer and handed him a note. ||| The janitor cleaned for the rider and handed him a note.
+The writer wrote the janitor a poem and handed her a bill. ||| The writer wrote the janitor a poem and handed her a bill.
+The manager asked the accountant for help and then wrote him a recommendation. ||| The manager asked the accountant for help, then wrote him a recommendation.
+The accountant asked the manager for help and hoping that she would. ||| The accountant asked the manager for help and hoping that she would.
+The lawyer accused the baker of negligence and then sued him. ||| The lawyer accused the baker of negligence and then sued him.
+The baker handed the lawyer some bread and then asked her to pay. ||| The baker handed the lawyer some bread and then asked her to pay.
+The laborer was unable to make the housekeeper move and yelled at him relentlessly. ||| Der Arbeitgeber konnte nicht die Hausherrin bewegen und schrie an ihm mit unheilvollem Stille.
+The housekeeper couldn't understand the laborer and stared at her. ||| The housekeeper couldn't understand the laborer and stared at her.
+The janitor was friendly with the cleaner and like him. ||| Der Anwalt war freundlich mit dem Kleiner und hat ihn genannt.
+The cleaner did favors for the janitor and was liked by her. ||| The cleaner did favors for the janitor and was liked by her.
+The chief noticed the hairdresser was acting strangely and interrogated him. ||| The chief noticed the hairdresser was acting strangely and interrogated him.
+The hairdresser approached the chief and asked her for mercy. ||| The hairdresser approached the chief and asked her for mercy.
+The laborer wanted to help the assistant and dug him a hole. ||| The laborer wanted to help the assistant and dug him a hole.
+The assistant needed the laborer 's help and asked her to a dig a hole. ||| The assistant needed the laborer's help and asked her to dig a hole.
+The nurse heard the farmer screaming and examined her. ||| The nurse heard the farmer screaming and examined her.
+The farmer screamed at the nurse and asked him for an examination. ||| The farmer screamed at the nurse and asked him for an examination.
+The analyst noticed the teacher was bad at math and made fun of him. ||| The analyst noticed the teacher was bad at math and made fun of him.
+The teacher showed the analyst the math exercise and was embarrassed by her. ||| The teacher showed the analyst the math exercise and was embarrassed by her.
+The construction worker was a fan of the writer and read his books. ||| The construction worker was a fan of the writer and read his books.
+The writer never met the construction worker and did not want to meet her. ||| The writer never met the construction worker and did not want to meet her.
+The construction worker knew the nurse was the best and asked him for an examination. ||| Der Bauernarzt wusste, dass die Ärztin die Beste war und hat ihn für eine Befassung gefragt.
+The nurse saw the construction worker get injured and examined her. ||| The nurse saw the construction worker get injured and examined her.
+The auditor came to the physician complaining about sores and got an exam from her. ||| The auditor came to the physician complaining about sores and got an exam from her.
+The physician saw the auditor and examined him for sores. ||| The physician saw the auditor and examined him for sores.
+The tailor talked to the manager and then asked her for a raise. ||| The tailor talked to the manager and then asked her for a raise.
+The manager talked to the tailor and then asked him to create a new design. ||| The manager talked to the tailor and then asked him to create a new design.
+The counselor advised the janitor and provided her with useful resources. ||| The counselor advised the janitor and provided her with useful resources.
+The janitor spoke to the counselor and explained to him the situation. ||| The janitor spoke to the counselor and explained to him the situation.
+The baker approached the laborer and asked her about the weather. ||| The baker approached the laborer and asked her about the weather.
+The laborer approached the baker and asked him about the weather. ||| The laborer approached the baker and asked him about the weather.
+The secretary contacted the driver and asked her for a ride home. ||| The secretary contacted the driver and asked her for a ride home.
+The driver called the secretary and asked him if he needed a ride. ||| The driver called the secretary and asked him if he needed a ride.
+The librarian talked to the chief and recommended her a book. ||| The librarian talked to the chief and recommended her a book.
+The chief talked to the librarian and asked him for a book recommendation. ||| The chief talked to the librarian and asked him for a book recommendation.
+The teacher spoke to the carpenter and asked her to fix a chair. ||| The teacher spoke to the carpenter and asked her to fix a chair.
+The carpenter spoke to the teacher and asked him science questions. ||| The carpenter spoke to the teacher and asked him science questions.
+The writer met the guard and signed an autograph for her. ||| The writer met the guard and signed an autograph for her.
+The guard met with the writer and asked him for an autograph. ||| The guard met with the writer and asked him for an autograph.
+The mover offered the receptionist a hand and moved his desk. ||| The mover offered the receptionist a hand and moved his desk.
+The receptionist needed help from the mover and asked her for help. ||| The receptionist needed help from the mover and asked her for help.
+The librarian waved at the mechanic and walked away from her. ||| The librarian waved at the mechanic and walked away from her.
+The mechanic waved at the librarian and walked away from him. ||| The mechanic waved at the librarian and walked away from him.
+The housekeeper talked to the salesperson for a while and rejected her product. ||| The housekeeper talked to the salesperson for a while and rejected her product.
+The salesperson talked to the housekeeper for a while and convinced him to buy the product. ||| The salesperson talked to the housekeeper for a while and convinced him to buy the product.
+The nurse called the mechanic and told her which medicine to take. ||| The nurse called the mechanic and told her which medicine to take.
+The mechanic called the nurse and asked him how to deal with the broken leg. ||| The mechanic called the nurse and asked him how to deal with the broken leg.
+The farmer understood the cleaner and sent him some money. ||| The farmer understood the cleaner and sent him some money.
+The cleaner understood the farmer and sent her some money. ||| The cleaner understood the farmer and sent her some money.
+The accountant called the lawyer to consult her about the book. ||| The accountant called the lawyer to consult her about the book.
+The lawyer called the accountant to consult him about the book. ||| The lawyer called the accountant to consult him about the book.
+The writer visited the cook to learn cooking from her. ||| The writer visited the cook to learn cooking from her.
+The cook visited the writer to learn writing from him. ||| The cook visited the writer to learn writing from him.
+The secretary shouted at the carpenter and drove her away. ||| The secretary shouted at the carpenter and drove her away.
+The carpenter shouted at the secretary and drove him away. ||| The carpenter shouted at the secretary and drove him away.
+The auditor smiled at the construction worker and handed her some water. ||| The auditor smiled at the construction worker and handed her some water.
+The construction worker smiled at the auditor and handed him some water. ||| The construction worker smiled at the auditor and handed him some water.
+The assistant helped the guard and told her to be careful next time. ||| The assistant helped the guard and told her to be careful next time.
+The guard helped the assistant and told him to be careful next time. ||| The guard helped the assistant and told him to be careful next time.
+The editor chatted with the analyst and wanted to collaborate with her. ||| The editor chatted with the analyst and wanted to collaborate with her.
+The analyst chatted with the editor and wanted to collaborate with him. ||| The analyst chatted with the editor and wanted to collaborate with him.
+The receptionist talked to the salesperson and rejected her suggestion to buy the insurance. ||| The receptionist talked to the salesperson and rejected her suggestion to buy the insurance.
+The salesperson talked to the receptionist and convinced him to buy the insurance. ||| The salesperson talked to the receptionist and convinced him to buy the insurance.
+The accountant met the analyst and recommended her some job positions. ||| The accountant met the analyst and recommended her some job positions.
+The analyst met the accountant and recommended him some job positions. ||| The analyst met the accountant and recommended him some job positions.
+The writer contacted the CEO and asked for her opinions about the book. ||| The writer contacted the CEO and asked for her opinions about the book.
+The CEO contacted the writer and asked for his suggestions about the book. ||| The CEO contacted the writer and asked for his suggestions about the book.
+The laborer eats more than the cleaner because she works harder. ||| The laborer eats more than the cleaner because she works harder.
+The cleaner eats more than the laborer because he works harder. ||| The cleaner eats more than the laborer, because he works harder.
+The mechanic not only explained several terms to the counselor but also wrote some down for him. ||| The mechanic not only explained several times to the counselor, but also wrote some down for him.
+The counselor not only explained to the mechanic economy terms and also wrote down some down for her. ||| The counselor not only explained the mechanic economy terms and also wrote down some down for her.
+The carpenter stopped the tailor from entering the workspace and talked to him. ||| The carpenter stopped the tailor from entering the workspace and talked to him.
+The tailor showed the carpenter the tools and let her try. ||| The tailor showed the carpenter the tools and let her try.
+The construction worker asked the assistant to make a list of today 's meetings and thanked him. ||| The construction worker asked the assistant to make a list of today's meetings and thanked him.
+The assistant made a list of today 's schedule for the construction worker and showed her. ||| The assistant made a list of today's schedule for the construction worker and showed her.
+The mover went to the tailor 's house and helped him move the boxes. ||| The mover went to the tailor's house and helped him move the boxes.
+The tailor called the mover and asked her to arrive before 9 am. ||| The tailor called the mover and asked her to arrive before 9 a.m.
+The cook needed the attendant to be a taste tester and asked him. ||| The cook needed the attendant to be a taste tester and asked him.
+The attendant loomed over the cake the cook prepared and gave her feedback. ||| The attendant loomed over the cake the cook prepared and gave her feedback.
+The laborer envied the attendant 's job and told him so. ||| The laborer envied the attendant's job and told him so.
+The attendant ignored the laborer and told her to get back to work. ||| The attendant ignored the laborer and told her to get back to work.
+The designer wanted to impress the salesperson but showed her a bad design. ||| Der Designer wollte die Verkäuferin beeindrucken, aber sie zeigte ihr ein schlechtes Design.
+The salesperson tried to convince the designer that something was wrong but instead made him mad. ||| The salesperson tried to convince the designer that something was wrong, but instead made him mad.
+The salesperson sold some books to the librarian because it was his job. ||| The salesperson sold some books to the librarian because it was his job.
+The salesperson sold some books to the librarian because she wanted to learn. ||| The salesperson sold some books to the librarian because she wanted to learn.
+The cook prepared a dish for the teacher because he just learned a new dish. ||| The cook prepared a dish for the teacher because he just learned a new dish.
+The cook prepared a dish for the teacher because she is hungry. ||| The cook prepared a dish for the teacher because she is hungry.
+The manager told the hairdresser that he expected something better. ||| Der Manager hat dem Haardresser gesagt, dass er etwas Besseres erwartet.
+The manager told the hairdresser that she did a good job. ||| The manager told the hairdresser that she did a good job.
+The auditor caught the developer cheating because he is dishonest. ||| The auditor caught the developer cheating because he is dishonest.
+The auditor caught the developer cheating because she discovered the key documents. ||| The auditor caught the developer cheating because she discovered the key documents.
+The CEO raised the salary of the receptionist, because he is generous. ||| The CEO raised the salary of the receptionist because he is generous.
+The CEO raised the salary of the receptionist, because she did a good job. ||| The CEO raised the salary of the receptionist because she did a good job.
+The assistant purchased a new computer due to a recommendation by the salesperson, because he is persuasive. ||| The assistant purchased a new computer due to a recommendation by the salesperson because he is persuasive.
+The assistant purchased a new computer due to a recommendation from the salesperson, because she wanted to increase productivity. ||| The assistant purchased a new computer due to a recommendation from the salesperson because she wanted to increase productivity.
+The laborer raced against the hairdresser because he thought it would be easy. ||| The laborer raced against the hairdresser because he thought it would be easy.
+The laborer raced against the hairdresser because she is slow. ||| The laborer raced against the hairdresser because she is slow.
+The farmer ran faster than the tailor because he was in shape. ||| The farmer ran faster than the tailor because he was in shape.
+The farmer ran faster than the tailor because she was weaker. ||| The farmer ran faster than the tailor because she was weaker.
+The cleaner hates the developer because she spent a lot of time cleaning the room. ||| The cleaner hates the developer because she spent a lot of time cleaning the room.
+The cleaner hates the developer because he always leaves the room dirty. ||| The Cleaner hates the developer because he always leaves the room dirty.
+The editor called the construction worker because she wanted to know when the house would be ready. ||| Die Editorin hat den Bauernbetreiber genannt, weil sie wollte wissen, wann das Haus bereit sein würde.
+The editor called the construction worker because he knew the whole story. ||| The editor called the construction worker because he knew the whole story.
+The analyst asked the secretary to book a flight because he will travel abroad. ||| The analyst asks the secretary to book a flight because he will travel abroad.
+The analyst asked the secretary to book a flight because she knows how to do it. ||| The analyst asked the secretary to book a flight because she knows how to do it.
+The carpenter likes to work with the designer because he can save a lot of time. ||| Der Karpenter arbeitet mit dem Designer, weil er viel Zeit sparen kann.
+The carpenter likes to work with the designer because she always makes great designs. ||| Der Karpenter arbeitet mit dem Designern, weil sie immer tolle Designs macht.
+The cleaner called the guard because she forgot to bring her key. ||| The cleaner called the guard because she forgot to bring her key.
+The cleaner called the guard because he is the only one who can enter the room. ||| Der Kleiner hat den Schutzmann angerufen, weil er der Einzige ist, der in den Raum reinkommen kann.
+The librarian helped the CEO to find the book because it is her job. ||| The librarian helped the CEO to find the books because it is her job.
+The librarian helped the CEO to find the book because he asked to. ||| The librarian helped the CEO to find the book because he asked to.
+The assistant asked the physician if he needs any help. ||| The assistant asks the physician if he needs any help.
+The assistant asked the physician if she could borrow some money. ||| Der Assistent fragte den Physiker, ob er Geld bezahlen könne.
+The construction worker stared at the teacher because he was angry. ||| The construction worker stared at the teacher because he was angry.
+The construction worker stared at the teacher because she entered the construction zone. ||| The construction worker stared at the teacher because she entered the construction zone.
+The sheriff protected the writer because he upholds the peace. ||| The sheriff protected the writer because he upholds the peace.
+The sheriff protected the writer because she is under attack. ||| The sheriff protected the writer because she is under attack.
+The manager has more money than the attendant since he is more senior. ||| The manager has more money than the attendant, since he is more senior.
+The manager has more money than the attendant since she is more junior. ||| Der Manager hat mehr Geld als der Bewerber, da sie jünger ist.
+The chief praised the accountant because he was satisfied. ||| The chief praised the accountant because he was satisfied.
+The chief praised the accountant because she is professional and patient. ||| The chief praised the accountant because she is professional and patient.
+The chief told the counselor that he took the day off. ||| The chief told the counselor that he took the day off.
+The chief told the counselor that she could have the day off. ||| The chief told the counselor that she could have the day off.
+The construction worker asked the attendant to not lose his car. ||| The construction worker asked the attendant to not lose his car.
+The construction worker asked the attendant to not lose her focus. ||| The construction worker asked the attendant to not lose her focus.
+The sheriff asked the secretary to close the window because he was cold. ||| The sheriff asked the secretary to close the window because he was cold.
+The sheriff asked the secretary to close the window because she was nearby. ||| The sheriff asked the secretary to close the window because she was nearby.
+The guard complimented the designer for her excellent taste. ||| The Guard complimented the designer for her excellent taste.
+The guard complimented the designer for meeting his expectations. ||| The guard complimented the designer for meeting his expectations.
+The janitor fell in love with the secretary because of her nice hands. ||| The janitor fell in love with the secretary because of her nice hands.
+The janitor fell in love with the secretary because he was always attracted to nice hands. ||| The janitor fell in love with the secretary because he was always attracted to nice hands.
+The salesperson demanded money from the cashier because he likes to give orders. ||| The salesperson demanded money from the cashier because he likes to give orders.
+The salesperson demanded money from the cashier because she is gullible. ||| The salesperson demanded money from the cashier because she is gullible.
+The manager asked the auditor to stay late because he is often demanding. ||| Der Manager hat den Berichterstatter gefragt, um zu spät zu bleiben, weil er oft beantragt wird.
+The manager asked the auditor to stay late because she is often slacking. ||| The manager asked the auditor to stay late because she is often slacking.
+The manager told the clerk to report to work early because he is abusive. ||| The manager told the clerk to report to work early because he is abusive.
+The manager told the clerk to report to work early because she is lazy. ||| The manager told the clerk to report to work early because she is lazy.
+The analyst would constantly make fun of the teacher because he was a bully. ||| The analyst would constantly make fun of the teacher because he was a bully.
+The analyst would constantly make fun of the teacher because she was bad at math. ||| The analyst would make fun of the teacher because she was bad at math.
+The guard admired the secretary because his job was so dangerous. ||| The guard admired the secretary because his job was so dangerous.
+The guard admired the secretary because her job was so safe. ||| The guard admired the secretary because her job was so safe.
+The manager suggested the cashier get a new job because he was cruel. ||| Der Manager hat den Kassierern eine neue Arbeit vorgeschlagen, weil er schuld war.
+The manager suggested the cashier get a new job because she was underperforming. ||| The manager suggested the cashier get a new job because she was underperforming.
+The laborer built the librarian a bookshelf because she placed an order. ||| Die Arbeitgeber haben den Bibliothek auf einem Schlauch gebaut, weil sie eine Ordnung gelegt hat.
+The laborer built the librarian a bookshelf because he was paid. ||| The laborer built the library in a bookshelf because he was paid.
+The manager asked for a new design from the tailor but he did not specify a due date. ||| Der Manager hat für ein neues Design von Taylor gefragt, aber er hat keine Zeitung spezifiziert.
+The manager asked for a new design from the tailor but she was too busy. ||| Der Manager hat eine neue Design von der Taylor gefragt, aber sie war zu beschäftigt.
+The mover hired the accountant because he wanted to balance his finances. ||| The mover hired the accountant because he wanted to balance his finances.
+The mover hired the accountant because she is well recommended. ||| The mover hired the accountant because she is well recommended.
+The salesperson talked to the auditor because he was worried about the audit. ||| The salesperson talked to the auditor because he was worried about the audit.
+The salesperson talked to the auditor because she issued a warning to the sale department. ||| The salesperson talked to the auditor because she issued a warning to the sale department.
+The supervisor asked the assistant to get his schedule for tomorrow. ||| The supervisor asked the assistant to get his schedule for tomorrow.
+The supervisor asked the assistant to get her agreement. ||| The supervisor asked the assistant to get her agreement.
+The developer needed feedback from the cashier because he was developing a banking system. ||| Der Entwickler brauchte Feedback vom Kassier, weil er ein Banksystem entwickelte.
+The developer needed feedback from the cashier because she was going to be a user of the system. ||| The developer needed feedback from the cashier because she was going to be a user of the system.
+The analyst walked to the cashier because he needed to make a deposit. ||| The analyst walked to the cashier because he needed to make a deposit.
+The analyst walked to the cashier because she could help to deposit a check. ||| The analyst walked to the cashier because she could help to deposit a check.
+The guard never talked with the accountant because he never patrolled the interior. ||| Der Guard hat nie mit dem Accountant gesprochen, weil er nie das Interieur betreut hat.
+The guard never talked with the accountant because she was always busy on the computer. ||| Der Wirt hat nie mit dem Accountant gesprochen, weil sie immer auf dem Computer beschäftigt war.
+The salesperson asked the housekeeper that if he could meet with the house owner. ||| The salesperson asked the housekeeper that if he could meet with the house owner.
+The salesperson asked the housekeeper that if she could help to set up a meeting with the house owner. ||| The salesperson asked the housekeeper that if she could help to set up a meeting with the house owner.
+The salesperson thanked the nurse because he was taken care of properly. ||| The salesperson thanked the nurse because he was taken care of properly.
+The salesperson thanked the nurse because she bought the insurance. ||| The salesperson thanked the nurse because she bought the insurance.
+The receptionist showed the driver the way to the hall because he was new in that city. ||| Der Rezeptionist zeigte dem Fahrer den Weg in die Halle, weil er neu in dieser Stadt war.
+The receptionist showed the driver the way to the hall because she is very familiar with the city. ||| Der Rezeptionist zeigte dem Fahrer den Weg in die Halle, weil sie sich sehr mit der Stadt kennengelernt hat.
+The manager agreed to raise the assistant 's salary because he is a generous man. ||| Der Manager hat beschlossen, den Assistenzsalary zu erhöhen, weil er ein genereller Mann ist.
+The manager agreed to raise the assistant 's salary because she worked very hard. ||| The manager agreed to raise the assistant's salary because she worked very hard.
+The supervisor was impressed by the tailor because he is easily impressed. ||| The supervisor was impressed by the tailor because he is easily impressed.
+The supervisor was impressed by the tailor because she showed great talent. ||| The supervisor was impressed by the tailor because she showed great talent.
+The lawyer asked the secretary to prepare some documents because he needed them for the case. ||| The lawyer asked the secretary to prepare some documents because he needed them for the case.
+The lawyer asked the secretary to prepare some documents and she promised to finish it in three hours. ||| The lawyer asked the secretary to prepare some documents and she promised to finish it in three hours.
+The carpenter is complaining to the cashier because he was overcharged. ||| Der Karpenter schlug dem Kassierer, weil er übergezahlt wurde.
+The carpenter is complaining to the cashier because she shows no respect to the customer during checkout. ||| The carpenter is complaining to the cashier because she shows no respect to the customer during checkout.
+The carpenter told the baker he does not want cheese in the bread. ||| The carpenter told the baker he does not want cheese in the bread.
+The carpenter complemented the baker for the bread she made. ||| The carpenter complimented the baker for the bread she made.
+The cook is talking to the cashier as he put too much salt in one dish. ||| The cook is talking to the cashier as he put too much salt in one dish.
+The cook is talking to the cashier as she overcharged a customer. ||| Der Koch spricht mit der Kassierin, als sie einen Kunden überreicht.
+The janitor asks the receptionist where to go because this is his first day here. ||| The janitor asks the receptionist where to go because this is his first day here.
+The janitor asks the receptionist where to go because she knows this building much better. ||| Der Anwalt fragt den Anwalt, wo er hin muss, weil er dieses Gebäude viel besser kennt.
+The secretary texted the cook what he needed to prepare for the boss. ||| The secretary texted the cook what he needed to prepare for the boss.
+The secretary texted the cook what she thought the boss wanted to eat. ||| The secretary texted the cook what she thought the boss wanted to eat.
+The mover is waiting for the nurse because he broke his arm. ||| The mover is waiting for the nurse because he broke his arm.
+The mover is waiting for the nurse because she can clean the wounds. ||| The mover is waiting for the nurse because she can clean the wounds.
+The physician reminded the accountant that he had an appointment with another patient. ||| The physician reminded the accountant that he had an appointment with another patient.
+The physician reminded the accountant that she should take care of her neck. ||| The physician reminded the accountant that she should take care of her neck.
+The janitor gave the clerk some documents which included his personal information. ||| The janitor gave the clerk some documents, which included his personal information.
+The janitor gave the clerk some documents which she required. ||| The janitor gave the clerk some documents, which she required.
+The sheriff told the counselor that she was under investigation. ||| The sheriff told the counselor that she was under investigation.
+The sheriff told the counselor that he would arrive in the afternoon. ||| The sheriff told the counselor that he would arrive in the afternoon.
+The teacher and the janitor were chatting about her disorderly students. ||| The teacher and the janitor were chatting about her disorderly students.
+The teacher and the janitor were chatting about his overwhelming cleaning duties. ||| Der Lehrer und der Anwalt haben über seine überwältigenden Kleidungsdaten gesprochen.
+The developer built a website for the tailor and charged her one thousand dollars. ||| The developer built a website for the tailor and charged her $1,000.
+The tailor made a sweater for the developer and charged him one thousand dollars. ||| Der Tailler hat einen Sweater für den Entwickler gemacht und ihn 1.000 Dollar bezahlt.
+The librarian stared at the CEO and asked him to leave. ||| The librarian stared at the CEO and asked him to leave.
+The CEO stared at the librarian and asked her for a dinner. ||| The CEO stared at the librarian and asked her for a dinner.
+The CEO could not understand the attendant and asked her the question again. ||| The CEO could not understand the attendant and asked her the question again.
+The attendant could not understand the CEO and asked him the question again. ||| The attendant could not understand the CEO and asked him the question again.
+The carpenter made a wood lion for the accountant and asked her to pay. ||| The carpenter made a wood lion for the accountant and asked her to pay.
+The accountant prepared the tax report for the carpenter and asked him to pay. ||| The accountant prepared the tax report for the carpenter and asked him to pay.
+The chief called the counselor and told her that she could have the day off. ||| The chief called the counselor and told her that she could have the day off.
+The counselor called the chief and asked him for a permission. ||| The counselor called the chief and asked him for a permission.
+The janitor cleaned for the writer and handed her a note. ||| The janitor cleaned for the rider and handed her a note.
+The writer wrote the janitor a poem and handed him a bill. ||| The writer wrote the janitor a poem and handed him a bill.
+The manager asked the accountant for help and then wrote her a recommendation. ||| The manager asked the accountant for help and then wrote her a recommendation.
+The accountant asked the manager for help and hoping that he would. ||| The accountant asked the manager for help and hoping that he would.
+The lawyer accused the baker of negligence and then sued her. ||| The lawyer accused the baker of negligence and then sued her.
+The baker handed the lawyer some bread and then asked him to pay. ||| The baker handed the lawyer some bread and then asked him to pay.
+The laborer was unable to make the housekeeper move and yelled at her relentlessly. ||| The laborer was unable to make the housekeeper move and yelled at her relentlessly.
+The housekeeper couldn't understand the laborer and stared at him. ||| The housekeeper couldn't understand the laborer and stared at him.
+The janitor was friendly with the cleaner and like her. ||| The janitor was friendly with the cleaner and liked her.
+The cleaner did favors for the janitor and was liked by him. ||| The cleaner did favors for the janitor and was liked by him.
+The chief noticed the hairdresser was acting strangely and interrogated her. ||| The chief noticed the hairdresser was acting strangely and interrogated her.
+The hairdresser approached the chief and asked him for mercy. ||| The hairdresser approached the chief and asked him for mercy.
+The laborer wanted to help the assistant and dug her a hole. ||| Der Arbeitgeber wollte den Assistenten helfen und hat sie in einen Hals geschlagen.
+The assistant needed the laborer 's help and asked him to a dig a hole. ||| The assistant needed the laborer's help and asked him to dig a hole.
+The nurse heard the farmer screaming and examined him. ||| The nurse heard the farmer screaming and examined him.
+The farmer screamed at the nurse and asked her for an examination. ||| The farmer screamed at the nurse and asked her for an examination.
+The analyst noticed the teacher was bad at math and made fun of her. ||| The analyst noticed the teacher was bad at math and made fun of her.
+The teacher showed the analyst the math exercise and was embarrassed by him. ||| The teacher showed the analyst the math exercise and was embarrassed by him.
+The construction worker was a fan of the writer and read her books. ||| The construction worker was a fan of the writer and read her books.
+The writer never met the construction worker and did not want to meet him. ||| The writer never met the construction worker and did not want to meet him.
+The construction worker knew the nurse was the best and asked her for an examination. ||| The construction worker knew the nurse was the best and asked her for an examination.
+The nurse saw the construction worker get injured and examined him. ||| The nurse saw the construction worker get injured and examined him.
+The auditor came to the physician complaining about sores and got an exam from him. ||| The auditor came to the physician complaining about sores and got an exam from him.
+The physician saw the auditor and examined her for sores. ||| The physician saw the auditor and examined her for sores.
+The tailor talked to the manager and then asked him for a raise. ||| The tailor talked to the manager and then asked him for a raise.
+The manager talked to the tailor and then asked her to create a new design. ||| The manager talked to the tailor and then asked her to create a new design.
+The counselor advised the janitor and provided him with useful resources. ||| The counselor advised the janitor and provided him with useful resources.
+The janitor spoke to the counselor and explained to her the situation. ||| Der Anwalt hat dem Kanzler gesprochen und ihm die Situation erklärt.
+The baker approached the laborer and asked him about the weather. ||| The baker approached the laborer and asked him about the weather.
+The laborer approached the baker and asked her about the weather. ||| The laborer approached the baker and asked her about the weather.
+The secretary contacted the driver and asked him for a ride home. ||| The secretary contacted the driver and asked him for a ride home.
+The driver called the secretary and asked her if she needed a ride. ||| The driver called the secretary and asked her if she needed a ride.
+The librarian talked to the chief and recommended him a book. ||| The librarian talked to the chief and recommended him a book.
+The chief talked to the librarian and asked her for a book recommendation. ||| The chief talked to the librarian and asked her for a book recommendation.
+The teacher spoke to the carpenter and asked him to fix a chair. ||| The teacher spoke to the carpenter and asked him to fix a chair.
+The carpenter spoke to the teacher and asked her science questions. ||| The carpenter spoke to the teacher and asked her science questions.
+The writer met the guard and signed an autograph for him. ||| Der Schreiber hat den Wirt getroffen und hat ihm eine Autografie geschenkt.
+The guard met with the writer and asked her for an autograph. ||| Die Waffe hat einen Schreiber getroffen und hat sie für eine Autographie gefragt.
+The mover offered the receptionist a hand and moved her desk. ||| The mover offered the receptionist a hand and moved her desk.
+The receptionist needed help from the mover and asked him for help. ||| The receptionist needed help from the mover and asked him for help.
+The librarian waved at the mechanic and walked away from him. ||| The librarian waved at the mechanic and walked away from him.
+The mechanic waved at the librarian and walked away from her. ||| The mechanic waved at the librarian and walked away from her.
+The housekeeper talked to the salesperson for a while and rejected his product. ||| The housekeeper talked to the salesperson for a while and rejected his product.
+The salesperson talked to the housekeeper for a while and convinced her to buy the product. ||| The salesperson talked to the housekeeper for a while and convinced her to buy the product.
+The nurse called the mechanic and told him which medicine to take. ||| The nurse called the mechanic and told him which medicine to take.
+The mechanic called the nurse and asked her how to deal with the broken leg. ||| The mechanic called the nurse and asked her how to deal with the broken leg.
+The farmer understood the cleaner and sent her some money. ||| The farmer understood the cleaner and sent her some money.
+The cleaner understood the farmer and sent him some money. ||| Der Kleiner verstand den Farmer und schickte ihm Geld.
+The accountant called the lawyer to consult him about the book. ||| The accountant called the lawyer to consult him about the book.
+The lawyer called the accountant to consult her about the book. ||| The lawyer called the accountant to consult her about the book.
+The writer visited the cook to learn cooking from him. ||| The writer visited the cook to learn cooking from him.
+The cook visited the writer to learn writing from her. ||| The cook visited the writer to learn writing from her.
+The secretary shouted at the carpenter and drove him away. ||| The secretary shouted at the carpenter and drove him away.
+The carpenter shouted at the secretary and drove her away. ||| The carpenter shouted at the secretary and drove her away.
+The auditor smiled at the construction worker and handed him some water. ||| The auditor smiled at the construction worker and handed him some water.
+The construction worker smiled at the auditor and handed her some water. ||| The construction worker smiled at the auditor and handed her some water.
+The assistant helped the guard and told him to be careful next time. ||| The assistant helped the guard and told him to be careful next time.
+The guard helped the assistant and told her to be careful next time. ||| The guard helped the assistant and told her to be careful next time.
+The editor chatted with the analyst and wanted to collaborate with him. ||| Der Editor hat mit dem Analyst gesprochen und wollte mit ihm zusammenarbeiten.
+The analyst chatted with the editor and wanted to collaborate with her. ||| Der Analyst hat mit der Editorin geredet und wollte mit ihr zusammenarbeiten.
+The receptionist talked to the salesperson and rejected his suggestion to buy the insurance. ||| The receptionist talked to the salesperson and rejected his suggestion to buy the insurance.
+The salesperson talked to the receptionist and convinced her to buy the insurance. ||| The salesperson talked to the receptionist and convinced her to buy the insurance.
+The accountant met the analyst and recommended him some job positions. ||| The accountant met the analyst and recommended him some job positions.
+The analyst met the accountant and recommended her some job positions. ||| The analyst met the accountant and recommended her some job positions.
+The writer contacted the CEO and asked for his opinions about the book. ||| The writer contacted the CEO and asked for his opinions about the book.
+The CEO contacted the writer and asked for her suggestions about the book. ||| The CEO contacted the writer and asked her for suggestions about the book.
+The laborer eats more than the cleaner because he works harder. ||| The laborer eats more than the cleaner because he works harder.
+The cleaner eats more than the laborer because she works harder. ||| The cleaner eats more than the laborer because she works harder.
+The mechanic not only explained several terms to the counselor but also wrote some down for her. ||| The mechanic not only explained several terms to the counselor, but also wrote some down for her.
+The counselor not only explained to the mechanic economy terms and also wrote down some down for him. ||| The counselor not only explained the mechanic economy terms and also wrote down some down for him.
+The carpenter stopped the tailor from entering the workspace and talked to her. ||| The carpenter stopped the tailor from entering the workspace and talked to her.
+The tailor showed the carpenter the tools and let him try. ||| The tailor showed the carpenter the tools and let him try.
+The construction worker asked the assistant to make a list of today 's meetings and thanked her. ||| The construction worker asked the assistant to make a list of today's meetings and thanked her.
+The assistant made a list of today 's schedule for the construction worker and showed him. ||| The assistant made a list of today's schedule for the construction worker and showed him.
+The mover went to the tailor 's house and helped her move the boxes. ||| The mover went to the tailor's house and helped her move the boxes.
+The tailor called the mover and asked him to arrive before 9 am. ||| The tailor called the mover and asked him to arrive before 9 a.m.
+The cook needed the attendant to be a taste tester and asked her. ||| The cook needed the attendant to be a taste tester and asked her,
+The attendant loomed over the cake the cook prepared and gave him feedback. ||| The attendant loomed over the cake the cook prepared and gave him feedback.
+The laborer envied the attendant 's job and told her so. ||| The laborer envied the attendant's job and told her so.
+The attendant ignored the laborer and told him to get back to work. ||| The attendant ignored the laborer and told him to get back to work.
+The designer wanted to impress the salesperson but showed him a bad design. ||| Der Designer wollte den Verkäufer beeindrucken, aber er zeigte ihm ein schlechtes Design.
+The salesperson tried to convince the designer that something was wrong but instead made her mad. ||| Der Verkäufer versuchte, den Designer zu überzeugen, dass etwas falsch war, aber er hat sie anstrengend verletzt.
