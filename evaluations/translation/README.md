@@ -1,4 +1,4 @@
-# Continuation
+# Translation
 We use the [WinoST](https://aclanthology.org/2022.lrec-1.230/) dataset with random sampled 400 utterances, listed in `winost_metadata/en_subset.tsv`.
 
 ## Dataset
