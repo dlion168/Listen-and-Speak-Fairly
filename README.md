@@ -15,13 +15,15 @@ If you have any concerns or suggestions, please contact: even.dlion8@gmail.com
 ### Citation
 If our work assists you, please consider cite our paper.
 ```
-@misc{lin2024listenspeakfairlystudy,
-      title={Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models}, 
-      author={Yi-Cheng Lin and Tzu-Quan Lin and Chih-Kai Yang and Ke-Han Lu and Wei-Chih Chen and Chun-Yi Kuan and Hung-yi Lee},
+@inproceedings{lin2024listenspeakfairlystudy,
+      author={Lin, Yi-Cheng and Lin, Tzu-Quan and Yang, Chih-Kai and Lu, Ke-Han and Chen, Wei-Chih and Kuan, Chun-Yi and Lee, Hung-Yi},
+      booktitle={2024 IEEE Spoken Language Technology Workshop (SLT)}, 
+      title={Listen and Speak Fairly: a Study on Semantic Gender Bias in Speech Integrated Large Language Models}, 
       year={2024},
-      eprint={2407.06957},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS},
-      url={https://arxiv.org/abs/2407.06957}, 
+      volume={},
+      number={},
+      pages={439-446},
+      keywords={Emotion recognition;Translation;Large language models;Conferences;Semantics;Training data;Question answering (information retrieval);Data models;Speech to text;stereotype;large language model;bias},
+      doi={10.1109/SLT61566.2024.10832317}
 }
 ```
