@@ -1,4 +1,8 @@
 ## Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models
+<p align="center">
+    <a href="https://ieeexplore.ieee.org/abstract/document/10832317"><img alt="IEEE Xplore 10832317" src="https://img.shields.io/badge/IEEE-10832317-orange.svg" /></a>
+</p>
+
 This is the implementation of paper **Listen and Speak Fairly: A Study on Semantic Gender Bias in Speech Integrated Large Language Models**. We evaluate gender bias in SILLMs across four semantic-related tasks: speech-to-text translation (STT), spoken coreference resolution (SCR), spoken sentence continuation (SSC), and spoken question answering (SQA). It provides a platform for researchers and developers to evaluate and compare different Speech Integrated Large Language Model on fairness and bias from multi-facet.
 
 ![Listen and Speak Fairly overview](docs/speech_llm_bias.png)
